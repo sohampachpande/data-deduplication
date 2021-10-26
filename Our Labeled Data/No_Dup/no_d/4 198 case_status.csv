@@ -1,0 +1,5 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+Certified,181933,374362,0.4859814831633553,-1
+Certified-Expired,148586,374362,0.3969046003600793,-1
+Denied,25649,374362,0.0685138983123287,-1
+Withdrawn,18194,374362,0.0486000181642367,-1

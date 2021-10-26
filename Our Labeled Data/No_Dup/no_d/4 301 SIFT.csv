@@ -1,0 +1,5 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+deleterious,11500,65188,0.1764128367184144,-1
+tolerated,11484,65188,0.1761673927716757,-1
+tolerated_low_confidence,1077,65188,0.0165214456648462,-1
+deleterious_low_confidence,775,65188,0.011888691170154,-1

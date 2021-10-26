@@ -1,0 +1,5 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+"prints ""Hello, World!"" n times",24408,25090,0.9728178557194102,-1
+"prints ""Hello, World!"" once",500,25090,0.0199282582702271,-1
+prints all numbers up to n,146,25090,0.0058190514149063,-1
+prints n,36,25090,0.0014348345954563,-1

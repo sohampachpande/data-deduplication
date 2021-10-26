@@ -1,0 +1,5 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+Queue,19808,25090,0.7894778796333201,-1
+Hashmap,3604,25090,0.1436428856117975,-1
+Set,1515,25090,0.0603826225587883,-1
+#NULL!,163,25090,0.006496612196094,1

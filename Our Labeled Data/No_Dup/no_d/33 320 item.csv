@@ -1,0 +1,34 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+Equals: GROSS DOMESTIC PRODUCT,12731,225363,0.0564910832745393,-1
+"Equals: VALUE ADDED, GROSS, in basic prices",12453,225363,0.0552575178711678,-1
+"Agriculture, hunting, forestry; fishing",10868,225363,0.0482244201577011,-1
+Construction,10851,225363,0.0481489863020992,-1
+"Wholesale, retail trade, repair of motor vehicles, motorcycles and personal and households goods; hotels and restaurants",10822,225363,0.0480203050190137,-1
+"Transport, storage and communications",10808,225363,0.0479581830202828,-1
+"Financial intermediation; real estate, renting and business activities",10726,225363,0.0475943255991444,-1
+Plus: Taxes less Subsidies on products,10611,225363,0.047084037752426,-1
+Manufacturing,10458,225363,0.0464051330520094,-1
+"Electricity, gas and water supply",10448,225363,0.046360760195773,-1
+"Education; health and social work; other community, social and personal services",10150,225363,0.0450384490799288,-1
+Public administration and defence; compulsory social security,9976,225363,0.0442663613814157,-1
+Mining and quarrying,9928,225363,0.0440533716714811,-1
+Less: Financial intermediation services indirectly measured (FISIM),7287,225363,0.0323345003394523,-1
+Financial intermediation,6084,225363,0.0269964457342154,-1
+"Real estate, renting and business activities",6021,225363,0.0267168967399262,-1
+"Wholesale, retail trade, repair of motor vehicles, motorcycles and personal and household goods",5853,225363,0.025971432755155,-1
+Hotels and restaurants,5689,225363,0.0252437179128783,-1
+"Agriculture, hunting, forestry",5535,225363,0.024560375926838,-1
+Private households with employed persons,5203,225363,0.0230871970997901,-1
+Fishing,5010,225363,0.0222308009744279,-1
+"Other community, social and personal services",4940,225363,0.0219201909807732,-1
+Education,4686,225363,0.0207931204323691,-1
+Health and social work,4576,225363,0.0203050190137688,-1
+Plus: Taxes on products,4542,225363,0.0201541513025652,-1
+"Agriculture, hunting and related service activities",3707,225363,0.0164490178068272,-1
+Less: Subsidies on products,3611,225363,0.0160230383869579,-1
+"Land transport; transport via pipelines, water transport; air transport; Supporting and auxiliary transport activities; activities of travel agencies",3478,225363,0.015432879399014,-1
+Post and telecommunications,3448,225363,0.0152997608303048,-1
+"Forestry, logging and related service activities",3186,225363,0.0141371919969116,-1
+"Memorandum Item: FISIM, if distributed to uses",486,225363,0.0021565208130882,-1
+Plus: Statistical discrepancy,358,225363,0.0015885482532625,-1
+" NGOs and UN peacekeeping operations.""",1,225363,4.437285623638308e-06,-1

@@ -1,6 +1,5 @@
 # data-deduplication
 
-
 Repo for the data deduplication project. 
 
 ### Problem Statement
@@ -9,7 +8,8 @@ Repo for the data deduplication project.
 
 ### Relevent Papers
 
-[1] An Empirical Study on the (Non-)Importance of Cleaning Categorical Duplicates before ML
+[1] An Empirical Study on the (Non-)Importance of Cleaning Categorical Duplicates before ML \
 Vraj Shah, Thomas Parashos, and Arun Kumar
 
-[2] Towards Benchmarking Feature Type Inference for AutoML Platforms
+[2] Towards Benchmarking Feature Type Inference for AutoML Platforms \
+Vraj Shah, Kevin Yang, and Arun Kumar

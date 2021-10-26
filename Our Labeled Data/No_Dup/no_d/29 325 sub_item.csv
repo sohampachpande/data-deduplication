@@ -1,0 +1,30 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+Total economy,31729,320551,0.0989826891820646,-1
+"Agriculture, forestry and fishing (A)",14422,320551,0.0449912806386503,-1
+Construction (F),14295,320551,0.0445950878331373,-1
+Manufacturing (C),14294,320551,0.0445919682047474,-1
+Information and communication (J),14082,320551,0.0439306069860958,-1
+Financial and insurance activities (K),13813,320551,0.0430914269492218,-1
+Real estate activities (L),13684,320551,0.042688994886929,-1
+Wholesale and retail trade; repair of motor vehicles and motorcycles (G),12420,320551,0.0387457846021381,-1
+Transportation and storage (H),12397,320551,0.0386740331491712,-1
+Accommodation and food service activities (I),12006,320551,0.0374542584487335,-1
+Education (P),11772,320551,0.0367242654055049,-1
+"Electricity, gas, steam and air conditioning supply (D)",11683,320551,0.0364466184788068,-1
+Mining and quarrying (B),11595,320551,0.0361720911804985,-1
+Human health and social work activities (Q),11512,320551,0.0359131620241396,-1
+"Professional, scientific and technical activities (M)",11397,320551,0.035554404759305,-1
+Other service activities (S),11308,320551,0.0352767578326069,-1
+Public administration and defence; compulsory social security (O),10993,320551,0.0342940748897991,-1
+"Arts, entertainment and recreation (R)",10982,320551,0.0342597589775106,-1
+Administrative and support service activities (N),10694,320551,0.0333613060012291,-1
+"Water supply; sewerage, waste management and remediation activities (E)",10651,320551,0.0332271619804648,-1
+Other service activities (R+S+T),6737,320551,0.0210169364625285,-1
+"Professional, scientific, technical, administrative and support service activities (M+N)",6663,320551,0.0207860839616784,-1
+"Wholesale and retail trade, transportation and storage, accommodation and food service activities (G+H+I)",6631,320551,0.0206862558532027,-1
+"Manufacturing, mining and quarrying and other industrial activities (B+C+D+E)",6554,320551,0.020446044467183,-1
+"Public administration and defence, education, human health and social work activities (O+P+Q)",6268,320551,0.0195538307476813,-1
+"Crop and animal production, hunting and related service activities (01)",6102,320551,0.0190359724349635,-1
+Fishing and aquaculture (03),5735,320551,0.0178910688158826,-1
+Forestry and logging (02),5418,320551,0.016902146616295,-1
+Private households with employed persons (T),4179,320551,0.0130369270412508,-1

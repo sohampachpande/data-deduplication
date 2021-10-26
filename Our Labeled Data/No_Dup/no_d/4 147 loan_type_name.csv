@@ -1,0 +1,5 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+Conventional,332433,466566,0.7125101271845784,-1
+FHA-insured,66754,466566,0.1430751490678703,-1
+VA-guaranteed,62915,466566,0.1348469455553984,-1
+FSA/RHS-guaranteed,4464,466566,0.0095677781921528,-1

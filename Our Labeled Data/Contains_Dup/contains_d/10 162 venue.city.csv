@@ -1,0 +1,11 @@
+Category_Set,Category_Occurrences,Total_Examples,Entity_Number
+Chicago,2305,5807,1
+"Chicago, IL",1,5807,1
+New York,1773,5807,2
+"New York,",5,5807,2
+New York City,4,5807,2
+"New York,NY",1,5807,2
+San Francisco,1619,5807,3
+san francisco,50,5807,3
+SAN FRANCISCO,48,5807,3
+"San Francisco, CA 94103",1,5807,3

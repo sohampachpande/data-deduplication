@@ -1,0 +1,739 @@
+Category_Set,Category_Occurrences,Total_Examples,Entity_Number
+Healthcare Services,1919,22000,1
+  •   Healthcare Services,3,22000,1
+All,1158,22000,2
+Retail,1081,22000,3
+Other/Not Classified,1048,22000,4
+Manufacturing - Other,885,22000,5
+Computer/IT Services,822,22000,6
+Legal Services,466,22000,7
+Business Services - Other,410,22000,8
+Business Services - OtherOther/Not Classified,6,22000,8
+Restaurant/Food Services,384,22000,9
+Transport and Storage - Materials,342,22000,10
+Food and Beverage Production,341,22000,11
+Insurance,338,22000,12
+Construction - Industrial Facilities and Infrastructure,308,22000,13
+Accounting and Auditing Services,298,22000,14
+Biotechnology/Pharmaceuticals,256,22000,15
+Education,244,22000,16
+Real Estate/Property Management,227,22000,17
+Staffing/Employment Agencies,221,22000,18
+Banking,170,22000,19
+Computer Software,163,22000,20
+Construction - Residential & Commercial/Office,148,22000,21
+Automotive and Parts Mfg,138,22000,22
+Engineering Services,137,22000,23
+Telecommunications Services,124,22000,24
+Financial Services,124,22000,25
+Energy and Utilities,121,22000,26
+Hotels and Lodging,121,22000,27
+Automotive Sales and Repair Services,121,22000,28
+Aerospace and Defense,119,22000,29
+Government and Military,111,22000,30
+Nonprofit Charitable Organizations,110,22000,31
+Healthcare Services Other/Not Classified,107,22000,32
+Security and Surveillance,107,22000,33
+Medical Devices and Supplies,101,22000,34
+Advertising and PR Services;Staffing/Employment Agencies;Business Services - Other,96,22000,35
+Management Consulting Services,95,22000,36
+"Travel, Transportation and Tourism",80,22000,37
+Advertising and PR Services,74,22000,38
+Computer Hardware,61,22000,39
+Healthcare Services Restaurant/Food Services Food and Beverage Production,54,22000,40
+Healthcare Services;Restaurant/Food Services;Food and Beverage Production,1,22000,40
+Printing and Publishing,52,22000,41
+Consumer Packaged Goods Manufacturing,49,22000,42
+"Electronics, Components, and Semiconductor Mfg",47,22000,43
+Chemicals/Petro-Chemicals,44,22000,44
+Internet Services,43,22000,45
+RetailAdvertising and PR ServicesBusiness Services - Other,36,22000,46
+Retail Advertising and PR Services Business Services - Other,8,22000,46
+Retail;Advertising and PR Services;Business Services - Other,7,22000,46
+Retail; Advertising and PR Services; Business Services - Other,1,22000,46
+Architectural and Design Services,34,22000,47
+Wholesale Trade/Import-Export,31,22000,48
+"Travel, Transportation and TourismTransport and Storage - Materials",27,22000,49
+Agriculture/Forestry/Fishing,26,22000,50
+AllBusiness Services - Other,26,22000,51
+RetailAdvertising and PR ServicesManagement Consulting Services,23,22000,52
+Retail Advertising and PR Services Management Consulting Services,1,22000,52
+Retail;Advertising and PR Services;Management Consulting Services,1,22000,52
+"Computer Software, Computer/IT Services",22,22000,53
+Computer SoftwareComputer/IT Services,16,22000,53
+Computer Software Computer/IT Services,1,22000,53
+Entertainment Venues and Theaters,20,22000,54
+Computer HardwareComputer SoftwareComputer/IT Services,18,22000,55
+Computer Hardware Computer Software Computer/IT Services,11,22000,55
+Computer Hardware; Computer Software; Computer/IT Services,1,22000,55
+Advertising and PR ServicesManagement Consulting ServicesBusiness Services - Other,18,22000,56
+Advertising and PR Services Management Consulting Services Business Services - Other,17,22000,56
+Construction - Industrial Facilities and InfrastructureConstruction - Residential & Commercial/Office,17,22000,57
+Construction - Industrial Facilities and Infrastructure; Construction - Residential & Commercial/Office,1,22000,57
+Personal and Household Services,16,22000,58
+"Dallas, TX",16,22000,59
+"Dallas, TX 75202",2,22000,59
+"Dallas, TX 75201",1,22000,59
+Healthcare Services Hotels and Lodging Restaurant/Food Services,16,22000,60
+Waste Management,15,22000,61
+RetailAdvertising and PR ServicesOther/Not Classified,15,22000,62
+Retail Advertising and PR Services Other/Not Classified,5,22000,62
+Biotechnology/PharmaceuticalsManufacturing - OtherMedical Devices and Supplies,14,22000,63
+Biotechnology/Pharmaceuticals; Manufacturing - Other; Medical Devices and Supplies,1,22000,63
+Metals and Minerals,14,22000,64
+Sports and Physical Recreation,13,22000,65
+Automotive and Parts MfgManufacturing - Other,12,22000,66
+Automotive and Parts Mfg; Manufacturing - Other,1,22000,66
+AllReal Estate/Property ManagementConstruction - Residential & Commercial/Office,12,22000,67
+"AllAutomotive and Parts MfgTravel, Transportation and Tourism",11,22000,68
+Real Estate/Property ManagementConstruction - Residential & Commercial/Office,11,22000,70
+Telecommunications Services Advertising and PR Services Business Services - Other,11,22000,71
+Telecommunications ServicesAdvertising and PR ServicesBusiness Services - Other,4,22000,71
+"Broadcasting, Music, and Film",10,22000,72
+AllComputer SoftwareComputer/IT Services,10,22000,73
+Biotechnology/PharmaceuticalsHealthcare ServicesMedical Devices and Supplies,9,22000,74
+Biotechnology/Pharmaceuticals; Healthcare Services; Medical Devices and Supplies,1,22000,74
+Healthcare Services Business Services - Other Other/Not Classified,9,22000,75
+Full Time Employee,9,22000,76
+Advertising and PR ServicesBusiness Services - OtherOther/Not Classified,11,22000,77
+Advertising and PR ServicesBusiness Services - Other,9,22000,77
+Advertising and PR Services Business Services - Other,3,22000,77
+Advertising and PR Services Business Services - Other Other/Not Classified,1,22000,77
+RetailAutomotive Sales and Repair Services,9,22000,78
+AllEnergy and UtilitiesBusiness Services - Other,8,22000,80
+InsuranceFinancial Services,8,22000,81
+Insurance; Financial Services,2,22000,81
+Altec Industries,8,22000,82
+Rental Services,8,22000,83
+RetailRestaurant/Food ServicesFood and Beverage Production,8,22000,84
+CNH Industrial,8,22000,85
+"Houston, TX",7,22000,86
+"Houston, TX 77055",2,22000,86
+"Houston, TX 77002",1,22000,86
+"Houston, TX 77236",1,22000,86
+EducationHealthcare Services,7,22000,87
+"Cincinnati, OH",7,22000,88
+"Cincinnati, OH 45246",1,22000,88
+BankingFinancial Services,7,22000,89
+Construction - Industrial Facilities and Infrastructure; Engineering Services,7,22000,90
+"Redmond, WA",6,22000,91
+"Redmond, WA 98052",1,22000,91
+"Redwood City, CA 94063",1,22000,91
+AllComputer HardwareComputer Software,6,22000,92
+RetailManagement Consulting ServicesBusiness Services - Other,6,22000,93
+Retail Management Consulting Services Business Services - Other,1,22000,93
+Retail;Management Consulting Services;Business Services - Other,1,22000,93
+Marine Mfg & Services,6,22000,94
+Healthcare Services Business Services - Other,5,22000,96
+Biotechnology/PharmaceuticalsHealthcare ServicesStaffing/Employment Agencies,5,22000,97
+"Plano, TX",5,22000,98
+"Travel, Transportation and TourismTransport and Storage - Materials Automotive Sales and Repair Services",5,22000,99
+RetailComputer/IT Services,5,22000,100
+Healthcare Services Sports and Physical Recreation,5,22000,101
+Restaurant/Food ServicesFood and Beverage Production,5,22000,102
+Restaurant/Food Services Food and Beverage Production,3,22000,102
+RetailAdvertising and PR Services,5,22000,103
+Retail; Advertising and PR Services,1,22000,103
+Healthcare ServicesNonprofit Charitable OrganizationsOther/Not Classified,5,22000,104
+Healthcare Services; Nonprofit Charitable Organizations; Other/Not Classified,1,22000,104
+Energy and Utilities Manufacturing - Other Business Services - Other,5,22000,105
+Rental ServicesBusiness Services - OtherOther/Not Classified,5,22000,106
+AllInsuranceOther/Not Classified,5,22000,107
+Retail; Advertising and PR Services; Restaurant/Food Services,5,22000,108
+RetailAdvertising and PR ServicesRestaurant/Food Services,3,22000,108
+"San Jose, CA 95134",5,22000,109
+InsuranceSecurity and Surveillance,5,22000,110
+Industrial/Manufacturing Engineering,5,22000,111
+Real Estate/Property ManagementRental ServicesConstruction - Residential & Commercial/Office,4,22000,112
+RetailRental ServicesRestaurant/Food Services,4,22000,113
+Retail; Rental Services; Restaurant/Food Services,1,22000,113
+InsuranceHealthcare Services,4,22000,114
+Insurance Healthcare Services,1,22000,114
+AllAdvertising and PR ServicesBusiness Services - Other,4,22000,115
+All;Advertising and PR Services;Business Services - Other,1,22000,115
+Telecommunications ServicesBusiness Services - OtherOther/Not Classified,4,22000,116
+Valmont Industries Inc.,4,22000,117
+"Atlanta, GA",4,22000,118
+"Atlanta, GA 30301",1,22000,118
+"Atlanta/East Point, GA",1,22000,118
+Healthcare ServicesMedical Devices and Supplies,4,22000,119
+Automotive and Parts MfgManufacturing - OtherEngineering Services,4,22000,120
+BankingAccounting and Auditing ServicesFinancial Services,4,22000,121
+Biotechnology/Pharmaceuticals; Consumer Packaged Goods Manufacturing; Food and Beverage Production,4,22000,122
+Internet ServicesTelecommunications ServicesBusiness Services - Other,4,22000,123
+Hotels and Lodging Other/Not Classified,4,22000,124
+Legal Services Government and Military,4,22000,125
+Biotechnology/PharmaceuticalsHealthcare Services,4,22000,126
+Advertising and PR ServicesManagement Consulting ServicesOther/Not Classified,4,22000,127
+Advertising and PR Services Management Consulting Services Other/Not Classified,2,22000,127
+"Abbott Park, IL 60064",4,22000,128
+Wholesale Trade/Import-ExportAdvertising and PR ServicesBusiness Services - Other,3,22000,129
+Clothing and Textile Manufacturing,3,22000,130
+Construction - Industrial Facilities and InfrastructureReal Estate/Property ManagementConstruction - Residential & Commercial/Office,3,22000,131
+RetailBankingFinancial Services,3,22000,132
+AllInsuranceGovernment and Military,3,22000,133
+"Travel, Transportation and TourismLegal Services",3,22000,134
+"Overland Park, KS",3,22000,135
+Healthcare ServicesNonprofit Charitable OrganizationsMedical Devices and Supplies,3,22000,136
+"Automotive and Parts MfgElectronics, Components, and Semiconductor MfgManufacturing - Other",3,22000,137
+"Denver, CO",3,22000,138
+Aerospace and DefenseGovernment and Military,3,22000,139
+Aerospace and Defense; Government and Military,1,22000,139
+Consumer Packaged Goods ManufacturingFood and Beverage Production,3,22000,140
+"Morrisville, NC 27709",3,22000,141
+"Electronics, Components, and Semiconductor MfgManufacturing - Other",3,22000,142
+AllAutomotive Sales and Repair ServicesBusiness Services - Other,3,22000,143
+Healthcare ServicesStaffing/Employment Agencies,3,22000,144
+Manufacturing - OtherPrinting and Publishing,3,22000,145
+Business Services - OtherConstruction - Residential & Commercial/Office,3,22000,146
+Advertising and PR ServicesOther/Not Classified,3,22000,147
+Healthcare ServicesComputer/IT Services,3,22000,150
+Transport and Storage - Materials Waste Management,3,22000,151
+RetailTelecommunications ServicesComputer/IT Services,3,22000,152
+All; Construction - Residential & Commercial/Office; Engineering Services,3,22000,153
+Real Estate/Property Management;Hotels and Lodging;Personal and Household Services,3,22000,154
+Automotive and Parts Mfg;Automotive Sales and Repair Services,3,22000,155
+Automotive and Parts Mfg Automotive Sales and Repair Services,1,22000,155
+Automotive and Parts MfgAutomotive Sales and Repair Services,1,22000,155
+AllRetailBusiness Services - Other,3,22000,157
+Biotechnology/PharmaceuticalsBusiness Services - OtherMedical Devices and Supplies,3,22000,158
+Advertising and PR ServicesManagement Consulting ServicesRestaurant/Food Services,3,22000,160
+Restaurant/Food ServicesFood and Beverage ProductionOther/Not Classified,3,22000,162
+Restaurant/Food Services;Food and Beverage Production;Other/Not Classified,2,22000,162
+"Irving, TX",3,22000,163
+Biotechnology/PharmaceuticalsMedical Devices and Supplies,3,22000,164
+Biotechnology/Pharmaceuticals;Medical Devices and Supplies,1,22000,164
+Manufacturing - OtherMedical Devices and Supplies,3,22000,166
+Manufacturing - Other; Medical Devices and Supplies,1,22000,166
+"AllTravel, Transportation and TourismTransport and Storage - Materials",3,22000,167
+BankingFinancial ServicesMedical Devices and Supplies,3,22000,168
+Signal Metal Industries,2,22000,169
+"Eden Prairie, MN",2,22000,170
+"Eden Prairie, MN 55344",1,22000,170
+"AllTravel, Transportation and TourismBusiness Services - Other",2,22000,171
+BankingReal Estate/Property ManagementRental Services,2,22000,172
+Goodwill Industries,2,22000,173
+Retail;Advertising and PR Services;Sports and Physical Recreation,2,22000,174
+Retail Advertising and PR Services Sports and Physical Recreation,1,22000,174
+RetailRestaurant/Food ServicesOther/Not Classified,2,22000,175
+Healthcare ServicesFinancial Services,2,22000,176
+A & E Network,2,22000,177
+"Coppell, TX",2,22000,179
+Real Estate/Property ManagementOther/Not Classified,2,22000,181
+"New York, NY",2,22000,182
+"New York, NY 10012",1,22000,182
+"New York, NY 10019",1,22000,182
+Management Consulting ServicesComputer/IT Services,2,22000,183
+Healthcare ServicesNonprofit Charitable Organizations,2,22000,185
+"Santa Clara, CA",2,22000,186
+"Santa Clara, CA 95054",1,22000,186
+InsuranceOther/Not Classified,2,22000,187
+"Oklahoma City, OK",2,22000,188
+AllManufacturing - OtherOther/Not Classified,2,22000,189
+Energy and Utilities; Aerospace and Defense; Engineering Services,2,22000,190
+"Ernie Green Industries, Inc.",2,22000,191
+RetailOther/Not Classified,2,22000,192
+"Milpitas, CA 95035",2,22000,193
+"Milpitas, CA 95134",1,22000,193
+Healthcare ServicesStaffing/Employment AgenciesComputer/IT Services,2,22000,194
+Healthcare Services Staffing/Employment Agencies Computer/IT Services,1,22000,194
+Healthcare Services Restaurant/Food Services Other/Not Classified,2,22000,195
+"Hillsboro, OR 97124",2,22000,196
+Energy and UtilitiesWaste Management,2,22000,197
+Management Consulting Services Legal Services,2,22000,198
+Energy and Utilities; Engineering Services,2,22000,199
+Energy and Utilities Engineering Services,1,22000,199
+"El Dorado Hills, CA",2,22000,200
+"Saint Paul, MN",2,22000,201
+"Washington, DC 20001",2,22000,202
+"Raynham, MA 02767",2,22000,203
+Manufacturing - Other; Wholesale Trade/Import-Export,2,22000,204
+RetailRestaurant/Food Services,2,22000,205
+"Arcadia, WI 54612",2,22000,206
+AllRetailTransport and Storage - Materials,2,22000,209
+"Omaha, NE",2,22000,210
+"Omaha, NE 68124",1,22000,210
+"Sacramento, CA",2,22000,211
+Metals and MineralsManufacturing - OtherArchitectural and Design Services,2,22000,212
+RetailTelecommunications ServicesAdvertising and PR Services,2,22000,213
+Retail;Telecommunications Services;Advertising and PR Services,1,22000,213
+"Lake Forest, IL",2,22000,214
+AllRetailInsurance,2,22000,215
+Accounting and Auditing ServicesBusiness Services - OtherFinancial Services,2,22000,216
+Accounting and Auditing Services Business Services - Other Financial Services,1,22000,216
+"Austin, TX",2,22000,217
+"Austin, TX 78701",1,22000,217
+"Mcminnville, OR 97128",2,22000,218
+"Northbrook, IL 60062",3,22000,219
+"Northbrook, IL",2,22000,219
+Manufacturing - OtherHealthcare ServicesMedical Devices and Supplies,2,22000,220
+AllManagement Consulting ServicesBusiness Services - Other,2,22000,221
+RetailTransport and Storage - Materials Other/Not Classified,2,22000,222
+InsuranceAccounting and Auditing ServicesFinancial Services,2,22000,223
+Insurance; Accounting and Auditing Services; Financial Services,1,22000,223
+Construction - Industrial Facilities and InfrastructureRetailConstruction - Residential & Commercial/Office,2,22000,224
+Bisco Industries,2,22000,225
+"New Braunfels, TX",2,22000,226
+Metals and MineralsManufacturing - Other,2,22000,227
+Metals and Minerals; Manufacturing - Other,1,22000,227
+Hotels and Lodging Personal and Household Services,2,22000,228
+"Newark, DE",2,22000,229
+Energy and UtilitiesBusiness Services - Other,2,22000,230
+AllTelecommunications ServicesAutomotive Sales and Repair Services,2,22000,231
+BankingStaffing/Employment AgenciesFinancial Services,2,22000,232
+Architectural and Design Services; Construction - Residential & Commercial/Office; Engineering Services,2,22000,233
+RetailComputer SoftwareBusiness Services - Other,2,22000,234
+Clothing and Textile ManufacturingRetail,2,22000,235
+Retail Banking Business Services - Other,2,22000,236
+"Cottage Grove, MN 55016",2,22000,237
+Manufacturing - Other;Food and Beverage Production,2,22000,238
+Manufacturing - OtherFood and Beverage Production,1,22000,238
+RetailComputer HardwareComputer/IT Services,2,22000,239
+Automotive and Parts MfgTransport and Storage - Materials Automotive Sales and Repair Services,2,22000,240
+Ware Industries,2,22000,241
+Energy and Utilities; Construction - Industrial Facilities and Infrastructure; Construction - Residential & Commercial/Office,2,22000,242
+RetailManagement Consulting ServicesOther/Not Classified,2,22000,243
+Real Estate/Property ManagementBusiness Services - Other,2,22000,244
+Construction - Industrial Facilities and InfrastructureConstruction - Residential & Commercial/OfficeEngineering Services,2,22000,245
+"Hebron, IL 60034",2,22000,246
+Personal and Household Services; Construction - Residential & Commercial/Office; Other/Not Classified,2,22000,247
+Consumer Packaged Goods Manufacturing; Manufacturing - Other; Food and Beverage Production,2,22000,248
+Automotive and Parts Mfg Manufacturing - Other Automotive Sales and Repair Services,2,22000,249
+Automotive and Parts MfgManufacturing - OtherAutomotive Sales and Repair Services,1,22000,249
+Real Estate/Property ManagementManagement Consulting Services,2,22000,250
+Manufacturing - Other;Engineering Services,2,22000,251
+Manufacturing - OtherEngineering Services,1,22000,251
+"San Antonio, TX 78205",3,22000,253
+"San Antonio, TX",2,22000,253
+Real Estate/Property ManagementNonprofit Charitable Organizations,2,22000,254
+"Mill Valley, CA",1,22000,255
+AllInsuranceHealthcare Services,1,22000,256
+"Scottsdale, AZ 85260",1,22000,259
+Telecommunications ServicesReal Estate/Property Management,1,22000,262
+Telecommunications ServicesConstruction - Residential & Commercial/Office,1,22000,264
+Telecommunications ServicesRestaurant/Food ServicesBusiness Services - Other,1,22000,265
+AllReal Estate/Property ManagementRental Services,1,22000,266
+"Tigard, OR",1,22000,267
+"Minneapolis, MN 55428",1,22000,269
+"Prairie Village, KS",1,22000,270
+"La-Fayette, KY",1,22000,271
+AllConsumer Packaged Goods ManufacturingManufacturing - Other,1,22000,272
+"Montague, MI",1,22000,273
+AllArchitectural and Design ServicesConstruction - Residential & Commercial/Office,1,22000,274
+RetailBusiness Services - OtherOther/Not Classified,1,22000,275
+Computer/IT Services Other/Not Classified,1,22000,276
+Computer/IT ServicesOther/Not Classified,1,22000,276
+"Branchburg, NJ",1,22000,277
+Industrial/Manufacturing EngineeringMechanical EngineeringGeneral/Other: Engineering,1,22000,278
+"Little Rock, AR",1,22000,279
+"Foster City, CA 94404",3,22000,280
+"Foster City, CA",1,22000,280
+Hotels and Lodging Government and Military Food and Beverage Production,1,22000,281
+Accounting and Auditing Services Healthcare Services,1,22000,282
+Electrical/Electronics EngineeringIndustrial/Manufacturing EngineeringGeneral/Other: Engineering,1,22000,283
+"Wichita, KS",1,22000,284
+Chemicals/Petro-ChemicalsTransport and Storage - Materials,1,22000,286
+Accounting and Auditing ServicesHealthcare ServicesFinancial Services,1,22000,287
+AllRestaurant/Food ServicesFood and Beverage Production,1,22000,288
+"Chicago, IL",9,22000,289
+"Chicago, IL 60606",2,22000,289
+"Chicago Heights, IL 60411",1,22000,289
+"Chicago, IL 60603",1,22000,289
+"Chicago, IL 60661",1,22000,289
+"Appleton, WI",1,22000,290
+Government and Military; Computer/IT Services,1,22000,291
+AllInsuranceAutomotive Sales and Repair Services,1,22000,292
+"Jacksonville, FL 32256",1,22000,293
+"Weir, TX",1,22000,294
+Computer SoftwareHealthcare ServicesFinancial Services,1,22000,295
+RetailBusiness Services - Other,1,22000,296
+Aerospace and DefenseGovernment and MilitaryComputer/IT Services,1,22000,297
+Real Estate/Property Management Legal Services,1,22000,298
+"Round Lake, IL 60073",1,22000,299
+"Bernards, NJ",1,22000,300
+"Fircrest, WA 98417",1,22000,301
+"Simi Valley, CA 93065",1,22000,302
+Construction - Industrial Facilities and InfrastructureGovernment and MilitaryConstruction - Residential & Commercial/Office,1,22000,303
+AllStaffing/Employment AgenciesBusiness Services - Other,1,22000,304
+"Lake Quivira, KS",1,22000,305
+Industrial/Manufacturing EngineeringGeneral/Other: EngineeringSystems/Process Engineering,1,22000,306
+"Pflugerville, TX 78753",1,22000,307
+Manufacturing - OtherLegal Services,1,22000,308
+Staffing/Employment Agencies;Business Services - Other;Other/Not Classified,1,22000,309
+"Geismar, LA 70734",1,22000,310
+Manufacturing - OtherInsuranceBusiness Services - Other,1,22000,311
+Accounting and Auditing Services Financial Services Other/Not Classified,1,22000,312
+US_EN_8_17304_51691595,1,22000,313
+Real Estate/Property Management Business Services - Other Other/Not Classified,1,22000,314
+Real Estate/Property Management;Business Services - Other;Other/Not Classified,1,22000,314
+InsuranceReal Estate/Property ManagementFinancial Services,1,22000,315
+Biotechnology/PharmaceuticalsManufacturing - Other,1,22000,316
+Biotechnology/PharmaceuticalsManufacturing - OtherOther/Not Classified,1,22000,316
+"Savannah, GA",1,22000,317
+Chickasaw Nation Industries Aviation,1,22000,318
+Real Estate/Property ManagementConstruction - Residential & Commercial/OfficeEngineering Services,1,22000,319
+Engineering ServicesMedical Devices and Supplies,1,22000,320
+Education; Business Services - Other,1,22000,321
+Computer SoftwareBusiness Services - Other,1,22000,322
+Rental ServicesAutomotive Sales and Repair Services,1,22000,323
+All Personal and Household Services Business Services - Other,1,22000,324
+"Fremont, CA 94538",1,22000,325
+"Belfast, ME 04915",1,22000,326
+All Healthcare Services,1,22000,327
+All;Healthcare Services,1,22000,327
+"Southborough, MA",1,22000,330
+Aerospace and DefenseGovernment and MilitaryOther/Not Classified,1,22000,331
+Retail Telecommunications Services Business Services - Other,1,22000,332
+RetailTelecommunications ServicesBusiness Services - Other,1,22000,332
+"Seven Hills, OH 44131",1,22000,334
+Sports and Physical RecreationHotels and LodgingEntertainment Venues and Theaters,1,22000,335
+Manufacturing - OtherReal Estate/Property Management,1,22000,336
+Real Estate/Property ManagementHealthcare ServicesConstruction - Residential & Commercial/Office,1,22000,338
+Internet ServicesBankingComputer/IT Services,1,22000,339
+AllRetailRestaurant/Food Services,1,22000,340
+"Consumer Packaged Goods ManufacturingElectronics, Components, and Semiconductor Mfg",1,22000,341
+Construction - Industrial Facilities and InfrastructureTelecommunications ServicesOther/Not Classified,1,22000,342
+Industrial Maintenance Technician,1,22000,343
+"Wilmington, DE",1,22000,344
+"Wilmington, DE 19803",1,22000,344
+"Roseville, CA",1,22000,345
+"Roseville, CA 95747",1,22000,345
+"Mendota Heights, MN 55120",1,22000,346
+Accudyne Industries,1,22000,347
+Consumer Packaged Goods ManufacturingManufacturing - Other,1,22000,348
+Automotive Sales and Repair Services; Other/Not Classified,1,22000,349
+Wholesale Trade/Import-ExportAdvertising and PR Services,1,22000,350
+"Largo, FL 33773",1,22000,351
+"Assistant Manager, Manager, Management, Operations",1,22000,352
+"Warren, IL 60064",3,22000,353
+"Warren, IL",1,22000,353
+Electrical/Electronics EngineeringIndustrial/Manufacturing EngineeringMechanical Engineering,1,22000,354
+Bruker,1,22000,355
+"Hoboken, NJ 07030",1,22000,356
+RetailFood and Beverage Production,1,22000,357
+Accounting and Auditing ServicesAdvertising and PR ServicesComputer Software,1,22000,358
+"Macungie, PA",1,22000,359
+Accounting and Auditing ServicesManagement Consulting Services,1,22000,360
+AllManufacturing - OtherFood and Beverage Production,1,22000,361
+Manufacturing - OtherConstruction - Residential & Commercial/OfficeOther/Not Classified,1,22000,362
+RetailRental ServicesAutomotive Sales and Repair Services,1,22000,363
+Manufacturing - OtherOther/Not Classified,1,22000,365
+"Travel, Transportation and TourismInsuranceAutomotive Sales and Repair Services",1,22000,366
+"Travel, Transportation and TourismRestaurant/Food Services",1,22000,367
+Ultra Industries,1,22000,368
+"Raleigh, NC 27607",2,22000,369
+"Raleigh, NC",1,22000,369
+"Chemicals/Petro-Chemicals Electronics, Components, and Semiconductor Mfg Healthcare Services",1,22000,370
+Manufacturing - Other Restaurant/Food Services Food and Beverage Production,1,22000,371
+Bruker Daltonics,1,22000,372
+PPG Industries,1,22000,373
+Automotive and Parts MfgManufacturing - OtherAccounting and Auditing Services,1,22000,374
+Retail Telecommunications Services,1,22000,375
+Specialized Staffing & Industry Recruiters,1,22000,376
+Nonprofit Charitable OrganizationsOther/Not Classified,1,22000,377
+RetailBusiness Services - OtherComputer/IT Services,1,22000,378
+Energy and UtilitiesManufacturing - OtherOther/Not Classified,1,22000,379
+"Monterey Park, CA",1,22000,380
+Staffing/Employment AgenciesOther/Not Classified,1,22000,381
+Retail Accounting and Auditing Services Management Consulting Services,1,22000,382
+Internet ServicesTelecommunications ServicesComputer/IT Services,1,22000,383
+Manufacturing - OtherBusiness Services - Other,1,22000,385
+MPW Industrial Services,1,22000,386
+"Hoffman Estates, IL",1,22000,387
+Accounting and Auditing ServicesStaffing/Employment AgenciesFinancial Services,1,22000,388
+Wholesale Trade/Import-Export; Construction - Residential & Commercial/Office,1,22000,389
+Construction - Industrial Facilities and InfrastructureAerospace and Defense,1,22000,390
+Education; Other/Not Classified,1,22000,391
+"Erlanger, KY 41018",1,22000,392
+Government and MilitaryOther/Not Classified,1,22000,393
+Real Estate/Property ManagementHealthcare Services,1,22000,395
+"Durham, NC",1,22000,396
+"Durham, NC 27709",1,22000,396
+"Seattle, WA",1,22000,397
+Accounting and Auditing Services Nonprofit Charitable Organizations,1,22000,398
+Accounting and Auditing ServicesNonprofit Charitable Organizations,1,22000,398
+"Madison, WI 53719",1,22000,399
+Education Healthcare Services Sports and Physical Recreation,1,22000,400
+"City Of Industry, CA 91744",2,22000,404
+"City Of Industry, CA",1,22000,404
+"City Of Industry, CA 91748",1,22000,404
+Banking; Real Estate/Property Management; Financial Services,1,22000,405
+Retail; Personal and Household Services; Medical Devices and Supplies,1,22000,406
+Internet Services Other/Not Classified,1,22000,407
+"Newport News Shipbuilding, a division of Huntington Ingalls Industries",1,22000,408
+Manufacturing - OtherTransport and Storage - Materials,1,22000,409
+"Des Plaines, IL",1,22000,410
+"Neptune Beach, FL",1,22000,411
+Walter Industrial and Sanitary Supply,1,22000,412
+Biotechnology/PharmaceuticalsAccounting and Auditing ServicesFinancial Services,1,22000,413
+"Kentwood, MI 49508",1,22000,414
+"Harrisburg, NC 28262",1,22000,415
+"Charlotte, NC",1,22000,417
+"Charlotte, NC 28202",1,22000,417
+Government and MilitarySecurity and SurveillanceEngineering Services,1,22000,418
+Advertising and PR ServicesRestaurant/Food ServicesOther/Not Classified,1,22000,419
+"Tifco Industries, Inc.",1,22000,420
+"Electronics, Components, and Semiconductor MfgSecurity and SurveillanceComputer/IT Services",1,22000,421
+Computer HardwareComputer SoftwareEducation,1,22000,422
+Hotels and Lodging Restaurant/Food Services Other/Not Classified,1,22000,423
+Hotels and LodgingRestaurant/Food ServicesOther/Not Classified,1,22000,423
+Real Estate/Property ManagementLegal ServicesConstruction - Residential & Commercial/Office,1,22000,424
+LeMar Industries,1,22000,425
+Healthcare ServicesRestaurant/Food Services,1,22000,427
+"Shiloh Industies, Inc.",1,22000,428
+"Sweetwater, FL 33172",1,22000,429
+AllFinancial ServicesOther/Not Classified,1,22000,430
+"Washington, DC",1,22000,431
+Healthcare Services; Nonprofit Charitable Organizations; Personal and Household Services,1,22000,434
+"Mifflin, OH 43085",1,22000,435
+Manufacturing - OtherTransport and Storage - Materials Business Services - Other,1,22000,436
+BankingReal Estate/Property ManagementGovernment and Military,1,22000,438
+Telecommunications ServicesHealthcare Services,1,22000,439
+Insurance Healthcare Services Nonprofit Charitable Organizations,1,22000,440
+Aerospace and Defense; Computer/IT Services; Engineering Services,1,22000,441
+Construction - Industrial Facilities and InfrastructureManufacturing - Other,1,22000,442
+Construction - Industrial Facilities and Infrastructure; Manufacturing - Other; Marine Mfg & Services,1,22000,443
+Printing and Publishing Advertising and PR ServicesHotels and Lodging,1,22000,444
+AllHealthcare ServicesPersonal and Household Services,1,22000,445
+Waste ManagementComputer/IT Services,1,22000,446
+Aerospace and Defense Legal Services,1,22000,447
+"AllTravel, Transportation and TourismHotels and Lodging",1,22000,448
+"San Francisco, CA",3,22000,449
+"San Francisco Ca, CA 94107",1,22000,449
+"San Francisco, CA 94105",1,22000,449
+"San Francisco, CA 94111",1,22000,449
+"Richfield, MN",1,22000,450
+Management Consulting ServicesSports and Physical RecreationBusiness Services - Other,1,22000,451
+Printing and Publishing Internet Services,1,22000,453
+Computer/IT ServicesFood and Beverage Production,1,22000,454
+"Montgomery, OH",1,22000,455
+"Montgomery, OH 45242",1,22000,455
+"Princeton, NJ 08543",1,22000,456
+Biotechnology/PharmaceuticalsEngineering ServicesMedical Devices and Supplies,1,22000,458
+Chemicals/Petro-ChemicalsOther/Not Classified,1,22000,459
+"Cleveland, OH",1,22000,460
+Banking; Insurance; Financial Services,1,22000,461
+"Boston, MA",1,22000,462
+"Boston, MA 94501",1,22000,462
+Industrial/Manufacturing EngineeringGeneral/Other: Engineering,1,22000,463
+"Albany, NY",1,22000,464
+"Iselin, NJ",1,22000,465
+Chemicals/Petro-Chemicals; Manufacturing - Other; Other/Not Classified,1,22000,466
+"Account Manager, Regional Manager, Manager, Marketing Manager, Sales, Management, Marketing",1,22000,467
+"Frisco, TX 75034",1,22000,468
+Restaurant/Food Services Other/Not Classified,1,22000,469
+Restaurant/Food ServicesOther/Not Classified,1,22000,469
+"Manhattan, NY",1,22000,470
+"Tucker, GA",1,22000,471
+Management Consulting ServicesComputer SoftwareEngineering Services,1,22000,472
+Automotive and Parts MfgAutomotive Sales and Repair ServicesComputer/IT Services,1,22000,473
+Energy and Utilities Education,1,22000,474
+Engineering ServicesFood and Beverage Production,1,22000,475
+"San Mateo, CA",1,22000,476
+"Raritan, NJ",1,22000,477
+Manufacturing - OtherLegal ServicesHealthcare Services,1,22000,478
+"North Bend, WA 98160",1,22000,479
+"Shavano Park, TX",1,22000,480
+Brennan Industries,1,22000,481
+Manufacturing - OtherReal Estate/Property ManagementConstruction - Residential & Commercial/Office,1,22000,482
+"Electronics, Components, and Semiconductor MfgManagement Consulting ServicesOther/Not Classified",1,22000,483
+BankingReal Estate/Property ManagementAccounting and Auditing Services,1,22000,484
+"Gurnee, IL",1,22000,485
+Computer SoftwareEducationComputer/IT Services,1,22000,486
+Computer HardwareComputer/IT Services,1,22000,487
+Internet ServicesStaffing/Employment Agencies,1,22000,488
+Staffing/Employment AgenciesGovernment and Military,1,22000,489
+Printing and Publishing Architectural and Design ServicesConstruction - Residential & Commercial/Office,1,22000,490
+Management Consulting ServicesComputer Software,1,22000,492
+Accounting and Auditing ServicesComputer/IT ServicesFinancial Services,1,22000,493
+"Jersey City, NJ",1,22000,494
+"Electronics, Components, and Semiconductor MfgComputer SoftwareSecurity and Surveillance",1,22000,495
+"Richardson, TX",1,22000,497
+"Richardson, TX 75082",1,22000,497
+Metals and Minerals; Biotechnology/Pharmaceuticals; Chemicals/Petro-Chemicals,1,22000,498
+"Travel, Transportation and TourismComputer/IT Services",1,22000,499
+InsuranceAccounting and Auditing Services,1,22000,500
+Advertising and PR ServicesSports and Physical RecreationOther/Not Classified,1,22000,501
+RetailFinancial Services,1,22000,502
+Printing and Publishing Internet ServicesAdvertising and PR Services,1,22000,503
+Accounting and Auditing ServicesFood and Beverage Production,1,22000,504
+"Grayslake, IL",1,22000,505
+Management Consulting Services Business Services - Other Other/Not Classified,1,22000,506
+Management Consulting ServicesBusiness Services - OtherOther/Not Classified,1,22000,506
+Insurance; Legal Services; Financial Services,1,22000,507
+Computer SoftwareBusiness Services - OtherEngineering Services,1,22000,508
+Construction - Industrial Facilities and InfrastructureHealthcare Services,1,22000,509
+AllInsurance,1,22000,510
+Barrow Industries,1,22000,511
+"Highland Park, TX",1,22000,512
+Computer SoftwareFinancial Services,1,22000,513
+Aire-Flo Industries,1,22000,515
+"Electronics, Components, and Semiconductor MfgComputer HardwareEngineering Services",1,22000,519
+RetailManagement Consulting Services,1,22000,520
+Hotels and LodgingEntertainment Venues and TheatersFood and Beverage Production,1,22000,521
+"Consumer Packaged Goods ManufacturingTravel, Transportation and TourismHotels and Lodging",1,22000,522
+RetailTelecommunications ServicesManagement Consulting Services,1,22000,523
+Telecommunications Services Computer Software Computer/IT Services,1,22000,524
+BankingComputer/IT Services,1,22000,525
+Metals and MineralsConstruction - Industrial Facilities and InfrastructureManufacturing - Other,1,22000,526
+Legal ServicesBusiness Services - Other,1,22000,527
+Telecommunications Services Computer/IT Services,1,22000,528
+Telecommunications Services; Computer/IT Services,1,22000,528
+"Pasadena, TX 77501",1,22000,529
+Automotive and Parts Mfg; Manufacturing - Other; Retail,1,22000,530
+Management Consulting Services Healthcare Services,1,22000,531
+Coast Tool Industrial Solutions,1,22000,532
+"Brooklyn, NY",1,22000,533
+"Wabash, IN 46992",1,22000,534
+AllComputer SoftwareBusiness Services - Other,1,22000,535
+AllReal Estate/Property ManagementOther/Not Classified,1,22000,536
+Telecommunications Services; Engineering Services,1,22000,537
+"Beaverton, OR",1,22000,538
+"Beaverton, OR 97006",1,22000,538
+Banking Business Services - Other,1,22000,539
+AllConstruction - Industrial Facilities and Infrastructure,1,22000,540
+"General Manager, Training, Manager, Management, Operations, Retail",1,22000,541
+Transport and Storage - Materials Other/Not Classified,1,22000,542
+"Southfield, MI 48075",1,22000,543
+"Jernberg Industries, Inc.",1,22000,545
+Telecommunications ServicesOther/Not Classified,1,22000,546
+Aerospace and DefenseManufacturing - OtherEngineering Services,1,22000,547
+"Round Rock, TX",1,22000,548
+"Round Rock, TX 78682",1,22000,548
+"West Milwaukee, WI",1,22000,549
+Financial ServicesOther/Not Classified,1,22000,550
+Restaurant/Food ServicesEntertainment Venues and Theaters,1,22000,552
+"Travel, Transportation and Tourism; Government and Military",1,22000,553
+Biotechnology/Pharmaceuticals; Engineering Services,1,22000,554
+Healthcare ServicesComputer/IT ServicesMedical Devices and Supplies,1,22000,555
+EG Industries,1,22000,556
+Internet Services Computer Software Computer/IT Services,1,22000,557
+"Carlsbad, CA 92008",1,22000,558
+Chemicals/Petro-ChemicalsManufacturing - OtherEngineering Services,1,22000,559
+Accounting and Auditing ServicesHealthcare ServicesGovernment and Military,1,22000,560
+"Basking Ridge, NJ",1,22000,561
+"Basking Ridge, NJ 07920",1,22000,561
+"Manufacturing - OtherTravel, Transportation and TourismOther/Not Classified",1,22000,562
+"HR, Information Systems, Business Analyst, Testing, HRIS, Human Resources, Technology",1,22000,563
+Manufacturing - OtherPrinting and Publishing Construction - Residential & Commercial/Office,1,22000,564
+"Travel, Transportation and Tourism Healthcare Services Other/Not Classified",1,22000,565
+"Milwaukee, WI",1,22000,566
+"Milwaukee, WI 53224",1,22000,566
+Computer SoftwareHealthcare ServicesComputer/IT Services,1,22000,567
+"Renton, WA",1,22000,568
+Architectural and Design ServicesEngineering Services,1,22000,569
+"Columbus, OH",3,22000,570
+"Columbus, OH 43215",2,22000,570
+"Columbus Ohio, OH 43085",1,22000,570
+"Columbus, OH 43016",1,22000,570
+"Columbus, OH 43085",1,22000,570
+"Springfield, VA",1,22000,571
+"Travel, Transportation and TourismHotels and LodgingFood and Beverage Production",1,22000,573
+"Elk Grove Village, IL",1,22000,574
+"Elk Grove Village, IL 60016",1,22000,574
+"Sunnyvale, CA",1,22000,575
+"Sunnyvale, CA 94086",1,22000,575
+"Marvin, NC 28277",1,22000,576
+Biotechnology/PharmaceuticalsComputer/IT Services,1,22000,577
+"Palo Alto, CA",1,22000,578
+"Arkwin Industries, Inc.",1,22000,579
+Computer SoftwareHealthcare ServicesBusiness Services - Other,1,22000,580
+"Electronics, Components, and Semiconductor MfgSecurity and SurveillanceEngineering Services",1,22000,581
+"Pasadena, TX 77502",1,22000,582
+"Lake Aluma, OK",1,22000,583
+All; Manufacturing - Other,1,22000,584
+Agriculture/Forestry/FishingWholesale Trade/Import-ExportBusiness Services - Other,1,22000,585
+"Travel, Transportation and TourismTransport and Storage - Materials Business Services - Other",1,22000,586
+Printing and Publishing Telecommunications Services,1,22000,587
+Manufacturing - Other; Telecommunications Services; Computer Hardware,1,22000,588
+Telecommunications ServicesComputer Software,1,22000,589
+Computer HardwareComputer SoftwareHealthcare Services,1,22000,590
+"Boys Town, NE 68154",1,22000,591
+Legal ServicesOther/Not Classified,1,22000,592
+Computer Software; Computer/IT Services; Engineering Services,1,22000,593
+RetailFood and Beverage ProductionOther/Not Classified,1,22000,594
+Retail Insurance,1,22000,595
+Automotive and Parts MfgEngineering Services,1,22000,596
+"Vernon Hills, IL 60061",1,22000,597
+"Lancaster, WI",1,22000,598
+"Plymouth, MN 55447",1,22000,599
+"Falls Church, VA",1,22000,600
+"Falls Church, VA 22042",1,22000,600
+Advertising and PR Services Entertainment Venues and Theaters Other/Not Classified,1,22000,601
+Biotechnology/PharmaceuticalsAccounting and Auditing ServicesComputer Software,1,22000,602
+Manufacturing - OtherClothing and Textile Manufacturing,1,22000,603
+Construction - Industrial Facilities and InfrastructureChemicals/Petro-ChemicalsAutomotive Sales and Repair Services,1,22000,604
+"Energy and Utilities; Electronics, Components, and Semiconductor Mfg; Government and Military",1,22000,605
+"Spring House, PA 19477",1,22000,606
+Hotels and LodgingRestaurant/Food ServicesFood and Beverage Production,1,22000,607
+Computer/IT Services Financial Services,1,22000,608
+Hotels and LodgingRestaurant/Food Services,1,22000,609
+Construction - Industrial Facilities and InfrastructureInternet ServicesBusiness Services - Other,1,22000,610
+"Rockford, IL 61101",1,22000,611
+"Boca Raton, FL 33496",1,22000,612
+"Marlborough, MA 01752",1,22000,613
+All; Automotive Sales and Repair Services; Other/Not Classified,1,22000,614
+"Aerospace and Defense; Travel, Transportation and Tourism",1,22000,615
+Industrial Design,1,22000,616
+"Travel, Transportation and TourismBusiness Services - OtherOther/Not Classified",1,22000,617
+AllConstruction - Industrial Facilities and InfrastructureReal Estate/Property Management,1,22000,618
+Construction - Industrial Facilities and Infrastructure Real Estate/Property Management Government and Military,1,22000,619
+"Chamblee, GA 30326",1,22000,621
+"Indianapolis, IN",1,22000,622
+Construction - Industrial Facilities and InfrastructureConstruction - Residential & Commercial/OfficeOther/Not Classified,1,22000,623
+"Euclid, OH 44117",1,22000,624
+AllReal Estate/Property ManagementEngineering Services,1,22000,625
+AllInsuranceReal Estate/Property Management,1,22000,626
+Metals and MineralsConstruction - Industrial Facilities and InfrastructureConstruction - Residential & Commercial/Office,1,22000,627
+Manufacturing - OtherInsurance,1,22000,628
+"Lake Zurich, IL 60047",1,22000,629
+"Folsom, CA 95762",1,22000,630
+Energy and UtilitiesRetailManagement Consulting Services,1,22000,631
+Accounting and Auditing ServicesNonprofit Charitable OrganizationsOther/Not Classified,1,22000,633
+Manufacturing - OtherArchitectural and Design ServicesConstruction - Residential & Commercial/Office,1,22000,634
+Advertising and PR Services Sports and Physical Recreation Business Services - Other,1,22000,635
+Advertising and PR ServicesSports and Physical RecreationBusiness Services - Other,1,22000,635
+Wholesale Trade/Import-ExportRetailOther/Not Classified,1,22000,636
+"Sandy Springs, GA 30342",1,22000,637
+Voss Industries,1,22000,638
+"Dayton, OH 45431",1,22000,639
+Automotive and Parts MfgArchitectural and Design ServicesAutomotive Sales and Repair Services,1,22000,640
+Telecommunications Services;Advertising and PR Services;Management Consulting Services,1,22000,641
+Sports and Physical RecreationRestaurant/Food ServicesFood and Beverage Production,1,22000,642
+Aerospace and Defense;Government and Military;Security and Surveillance,1,22000,643
+Computer HardwareOther/Not Classified,1,22000,644
+Biotechnology/Pharmaceuticals; Chemicals/Petro-Chemicals; Engineering Services,1,22000,645
+"Southlake, TX 76092",1,22000,646
+Real Estate/Property ManagementRental ServicesAccounting and Auditing Services,1,22000,647
+"Consumer Packaged Goods ManufacturingElectronics, Components, and Semiconductor MfgManufacturing - Other",1,22000,648
+Manufacturing - OtherTransport and Storage - Materials Food and Beverage Production,1,22000,649
+Healthcare ServicesSecurity and Surveillance,1,22000,650
+RetailHealthcare ServicesMedical Devices and Supplies,1,22000,651
+Performing and Fine Arts,1,22000,652
+Real Estate/Property ManagementConstruction - Residential & Commercial/OfficeOther/Not Classified,1,22000,653
+Management Consulting Services; Computer Hardware; Business Services - Other,1,22000,654
+"Electronics, Components, and Semiconductor MfgRetail",1,22000,655
+"Maine, IL",1,22000,656
+Aerospace and DefenseManufacturing - Other,1,22000,657
+Internet ServicesAdvertising and PR ServicesBusiness Services - Other,1,22000,658
+"Madison, WI",1,22000,659
+Computer SoftwareBusiness Services - OtherComputer/IT Services,1,22000,661
+"Northlake, IL 60164",1,22000,662
+"Minnetonka, MN",1,22000,663
+"Minnetonka, MN 55343",1,22000,663
+InsuranceBusiness Services - OtherFinancial Services,1,22000,664
+Accounting and Auditing Services Healthcare Services Hotels and Lodging,1,22000,665
+Accounting and Auditing ServicesComputer/IT Services,1,22000,666
+"Clothing and Textile ManufacturingRetailBroadcasting, Music, and Film",1,22000,667
+Computer HardwareComputer Software,1,22000,669
+US_EN_8_33768_43833905,1,22000,671
+Manufacturing - OtherTelecommunications ServicesConstruction - Residential & Commercial/Office,1,22000,672
+AllAutomotive and Parts MfgManufacturing - Other,1,22000,673
+AllAccounting and Auditing ServicesConstruction - Residential & Commercial/Office,1,22000,674
+"Middleton, WI 53562",1,22000,675
+"Allentown, PA",1,22000,676
+Construction - Industrial Facilities and InfrastructureAutomotive and Parts MfgChemicals/Petro-Chemicals,1,22000,677
+Biotechnology/PharmaceuticalsLegal ServicesMedical Devices and Supplies,1,22000,678
+BankingNonprofit Charitable OrganizationsFinancial Services,1,22000,679
+BankingBusiness Services - OtherFinancial Services,1,22000,680
+Internet ServicesManagement Consulting ServicesBusiness Services - Other,1,22000,681

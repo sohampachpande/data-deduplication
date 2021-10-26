@@ -1,0 +1,385 @@
+Category_Set,Category_Occurrences,Total_Examples,Entity_Number
+Portland,17,558,1
+Seattle,9,558,2
+Boulder,9,558,3
+Chicago,9,558,4
+Austin,8,558,5
+San Diego,8,558,6
+Denver,8,558,7
+Bend,6,558,8
+San Francisco,5,558,9
+Brooklyn,4,558,10
+Indianapolis,4,558,11
+Columbus,4,558,12
+Cincinnati,4,558,13
+Anchorage,4,558,14
+Traverse City,3,558,15
+Tampa,3,558,16
+Santa Cruz,3,558,17
+Edwards,3,558,18
+San Antonio,3,558,19
+Saint Louis,3,558,20
+Cleveland,3,558,21
+Jacksonville,3,558,22
+Charlotte,3,558,23
+Grand Rapids,3,558,24
+Baltimore,3,558,25
+Albuquerque,3,558,26
+Aurora,3,558,27
+Athens,3,558,28
+Minneapolis,3,558,29
+Stevens Point,3,558,30
+Lexington,3,558,31
+Lincoln,2,558,32
+Bloomfield,2,558,33
+Flagstaff,2,558,34
+Garden City,2,558,35
+Green Bay,2,558,36
+Louisville,2,558,37
+Birmingham,2,558,38
+Philadelphia,2,558,39
+Greenville,2,558,40
+Durango,2,558,41
+Milwaukee,2,558,42
+Salt Lake City,2,558,43
+Woodinville,2,558,44
+Westerly,2,558,45
+Durham,2,558,46
+Richmond,2,558,47
+Ashland,2,558,48
+Fort Collins,2,558,49
+Pottstown,2,558,50
+Marquette,2,558,51
+Temecula,2,558,52
+Carlsbad,2,558,53
+Bloomington,2,558,54
+Jackson,2,558,55
+Waterbury,2,558,56
+Bellingham,2,558,57
+Newport,2,558,58
+Missoula,2,558,59
+Lyons,2,558,60
+Dallas,2,558,61
+Oklahoma City,2,558,62
+Silverton,2,558,63
+Middlebury,2,558,64
+Astoria,2,558,65
+Springfield,2,558,66
+Hayward,2,558,67
+Sheridan,2,558,68
+Charlottesville,2,558,69
+Asheville,2,558,70
+Eau Claire,2,558,71
+Tucson,2,558,72
+Lake Havasu City,2,558,73
+Morganton,2,558,74
+Atlanta,2,558,75
+Boston,2,558,76
+New York,2,558,77
+Burlington,2,558,78
+Rochester,2,558,79
+Kalamazoo,2,558,80
+Eugene,2,558,81
+Tacoma,2,558,82
+Houston,2,558,83
+Fort Worth,2,558,84
+Hilo,2,558,85
+Ipswich,2,558,86
+Cherry Hill,1,558,87
+Boise,1,558,88
+Mill Valley,1,558,89
+Jacksonville Beach,1,558,90
+Troutville,1,558,91
+Boynton Beach,1,558,92
+Port Clinton,1,558,93
+Lake Barrington,1,558,94
+St Petersburg,1,558,95
+Ashburn,1,558,96
+Lenoir,1,558,97
+Baton Rouge,1,558,98
+Des Moines,1,558,99
+Hattiesburg,1,558,100
+Brevard,1,558,101
+Royal Oak,1,558,102
+Roanoke,1,558,103
+Spring Lake,1,558,104
+Windsor,1,558,105
+Avon,1,558,106
+Santa Fe,1,558,107
+Virginia Beach,1,558,108
+Conroe,1,558,109
+Lombard,1,558,110
+East Fairfield,1,558,111
+Centralia,1,558,112
+Dolores,1,558,113
+Pineland,1,558,114
+Cambridge,1,558,115
+Southampton,1,558,116
+Helena,1,558,117
+Redlands,1,558,118
+O'Fallon,1,558,119
+Slippery Rock,1,558,120
+Framingham,1,558,121
+College Station,1,558,122
+Minnetonka,1,558,123
+Mt. Airy,1,558,124
+Granger,1,558,125
+Lone Tree,1,558,126
+Paw Paw,1,558,127
+Gary,1,558,128
+Buena Vista,1,558,129
+Medford,1,558,130
+Holland,1,558,131
+Tulsa,1,558,132
+Wilmington,1,558,133
+Menominee,1,558,134
+Juneau,1,558,135
+Kinston,1,558,136
+Kent,1,558,137
+Mt. Pleasant,1,558,138
+Cold Spring,1,558,139
+Wolcott,1,558,140
+Ukiah,1,558,141
+Nellysford,1,558,142
+Golden,1,558,143
+Yakima,1,558,144
+Covington,1,558,145
+Bargersville,1,558,146
+Savannah,1,558,147
+Leominster,1,558,148
+Hamilton,1,558,149
+Danville,1,558,150
+Lansdale,1,558,151
+Krebs,1,558,152
+Somerset Center,1,558,153
+South San Francisco,1,558,154
+Lewisburg,1,558,155
+Lafayette,1,558,156
+Half Moon Bay,1,558,157
+Hyannis,1,558,158
+Pinedale,1,558,159
+Alpine,1,558,160
+Wilson,1,558,161
+Montauk,1,558,162
+Halethorpe,1,558,163
+Idaho Springs,1,558,164
+Cheboygan,1,558,165
+Memphis,1,558,166
+North Conway,1,558,167
+Utica,1,558,168
+Boone,1,558,169
+Roseville,1,558,170
+Tampa Bay,1,558,171
+Vadnais Heights,1,558,172
+Lockland,1,558,173
+South Austin,1,558,174
+Ada,1,558,175
+Plainfield,1,558,176
+Erie,1,558,177
+Dripping Springs,1,558,178
+Kearney,1,558,179
+Hershey,1,558,180
+Elmira,1,558,181
+Gadsden,1,558,182
+Bozeman,1,558,183
+Raleigh,1,558,184
+Nashville,1,558,185
+Gainesville,1,558,186
+Worcester,1,558,187
+Stamford,1,558,188
+Newburyport,1,558,189
+Hudsonville,1,558,190
+Weston,1,558,191
+Stillwater,1,558,192
+Spirit Lake,1,558,193
+West Chester,1,558,194
+York,1,558,195
+Washington,1,558,196
+Hardy,1,558,197
+Mammoth Lakes,1,558,198
+Conestoga,1,558,199
+Pittsboro,1,558,200
+Denton,1,558,201
+Fredericksburg,1,558,202
+St Paul,1,558,203
+St. Paul,1,558,203
+Whitefish,1,558,204
+St. John's,1,558,205
+Comstock Park,1,558,206
+Abingdon,1,558,207
+Kona,1,558,208
+Boonville,1,558,209
+Smithton,1,558,210
+Tempe,1,558,211
+Bronx,1,558,212
+St Mary's,1,558,213
+Marlborough,1,558,214
+Bucryus,1,558,215
+Croydon,1,558,216
+Phoenix,1,558,217
+Export,1,558,218
+Myrtle Beach,1,558,219
+Talkeetna,1,558,220
+Petoskey,1,558,221
+Biglerville,1,558,222
+Angola,1,558,223
+Lahaina,1,558,224
+Belmont,1,558,225
+Patchogue,1,558,226
+San Luis Obispo,1,558,227
+Lowell,1,558,228
+Belt,1,558,229
+Evanston,1,558,230
+Greeley,1,558,231
+Sacramento,1,558,232
+Shelbyville,1,558,233
+Glendale,1,558,234
+White Salmon,1,558,235
+Sisters,1,558,236
+Wilkes-Barre,1,558,237
+Nantucket,1,558,238
+Aspen,1,558,239
+Stevensville,1,558,240
+Corvallis,1,558,241
+Belfast,1,558,242
+Martinsville,1,558,243
+Odessa,1,558,244
+Portage,1,558,245
+Meridian,1,558,246
+Abita Springs,1,558,247
+Warrenville,1,558,248
+Pittsburgh,1,558,249
+Frankenmuth,1,558,250
+Blanco,1,558,251
+Claremont,1,558,252
+Buellton,1,558,253
+Middleton,1,558,254
+Paonia,1,558,255
+Norfolk,1,558,256
+Huntsville,1,558,257
+Lake Geneva,1,558,258
+Broomfield,1,558,259
+Diamond Springs,1,558,260
+Chattanooga,1,558,261
+Newburgh,1,558,262
+Westminster,1,558,263
+Black Mountain,1,558,264
+Kalona,1,558,265
+Fuquay-Varina,1,558,266
+Arrington,1,558,267
+Providence,1,558,268
+Sheffield,1,558,269
+Marietta,1,558,270
+Mooresville,1,558,271
+Williamsburg,1,558,272
+Midwest City,1,558,273
+Yardley,1,558,274
+Monument,1,558,275
+Madison,1,558,276
+South Lyon,1,558,277
+Vista,1,558,278
+Los Angeles,1,558,279
+Murphysboro,1,558,280
+Gig Harbor,1,558,281
+North Woodstock,1,558,282
+Chandler,1,558,283
+Michigan City,1,558,284
+Manhattan,1,558,285
+Menominie,1,558,286
+Pawcatuck,1,558,287
+Kansas City,1,558,288
+Brooklyn Center,1,558,289
+Battle Creek,1,558,290
+New Orleans,1,558,291
+Papillion,1,558,292
+Stratford,1,558,293
+Midvale,1,558,294
+Knoxville,1,558,295
+Shreveport,1,558,296
+Lakeside,1,558,297
+Canton,1,558,298
+South Burlington,1,558,299
+Cortland,1,558,300
+Prescott,1,558,301
+Williams,1,558,302
+Paso Robles,1,558,303
+Davenport,1,558,304
+Santee,1,558,305
+Everett,1,558,306
+Hooksett,1,558,307
+Bridgewater Corners,1,558,308
+Waynesville,1,558,309
+Pacific,1,558,310
+Valparaiso,1,558,311
+Dillon,1,558,312
+Latrobe,1,558,313
+Loveland,1,558,314
+Mishawaka,1,558,315
+Ridgefield Park,1,558,316
+Verona,1,558,317
+Arvada,1,558,318
+Meadville,1,558,319
+Macon,1,558,320
+Leavenworth,1,558,321
+Kirkwood,1,558,322
+Northamtpon,1,558,323
+Fort Wayne,1,558,324
+Garrattsville,1,558,325
+Shelburne,1,558,326
+Henderson,1,558,327
+Phoenixville,1,558,328
+Eagle,1,558,329
+Chico,1,558,330
+Lancaster,1,558,331
+Colorado Springs,1,558,332
+Frederick,1,558,333
+Duluth,1,558,334
+Moab,1,558,335
+Laurel,1,558,336
+South Bend,1,558,337
+Rogers,1,558,338
+Dunedin,1,558,339
+Woodbridge,1,558,340
+Charleston,1,558,341
+Plant City,1,558,342
+Mustang,1,558,343
+Longmont,1,558,344
+Estacada,1,558,345
+Soldotna,1,558,346
+Reno,1,558,347
+Atlantic Highlands,1,558,348
+Washougal,1,558,349
+Manheim,1,558,350
+Gloucester,1,558,351
+Palisade,1,558,352
+Lemont,1,558,353
+Seven Points,1,558,354
+Pawtucket,1,558,355
+Spearfish,1,558,356
+Bridgman,1,558,357
+Middleburg Heights,1,558,358
+Monroe,1,558,359
+Lewiston,1,558,360
+Dayton,1,558,361
+Fargo,1,558,362
+Afton,1,558,363
+Springdale,1,558,364
+Ponderay,1,558,365
+Westfield,1,558,366
+Farmers Branch,1,558,367
+Mount Pleasant,1,558,368
+Torrance,1,558,369
+Libertyville,1,558,370
+Houghton,1,558,371
+Chatham,1,558,372
+Hays,1,558,373
+South Deerfield,1,558,374
+Telluride,1,558,375
+East Windsor,1,558,376
+Miami,1,558,377
+Crozet,1,558,378
+Airway Heights,1,558,379
+Douglas,1,558,380
+Detroit,1,558,381
+Evansville,1,558,382
+Ann Arbor,1,558,383

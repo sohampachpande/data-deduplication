@@ -1,0 +1,36 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+Equals: GROSS DOMESTIC PRODUCT,4610,68023,0.0677711950369727,-1
+"Equals: VALUE ADDED, GROSS, at basic prices",4401,68023,0.0646987048498302,-1
+Plus: Taxes less Subsidies on products,4053,68023,0.059582788174588,-1
+Construction,3094,68023,0.0454846154976992,-1
+Financial and insurance activities,3089,68023,0.0454111109477676,-1
+"Agriculture, forestry and fishing",3082,68023,0.0453082045778633,-1
+Information and communication,3017,68023,0.044352645428752,-1
+Real estate activities,2974,68023,0.0437205062993399,-1
+Manufacturing,2946,68023,0.0433088808197227,-1
+"Manufacturing, mining and quarrying and other industrial activities",2906,68023,0.0427208444202696,-1
+"Wholesale and retail trade, transportation and storage, accommodation and food service activities",2906,68023,0.0427208444202696,-1
+Other service activities,2882,68023,0.0423680225805977,-1
+"Public administration and defence, education, human health and social work activities",2849,68023,0.0418828925510489,-1
+"Professional, scientific, technical, administrative and support service activities",2802,68023,0.0411919497816914,-1
+Plus: Taxes on products,2537,68023,0.0372962086353145,-1
+Less: Subsidies on products,2265,68023,0.0332975611190332,-1
+Wholesale and retail trade; repair of motor vehicles and motorcycles,1374,68023,0.0201990503212148,-1
+Transportation and storage,1370,68023,0.0201402466812695,-1
+"Electricity, gas, steam and air conditioning supply",1353,68023,0.019890331211502,-1
+Accommodation and food service activities,1308,68023,0.0192287902621172,-1
+Mining and quarrying,1205,68023,0.0177145965335254,-1
+Public administration and defence; compulsory social security,1172,68023,0.0172294665039765,-1
+Human health and social work activities,1117,68023,0.0164209164547285,-1
+Education,1081,68023,0.0158916836952207,-1
+"Professional, scientific and technical activities",977,68023,0.0143627890566426,-1
+"Water supply; sewerage, waste management and remediation activities",966,68023,0.0142010790467929,-1
+"Arts, entertainment and recreation",879,68023,0.0129220998779824,-1
+Administrative and support service activities,860,68023,0.0126427825882422,-1
+"Crop and animal production, hunting and related service activities",830,68023,0.0122017552886523,-1
+Fishing and aquaculture,784,68023,0.0115255134292812,-1
+Private households with employed persons,780,68023,0.0114667097893359,-1
+Forestry and logging,741,68023,0.0108933742998691,-1
+Less: Financial intermediation services indirectly measured (FISIM),481,68023,0.0070711377034238,-1
+"Memorandum Item: FISIM, if distributed to uses",127,68023,0.0018670155682636,-1
+Plus: Statistical discrepancy,8,68023,0.0001176072798906,-1

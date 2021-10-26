@@ -1,0 +1,7 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+Single house,39069,41544,0.9404246100519932,-1
+Multi-unit residential,1329,41544,0.0319901790872328,-1
+Duplex,1084,41544,0.0260928172539957,-1
+Commercial/industrial/agricultural building,51,41544,0.0012276140958983,-1
+Institutional living quarter,9,41544,0.0002166377816291,-1
+"Other building unit (e.g. cave, boat)",2,41544,4.814172925091469e-05,-1

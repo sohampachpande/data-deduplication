@@ -1,0 +1,32 @@
+Category_Set,Category_Occurrences,Total_Examples,percent_of_entries,Entity_Number
+Telemarketing (including do not call and spoofing),210892,943111,0.2236131271928755,-1
+Billing,159290,943111,0.1688984647618361,-1
+Unwanted Calls,152739,943111,0.1619523046597908,-1
+Robocalls,102602,943111,0.1087910118745301,-1
+Availability,48275,943111,0.0511869758702846,-1
+Equipment,40130,943111,0.0425506647679859,-1
+Open Internet/Net Neutrality,38826,943111,0.0411680067351563,-1
+Privacy,31157,943111,0.0330364082276635,-1
+Interference,30350,943111,0.0321807295217636,-1
+Availability (including rural call completion),22709,943111,0.0240788199904359,-1
+Speed,22661,943111,0.0240279246027243,-1
+Indecency,21450,943111,0.0227438763835858,-1
+Number Portability (keeping your number if you change providers),16312,943111,0.0172959492572984,-1
+Junk Faxes,11991,943111,0.0127143040426842,-1
+Loud Commercials,10046,943111,0.0106519805197903,-1
+Cramming (unauthorized charges on your phone bill),9397,943111,0.0099638324651075,-1
+Interference (including signal jammers),5498,943111,0.0058296425341237,-1
+Pirate Radio,2006,943111,0.0021270030781106,-1
+Slamming (change of your carrier without permission),1070,943111,0.0011345430177359,-1
+Other,935,943111,0.0009913997397973,-1
+Closed Captioning on TV,835,943111,0.0008853676820649,-1
+Telecommunications Relay Service (TRS),733,943111,0.000777214983178,-1
+Commercials/Promotions,700,943111,0.0007422244041263,-1
+Phone,568,943111,0.0006022620879196,-1
+Rural Call Completion,294,943111,0.000311734249733,-1
+Closed Captioning over the Internet,265,943111,0.0002809849529906,-1
+Tower,208,943111,0.0002205466800832,-1
+Video Description,88,943111,9.330821080445462e-05,-1
+Emergency Information on TV,52,943111,5.51366700208141e-05,-1
+Hearing Aid Compatibility of Wireless Phones,50,943111,5.30160288661674e-05,-1
+Hearing Aid Compatibility of Wireline Phones,47,943111,4.983506713419735e-05,-1

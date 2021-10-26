@@ -1,0 +1,790 @@
+Category_Set,Category_Occurrences,Total_Examples,Entity_Number
+White,4584,82545,1
+White                                             ,2985,82545,1
+White                                   ,1723,82545,1
+Black,3450,82545,2
+Black                                             ,3133,82545,2
+Black                                   ,2901,82545,2
+Black /Tan,1277,82545,5
+Tan,1765,82545,6
+Tan                                               ,1397,82545,6
+Tan                                     ,626,82545,6
+Gold                                              ,1368,82545,8
+Gold,1252,82545,8
+Brown,1273,82545,9
+Brown                                             ,805,82545,9
+Brown                                   ,554,82545,9
+Brindle,1217,82545,10
+Brindle                                           ,1087,82545,10
+Brindle                                 ,187,82545,10
+Black/Tan                                         ,2186,82545,12
+Black & Tan,937,82545,12
+Tan/Black                                         ,314,82545,12
+Tan & Black,112,82545,12
+Tan/Black,95,82545,12
+Red,808,82545,14
+Red                                               ,647,82545,14
+Red                                     ,362,82545,14
+Golden                                  ,688,82545,15
+Golden,58,82545,15
+Tri-Colored                                       ,2657,82545,16
+Tri-Colored,954,82545,16
+Tri Colour,669,82545,16
+Tri colour                              ,541,82545,16
+Cream,572,82545,19
+Cream                                             ,501,82545,19
+Cream                                   ,270,82545,19
+Tan/White                                         ,1183,82545,23
+White/Tan                                         ,926,82545,23
+Tan/White,914,82545,23
+Tan & White,493,82545,23
+White & Tan,488,82545,23
+White/Tan,39,82545,23
+Fawn,455,82545,24
+Fawn                                              ,390,82545,24
+Fawn                                    ,139,82545,24
+Blue,414,82545,25
+Blue                                              ,271,82545,25
+Blue                                    ,155,82545,25
+Chocolate                                         ,364,82545,26
+Chocolate,346,82545,26
+Chocolate                               ,155,82545,26
+Apricot,325,82545,29
+APRICOT                                           ,314,82545,29
+Apricot                                 ,144,82545,29
+Apricot                                           ,3,82545,29
+Grey,300,82545,33
+Grey                                    ,183,82545,33
+Grey                                              ,182,82545,33
+White/Brown                                       ,633,82545,34
+Brown/White                                       ,621,82545,34
+Brown/White,462,82545,34
+White/Brown,360,82545,34
+Brown & White,313,82545,34
+White & Brown,281,82545,34
+Black/White                                       ,3388,82545,36
+Black/White,1759,82545,36
+Black & White,1474,82545,36
+White/Black                                       ,559,82545,36
+White & Black,216,82545,36
+White/Black,188,82545,36
+Unknown,209,82545,37
+Unknown                                           ,55,82545,37
+Unknown                                 ,1,82545,37
+Yellow                                            ,201,82545,38
+Yellow                                  ,93,82545,38
+Yellow,77,82545,38
+BLACK/BRINDLE                                     ,194,82545,39
+Sable,176,82545,41
+Sable                                             ,160,82545,41
+Sable                                   ,71,82545,41
+BLENHEIM                                          ,174,82545,43
+Blenheim,154,82545,43
+Blenheim                                ,76,82545,43
+Salt & Pepper                                     ,143,82545,46
+Salt & Pepper,86,82545,46
+Black/Grey                                        ,134,82545,49
+Black/Grey,110,82545,49
+Black & Grey,67,82545,49
+Grey/Black                                        ,64,82545,49
+Grey & Black,35,82545,49
+Grey/Black,23,82545,49
+Black/Brown                                       ,257,82545,51
+Black/Brown,209,82545,51
+Black & Brown,125,82545,51
+Sandy,133,82545,52
+Sandy                                             ,94,82545,52
+Sandy                                   ,39,82545,52
+Salt                                    ,99,82545,58
+Salt,12,82545,58
+Black/Brindle,93,82545,61
+Brindle/Black                                     ,24,82545,61
+Brindle/Black,13,82545,61
+Beige,90,82545,63
+Beige                                             ,67,82545,63
+Beige                                   ,32,82545,63
+Liver                                   ,90,82545,64
+Liver,69,82545,64
+Liver                                             ,42,82545,64
+Red/Tan                                           ,85,82545,68
+Red/Tan,37,82545,68
+Chocolate Brown                                   ,82,82545,71
+Chocolate Brown,2,82545,71
+Black & Brindle,80,82545,72
+Brown/Black                                       ,133,82545,73
+Brown & Black,78,82545,73
+Brown/Black,75,82545,73
+Caramel,78,82545,74
+Caramel                                           ,70,82545,74
+Caramel                                 ,47,82545,74
+Light Brown                                       ,77,82545,75
+Light Brown,52,82545,75
+Light Brown                             ,31,82545,75
+Grey /White                                       ,189,82545,79
+Grey/White,145,82545,79
+White/Grey                                        ,145,82545,79
+Grey & White,85,82545,79
+White & Grey,67,82545,79
+White/Grey,1,82545,79
+White/Apricot                                     ,148,82545,86
+White & Apricot,56,82545,86
+APRICOT/WHITE                                     ,45,82545,86
+Apricot & White,26,82545,86
+White/Apricot,6,82545,86
+Black & White & Brindle,55,82545,89
+Brindle/White                                     ,333,82545,91
+Brindle/White,189,82545,91
+Brindle & White,141,82545,91
+White/Brindle                                     ,123,82545,91
+White/Brindle,62,82545,91
+White & Brindle,54,82545,91
+Ginger,51,82545,94
+Ginger                                            ,28,82545,94
+Ginger                                  ,20,82545,94
+Gold/White                                        ,87,82545,95
+White / Gold                                      ,50,82545,95
+Gold & White,39,82545,95
+Gold/White,1,82545,95
+BLONDE                                            ,93,82545,96
+Blonde,50,82545,96
+Blonde                                  ,46,82545,96
+Blond,3,82545,96
+Bristle                                 ,50,82545,97
+Ruby                                              ,50,82545,98
+Ruby,27,82545,98
+Ruby                                    ,19,82545,98
+White/Cream                                       ,82,82545,100
+White & Cream,49,82545,100
+White/Cream,2,82545,100
+Honey                                             ,49,82545,101
+Honey,43,82545,101
+Honey                                   ,30,82545,101
+Silver                                  ,48,82545,102
+Silver,47,82545,102
+Silver                                            ,34,82545,102
+Cream/White                                       ,47,82545,103
+Cream/White,2,82545,103
+Black & Tan & White,134,82545,104
+Black/Tan/White,53,82545,104
+White &  Black & Tan,47,82545,104
+Tan & Black & White,19,82545,104
+Blue/Roan                                         ,126,82545,105
+Blue/Roan,75,82545,105
+Blue Roan,46,82545,105
+Blue Roan                               ,9,82545,105
+Red/Wheaten                                       ,44,82545,108
+Red/Wheaten,1,82545,108
+Wolf Grey                                         ,44,82545,109
+Wolf Grey,26,82545,109
+Wolf Grey                               ,8,82545,109
+Brown/Tan                                         ,100,82545,110
+Tan & Brown                                       ,56,82545,110
+Tan/Brown,45,82545,110
+Brown & Tan,42,82545,110
+Tan & Brown,37,82545,110
+Brown/Tan,6,82545,110
+Red Roan                                          ,42,82545,111
+Red Roan,14,82545,111
+Champagne,41,82545,113
+Champagne                                         ,26,82545,113
+Champagne                               ,18,82545,113
+Fawn & White,39,82545,114
+Wheaton,38,82545,116
+Red & Tan,37,82545,119
+BLACK/BLUE                                        ,35,82545,122
+Wheaten                                           ,34,82545,124
+Wheaten                                 ,16,82545,124
+Wheaten,3,82545,124
+BLUE BRINDLE                                      ,34,82545,125
+Black/Silver                                      ,57,82545,127
+Black & Silver,30,82545,127
+Silver/Black,15,82545,127
+Silver/Black                                      ,11,82545,127
+Silver & Black,8,82545,127
+Liver & White,30,82545,128
+Brown/Brindle                                     ,30,82545,129
+Brown/Brindle,17,82545,129
+Brindle/Brown                                     ,11,82545,129
+Blue/Grey                                         ,37,82545,130
+Blue & Grey,28,82545,130
+Dark Brown                                        ,28,82545,131
+Dark Brown,8,82545,131
+Dark Brown                              ,1,82545,131
+Orange,27,82545,132
+Orange                                  ,22,82545,132
+Orange                                            ,19,82545,132
+Cream/Gold                                        ,27,82545,133
+Chocolate Tan                                     ,27,82545,134
+Merle                                             ,27,82545,135
+Merle                                   ,9,82545,135
+Black/Gold                                        ,74,82545,136
+Black/Gold,44,82545,136
+Black & Gold,26,82545,136
+Gold/Black                                        ,8,82545,136
+Gold & Black,7,82545,136
+Gold/Black,1,82545,136
+Black/Roan                                        ,26,82545,137
+Black/Roan,6,82545,137
+Cream/Tan                                         ,26,82545,140
+Cream/Tan,1,82545,140
+Black & Brown & White,54,82545,141
+White & Brown & Black,25,82545,141
+White/Brown/Black,23,82545,141
+White/Brown/Black                                 ,13,82545,141
+BLUE/BLACK                                        ,38,82545,142
+Black/Blue,25,82545,142
+Blue & Black,16,82545,142
+Fawn/White                                        ,74,82545,143
+White/Fawn                                        ,60,82545,143
+White & Fawn,25,82545,143
+Fawn/White,4,82545,143
+Red/Brindle                                       ,24,82545,145
+Red/Brindle,1,82545,145
+Tan & Sable,23,82545,148
+Sable/Tan                                         ,9,82545,148
+BLACK/CREAM                                       ,23,82545,150
+Cream/Black                                       ,21,82545,150
+Cream/Black,7,82545,150
+Cream & Black,5,82545,150
+Red/White                                         ,329,82545,151
+Red & White,136,82545,151
+White/Red,91,82545,151
+White/Red                                         ,37,82545,151
+White & Red,23,82545,151
+Red/White,3,82545,151
+Blue/Fawn                                         ,22,82545,154
+Black/Tricolour                                   ,22,82545,155
+Roan,21,82545,157
+Roan                                              ,15,82545,157
+Roan                                    ,14,82545,157
+Light Tan                                         ,21,82545,159
+Light Tan,1,82545,159
+Tan/Red                                           ,20,82545,160
+Cream/Apricot                                     ,20,82545,161
+Red/Fawn                                          ,20,82545,162
+Lemon/White                                       ,20,82545,163
+Liver/White                                       ,98,82545,164
+White/Liver                                       ,19,82545,164
+White & Liver,7,82545,164
+Liver/White,1,82545,164
+White/Caramel                                     ,49,82545,165
+Caramel/White                                     ,21,82545,165
+White & Caramel,19,82545,165
+Caramel & White,10,82545,165
+Gold/Tan                                          ,19,82545,166
+Gold/Tan,2,82545,166
+Sandy/White                                       ,18,82545,169
+Multi Coloured                                    ,18,82545,170
+Multi Coloured,6,82545,170
+Honey/White                                       ,38,82545,171
+White/Honey                                       ,18,82545,171
+Honey/White,1,82545,171
+Tan Sable                                         ,17,82545,172
+Tan Sable,1,82545,172
+Biscuit,17,82545,173
+Biscuit                                           ,5,82545,173
+Biscuit                                 ,1,82545,173
+Blue/Tan                                          ,51,82545,175
+Blue & Tan,17,82545,175
+Black & Tan & Brown,17,82545,177
+Pepper/Salt                                       ,17,82545,179
+Dark Brindle                                      ,16,82545,180
+Dark Brindle                            ,2,82545,180
+Dark Brindle,1,82545,180
+White/Beige                                       ,33,82545,181
+Beige/White                                       ,17,82545,181
+White & Beige,16,82545,181
+Beige & White,8,82545,181
+Beige/White,1,82545,181
+Silver/Grey                                       ,16,82545,182
+White/Grey/Apricot,16,82545,183
+Gold/Cream                                        ,16,82545,185
+Apricot & Cream,15,82545,187
+APRICOT/CREAM                                     ,13,82545,187
+Russett                                 ,15,82545,188
+Russett                                           ,7,82545,188
+Red/Black                                         ,22,82545,189
+Black/Red                                         ,15,82545,189
+Red & Black,8,82545,189
+Black/Red,1,82545,189
+Black & Tan & Roan,14,82545,192
+Grey & Tan,14,82545,194
+Brown & Brindle,14,82545,195
+Rusty,13,82545,197
+Rusty                                   ,6,82545,197
+Grey/Tan                                          ,13,82545,198
+Grey/Tan,1,82545,198
+White/Ginger                                      ,13,82545,199
+Ginger/White                                      ,10,82545,199
+Ginger & White,6,82545,199
+Rust Gold                                         ,13,82545,200
+Russett Gold,13,82545,201
+Russett Gold                                      ,11,82545,201
+Black & Grey & White,12,82545,203
+Lemon & White,12,82545,204
+Red Grizzled                                      ,12,82545,205
+Russet & White,11,82545,206
+Red & Brindle,11,82545,207
+Cream & White,11,82545,208
+Cream & Tan,11,82545,209
+Fawn/Black                                        ,41,82545,210
+Fawn/Black,23,82545,210
+Fawn & Black,16,82545,210
+Black/Fawn                                        ,11,82545,210
+Pepper                                  ,11,82545,211
+Honey & White,11,82545,212
+Fawn/Brindle                                      ,11,82545,213
+Red/Sable                                         ,11,82545,215
+Tan & Sable & White,11,82545,216
+Charcoal,10,82545,217
+Charcoal                                          ,6,82545,217
+Charcoal                                ,1,82545,217
+BLENHIEM/WHITE                                    ,10,82545,218
+Light Brindle                                     ,10,82545,219
+Grey/Blue                                         ,10,82545,220
+Grey/Blue,1,82545,220
+Golden Shaded                                     ,10,82545,222
+Sable/White                                       ,82,82545,223
+Sable & White,56,82545,223
+White/Sable                                       ,10,82545,223
+Sable/White,3,82545,223
+White/Sable,1,82545,223
+Ruby/White                                        ,10,82545,225
+Marle,10,82545,226
+BLUE/RED                                          ,10,82545,227
+Tan/Grey                                          ,10,82545,228
+Fawn/Tan                                          ,9,82545,229
+Fawn/Tan,1,82545,229
+Cream/Caramel                                     ,9,82545,231
+Cream/Caramel,1,82545,231
+Buff                                              ,9,82545,232
+Sable/Brown,9,82545,233
+Sable Brown                                       ,1,82545,233
+BLACK/SABLE                                       ,9,82545,234
+Russet Gold                             ,9,82545,235
+Black & Fawn,9,82545,236
+Light Gold                                        ,9,82545,238
+Red/Cream                                         ,9,82545,239
+Grey/Cream                                        ,9,82545,240
+Black Blue & Roan,8,82545,241
+Lemon,8,82545,242
+Lemon                                   ,7,82545,242
+Lemon                                             ,7,82545,242
+Tan/Gold                                          ,8,82545,244
+White/Sandy                                       ,8,82545,246
+Sandy & White,7,82545,246
+White/Sandy,1,82545,246
+Grizzle                                 ,8,82545,247
+Grizzle                                           ,6,82545,247
+Chestnut                                ,8,82545,248
+Chestnut                                          ,7,82545,248
+Chestnut,1,82545,248
+Red/Blue                                          ,8,82545,251
+Yellow Gold                                       ,8,82545,252
+Pepper & Salt,8,82545,254
+Red/Marle                                         ,8,82545,255
+Blue/Merle                                        ,70,82545,256
+Blue Merle,35,82545,256
+Blue Marle                                        ,8,82545,256
+Gold/Brown                                        ,22,82545,257
+Gold & Brown,19,82545,257
+Gold/Brown,14,82545,257
+Brown/Gold                                        ,8,82545,257
+Grey/Brown                                        ,9,82545,258
+Brown/Grey                                        ,8,82545,258
+Grey & Brown,4,82545,258
+Tan/Cream                                         ,8,82545,259
+Tan/Cream,2,82545,259
+Gold/Blonde                                       ,7,82545,261
+Gold Sandy                                        ,7,82545,262
+Gold Sandy,1,82545,262
+Brindle/Roan                                      ,7,82545,265
+Brindle & Tan,7,82545,266
+Brindle/Tan,7,82545,266
+Brindle/Tan                                       ,6,82545,266
+Blue/White                                        ,86,82545,267
+White/Blue                                        ,26,82545,267
+Blue & White,24,82545,267
+White & Blue,7,82545,267
+White/Blue,7,82545,267
+Blue/White,2,82545,267
+Dark Tan                                          ,7,82545,269
+Cream/Grey                                        ,7,82545,271
+Brown & Tan & White,7,82545,272
+Beige/Choc Brown                                  ,7,82545,273
+Gold Roan                                         ,7,82545,276
+Brindle & Blue                                    ,7,82545,277
+Chocolate/White                                   ,60,82545,278
+Chocolate & White,12,82545,278
+White/Chocolate                                   ,7,82545,278
+Black & Caramel,7,82545,279
+Caramel/Black                                     ,3,82545,279
+Harlequin,7,82545,281
+Harlequin                                         ,4,82545,281
+Harlequin                               ,1,82545,281
+Tan/Fawn                                          ,6,82545,282
+Off White                                         ,6,82545,283
+Off White,1,82545,283
+Red & Fawn,6,82545,284
+Cream/Brown                                       ,17,82545,285
+Cream & Brown,14,82545,285
+Brown/Cream                                       ,6,82545,285
+Cream/Brown,3,82545,285
+Brown/Cream,1,82545,285
+Grey/Brindle                                      ,6,82545,286
+Black & Yellow,6,82545,288
+Gold/Red                                          ,6,82545,289
+White/Roan                                        ,6,82545,290
+Slate,6,82545,291
+Slate                                   ,1,82545,291
+Cream/Fawn                                        ,6,82545,292
+White/Tricolour                                   ,6,82545,293
+Tan/Brindle                                       ,17,82545,294
+Tan/Brindle,9,82545,294
+Tan & Brindle,6,82545,294
+Tan/Silver                                        ,6,82545,295
+Silver/Tan                                        ,5,82545,295
+Silver & Tan,4,82545,295
+Rust                                              ,6,82545,296
+Rust,1,82545,296
+White/Champagne                                   ,6,82545,297
+Champagne & White,3,82545,297
+White/Champagne,1,82545,297
+Red/Tricolour                                     ,6,82545,299
+Chocolate & Brown & Brindle,6,82545,300
+Grey/Silver                                       ,5,82545,303
+Orange/White                                      ,14,82545,304
+Orange & White,8,82545,304
+White/Orange                                      ,5,82545,304
+Cream/Beige                                       ,5,82545,305
+Yellow & White,7,82545,307
+White/Yellow                                      ,5,82545,307
+Yellow/White                                      ,4,82545,307
+Coffee                                            ,5,82545,308
+Coffee,3,82545,308
+Coffee                                  ,3,82545,308
+Blue/Tricolour                                    ,5,82545,309
+Cream & Gold,5,82545,310
+Fawn & Tan,5,82545,311
+Grey Black & Brown,5,82545,313
+Champagne/White                                   ,5,82545,314
+Brown & Grey,5,82545,315
+Tan & Red,5,82545,316
+White & Peach,5,82545,317
+White & Peach                                     ,2,82545,317
+Orange/Roan                                       ,5,82545,319
+Black/Chocolate                                   ,5,82545,320
+White Spotted                                     ,5,82545,321
+Gold & Tan,5,82545,322
+Sable/Black                                       ,6,82545,323
+Black/Sable,5,82545,323
+Sable/Black,3,82545,323
+Black & Rust,5,82545,324
+Brown/Roan                                        ,4,82545,325
+Sandy/Tan                                         ,4,82545,326
+Red/Brown                                         ,62,82545,327
+Red & Brown,34,82545,327
+Brown/Red                                         ,23,82545,327
+Red/Brown,5,82545,327
+Brown & Red,4,82545,327
+Brown/Red,1,82545,327
+Black & Sable,4,82545,329
+Gold & Roan,4,82545,330
+Tiger,4,82545,331
+Tiger                                             ,1,82545,331
+Tricolour/White                                   ,4,82545,333
+Pale Gold                                         ,4,82545,334
+Chocolate/Red                                     ,4,82545,335
+Sandy/Red                                         ,4,82545,336
+Fawn & Sable,4,82545,337
+Blonde/Gold                                       ,4,82545,338
+Dark Grey,4,82545,339
+Dark Grey                                         ,4,82545,339
+Copper                                            ,4,82545,340
+Copper                                  ,3,82545,340
+Copper,1,82545,340
+Roan and Black                                    ,4,82545,341
+Liver Spot                                        ,4,82545,342
+Brown/Merle                                       ,4,82545,343
+Tiger/Brindle                                     ,4,82545,345
+Dark Gold                                         ,4,82545,347
+Tawny                                             ,4,82545,348
+Roan and White                                    ,4,82545,349
+Red/Gold                                          ,4,82545,350
+Lilac                                   ,4,82545,351
+Lilac                                             ,2,82545,351
+Lilac,1,82545,351
+Chocolate/Merle                                   ,4,82545,352
+Sandy/Blond                                       ,4,82545,353
+Tan/Blue                                          ,4,82545,354
+Brown Black & Gold,4,82545,355
+Parti Coloured                                    ,4,82545,356
+Chocolate brindle                                 ,4,82545,357
+Blue & Red,4,82545,359
+Brown/Chocolate Point                             ,4,82545,360
+Chestnut White                                    ,4,82545,361
+Beige/Black                                       ,8,82545,362
+Beige & Black,4,82545,362
+BLACK/BEIGE                                       ,4,82545,362
+Tan/Tricolour                                     ,4,82545,363
+Orange Belton                                     ,4,82545,364
+Cinnamon                                          ,3,82545,365
+Brown/Beige                                       ,3,82545,366
+Brown/Beige,1,82545,366
+Beige & Brown,1,82545,366
+Rust/White                                        ,3,82545,367
+Liver Grey                                        ,3,82545,368
+Silver Dappled                                    ,3,82545,369
+White & Brown & Grey,3,82545,370
+Grey & Brown & White,1,82545,370
+Tan Beige                                         ,3,82545,371
+Brown/Rust                                        ,3,82545,373
+Seal                                              ,3,82545,374
+Gold/Yellow                                       ,3,82545,377
+Buckskin                                          ,3,82545,378
+Silver Sable                                      ,3,82545,379
+Blue & Silver,3,82545,380
+BLUE AND SILVER                                   ,2,82545,380
+Fawn/Brown                                        ,7,82545,381
+Fawn & Brown,6,82545,381
+Brown/Fawn                                        ,3,82545,381
+Black/Rust                                        ,3,82545,382
+Grey & Blue,3,82545,383
+White/Blaireau                                    ,3,82545,384
+BLACK/GINGER                                      ,3,82545,386
+Ginger/Black                                      ,1,82545,386
+Rust Brown                                        ,3,82545,387
+Slate White                                       ,3,82545,388
+Fawn/Cream                                        ,3,82545,389
+Blue Speckled                                     ,3,82545,391
+Honey & Brown,3,82545,392
+Honey/Tan                                         ,3,82545,393
+Chocolate/Roan                                    ,3,82545,396
+Silver/White                                      ,7,82545,397
+Silver & White,3,82545,397
+White/Silver                                      ,3,82545,397
+Brown/Dark Brown                                  ,3,82545,398
+APRICOT/BLACK                                     ,3,82545,399
+Cream/Red                                         ,3,82545,400
+Gold & Black & White,3,82545,401
+Wheaten Brindle                                   ,3,82545,402
+Tan/Roan                                          ,3,82545,403
+Peach/White                                       ,3,82545,404
+Toffee                                            ,3,82545,405
+Sable Gold                                        ,3,82545,406
+Caramel & Tan,3,82545,407
+AGOUTI                                            ,3,82545,410
+Ginger & Tan,3,82545,411
+Choc/Black                                        ,3,82545,412
+Amber                                   ,2,82545,413
+Amber,1,82545,413
+Black & Ash,2,82545,414
+Red & Roan & Sable,2,82545,415
+Pale                                    ,2,82545,416
+Fawn/Gold                                         ,2,82545,417
+Fawn/Gold,1,82545,417
+Red & Grey,2,82545,418
+Red Pied                                          ,2,82545,419
+White/Amber                                       ,2,82545,420
+Chocolate/Cream                                   ,2,82545,421
+FAWN/BLUE                                         ,2,82545,422
+Red & Gold,2,82545,424
+Red/Orange                                        ,2,82545,425
+Sable & Gold,2,82545,426
+Sable Grey                                        ,2,82545,427
+Wheaten White                                     ,2,82545,429
+Tan/Ginger                                        ,2,82545,430
+Roan and Blue,2,82545,431
+Roan and Blue                                     ,1,82545,431
+Mottle                                  ,2,82545,432
+Black/Sand                                        ,2,82545,433
+Coffee/Black                                      ,2,82545,434
+Apricot/Brown                                     ,2,82545,435
+Sandy/Gold                                        ,2,82545,436
+Silver/Cream                                      ,2,82545,437
+Red Blonde                                        ,2,82545,438
+Brindle/Fawn                                      ,2,82545,439
+Gold/Brindle                                      ,2,82545,440
+Ash                                               ,2,82545,441
+Ash,1,82545,441
+Black/Blonde                                      ,2,82545,442
+Wolf Grey/Black                                   ,2,82545,443
+Red/Silver                                        ,2,82545,444
+Seal/White                                        ,2,82545,445
+Black & Bone,2,82545,446
+Red/Ginger                                        ,2,82545,448
+Mixed                                             ,2,82545,449
+Beige/Tan                                         ,2,82545,450
+Sable/Cream                                       ,2,82545,451
+Sable/Cream,1,82545,451
+White/Rust                                        ,2,82545,452
+Mahogany                                          ,2,82545,453
+Apricot Fawn                                      ,4,82545,454
+Apricot & Fawn,2,82545,454
+Red/Grey                                          ,2,82545,455
+White Biscuit                                     ,2,82545,456
+ABYSS BLUE                                        ,2,82545,457
+Mottled                                           ,2,82545,458
+Fawn/Red                                          ,2,82545,459
+Light Cream                                       ,2,82545,460
+Wheat/Red                                         ,2,82545,461
+Black/Liver                                       ,2,82545,462
+Sandy Brown                                       ,2,82545,463
+Sandy/Brown,2,82545,463
+Peach,2,82545,464
+Blonde/Brindle                                    ,2,82545,465
+Blonde/Tan                                        ,2,82545,466
+Fawn/Sable                                        ,2,82545,467
+Tan/Blonde                                        ,2,82545,468
+Pied                                              ,2,82545,469
+Gold/Fawn                                         ,2,82545,470
+Sandy/Black,2,82545,471
+Tricolour/Brown                                   ,2,82545,472
+Auburn                                  ,2,82545,473
+Auburn,1,82545,473
+Auburn                                            ,1,82545,473
+Ivory,2,82545,474
+Ivory                                             ,1,82545,474
+Brown/Tricolour                                   ,2,82545,475
+Blonde/Black                                      ,2,82545,476
+Biscuit & White,2,82545,477
+Biscuit/White                                     ,1,82545,477
+Wheaten/Black                                     ,2,82545,478
+Beige & Brindle                                   ,1,82545,479
+Charcoal/White                                    ,1,82545,480
+Thorn                                             ,1,82545,481
+Grey Sandy                                        ,1,82545,482
+Fawn/Beige                                        ,1,82545,483
+Liver/Chocolate                                   ,1,82545,484
+Silver/Fawn                                       ,1,82545,485
+Gold Tan & White,1,82545,486
+Smokey Black                                      ,1,82545,487
+Tan/Orange                                        ,1,82545,488
+Brindle/Grey                                      ,1,82545,489
+Grey/Red                                          ,1,82545,490
+Dapple Grey                                       ,1,82545,491
+Ginger/Brown,3,82545,492
+Ginger/Brown                                      ,3,82545,492
+Ginger & Brown,2,82545,492
+Brown/Ginger                                      ,1,82545,492
+Liver Roan                                        ,1,82545,493
+Grey/Sable                                        ,1,82545,494
+Maple                                             ,1,82545,495
+Beige/Gold                                        ,3,82545,496
+Beige & Golden,1,82545,496
+Red/Chocolate,1,82545,497
+Mottled Brown                                     ,1,82545,498
+BLACK/BLUE GREY                                   ,1,82545,499
+Honey Cream                                       ,1,82545,500
+Biscuit/Tan                                       ,1,82545,501
+Black/Mix                                         ,1,82545,502
+Cream/Sable                                       ,1,82545,503
+Lavender Point                                    ,1,82545,504
+Motled Grey                                       ,1,82545,505
+Beige/Cream                                       ,3,82545,506
+Beige & Cream,1,82545,506
+Orange & Brown,3,82545,507
+Brown/Orange                                      ,1,82545,507
+Orange/Brown                                      ,1,82545,507
+White/Buff                                        ,1,82545,508
+BONE                                              ,1,82545,509
+Multi-Grey                                        ,1,82545,510
+Sable/Chocolate                                   ,1,82545,511
+Rust/Tan                                          ,1,82545,512
+CHOCOLATE/LIVER                                   ,1,82545,513
+SANDY & BLACK                                     ,1,82545,514
+Silver Red                                        ,1,82545,515
+GOLD/WHT PATCH                                    ,1,82545,516
+Sable/Tricolour                                   ,1,82545,517
+White/Multi                                       ,1,82545,519
+Apricot & Champagne,1,82545,520
+Gold/Sable                                        ,1,82545,522
+Coffee/Cream                                      ,1,82545,524
+Grey Roan                                         ,1,82545,525
+Cream/Brindle                                     ,1,82545,526
+Black Grey & Brindle,1,82545,527
+Amber/White                                       ,1,82545,528
+Chocolate/Champagne                               ,1,82545,529
+BLACK/ORANGE                                      ,1,82545,530
+Orange/Black                                      ,1,82545,530
+Black/Charcoal                                    ,1,82545,531
+Brown/Silver                                      ,3,82545,533
+Brown & Silver,1,82545,533
+Brown/Silver,1,82545,533
+Ginger/Red                                        ,1,82545,534
+Red Rust                                          ,1,82545,535
+White/Dark Markings                               ,1,82545,536
+White/Cinnamon                                    ,1,82545,537
+Wolf                                              ,1,82545,538
+Blue & Brown,5,82545,539
+Blue/Brown                                        ,2,82545,539
+Blue/Brown,1,82545,539
+Brown/Blue                                        ,1,82545,539
+Yellow Red                                        ,1,82545,540
+BRINDLE/MOTTED                                    ,1,82545,541
+Rust and Black                                    ,1,82545,542
+Mixed Colours,1,82545,543
+Russet Red                                        ,1,82545,544
+Fawn/Ginger                                       ,1,82545,545
+Red & Blue,1,82545,546
+Honey & Black,1,82545,547
+Caramel & Brown                                   ,1,82545,548
+Red/Sandy                                         ,1,82545,549
+Sable/Roan                                        ,1,82545,550
+Grey/Ginger                                       ,1,82545,551
+Red Copper                                        ,1,82545,552
+Grey/Chocolate                                    ,1,82545,553
+Rhodesian Ridgeback,1,82545,554
+Fawn/Silver                                       ,1,82545,555
+Liver Brown                                       ,1,82545,556
+Chestnut & White,1,82545,557
+Light Beige                                       ,1,82545,558
+Fawn/Grey                                         ,1,82545,559
+White/Camel                                       ,1,82545,560
+Cream/Yellow                                      ,1,82545,561
+Brindle/Ginger                                    ,1,82545,562
+Dapple                                  ,1,82545,563
+Honey/Beige,1,82545,564
+Sandy/Grey                                        ,1,82545,565
+Tan/Honey                                         ,1,82545,566
+Grey/Fawn                                         ,1,82545,567
+Pink                                              ,1,82545,568
+Fawn & Brindle,1,82545,569
+Tan/Sand                                          ,1,82545,570
+Brown/Liver                                       ,1,82545,571
+White Pied                                        ,1,82545,572
+Mushroom                                ,1,82545,573
+Light Grey,1,82545,574
+Light Grey                                        ,1,82545,574
+Smokey White                                      ,1,82545,575
+Smoky                                             ,1,82545,576
+Apricot & Blonde,1,82545,577
+Wheaten Brown                                     ,1,82545,578
+Latte,1,82545,579
+Apricot Brown & White,1,82545,580
+Gold/Beige                                        ,1,82545,581
+Apricot & Grey,1,82545,582
+Reddish Fawn                            ,1,82545,583
+Tabby/White                                       ,1,82545,584
+Mahogany/White                                    ,1,82545,585
+Tin                                     ,1,82545,587
+Dark Chocolate                                    ,1,82545,588
+Honey/Brown                                       ,1,82545,589
+Coffee/White                                      ,1,82545,590
+Blonde/White                                      ,6,82545,591
+White/Blonde                                      ,1,82545,591
+White/Bone                                        ,1,82545,592
+Camel                                             ,1,82545,593
+White Copper                                      ,1,82545,594
+Tortoise Shell,1,82545,595
+WOLF/SABLE                                        ,1,82545,596
+Smokey,1,82545,597
+Red Blenheim                                      ,1,82545,598
+beige/apricot                                     ,1,82545,599
+Cream/Ginger                                      ,1,82545,600
+Ginger/Tan                                        ,1,82545,601
+Blonde/Ginger                                     ,1,82545,603
+Strawberry,1,82545,604
+Light Wheaten                                     ,1,82545,605
+Bronze                                            ,1,82545,606
+Beige Hein                                        ,1,82545,607
