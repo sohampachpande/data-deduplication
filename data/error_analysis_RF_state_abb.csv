@@ -1,0 +1,3387 @@
+,w1,w2,ground_truth,prediction
+0,michigan,alabama,0.0,0.0
+1,dallas-fort worth film critics association awards,christopher awards,0.0,0.0
+2,heusden-zolder,zandvoort,0.0,0.0
+3,pdte.,pdte,1.0,1.0
+4,new jersey,maine,0.0,0.0
+5,angola/central african republic/democratic republic of congo/kenya/republic of congo/rwanda/sudan/tanzania/uganda/zambia/(african great lakes),slovenia/yugoslavia (former),0.0,0.0
+6,north dakota,wisconsin,0.0,0.0
+7,711,923,0.0,0.0
+8,slovakia,armenia,0.0,0.0
+9,estonia,oecd members,0.0,0.0
+10,trespass,gambling,0.0,0.0
+11,lao people's democratic republic,nepal,0.0,0.0
+12,sex offenses,trespass,0.0,0.0
+13,french,new zealander,0.0,0.0
+14,beaverton - west slope,wilkes,0.0,0.0
+15,16,"1,7,8",0.0,0.0
+16,denmark,haiti,0.0,0.0
+17,human resource assistant,human resources assistant,1.0,1.0
+18,wholesale and retail trade; repair of motor vehicles and motorcycles,"public administration and defence, education, human health and social work activities",0.0,0.0
+19,utah,arizona,0.0,0.0
+20,northwest,linnton,0.0,0.0
+21,immigration counsel,immigration counsel,1.0,1.0
+22,18,"6,16,28",0.0,0.0
+23,unspecified_mix_of_hydrofluorocarbons_hfcs_and_perfluorocarbons_pfcs_emissions_in_kilotonne_co2_equivalent,carbon_dioxide_co2_emissions_without_land_use_land_use_change_and_forestry_lulucf_in_kilotonne_co2_equivalent,0.0,0.0
+24,democratic people's republic of korea,micronesia (federated states of),0.0,0.0
+25,q28lovejulia,q2age,0.0,0.0
+26,caracas,republic of korea,0.0,0.0
+27,less_sum_of_compensation_of_employees_and_property_income_to_the_rest_of_the_world,plus_taxes_less_subsidies_on_production_and_imports_from_and_to_the_rest_of_the_world_net,0.0,0.0
+28,q25langlua,q26framelearndjango,0.0,0.0
+29,nepal,el salvador,0.0,0.0
+30,ageadjrate,ageadjprev,0.0,0.0
+31,italian grand prix,brazilian grand prix,0.0,1.0
+32,ukraine,gambia,0.0,0.0
+33,belgium,estonia,0.0,0.0
+34,i-love-the-new-yorker-magazine-in-sf,ny-career-meetup,0.0,0.0
+35,united arab emirates,uruguay,0.0,0.0
+36,district of columbia,utah,0.0,0.0
+37,cloudflare-nginx,mw2103.codfw.wmnet,0.0,0.0
+38,bulgaria,thailand,0.0,0.0
+39,vice president,vice-president,1.0,1.0
+40,t15,25,0.0,0.0
+41,"3,4",25,0.0,0.0
+42,actuarial assets,securities lending fees,0.0,0.0
+43,less_subsidies_on_products,crop_and_animal_production_hunting_and_related_service_activities,0.0,0.0
+44,czechoslovakia,dutch east indies,0.0,0.0
+45,syrian arab republic,myanmar,0.0,0.0
+46,guadalajara easy taxi,riobamba,0.0,0.0
+47,990,30,0.0,0.0
+48,stolen property,offenses against family,0.0,0.0
+49,downstream_gene_variant,missense_variant,0.0,0.0
+50,"foster city, ca","foster city, ca 94404",1.0,1.0
+51,951,353,0.0,0.0
+52,senior paralegal,senior paralegal,1.0,1.0
+53,north carolina,new mexico,0.0,0.0
+54,duii,homicide,0.0,0.0
+55,taiwan province of china,netherlands,0.0,0.0
+56,eliot,montavilla,0.0,0.0
+57,gross fixed capital formation (including acquisitions less disposals of valuables),gross capital formation,0.0,0.0
+58,de,mi,0.0,0.0
+59,mt,nm,0.0,0.0
+60,latin america & caribbean,east asia & pacific,0.0,0.0
+61,language,languages,1.0,1.0
+62,namibia,switzerland,0.0,0.0
+63,sd,nh,0.0,0.0
+64,north carolina,montana,0.0,0.0
+65,de,delaware,1.0,1.0
+66,madagascar,swaziland,0.0,0.0
+67,"gambia, the",apec,0.0,0.0
+68,household consumption expenditure (including non-profit institutions serving households),gross fixed capital formation (including acquisitions less disposals of valuables),0.0,0.0
+69,beige & black,beige/black,1.0,1.0
+70,fundingmethcode2_gasb,notes_investmentreturn,0.0,0.0
+71,a1050000005zg06,a1050000002zor8,0.0,0.0
+72,geological/geophysical services,not assigned,0.0,0.0
+73,b-identifier,b-systematic,0.0,0.0
+74,ri,ky,0.0,0.0
+75,unknown cat,intact male cat,0.0,0.0
+76,cigales,sardon de duero,0.0,0.0
+77,5_prime_utr_variant,tf_binding_site_variant,0.0,0.0
+78,illinois,utah,0.0,0.0
+79,me,ms,0.0,0.0
+80,church,tourist hotel/motel,0.0,0.0
+81,ar,ne,0.0,0.0
+82,quito cabify executive,quito uberx,0.0,0.0
+83,shimin kaikan,shimin kaikan (nagoya),1.0,0.0
+84,uy,no,0.0,0.0
+85,brindle/tan,brindle & tan,1.0,1.0
+86,includes administrative and support service activities.,preliminary data based on quarterly accounts.,0.0,0.0
+87,isle of man,mauritius,0.0,0.0
+88,stop_retained_variant&3_prime_utr_variant,splice_donor_variant,0.0,0.0
+89,arc note,arc fye (check),0.0,0.0
+90,united republic of tanzania: zanzibar,uruguay,0.0,0.0
+91,market,smoothed,0.0,0.0
+92,west midlands,west midlands (region),1.0,0.0
+93,dnk,guy,0.0,0.0
+94,include real estate activities.,"includes electricity, gas, steam and air conditioning supply.",0.0,0.0
+95,pangeon,pageon,1.0,0.0
+96,benin,lao people's democratic republic,0.0,0.0
+97,private households with employed persons,"agriculture, hunting, forestry",0.0,0.0
+98,startup90,ibizafrica,0.0,0.0
+99,boxer cross,boxer cross,1.0,1.0
+100,brindle/black,black/brindle,1.0,1.0
+101,25,3,0.0,0.0
+102,east asia and the pacific,europe and central asia,0.0,0.0
+103,infousa; usda,"nvss, mortality",0.0,0.0
+104,encruzado,auxerrois,0.0,0.0
+105,06/07/2012,04/05/2012,0.0,0.0
+106,seacliff,financial district/south beach,0.0,0.0
+107,fmcg jobs,logistics jobs,0.0,0.0
+108,hi,hawaii,1.0,0.0
+109,postal service supervisors,architects,0.0,0.0
+110,turkish grand prix,malaysian grand prix,0.0,0.0
+111,gha,gha,1.0,1.0
+112,penobscot county,riley county,0.0,0.0
+113,sanl,nbrk,0.0,0.0
+114,virgin islands,vi,1.0,0.0
+115,education & learning,socializing,0.0,0.0
+116,hawaii,hi,1.0,0.0
+117,nigeria,colombia,0.0,0.0
+118,sau,pry,0.0,0.0
+119,pennsylvania,pa,1.0,0.0
+120,latvia,brunei darussalam,0.0,0.0
+121,varnishers and related painters,pawnbrokers and money lenders,0.0,0.0
+122,"5,4","3,6",0.0,0.0
+123,002g,305,0.0,0.0
+124,bhutan,belize,0.0,0.0
+125,"living standards measurement study survey (lsms), 2014","expenditure survey/budget survey (es/bs), 2007",0.0,0.0
+126,ncon,wspr,0.0,0.0
+127,layer 3 down,end,0.0,0.0
+128,minneapolis,university of california,0.0,0.0
+129,t014qe,isr,0.0,0.0
+130,jarnvallen,jeju world cup stadium,0.0,0.0
+131,politics and civic affairs services,fuels and fuel additives and lubricants and anti corrosive materials,0.0,0.0
+132,cm,5op,0.0,0.0
+133,r3z2,r1z5,0.0,0.0
+134,italian,spanish,0.0,0.0
+135,tunisia,bermuda,0.0,0.0
+136,serbia and montenegro,papua new guinea,0.0,0.0
+137,s,gpha,0.0,0.0
+138,rhode island,california,0.0,0.0
+139,layer 2 up,layer 1 down,0.0,0.0
+140,high income,samoa,0.0,0.0
+141,inverness-shire,inverness-shire,1.0,1.0
+142,e_d309,e_223,0.0,0.0
+143,mi,vacant,0.0,0.0
+144,mn,ma,0.0,0.0
+145,annual member (houston b-cycle),annual member,0.0,0.0
+146,american indian or alaska native,native hawaiian or other pacific islander,0.0,0.0
+147,nh,ak,0.0,0.0
+148,transport_storage_and_communications,health_and_social_work,0.0,0.0
+149,sme financial inclusion,health,0.0,0.0
+150,montana,new mexico,0.0,0.0
+151,public_administration_and_defence_compulsory_social_security,education,0.0,0.0
+152,e_d213,e_tca,0.0,0.0
+153,"77,78",113,0.0,0.0
+154,shih tzu cross,shih-tzu cross,1.0,1.0
+155,automotive,agribusiness,0.0,0.0
+156,z13,r2w4,0.0,0.0
+157,european languages & culture,european culture,1.0,0.0
+158,equatorial guinea,uzbekistan,0.0,0.0
+159,syc,tec,0.0,0.0
+160,540,720,0.0,0.0
+161,games,gaming,1.0,0.0
+162,india/nagaland,armenia/azerbaijan/nagorno-karabakh,0.0,0.0
+163,oregon,maine,0.0,0.0
+164,norway,yemen arab republic [former],0.0,0.0
+165,ukraine,romania,0.0,0.0
+166,china/old town,montavilla,0.0,0.0
+167,chasselas,carignan,0.0,0.0
+168,pennsylvania,nebraska,0.0,0.0
+169,ethiopia,slovenia,0.0,0.0
+170,cast,pitt,0.0,0.0
+171,macedonia,anguilla,0.0,0.0
+172,district of columbia,california,0.0,0.0
+173,massachusetts,ma,1.0,1.0
+174,madagascar,burundi,0.0,0.0
+175,nj,me,0.0,0.0
+176,sweden,new zealand,0.0,0.0
+177,hyderabad,bloemfontein,0.0,0.0
+178,india,spain,0.0,0.0
+179,3,"6,28",0.0,0.0
+180,oh,ak,0.0,0.0
+181,a1050000007r6mj,a105000000587jl,0.0,0.0
+182,frmt,hayw,0.0,0.0
+183,new york city,sacramento county,0.0,0.0
+184,"business operations specialists, all other","business operations specialists, all other*",1.0,1.0
+185,mrt,hic,0.0,0.0
+186,i-family,i-identifier,0.0,0.0
+187,new zealand,japan,0.0,0.0
+188,yemen,italy,0.0,0.0
+189,basketball court,picnic area,0.0,0.0
+190,800,1,0.0,0.0
+191,hun,cok,0.0,0.0
+192,norway,lao people's democratic republic,0.0,0.0
+193,"21,22",51,0.0,0.0
+194,lyric theatre,lyric theater,1.0,1.0
+195,senior supervising attorney,sr. supervising attorney,1.0,1.0
+196,intra,interintra,0.0,0.0
+197,bulgaria,australia,0.0,0.0
+198,percent,ratio,0.0,0.0
+199,calorie posting / re-inspection,smoke-free air act / limited inspection,0.0,0.0
+200,30,16,0.0,0.0
+201,north america,south asia,0.0,0.0
+202,crdprev,nmbr,0.0,0.0
+203,south dakota,michigan,0.0,0.0
+204,982,300,0.0,0.0
+205,nv,nevada,1.0,0.0
+206,final consumption expenditure,household consumption expenditure (including non-profit institutions serving households),0.0,0.0
+207,malta;united kingdom,bahamas,0.0,0.0
+208,barbados,congo,0.0,0.0
+209,bahrain,bahamas;united kingdom,0.0,0.0
+210,"professional, scientific and technical activities (m)",private households with employed persons (t),0.0,0.0
+211,e_d319,e_inpat,0.0,0.0
+212,management counsel,management counsel,1.0,1.0
+213,n,y,0.0,0.0
+214,exports_of_goods,npishs_final_consumption_expenditure,0.0,0.0
+215,gresham - north central,woodland park,0.0,0.0
+216,india,tajikistan,0.0,0.0
+217,vandalism,duii,0.0,0.0
+218,castle donington,styria,0.0,0.0
+219,sub-saharan africa,middle east & north africa,0.0,0.0
+220,wyoming,wy,1.0,1.0
+221,uruguay,"iran, islamic republic of",0.0,0.0
+222,1,16,0.0,0.0
+223,tinta negra mole,kuntra,0.0,0.0
+224,france,iceland,0.0,0.0
+225,impmod,reoth,0.0,0.0
+226,education,equals_value_added_gross_at_basic_prices,0.0,0.0
+227,embezzlement,burglary,0.0,0.0
+228,tanzanian shilling,tanzania shilling,1.0,1.0
+229,chairman (attorney),chairman/ attorney,1.0,1.0
+230,rwanda,papua new guinea,0.0,0.0
+231,saint kitts and nevis,maldives,0.0,0.0
+232,dalmation,dalmatian,1.0,0.0
+233,077a,017e,0.0,0.0
+234,cmr,cmr,1.0,1.0
+235,united kingdom of great britain and northern ireland,kosovo,0.0,0.0
+236,iberia parish,comal county,0.0,0.0
+237,new mexico,north carolina,0.0,0.0
+238,networkingafterworkchicago,drink-and-draw-bay,0.0,0.0
+239,advertising and pr servicessports and physical recreationbusiness services - other,advertising and pr services sports and physical recreation business services - other,1.0,1.0
+240,local30 ($11 plus tax),local365 ($80 plus tax),0.0,0.0
+241,dance hall,day care home lt 7,0.0,0.0
+242,dominican republic,ukraine,0.0,0.0
+243,rio de janeiro,irapuato,0.0,0.0
+244,connecticut,illinois,0.0,0.0
+245,pakistan,swaziland,0.0,0.0
+246,armenia,thailand,0.0,0.0
+247,venezuela (bolivarian republic of),sao tome and principe,0.0,0.0
+248,lesotho,myanmar,0.0,0.0
+249,solar_electricity,biodiesel,0.0,0.0
+250,hillsdale,cathedral park,0.0,0.0
+251,ga,mn,0.0,0.0
+252,mlbr,ftvl,0.0,0.0
+253,private households with employed persons,"water supply; sewerage, waste management and remediation activities",0.0,0.0
+254,massachusetts,texas,0.0,0.0
+255,st johns,roseway,0.0,0.0
+256,violence against civilians,violence against civilians,1.0,1.0
+257,vt,dc,0.0,0.0
+258,freeport,saint petersburg,0.0,0.0
+259,local30,restricted,0.0,0.0
+260,spiritualism,spirituality,1.0,1.0
+261,i-multiple,o,0.0,0.0
+262,dc,district of columbia,1.0,1.0
+263,bike lane sweeping,yard trimmings-storm cleanup,0.0,0.0
+264,cub,ner,0.0,0.0
+265,b-systematic,b-identifier,0.0,0.0
+266,741,932,0.0,0.0
+267,new construction,otc alterations permit,0.0,0.0
+268,vulnerable,extinct,0.0,0.0
+269,"living standards measurement study survey (lsms), 1998","core welfare indicator questionnaire survey (cwiq), 2011/12",0.0,0.0
+270,110,204,0.0,0.0
+271,retail; advertising and pr services; restaurant/food services,retailadvertising and pr servicesrestaurant/food services,1.0,1.0
+272,robbery,aggravated assault,0.0,0.0
+273,kaz,fji,0.0,0.0
+274,district of columbia,idaho,0.0,0.0
+275,eda award,bronze wrangler,0.0,0.0
+276,jerez de la frontera,kent,0.0,0.0
+277,country_02,country_01,0.0,0.0
+278,r2w2,y11a,0.0,0.0
+279,curfew,motor vehicle theft,0.0,0.0
+280,ragdoll,devon rex,0.0,0.0
+281,race,overall,0.0,0.0
+282,swaziland,guinea,0.0,0.0
+283,ouguiya,ouguiyas,1.0,1.0
+284,yugoslavia [former socialist federal republic],25,0.0,0.0
+285,layer 3 down,layer 2 up,0.0,0.0
+286,auditorium hall,auditorium theatre,1.0,0.0
+287,israel,chalkidiki,0.0,0.0
+288,luxembourg,djibouti,0.0,0.0
+289,gresham - rockwood group,lkos - oak creek,0.0,0.0
+290,social welfare,social work,1.0,0.0
+291,"includes electricity, gas, steam and air conditioning supply.",include real estate activities.,0.0,0.0
+292,korean association of film critics award,gfca award,0.0,0.0
+293,multnomah,south tabor,0.0,0.0
+294,utah,ut,1.0,0.0
+295,"8,15",42,0.0,0.0
+296,hazelwood,crstn-kenilwth,0.0,0.0
+297,civc,conc,0.0,0.0
+298,montana,mt,1.0,0.0
+299,slovakia,italy,0.0,0.0
+300,azerbaijan grand prix,san marino grand prix,0.0,0.0
+301,g,e,0.0,0.0
+302,w50,951,0.0,0.0
+303,shetland sheepdog,shetland sheep dog,1.0,1.0
+304,mining_and_quarrying,land_transport_transport_via_pipelines_water_transport_air_transport_supporting_and_auxiliary_transport_activities_activities_of_travel_agencies,0.0,0.0
+305,hungary,lebanon,0.0,0.0
+306,alo,cou,0.0,0.0
+307,special data dissemination standard (sdds),enhanced general data dissemination system (e-gdds),0.0,0.0
+308,south carolina,sc,1.0,0.0
+309,performing arts center,performing arts center (tulsa),1.0,1.0
+310,less_consumption_of_fixed_capital,plus_current_transfers_from_the_rest_of_the_world,0.0,0.0
+311,sp.reg.brth.zs,sp.reg.brth.zs,1.0,1.0
+312,tennessee,hawaii,0.0,0.0
+313,gap-filled total,weighted average,0.0,0.0
+314,gambling,stolen property,0.0,0.0
+315,arc fye (check),excel sheet,0.0,0.0
+316,london critics circle film awards,houston film critics society awards,0.0,0.0
+317,northwest hts,alameda,0.0,0.0
+318,furniture making,restaurant,0.0,0.0
+319,layer 1 down,layer 2 up,0.0,0.0
+320,laying,walking,0.0,0.0
+321,"milpitas, ca 95134","milpitas, ca 95035",1.0,1.0
+322,northwest ind,collins view,0.0,0.0
+323,business services - other,business services - otherother/not classified,1.0,1.0
+324,dog (non std),cat (non std),0.0,0.0
+325,maroondah city council,yarra ranges shire council,0.0,0.0
+326,western europe,north america,0.0,0.0
+327,nz,au,0.0,0.0
+328,orange/black,black/orange,1.0,1.0
+329,fye,georeturn_est,0.0,0.0
+330,do,cm,0.0,0.0
+331,fl,nc,0.0,0.0
+332,offenses against family,motor vehicle theft,0.0,0.0
+333,latin america and caribbean,north america,0.0,0.0
+334,rwanda,burkina faso,0.0,0.0
+335,gresham - powell valley,portsmouth,0.0,0.0
+336,co,nj,0.0,0.0
+337,joint power agreement,revenue agreements,0.0,0.0
+338,mex,tur,0.0,0.0
+339,restaurants_and_hotels,plus,0.0,0.0
+340,z02,w16a,0.0,0.0
+341,namibia,democratic republic of congo,0.0,0.0
+342,malta,australia,0.0,0.0
+343,moroccan grand prix,luxembourg grand prix,0.0,0.0
+344,warsaw,zurich,0.0,0.0
+345,oil_shale_oil_sands,other_bituminous_coal,0.0,0.0
+346,belly-dance,bellydance-dance-belly-dancing,1.0,1.0
+347,connecticut,minnesota,0.0,0.0
+348,fl,va,0.0,0.0
+349,green valley,friendsville,0.0,0.0
+350,ross-shire,ross-shire,1.0,1.0
+351,inactivenonvested,phaseintype,0.0,0.0
+352,oh,il,0.0,0.0
+353,uganda,"egypt, arab republic of",0.0,0.0
+354,bi-weekly,bi,1.0,1.0
+355,"1,69","57,65,182",0.0,0.0
+356,delaware,boston,0.0,0.0
+357,miscellaneous,institution building,0.0,0.0
+358,alabama,colorado,0.0,0.0
+359,"montgomery, oh","montgomery, oh 45242",1.0,1.0
+360,"kilowatt-hours, million","metric tons,  thousand",0.0,0.0
+361,tmo,kov,0.0,0.0
+362,egham,athens,0.0,0.0
+363,delicatessen,greek,0.0,0.0
+364,south tabor,multnomah,0.0,0.0
+365,ireland;isle of man,argentina;bahamas,0.0,0.0
+366,zwe,qat,0.0,0.0
+367,imn;che,dom;mex;esp,0.0,0.0
+368,00646-6711,00908-3862,0.0,0.0
+369,rtd,ko,0.0,0.0
+370,drugs,liquor laws,0.0,0.0
+371,south asia,north america,0.0,0.0
+372,propertyau,property,1.0,1.0
+373,"richardson, tx","richardson, tx 75082",1.0,1.0
+374,phil,glen,0.0,0.0
+375,normal,ghost,0.0,0.0
+376,black/sable,sable/black,1.0,1.0
+377,tape recorder,piano,0.0,0.0
+378,si,hu,0.0,0.0
+379,sylvaner,corvina,0.0,0.0
+380,united kingdom,qatar,0.0,0.0
+381,arkansas,ar,1.0,1.0
+382,central african republic,brazil,0.0,0.0
+383,real estate/property management business services - other other/not classified,real estate/property management;business services - other;other/not classified,1.0,1.0
+384,haiti,syria,0.0,0.0
+385,tanzania,tajikistan,0.0,0.0
+386,dbrk,sfia,0.0,0.0
+387,ast1_1,ovc7_1,0.0,0.0
+388,greece,kiribati,0.0,0.0
+389,somalia,zimbabwe,0.0,0.0
+390,syr,mne,0.0,0.0
+391,turkmenistan,moldova,0.0,0.0
+392,africa,papunesia,0.0,0.0
+393,08/03/2013,06/05/2011,0.0,0.0
+394,group d,play-off for third place,0.0,0.0
+395,yrbss,legal research,0.0,0.0
+396,senior associate attorney,sr. associate attorney,1.0,1.0
+397,litas,litas,1.0,1.0
+398,rel,preoth,0.0,0.0
+399,dalmation x,dalmatian x,1.0,1.0
+400,balance_of_payments_reserves_and_related_items,other_financial_corporations_other_banking_nonbank_financial_institutions_increase_in_total_assets,0.0,0.0
+401,r2w1,r1y1,0.0,0.0
+402,hillsdale,cully,0.0,0.0
+403,15,estonia,0.0,0.0
+404,south san francisco,west chicago,0.0,0.0
+405,"basking ridge, nj","basking ridge, nj 07920",1.0,1.0
+406,gross_capital_formation,exports_of_goods_and_services,0.0,0.0
+407,kiribati,israel,0.0,0.0
+408,ind,tza,0.0,0.0
+409,denmark,nigeria,0.0,0.0
+410,ftvl,cast,0.0,0.0
+411,guam,new york,0.0,0.0
+412,brooklyn,kerns,0.0,0.0
+413,bridgeton,hosfrd-abrnethy,0.0,0.0
+414,phoenix,idaho,0.0,0.0
+415,france,dominican republic,0.0,0.0
+416,connecticut,ct,1.0,0.0
+417,kurhaus-saal,kurhaus,1.0,0.0
+418,"integrated household survey (ihs), 2011","1-2-3 survey (1-2-3), 2012/13",0.0,0.0
+419,s03,l05,0.0,0.0
+420,alaska,arizona,0.0,0.0
+421,961,981,0.0,0.0
+422,belarus,vanuatu,0.0,0.0
+423,georgia,st kitts and nevis,0.0,0.0
+424,north tabor,sunnyside,0.0,0.0
+425,7e,ec,0.0,0.0
+426,fishing_b,agriculture_hunting_and_related_service_activities_01,0.0,0.0
+427,russian rouble,russian ruble,1.0,1.0
+428,d.9,d.2-d.3,0.0,0.0
+429,cameroon,canada,0.0,0.0
+430,balinese,domestic shorthair/british shorthair,0.0,0.0
+431,robbery,homicide,0.0,0.0
+432,bwa,lby,0.0,0.0
+433,north carolina,texas,0.0,0.0
+434,orpheum theatre,orpheus hall,1.0,0.0
+435,red/white,red & white,1.0,1.0
+436,oman,turks and caicos islands,0.0,0.0
+437,private households with employed persons,construction,0.0,0.0
+438,il,us,0.0,0.0
+439,american,jewish/kosher,0.0,0.0
+440,mississippi,texas,0.0,0.0
+441,exports_of_goods_and_services,gross_capital_formation,0.0,0.0
+442,level dollarclosed,level dollar closed,1.0,1.0
+443,kuwait,lithuania,0.0,0.0
+444,sl,6l,0.0,0.0
+445,botswana,"china, people's republic of",0.0,0.0
+446,jampal,trebbiano spoletino,0.0,0.0
+447,nm,ak,0.0,0.0
+448,tan & brown,brown/tan,1.0,1.0
+449,ljubljana,barcelona,0.0,0.0
+450,warm,conc,0.0,0.0
+451,80,71,0.0,0.0
+452,trinidad and tobago,philippines,0.0,0.0
+453,aerospace and defense; government and military,aerospace and defensegovernment and military,1.0,1.0
+454,financial intermediation,manufacturing,0.0,0.0
+455,forlì,alto valle de uco,0.0,0.0
+456,va,virginia,1.0,0.0
+457,pakistan,24,0.0,0.0
+458,lebanon,uzbekistan,0.0,0.0
+459,port phillip city council,casey city council,0.0,0.0
+460,french language lovers; french language;,french language,1.0,1.0
+461,bagged litter,yard trimming,0.0,0.0
+462,508,930,0.0,0.0
+463,black or african american,american indian or alaska native,0.0,0.0
+464,car wash,library,0.0,0.0
+465,mont,orin,0.0,0.0
+466,new mexico,nm,1.0,0.0
+467,retailrental servicesrestaurant/food services,retail; rental services; restaurant/food services,1.0,1.0
+468,e_102,e_hor,0.0,0.0
+469,o,i-multiple,0.0,0.0
+470,sudan,bulgaria,0.0,0.0
+471,financial and insurance activities (k),forestry and logging (02),0.0,0.0
+472,median,average annual number,0.0,0.0
+473,plus_statistical_discrepancy,collective_consumption_expenditure,0.0,0.0
+474,bmu;vgb;che,cym;tha,0.0,0.0
+475,vp of operations,vp operations,1.0,0.0
+476,i-family,b-no class,0.0,0.0
+477,z14,r4y1,0.0,0.0
+478,"ice cream, gelato, yogurt, ices",tex-mex,0.0,0.0
+479,gambling,forgery,0.0,0.0
+480,pleasant valley,arnold creek,0.0,0.0
+481,353,951,0.0,0.0
+482,vt,vermont,1.0,0.0
+483,nc,wa,0.0,0.0
+484,electricity_gas_steam_and_air_conditioning_supply,private_households_with_employed_persons,0.0,0.0
+485,570,680,0.0,0.0
+486,jo,gu,0.0,0.0
+487,closed,active,0.0,0.0
+488,cayman islands,germany,0.0,0.0
+489,vp operations,vp of operations,1.0,0.0
+490,ahmedabad,johannesburg,0.0,0.0
+491,sn,be,0.0,0.0
+492,dwrw,irvington,0.0,0.0
+493,runaway,fraud,0.0,0.0
+494,jsa/prsp and jsa/i-prsp,partnership,0.0,0.0
+495,management counsel,management counsel,1.0,1.0
+496,"blacksmiths, hammersmiths, and forging-press workers",production supervisors and general foremen,0.0,0.0
+497,ireland,cyprus,0.0,0.0
+498,managing paralegal,managing paralegal,1.0,1.0
+499,china pr,norway,0.0,0.0
+500,zaf,ind,0.0,0.0
+501,preoth,rel,0.0,0.0
+502,560,w50,0.0,0.0
+503,east asia & pacific (excluding high income),papua new guinea,0.0,0.0
+504,north carolina,nc,1.0,0.0
+505,322,underc,0.0,0.0
+506,equals: gross domestic product,plus: taxes less subsidies on products,0.0,0.0
+507,disk,medic,0.0,0.0
+508,aggravated assault,liquor laws,0.0,0.0
+509,ca-dvbe ca-sb cdvbe dbe sb sdvosb,ca-dvbe cdvbe,0.0,0.0
+510,inhouse - recycling,recycling,0.0,0.0
+511,"16,22","9,10",0.0,0.0
+512,wy,tn,0.0,0.0
+513,r3z2,r1y6,0.0,0.0
+514,murabaha,school finance,0.0,0.0
+515,north korea/united states of america,iraq/united states of america,0.0,1.0
+516,professional_scientific_and_technical_activities,less_financial_intermediation_services_indirectly_measured_fisim,0.0,0.0
+517,r2x4,r1x6,0.0,0.0
+518,871,tu,0.0,0.0
+519,tajikistan,tanzania,0.0,0.0
+520,mongolia,côte d'ivoire,0.0,0.0
+521,blue & silver,blue and silver,1.0,0.0
+522,health,plus_direct_purchases_abroad_by_residents,0.0,0.0
+523,sex offenses,rape,0.0,0.0
+524,lc,cs,0.0,0.0
+525,a1050000000qbwq,a1050000003vzue,0.0,0.0
+526,me,maine,1.0,0.0
+527,caesars palace grand prix,hungarian grand prix,0.0,0.0
+528,fer servadou,"corvina, rondinella, molinara",0.0,0.0
+529,french grand prix,japanese grand prix,0.0,0.0
+530,video description,equipment,0.0,0.0
+531,wi,nc,0.0,0.0
+532,laos,morocco,0.0,0.0
+533,availability,speed,0.0,0.0
+534,muscat of patras,pitsilia mountains,0.0,0.0
+535,cream/black,black/cream,1.0,1.0
+536,971,951,0.0,0.0
+537,montreal protocol,institutional development fund,0.0,0.0
+538,uruguay,central africa,0.0,0.0
+539,art1_3,npaw13_1,0.0,0.0
+540,951,971,0.0,0.0
+541,pv of inactive vested benefits,required contribution,0.0,0.0
+542,tech,outdoors & adventure,0.0,0.0
+543,tanzania shilling,tanzanian shilling,1.0,1.0
+544,nillumbik shire council,moorabool shire council,0.0,0.0
+545,fishing_and_aquaculture,administrative_and_support_service_activities,0.0,0.0
+546,"water supply; sewerage, waste management and remediation activities (e)",accommodation and food service activities (i),0.0,0.0
+547,sable brown,sable/brown,1.0,0.0
+548,arkansas,ar,1.0,1.0
+549,yr,year,1.0,0.0
+550,bachelor's,doctorate,0.0,0.0
+551,nh,new hampshire,1.0,0.0
+552,plus_capital_transfers_from_the_rest_of_the_world,plus_sum_of_compensation_of_employees_and_property_income_from_the_rest_of_the_world,0.0,0.0
+553,latvia,denmark,0.0,0.0
+554,freelancer,architect,0.0,0.0
+555,hungary,switzerland,0.0,0.0
+556,"refers to transportation, storage, postal and courier services.",data for this year refers to provisional data.,0.0,0.0
+557,australian silky terrier cross,australian silky terrier cross,1.0,1.0
+558,op,30,0.0,0.0
+559,win_a,draw,0.0,0.0
+560,footnote_seqid,20,0.0,0.0
+561,san diego,west virginia,0.0,0.0
+562,colorado,illinois,0.0,0.0
+563,yeongam county,brussels,0.0,0.0
+564,hawaii,montana,0.0,0.0
+565,com'l,rear unit,0.0,0.0
+566,powelhst-gilbrt,northwest ind,0.0,0.0
+567,others,mining,0.0,0.0
+568,nc,mt,0.0,0.0
+569,president/ alcc,president/alcc,1.0,1.0
+570,less_subsidies_on_products,hotels_and_restaurants,0.0,0.0
+571,industrials,consumer staples,0.0,0.0
+572,nicaragua,thailand,0.0,0.0
+573,uruguay,dominica,0.0,0.0
+574,farming and fishing and forestry and wildlife machinery and accessories,commercial and military and private vehicles and their accessories and components,0.0,0.0
+575,income_interestanddividends,normcostrate_ee,0.0,0.0
+576,w21,962,0.0,0.0
+577,ma,mt,0.0,0.0
+578,chicago heights,chicago,0.0,0.0
+579,us,mx,0.0,0.0
+580,schnauzer (giant),schnauzer giant,1.0,1.0
+581,agriculture_forestry_and_fishing,accommodation_and_food_service_activities,0.0,0.0
+582,gin,alb,0.0,0.0
+583,family,language,0.0,0.0
+584,ovc8_0,alc6_0,0.0,0.0
+585,st johns,gresham - rockwood group,0.0,0.0
+586,layer 3 up,layer 1 up,0.0,0.0
+587,mi,tn,0.0,0.0
+588,cabo verde,trinidad and tobago,0.0,0.0
+589,moldova,panama,0.0,0.0
+590,contrib_ee_regular,totmembership,0.0,0.0
+591,samoyed cross,samoyed cross,1.0,1.0
+592,activespaces,nestnairobi,0.0,0.0
+593,"4,9","7,9",0.0,0.0
+594,writing,write,1.0,0.0
+595,transport conductors,building and related electricians,0.0,0.0
+596,w51,932,0.0,0.0
+597,fishing_and_aquaculture,human_health_and_social_work_activities,0.0,0.0
+598,gray,blue,0.0,0.0
+599,bangladesh,st pierre & miquelon,0.0,0.0
+600,office manager,office manager,1.0,1.0
+601,new jersey,georgia,0.0,0.0
+602,vocational education teachers postsecondary,"vocational education teachers, postsecondary",1.0,1.0
+603,chinese/japanese,bangladeshi,0.0,0.0
+604,lambrusco di modena,geographe,0.0,0.0
+605,south dakota,wyoming,0.0,0.0
+606,self-employed wihout any employee,worked for private establishment,0.0,0.0
+607,t05,j10,0.0,0.0
+608,sumner,powelhst-gilbrt,0.0,0.0
+609,slovakia,georgia,0.0,0.0
+610,ssp,hnl,0.0,0.0
+611,arts_entertainment_and_recreation,memorandum_item_fisim_if_distributed_to_uses,0.0,0.0
+612,austin,montgomery county,0.0,0.0
+613,hosfrd-abrnethy,eastmoreland,0.0,0.0
+614,marshall park,brentwd-darlngt,0.0,0.0
+615,cameroon,poland,0.0,0.0
+616,china,south africa,0.0,0.0
+617,average annual age-adjusted rate,number,0.0,0.0
+618,mw2257.codfw.wmnet,nginx/1.10.0,0.0,0.0
+619,b-family,i-trivial,0.0,0.0
+620,try before you buy special,annual (boulder b-cycle),0.0,0.0
+621,automotive retail,hypermarkets & super centers,0.0,0.0
+622,irvington,eastmoreland,0.0,0.0
+623,ca,nj,0.0,0.0
+624,cym;prt,imn;are,0.0,0.0
+625,a1050000006tr3k,a1050000002zoqt,0.0,0.0
+626,plus_taxes_less_subsidies_on_production_and_imports_from_and_to_the_rest_of_the_world_net,less_sum_of_compensation_of_employees_and_property_income_to_the_rest_of_the_world,0.0,0.0
+627,washington,california,0.0,0.0
+628,chile,oman,0.0,0.0
+629,00960-3194,00902-1244,0.0,0.0
+630,9,"15,25",0.0,0.0
+631,senior partner,sr. staff attorney,1.0,0.0
+632,lr,dz,0.0,0.0
+633,interintra,intra,0.0,0.0
+634,convention and conference services,elevator maintenance,0.0,0.0
+635,wk,week,1.0,0.0
+636,saint vincent and the grenadines,romania,0.0,0.0
+637,weapons,offenses against family,0.0,0.0
+638,japanese,monegasque,0.0,0.0
+639,mi,ia,0.0,0.0
+640,somalia,azerbaijan,0.0,0.0
+641,axis-bni,black-girls-read-book-club,0.0,0.0
+642,new york,south carolina,0.0,0.0
+643,amsterdam,madrid,0.0,0.0
+644,vice-president,vice president,1.0,1.0
+645,western heritage awards,"academy of science fiction, fantasy & horror films, usa",0.0,0.0
+646,verdelho,pugnitello,0.0,0.0
+647,estonia,15,0.0,0.0
+648,duii,burglary,0.0,0.0
+649,r1x5,r1w5,0.0,0.0
+650,kenya,bosnia and herzegovina,0.0,0.0
+651,yem,yem,1.0,1.0
+652,older adults,arthritis,0.0,0.0
+653,vgb;imn;che;gbr,bmu;nzl,0.0,0.0
+654,tajikistan,andorra,0.0,0.0
+655,ireland,cyprus,0.0,0.0
+656,bdi,bdi,1.0,1.0
+657,841,630,0.0,0.0
+658,all other outpatient care centers,"all other professional, scientific, and technical services",0.0,0.0
+659,northwest,mill park,0.0,0.0
+660,grey/white,grey /white,1.0,1.0
+661,cathedral park,homestead,0.0,0.0
+662,other_recovered_gases,other_liquid_biofuels,0.0,0.0
+663,dir,nas,0.0,0.0
+664,maldives,saint kitts and nevis,0.0,0.0
+665,taiwan,yugoslavia,0.0,0.0
+666,american wirehair,manx,0.0,0.0
+667,ut,utah,1.0,0.0
+668,453,923,0.0,0.0
+669,sierra leone,antigua and barbuda,0.0,0.0
+670,e columbia,russell,0.0,0.0
+671,turkey,serbia,0.0,0.0
+672,arnold creek,bridlemile,0.0,0.0
+673,ross-shire,ross-shire,1.0,1.0
+674,lv,da,0.0,0.0
+675,no,nl,0.0,0.0
+676,education_health_and_social_work_other_community_social_and_personal_services,agriculture_hunting_forestry_fishing,0.0,0.0
+677,mâcon-prissé,rías baixas,0.0,0.0
+678,"round rock, tx","round rock, tx 78682",1.0,1.0
+679,mali,lithuania,0.0,0.0
+680,fiscal intermediaries,contracting for students,0.0,0.0
+681,ks,ok,0.0,0.0
+682,seychelles,eritrea,0.0,0.0
+683,iowa,ia,1.0,0.0
+684,siamese/domestic shorthair,bombay,0.0,0.0
+685,cabo verde,15,0.0,0.0
+686,paraguay,bermuda,0.0,0.0
+687,da,lv,0.0,0.0
+688,"expenditure survey/budget survey (es/bs), 1998","integrated household survey (ihs), 2008/09",0.0,0.0
+689,financial_corporations_survey_banking_survey_capital_and_unclassified_liabilities,depository_corporations_survey_monetary_survey_liabilities_included_in_the_definition_of_quasi_money,0.0,0.0
+690,chardonnay,meritage,0.0,0.0
+691,sierra leone,papua new guinea,0.0,0.0
+692,cully,hillsdale,0.0,0.0
+693,au,sg,0.0,0.0
+694,nigeria,norway,0.0,0.0
+695,pal,dig,0.0,0.0
+696,neza,el monumental - estadio monumental antonio vespuci,0.0,0.0
+697,indonesia,thailand,0.0,0.0
+698,ohio,oh,1.0,0.0
+699,kosovo,united kingdom of great britain and northern ireland,0.0,0.0
+700,plus: statistical discrepancy,financial and insurance activities,0.0,0.0
+701,fin,che,0.0,0.0
+702,imports of goods,exports of services,0.0,0.0
+703,overarching conditions,tobacco,0.0,0.0
+704,"own use, tubed/piped deep well",peddler,0.0,0.0
+705,a104,lower,0.0,0.0
+706,prosecco di valdobbiadene superiore,san luis obispo,0.0,0.0
+707,brown,white,0.0,0.0
+708,remote violence,remote violence,1.0,1.0
+709,virginia,va,1.0,0.0
+710,malaysia,italy,0.0,0.0
+711,retailadvertising and pr services,retail; advertising and pr services,1.0,1.0
+712,illinois,south dakota,0.0,0.0
+713,941,540,0.0,0.0
+714,administrator,admin.,1.0,0.0
+715,danish krone,danish krone,1.0,1.0
+716,other_financial_corporations_other_banking_nonbank_financial_institutions_reserves,balance_of_payments_export_prices,0.0,0.0
+717,eola-amity hills,gigondas,0.0,0.0
+718,louisiana,oklahoma,0.0,0.0
+719,usilaw inc.,"usilaw, inc",1.0,0.0
+720,central africa republic,monaco,0.0,0.0
+721,nigeria,argentina,0.0,0.0
+722,spr,e_tcash2,0.0,0.0
+723,tuvalu,egypt,0.0,0.0
+724,autodialed live voice call,email,0.0,0.0
+725,tx,co,0.0,0.0
+726,benin,botswana,0.0,0.0
+727,central african republic/chad/sudan/(darfur),iraq/kurds-kurdistan,0.0,0.0
+728,"transport, storage and communication (isic i)","wholesale, retail trade, restaurants and hotels (isic g-h)",0.0,0.0
+729,constr type 2,wood frame (5),0.0,0.0
+730,slovenia,romania,0.0,0.0
+731,841,520,0.0,0.0
+732,directory and mailing list publishers,securities brokerage,0.0,0.0
+733,san marino,tanzania - mainland,0.0,0.0
+734,mississippi,massachusetts,0.0,0.0
+735,roseway,st johns,0.0,0.0
+736,street cleaning-blvd,dead animal,0.0,0.0
+737,crafts,craft classes,1.0,0.0
+738,bayf,wdub,0.0,0.0
+739,la,sc,0.0,0.0
+740,d.4,b.8n,0.0,0.0
+741,bhr,rus,0.0,0.0
+742,338,640,0.0,0.0
+743,fitness,hobbies & crafts,0.0,0.0
+744,real estate activities,"wholesale and retail trade, transportation and storage, accommodation and food service activities",0.0,0.0
+745,less_acquisitions_less_disposals_of_non_produced_non_financial_assets,equals_net_lending_net_borrowing_of_the_nation,0.0,0.0
+746,00623-0000,00919-5206,0.0,0.0
+747,forestry_logging_and_related_service_activities,transport_storage_and_communications,0.0,0.0
+748,education_health_and_social_work_other_community_social_and_personal_services_m_n_o,mining_and_quarrying_c,0.0,0.0
+749,north america,western europe,0.0,0.0
+750,oklahoma,south carolina,0.0,0.0
+751,bmu;che,bhs;gbr,0.0,0.0
+752,22,590,0.0,0.0
+753,nv,nevada,1.0,0.0
+754,myanmar,turks and caicos islands,0.0,0.0
+755,total disability benefits,administering govt level,0.0,0.0
+756,malaysia,switzerland,0.0,0.0
+757,wi,ne,0.0,0.0
+758,d210,rvr,0.0,0.0
+759,shimin kaikan (nagoya),shimin kaikan,1.0,0.0
+760,03/06/2011,20/05/2011,0.0,0.0
+761,annual membership (austin b-cycle),local365+guest pass,0.0,0.0
+762,mining and well drilling machinery and accessories,live plant and animal material and accessories and supplies,0.0,0.0
+763,louisiana,pennsylvania,0.0,0.0
+764,yard trimmings,litter control,0.0,0.0
+765,cs,lc,0.0,0.0
+766,b-no class,b-multiple,0.0,0.0
+767,nepal,democratic republic of congo/uganda,0.0,0.0
+768,poodle miniature,poodle (miniature),1.0,1.0
+769,oklahoma,florida,0.0,0.0
+770,fraud,sex offenses,0.0,0.0
+771,northern mariana islands,mp,1.0,1.0
+772,cbx,gam,0.0,0.0
+773,offices of dentists,beverage manufacturing,0.0,0.0
+774,mad,qcn,0.0,0.0
+775,ua,yf,0.0,0.0
+776,kenya,argentina,0.0,0.0
+777,washington,illinois,0.0,0.0
+778,sh,550,0.0,0.0
+779,hawaiian,hotdogs,0.0,0.0
+780,public assmbly other,automobile sales,0.0,0.0
+781,israel,kiribati,0.0,0.0
+782,refers to agriculture and fishing only.,includes accommodation and food service activities.,0.0,0.0
+783,immigration paralegal,immigration paralegal,1.0,1.0
+784,"oboe d'amore, english horn",virginal,0.0,0.0
+785,uzbekistan,norway,0.0,0.0
+786,greenhouse_gas_ghgs_emissions_without_land_use_land_use_change_and_forestry_lulucf_in_kilotonne_co2_equivalent,methane_ch4_emissions_without_land_use_land_use_change_and_forestry_lulucf_in_kilotonne_co2_equivalent,0.0,1.0
+787,fiji,philippines,0.0,0.0
+788,attorney for employer,attorney for employer,1.0,1.0
+789,layer 1 down,layer 2 up,0.0,0.0
+790,faroe islands,nan,0.0,0.0
+791,statewide central cancer registries,acs 5-year estimates,0.0,0.0
+792,velodrome municipale,tunavallen,0.0,0.0
+793,ca-dvbe ca-mb ca-sb ca-sbe cdvbe dbe mbe sb sbasdb sdvosb,ca-sb ca-sbe mbe mosb sb wbe,0.0,0.0
+794,vienna,copenhagen,0.0,0.0
+795,homicide,disorderly conduct,0.0,0.0
+796,vt,vermont,1.0,0.0
+797,indiana,in,1.0,0.0
+798,idaho,id,1.0,0.0
+799,e_pr,e_t,0.0,0.0
+800,r1w3,r1x7,0.0,0.0
+801,morphological id b. res. associate,morphological id by res. associate,1.0,1.0
+802,malta,kyrgyzstan,0.0,0.0
+803,lgbt,singles,0.0,0.0
+804,op,141,0.0,0.0
+805,ncon,rock,0.0,0.0
+806,portugal,luxembourg,0.0,0.0
+807,isle of wight,isle of wight,1.0,1.0
+808,balance_of_payments_unit_value_of_exports,other_depository_corporations_deposit_money_banks_capital_and_unclassified_liabilities,0.0,0.0
+809,madeleine angevine,listán negro,0.0,0.0
+810,mh,marshall islands,1.0,0.0
+811,new hampshire,nh,1.0,0.0
+812,retail,adult care,0.0,0.0
+813,"partner, baird holm llp",partner of the firm,1.0,0.0
+814,"5,3","11,5",0.0,0.0
+815,egy,rwa,0.0,0.0
+816,bogotá uberangel,barranquilla,0.0,0.0
+817,pomeranian cross,pomeranian cross,1.0,1.0
+818,iowa,oklahoma,0.0,0.0
+819,116,300,0.0,0.0
+820,russian rouble,russian ruble,1.0,1.0
+821,tjk,zaf,0.0,0.0
+822,prep,starting,0.0,0.0
+823,ukraine,croatia,0.0,0.0
+824,tn,ct,0.0,0.0
+825,golden satellite award,aacta international award,0.0,0.0
+826,623,032f,0.0,0.0
+827,mont,ftvl,0.0,0.0
+828,funeral homes and funeral services,social advocacy organizations,0.0,0.0
+829,wisconsin,north dakota,0.0,0.0
+830,paraguay,costa rica,0.0,0.0
+831,mn,ma,0.0,0.0
+832,jam,jam,1.0,1.0
+833,korea republic,brazil,0.0,0.0
+834,m06,p01,0.0,0.0
+835,parking,comml-1,0.0,0.0
+836,bayside city council,monash city council,0.0,0.0
+837,barcelona,ljubljana,0.0,0.0
+838,stolen property,rape,0.0,0.0
+839,new hampshire,nevada,0.0,0.0
+840,georgia,hawaii,0.0,0.0
+841,american-italian,swedish,0.0,0.0
+842,slovakia,armenia,0.0,0.0
+843,mys,bhs,0.0,0.0
+844,hillside,multnomah,0.0,0.0
+845,300,712,0.0,0.0
+846,layer 2 down,end,0.0,0.0
+847,00804-0190,96931-5596,0.0,0.0
+848,v,iii,0.0,0.0
+849,colm,frmt,0.0,0.0
+850,bm,mg,0.0,0.0
+851,trupti n. patel & associates,trupti n. patel & associates,1.0,1.0
+852,solomon islands,slovenia,0.0,0.0
+853,uruguay,nigeria,0.0,0.0
+854,alabama,al,1.0,0.0
+855,mozambique,united kingdom,0.0,0.0
+856,lby,bwa,0.0,0.0
+857,liquor laws,offenses against family,0.0,0.0
+858,somalia,guyana,0.0,0.0
+859,eyravallen,stanford stadium,0.0,0.0
+860,ba,gp,0.0,0.0
+861,ky,kentucky,1.0,1.0
+862,romania,ukraine,0.0,0.0
+863,nì_rburg,anderstorp,0.0,0.0
+864,blue/grey,blue & grey,1.0,1.0
+865,npaw5_2,tob10_0,0.0,0.0
+866,co,ks,0.0,0.0
+867,turkey,croatia,0.0,0.0
+868,y12a,x16a,0.0,0.0
+869,moschofilero,tinta amarela,0.0,0.0
+870,26/04/2013,14/01/2011,0.0,0.0
+871,tajikistan,somalia,0.0,0.0
+872,uz,mm,0.0,0.0
+873,virginia,texas,0.0,0.0
+874,gresham - southwest gresh,buckman-west,0.0,0.0
+875,order,forma,0.0,0.0
+876,ball field,dog play area,0.0,0.0
+877,"6,9","10,8",0.0,0.0
+878,runaway,drugs,0.0,0.0
+879,grenada,nigeria,0.0,0.0
+880,850,530,0.0,0.0
+881,sbrn,19th,0.0,0.0
+882,stolen property,robbery,0.0,0.0
+883,maldives,georgia,0.0,0.0
+884,09263-0006,00841-1185,0.0,0.0
+885,sum_of_compensation_of_employees_and_property_income_from_and_to_the_rest_of_the_world_net,plus_statistical_discrepancy,0.0,0.0
+886,mdl,gel,0.0,0.0
+887,48,78,0.0,0.0
+888,changes in inventories,final consumption expenditure,0.0,0.0
+889,me,ak,0.0,0.0
+890,myanmar,grenada,0.0,0.0
+891,eastmoreland,neighbors sw,0.0,0.0
+892,"chicago, il 60606","chicago, il",1.0,1.0
+893,"5,8",32,0.0,0.0
+894,tur;usa,ken,0.0,0.0
+895,antigua barbuda,united states minor outlying islands,0.0,0.0
+896,laos,chad,0.0,0.0
+897,saint kitts and nevis,jordan,0.0,0.0
+898,memorandum_item_fisim_if_distributed_to_uses,plus_taxes_on_products,0.0,0.0
+899,21,footnote_seqid,0.0,0.0
+900,red & brown,red/brown,1.0,1.0
+901,fishing and aquaculture,administrative and support service activities,0.0,0.0
+902,other_coal_products,fuel_oil,0.0,0.0
+903,sg,it,0.0,0.0
+904,ic.gov.durs.zs,iq.wef.port.xq,0.0,0.0
+905,prkng garage/private,day care home gt 12,0.0,0.0
+906,dog,other,0.0,0.0
+907,dwrw,gresham - gresham butte,0.0,0.0
+908,eth,svn,0.0,0.0
+909,mco,jey;gbr,0.0,0.0
+910,north dakota,mississippi,0.0,0.0
+911,netherlands,ghana,0.0,0.0
+912,10,greece,0.0,0.0
+913,curacao,turkmenistan,0.0,0.0
+914,china,cn,1.0,0.0
+915,japan,guatemala,0.0,0.0
+916,south africa,serbia,0.0,0.0
+917,chad,slovenia,0.0,0.0
+918,cn,lc,0.0,0.0
+919,africa (excl mena),asia and pacific,0.0,0.0
+920,euro,euro,1.0,1.0
+921,prk,prk,1.0,1.0
+922,ne,pa,0.0,0.0
+923,sp.dyn.conu.zs,sp.dyn.conu.zs,1.0,1.0
+924,hungary,russia,0.0,0.0
+925,usa,algeria,0.0,0.0
+926,932,730,0.0,0.0
+927,inter-agency task force / initial inspection,pre-permit (operational) / reopening inspection,0.0,0.0
+928,04e,02f,0.0,0.0
+929,hi,hawaii,1.0,0.0
+930,lcp,kzc,0.0,0.0
+931,vermont,idaho,0.0,0.0
+932,games,gaming,1.0,0.0
+933,poison,steel,0.0,0.0
+934,"income survey (is), 2012","living standards measurement study survey (lsms), 2010/11",0.0,0.0
+935,retailtelecommunications servicesbusiness services - other,retail telecommunications services business services - other,1.0,1.0
+936,"director, isss","director, intl student and scholar services",1.0,1.0
+937,special project bu,kab,0.0,0.0
+938,monterrey,atlantic city,0.0,0.0
+939,pg,dk,0.0,0.0
+940,mozambique,52,0.0,0.0
+941,at,nl,0.0,0.0
+942,rural conflict zone,village bank,0.0,0.0
+943,120,972,0.0,0.0
+944,tek,pirl,0.0,0.0
+945,co,colorado,1.0,1.0
+946,nyfcc award,britannia award,0.0,0.0
+947,deln,conc,0.0,0.0
+948,frameshift_variant&stop_retained_variant,intron_variant,0.0,0.0
+949,mining_manufacturing_utilities_isic_c_e,transport_storage_and_communication_isic_i,0.0,0.0
+950,egypt,tuvalu,0.0,0.0
+951,partner/attorney of record,pastor,1.0,0.0
+952,sfia,lake,0.0,0.0
+953,tkm,mwi,0.0,0.0
+954,foster-powell,marshall park,0.0,0.0
+955,r2y2,x02,0.0,0.0
+956,ne,nj,0.0,0.0
+957,general public services,public order and safety,0.0,0.0
+958,south of market,lincoln park,0.0,0.0
+959,weapons,"assault, simple",0.0,0.0
+960,"assault, simple",embezzlement,0.0,0.0
+961,rhode island,kern county,0.0,0.0
+962,manufacturing - otherfood and beverage production,manufacturing - other;food and beverage production,1.0,1.0
+963,forgery,gambling,0.0,0.0
+964,"coastal conservancy, state","child support services, department of",0.0,0.0
+965,housing,arts,0.0,0.0
+966,161,1,0.0,0.0
+967,i-trivial,b-systematic,0.0,0.0
+968,idaho,id,1.0,0.0
+969,utah,ut,1.0,0.0
+970,alabama,al,1.0,0.0
+971,attorney mountain states employers council,"attorney, mountain states employers council",1.0,1.0
+972,west virginia,iowa,0.0,0.0
+973,slovakia,belarus,0.0,0.0
+974,pr,ne,0.0,0.0
+975,466,927,0.0,0.0
+976,grand prize,cine golden eagle,0.0,0.0
+977,00919-5166,00719-0000,0.0,0.0
+978,jordan,former yugoslavia,0.0,0.0
+979,"equipment, electrical",implementation activity,0.0,0.0
+980,"15,25",9,0.0,0.0
+981,chalan pago,dem rep of congo,0.0,0.0
+982,gross_capital_formation,gross_fixed_capital_formation_including_acquisitions_less_disposals_of_valuables,0.0,0.0
+983,kidnap,embezzlement,0.0,0.0
+984,left council area,normal multiple,0.0,0.0
+985,2.5,at producers' prices.,0.0,0.0
+986,salta remis,santiago uberxl,0.0,0.0
+987,washington,south carolina,0.0,0.0
+988,plus_statistical_discrepancy,exports_of_services,0.0,0.0
+989,ginger/black,black/ginger,1.0,1.0
+990,prep,layer 1 up,0.0,0.0
+991,ct,cv,0.0,0.0
+992,gigondas,eola-amity hills,0.0,0.0
+993,az,arizona,1.0,0.0
+994,3,38,0.0,0.0
+995,cc,5c,0.0,0.0
+996,transmontano,transmontanas,1.0,0.0
+997,"iran, islamic republic of",uruguay,0.0,0.0
+998,south carolina,sc,1.0,0.0
+999,chicago,"chicago, il",1.0,1.0
+1000,18f,20b,0.0,0.0
+1001,georgia,ohio,0.0,0.0
+1002,sgd,mxn,0.0,0.0
+1003,jupiter award,inoca,0.0,0.0
+1004,schnauzer cross,schnauzer cross,1.0,1.0
+1005,estonian kroon,estonian kroon,1.0,1.0
+1006,senior legal asst,sr. legal asst,1.0,0.0
+1007,barbados,australia,0.0,0.0
+1008,woodlawn,king,0.0,0.0
+1009,fiscal year beginning 1 april,fiscal year beginning 1 july,0.0,0.0
+1010,"associate - fragomen, del rey, bernsen & loewy llp","associate -fragomen, del rey, bernsen & loewy, llp",1.0,1.0
+1011,grenache-syrah,chelois,0.0,0.0
+1012,mpcvs,mpcuo,0.0,0.0
+1013,lloyd,gresham - northwest gresh,0.0,0.0
+1014,pa,pennsylvania,1.0,0.0
+1015,local_11,local_10,0.0,0.0
+1016,rock,powl,0.0,0.0
+1017,director,director,1.0,1.0
+1018,yarra city council,mitchell shire council,0.0,0.0
+1019,founding member (austin b-cycle),annual (nashville b-cycle),0.0,0.0
+1020,annual membership (fort worth bike sharing),semester membership,0.0,0.0
+1021,74,"9,54",0.0,0.0
+1022,number,average annual age-adjusted rate,0.0,0.0
+1023,parkrose,sabin,0.0,0.0
+1024,lowchen,lowchen,1.0,1.0
+1025,speed,availability,0.0,0.0
+1026,pm,ha,0.0,0.0
+1027,iq,pi,0.0,0.0
+1028,fleet,contract with other government agency,0.0,0.0
+1029,russian grand prix,pescara grand prix,0.0,0.0
+1030,bahrain,bolivia,0.0,0.0
+1031,tajikistan,bermuda,0.0,0.0
+1032,prson'l svc tutor,sign,0.0,0.0
+1033,tunisia,malawi,0.0,0.0
+1034,youth entrepreneurship,disabled entrepreneurs,0.0,0.0
+1035,suspend,incomplete,0.0,0.0
+1036,disorderly conduct,gambling,0.0,0.0
+1037,other economic sector,energy,0.0,0.0
+1038,engineering jobs,banking jobs,0.0,0.0
+1039,forint,forint,1.0,1.0
+1040,lb,bf,0.0,0.0
+1041,immigration lawyer,immigration lawyer,1.0,1.0
+1042,161,590,0.0,0.0
+1043,glockenspiel,clapping and vocals,0.0,0.0
+1044,specialty (except psychiatric and substance abuse) hospitals,electronic and precision equipment repair and maintenance,0.0,0.0
+1045,bhutan,japan,0.0,0.0
+1046,connecticut,washington,0.0,0.0
+1047,mn,la,0.0,0.0
+1048,serviceretireeage_avg,source_planbasics,0.0,0.0
+1049,albania,low income,0.0,0.0
+1050,australian,austrian,0.0,0.0
+1051,mauritius,central african republic,0.0,0.0
+1052,130,151,0.0,0.0
+1053,r3w1,r1x5,0.0,0.0
+1054,education,agriculture_hunting_forestry_fishing,0.0,0.0
+1055,frankston city council,melton city council,0.0,0.0
+1056,smythes creek,smythes creek,1.0,1.0
+1057,owner / partner,owner/partner,1.0,0.0
+1058,00919-4836,00910-1384,0.0,0.0
+1059,finance jobs,law jobs,0.0,0.0
+1060,st kitts and nevis,cambodia,0.0,0.0
+1061,paraguay,burkina faso,0.0,0.0
+1062,repositioning,layer 1 up,0.0,0.0
+1063,excludes financial intermediation services indirectly measured (fisim).,"includes repairs of motor vehicles, motorcycles, and personal and households goods.",0.0,0.0
+1064,coke_oven_coke,other_hydrocarbons,0.0,0.0
+1065,british virgin islands,kiribati,0.0,0.0
+1066,hume city council,macedon ranges shire council,0.0,0.0
+1067,greece,portugal,0.0,0.0
+1068,alabama,al,1.0,0.0
+1069,9,mozambique,0.0,0.0
+1070,20b,18f,0.0,0.0
+1071,ak,oh,0.0,0.0
+1072,legal representative,legal representative,1.0,1.0
+1073,less_imports_of_goods_and_services,general_government_final_consumption_expenditure,0.0,0.0
+1074,manufacturing,"professional, scientific and technical activities",0.0,0.0
+1075,vermont,utah,0.0,0.0
+1076,source_planbasics,serviceretireeage_avg,0.0,0.0
+1077,2010,2004-06,0.0,0.0
+1078,23,france,0.0,0.0
+1079,"4,6","6,1",0.0,0.0
+1080,monaco grand prix,portuguese grand prix,0.0,0.0
+1081,construction_f,agriculture_forestry_and_fishing_a,0.0,0.0
+1082,npaw9_1,ovc1_2,0.0,0.0
+1083,"sr. counsel, gibney, anthony & flaherty llp","senior counsel, gibney, anthony & flaherty llp",1.0,1.0
+1084,oregon,or,1.0,0.0
+1085,lowchen,lowchen,1.0,1.0
+1086,willamette valley,new york other,0.0,0.0
+1087,fraud,runaway,0.0,0.0
+1088,24-hour-online (austin b-cycle),annual plus,0.0,0.0
+1089,embezzlement,"assault, simple",0.0,0.0
+1090,tunavallen,velodrome municipale,0.0,0.0
+1091,12th,bayf,0.0,0.0
+1092,dachshund (miniature),dachshund - miniature,1.0,1.0
+1093,352,w50,0.0,0.0
+1094,hic,mrt,0.0,0.0
+1095,4,14,0.0,0.0
+1096,dominican republic,eritrea,0.0,0.0
+1097,macedonia,south africa,0.0,0.0
+1098,rear unit,com'l,0.0,0.0
+1099,saudi arabia,costa rica,0.0,0.0
+1100,somalia,azerbaijan,0.0,0.0
+1101,severely endangered,critically endangered,0.0,0.0
+1102,sint maarten,chile,0.0,0.0
+1103,equals_saving_gross,plus_property_income_from_and_to_the_rest_of_the_world_net,0.0,0.0
+1104,730,203,0.0,0.0
+1105,us,wy,0.0,0.0
+1106,cambodia,moldova/transdniestria,0.0,0.0
+1107,age-adjusted prevalence,local control of the regulation of alcohol outlet density,0.0,0.0
+1108,tgo,slb,0.0,0.0
+1109,research & consulting services,paper packaging,0.0,0.0
+1110,iowa,west virginia,0.0,0.0
+1111,liberia,austria,0.0,0.0
+1112,biotechnology/pharmaceuticals; manufacturing - other; medical devices and supplies,biotechnology/pharmaceuticalsmanufacturing - othermedical devices and supplies,1.0,1.0
+1113,kidnap,curfew,0.0,0.0
+1114,wa,or,0.0,0.0
+1115,oakl,ftvl,0.0,0.0
+1116,general financial inclusion,education,0.0,0.0
+1117,eur,gbp,0.0,0.0
+1118,7,"6,20",0.0,0.0
+1119,liquor laws,stolen property,0.0,0.0
+1120,"income survey (is), 2013","labor force survey (lfs), 2013",0.0,0.0
+1121,951,w40,0.0,0.0
+1122,timor-leste,anguilla,0.0,0.0
+1123,pennsylvania,pa,1.0,0.0
+1124,western addition,north beach,0.0,0.0
+1125,south carolina,delaware,0.0,0.0
+1126,nh,or,0.0,0.0
+1127,r1w4,r1w6,0.0,0.0
+1128,managing partner - new york,managing partner - new york,1.0,1.0
+1129,570,hp1,0.0,0.0
+1130,18,23,0.0,0.0
+1131,republic of korea,caracas,0.0,0.0
+1132,cad,usd,0.0,0.0
+1133,b-family,i-abbreviation,0.0,0.0
+1134,fairfax,nashville-davidson,0.0,0.0
+1135,arkansas,montana,0.0,0.0
+1136,nginx/1.2.6,mi,0.0,0.0
+1137,gresham - hollybrook,gresham - wilkes east,0.0,0.0
+1138,sylvan-highlnds,bridlemile,0.0,0.0
+1139,germany,barbados,0.0,0.0
+1140,farming and fishing and forestry and wildlife contracting services,apparel and luggage and personal care products,0.0,0.0
+1141,white/sandy,sandy & white,1.0,1.0
+1142,dance-dance-dance,dancing,1.0,0.0
+1143,argay,mill park,0.0,0.0
+1144,thailand,costa rica,0.0,0.0
+1145,private_households_with_employed_persons_t,electricity_gas_steam_and_air_conditioning_supply_d,0.0,0.0
+1146,spain,ir iran,0.0,0.0
+1147,cowan miller and lederman,cowan miller & lederman,1.0,1.0
+1148,dominica,netherlands,0.0,0.0
+1149,canada,bermuda,0.0,0.0
+1150,wyoming,kansas,0.0,0.0
+1151,hr generalist,hr generalist,1.0,1.0
+1152,dz,lr,0.0,0.0
+1153,dbrk,nbrk,0.0,0.0
+1154,barbados,timor-leste,0.0,0.0
+1155,24/02/2012,20/08/2010,0.0,0.0
+1156,morocco,england,0.0,0.0
+1157,24,pakistan,0.0,0.0
+1158,vacqueyras,san antonio valley,0.0,0.0
+1159,asian or pacific islander,"other, non-hispanic",0.0,0.0
+1160,live voice,prerecorded voice,0.0,0.0
+1161,sedd; sid,state emergency department data,0.0,0.0
+1162,high,emergency,0.0,0.0
+1163,brunei darussalam,latvia,0.0,0.0
+1164,shay,ncon,0.0,0.0
+1165,jack russell terrierx,jack russell terrier x,1.0,1.0
+1166,ma,massachusetts,1.0,1.0
+1167,cym;mlt,syc;kor,0.0,0.0
+1168,poodle (standard),poodle standard,1.0,1.0
+1169,"adjusted by age, sex, race and ethnicity",age-adjusted rate,0.0,0.0
+1170,syc,cym;ven,0.0,0.0
+1171,gresham - wilkes east,gresham - hollybrook,0.0,0.0
+1172,texas,north carolina,0.0,0.0
+1173,group 5,group 1,0.0,0.0
+1174,layer 1 down,prep,0.0,0.0
+1175,employee,third party,0.0,0.0
+1176,sable/tan,tan & sable,1.0,1.0
+1177,brunei darussalam,papua new guinea,0.0,0.0
+1178,doge,msd,0.0,0.0
+1179,common are,resid'l,0.0,0.0
+1180,1999 nlg euro / euro,1999 nlg euro / euro,1.0,1.0
+1181,"partner, gibney, anthony & flaherty llp","partner, gibney, anthony & flaherty, llp",1.0,1.0
+1182,anotolian shepherd,anatolian shepherd,1.0,1.0
+1183,angola,finland,0.0,0.0
+1184,ovc1_1,imm1_0,0.0,0.0
+1185,d5+d61+d62,b.6n,0.0,0.0
+1186,a1050000006tnqi,a1050000002xxxt,0.0,0.0
+1187,guam,gu,1.0,0.0
+1188,al,sc,0.0,0.0
+1189,bahamas,nigeria,0.0,0.0
+1190,peddler,"own use, tubed/piped deep well",0.0,0.0
+1191,former ethiopia,sao tome and principe,0.0,0.0
+1192,azerbaijan,somalia,0.0,0.0
+1193,indiana,oklahoma,0.0,0.0
+1194,nm,ky,0.0,0.0
+1195,y,n,0.0,0.0
+1196,ca-sb ca-sbe mbe sb,sb wosb,0.0,0.0
+1197,re,re,1.0,1.0
+1198,mk,en,0.0,0.0
+1199,malaysia,bermuda,0.0,0.0
+1200,d.1,k.2,0.0,0.0
+1201,colombian,czech,0.0,0.0
+1202,"5,7","6,4",0.0,0.0
+1203,tonga,iraq,0.0,0.0
+1204,swz,sgp,0.0,0.0
+1205,chile,netherlands antilles,0.0,0.0
+1206,re,re,1.0,1.0
+1207,frameshift_variant,start_lost,0.0,0.0
+1208,sweden,gabon,0.0,0.0
+1209,middle east and north africa,east asia and pacific,0.0,0.0
+1210,namibia,lesotho,0.0,0.0
+1211,ks,ca,0.0,0.0
+1212,lao people's democratic republic,norway,0.0,0.0
+1213,har,kub,0.0,0.0
+1214,partner / associate,partner/ associate,1.0,1.0
+1215,pa,pennsylvania,1.0,0.0
+1216,netherlands,sri lanka,0.0,0.0
+1217,x10,z02,0.0,0.0
+1218,auditorium theatre,auditorium hall,1.0,0.0
+1219,national_accounts_gross_fixed_capital_formation,labor,0.0,0.0
+1220,hi,ga,0.0,0.0
+1221,mining_and_quarrying,transportation_and_storage,0.0,0.0
+1222,ni,bg,0.0,0.0
+1223,822,120,0.0,0.0
+1224,nh,new hampshire,1.0,0.0
+1225,26/02/2010,19/03/2010,0.0,0.0
+1226,disorderly conduct,drugs,0.0,0.0
+1227,vnm,ury,0.0,0.0
+1228,hi,hawaii,1.0,0.0
+1229,washington,oregon,0.0,0.0
+1230,vernon,south tabor,0.0,0.0
+1231,monaco,malawi,0.0,0.0
+1232,cinsault,picpoul,0.0,0.0
+1233,"agriculture, hunting, forestry, fishing (isic a-b)","mining, manufacturing, utilities (isic c-e)",0.0,0.0
+1234,nd,tx,0.0,0.0
+1235,alabama,al,1.0,0.0
+1236,"llm, llmc, paralegal","llm, llmc, paralegal",1.0,1.0
+1237,france,japan,0.0,0.0
+1238,south african grand prix,british grand prix,0.0,0.0
+1239,arena amazonia,volksparkstadion,0.0,0.0
+1240,27,tanzania - mainland,0.0,0.0
+1241,j10,t05,0.0,0.0
+1242,"4,7","3,3",0.0,0.0
+1243,va,in,0.0,0.0
+1244,institutional living quarter,multi-unit residential,0.0,0.0
+1245,md,mt,0.0,0.0
+1246,drugs,runaway,0.0,0.0
+1247,pre,vgb,0.0,0.0
+1248,esquire,esq.,1.0,0.0
+1249,cuba,montenegro,0.0,0.0
+1250,us ambassador residence,us ambasador residence,1.0,1.0
+1251,"own use, faucet, community water system",others,0.0,0.0
+1252,attorney & counselor at law,attorney and counselor at law,1.0,1.0
+1253,swaziland,germany,0.0,0.0
+1254,abu dhabi,baku,0.0,0.0
+1255,vanuatu,rwanda,0.0,0.0
+1256,north carolina,wisconsin,0.0,0.0
+1257,nk,dy,0.0,0.0
+1258,district of columbia,dc,1.0,1.0
+1259,bolshoi theatre,bolshoi hall,1.0,0.0
+1260,new hampshire,maryland,0.0,0.0
+1261,kidnap,burglary,0.0,0.0
+1262,151,911,0.0,0.0
+1263,isr,irn,0.0,0.0
+1264,sc,pa,0.0,0.0
+1265,paralegal,paralegal,1.0,1.0
+1266,euro,euro,1.0,1.0
+1267,"china, hong kong sar",uganda,0.0,0.0
+1268,"egypt, arab republic of",uganda,0.0,0.0
+1269,general_government_final_consumption_expenditure,household_consumption_expenditure_including_non_profit_institutions_serving_households,0.0,0.0
+1270,environment_protection,recreation_culture_and_religion,0.0,0.0
+1271,utah,illinois,0.0,0.0
+1272,equals_gross_domestic_product,wholesale_retail_trade_repair_of_motor_vehicles_motorcycles_and_personal_and_household_goods_hotels_and_restaurants,0.0,0.0
+1273,qatar,australia,0.0,0.0
+1274,ne,ms,0.0,0.0
+1275,turkmenistan,curacao,0.0,0.0
+1276,statistical discrepancy,statistical discrepancy,1.0,1.0
+1277,923,2,0.0,0.0
+1278,"12,2","4,2",0.0,0.0
+1279,laboratory and measuring and observing and testing equipment,environmental services,0.0,0.0
+1280,italy,lithuania,0.0,0.0
+1281,tn,ms,0.0,0.0
+1282,counsel,counsel,1.0,1.0
+1283,ne,nd,0.0,0.0
+1284,eastern asia,southern asia,0.0,0.0
+1285,cuba,greece,0.0,0.0
+1286,cyprus,latvia,0.0,0.0
+1287,"6,17","7,15",0.0,0.0
+1288,kansas,delaware,0.0,0.0
+1289,copd1_1,tob3_0,0.0,0.0
+1290,lb,cb,0.0,0.0
+1291,ct,connecticut,1.0,0.0
+1292,mo,il,0.0,0.0
+1293,idrottsparken,incheon football stadium,0.0,0.0
+1294,syrah-tempranillo,país,0.0,0.0
+1295,kenya,pakistan,0.0,0.0
+1296,lens,trieste,0.0,0.0
+1297,hi,id,0.0,0.0
+1298,intermediary_of,same_name_as,0.0,0.0
+1299,strategic development,strategic development,1.0,1.0
+1300,ms,az,0.0,0.0
+1301,ic.frm.femo.zs,ic.cus.durs.ex,0.0,0.0
+1302,aq,iq,0.0,0.0
+1303,"social services, department of","corrections and rehabilitation, department of",0.0,0.0
+1304,id,us,0.0,0.0
+1305,michigan,minnesota,0.0,0.0
+1306,south africa,norway,0.0,0.0
+1307,pennsylvania,new jersey,0.0,0.0
+1308,mex,mdg,0.0,0.0
+1309,comped,hhd,0.0,0.0
+1310,mex,mex,1.0,1.0
+1311,06g,05d,0.0,0.0
+1312,"austin, tx","austin, tx 78701",1.0,1.0
+1313,x01,z14a,0.0,0.0
+1314,"coastal commission, california","corporations, department of",0.0,0.0
+1315,colombia,united states,0.0,0.0
+1316,welsh corgi,welsh corgi,1.0,1.0
+1317,i-no class,i-family,0.0,0.0
+1318,organizations and clubs,travel and food and lodging and entertainment services,0.0,0.0
+1319,sex offenses,vandalism,0.0,0.0
+1320,euthanasia,adoption,0.0,0.0
+1321,arkansas,hawaii,0.0,0.0
+1322,r4x1,r5yz,0.0,0.0
+1323,democratic people's republic of korea,niger,0.0,0.0
+1324,plus_current_transfers_from_and_to_the_rest_of_the_world_net,equals_net_national_disposable_income,0.0,0.0
+1325,agreement with subsequent status,unilateral document,0.0,0.0
+1326,zambia,swaziland,0.0,0.0
+1327,aud,dkk,0.0,0.0
+1328,q28lovepascal,q22langprofcsharp,0.0,0.0
+1329,cowan miller & lederman,cowan miller and lederman,1.0,1.0
+1330,support,community & environment,0.0,0.0
+1331,long island,oregon other,0.0,0.0
+1332,"13,27","33,34",0.0,0.0
+1333,geo,isr,0.0,0.0
+1334,q25langjava,q23frameasp,0.0,0.0
+1335,la,sd,0.0,0.0
+1336,lloyd,argay,0.0,0.0
+1337,maryland,new hampshire,0.0,0.0
+1338,tob10_0,npaw5_2,0.0,0.0
+1339,annual (broward b-cycle),ridescout single ride,0.0,0.0
+1340,kenya,yona,0.0,0.0
+1341,other_vegetal_material_and_residues,of_which_biodiesel,0.0,0.0
+1342,bel,com,0.0,0.0
+1343,uzbekistan,lebanon,0.0,0.0
+1344,"including government services and ngos.""",industries,0.0,0.0
+1345,mississippi,louisiana,0.0,0.0
+1346,652,3,0.0,0.0
+1347,plza,19th,0.0,0.0
+1348,rajkot,sharjah,0.0,0.0
+1349,french guiana,suriname,0.0,0.0
+1350,new york,tennessee,0.0,0.0
+1351,wl1,3,0.0,0.0
+1352,constr type 3,constr type 1,0.0,0.0
+1353,nm,cy.de,0.0,0.0
+1354,lebanon,japan,0.0,0.0
+1355,pacific grand prix,mexican grand prix,0.0,0.0
+1356,78,48,0.0,0.0
+1357,aib,miota,0.0,0.0
+1358,yemen,hungary,0.0,0.0
+1359,tunisia,europe & central asia (ida & ibrd countries),0.0,0.0
+1360,stanford stadium,eyravallen,0.0,0.0
+1361,va,ak,0.0,0.0
+1362,sp.dyn.to65.ma.zs,sp.dyn.to65.fe.zs,0.0,1.0
+1363,dma,alb,0.0,0.0
+1364,"austin, tx 78701","austin, tx",1.0,1.0
+1365,540,730,0.0,0.0
+1366,"people's choice awards, usa",the kennedy center honors,0.0,0.0
+1367,buff,black,0.0,0.0
+1368,accommodation and food service activities (i),"water supply; sewerage, waste management and remediation activities (e)",0.0,0.0
+1369,mli,usa,0.0,0.0
+1370,fire,dragon,0.0,0.0
+1371,lille,kobe,0.0,0.0
+1372,mi,michigan,1.0,1.0
+1373,missoula county,anderson county,0.0,0.0
+1374,germany,germany fr,0.0,0.0
+1375,ncl,aus,0.0,0.0
+1376,partner/lead engagement attorney,partner/lead engagement attorney,1.0,1.0
+1377,south korea,uganda,0.0,0.0
+1378,senegal,zambia,0.0,0.0
+1379,north carolina,iowa,0.0,0.0
+1380,bierzo,sforzato di valtellina,0.0,0.0
+1381,"integrated household survey (ihs), 2010","priority survey (ps), 1993",0.0,0.0
+1382,fuels and fuel additives and lubricants and anti corrosive materials,politics and civic affairs services,0.0,0.0
+1383,zambia,south sudan,0.0,0.0
+1384,sudan,cambodia,0.0,0.0
+1385,comoros,indonesia,0.0,0.0
+1386,portage county,botetourt county,0.0,0.0
+1387,ven,ven,1.0,1.0
+1388,"22,32",20,0.0,0.0
+1389,complete,filed,0.0,0.0
+1390,"3,8","5,9",0.0,0.0
+1391,nigeria;united states,france,0.0,0.0
+1392,audit services,hardware/software services,0.0,0.0
+1393,layer 1 down,prep,0.0,0.0
+1394,"9,10","9,10,11",0.0,0.0
+1395,florida,connecticut,0.0,0.0
+1396,3,652,0.0,0.0
+1397,burnside,playford,0.0,0.0
+1398,graduate training internships jobs,purchasing jobs,0.0,0.0
+1399,individual consumption expenditure of non-profit institutions serving households (npishs),individual consumption expenditure of households,0.0,1.0
+1400,pv of future salaries,securities lending expenses,0.0,0.0
+1401,attorney and counselor at law,attorney & counselor at law,1.0,1.0
+1402,zambian kwacha,zambia kwacha,1.0,1.0
+1403,burglary,embezzlement,0.0,0.0
+1404,962,110,0.0,0.0
+1405,04k,03b,0.0,0.0
+1406,bahamas,malta;united kingdom,0.0,0.0
+1407,business in a box,gramalaya microfin foundation,0.0,0.0
+1408,19th,plza,0.0,0.0
+1409,china/old town,buckman-east,0.0,0.0
+1410,"1,7",17,0.0,0.0
+1411,17,"30,31",0.0,0.0
+1412,distribution and conditioning systems and equipment and components,engineering and research and technology based services,0.0,0.0
+1413,iowa,ia,1.0,0.0
+1414,festival hall,festival theater,1.0,0.0
+1415,cuba,tonga,0.0,0.0
+1416,18,17,0.0,0.0
+1417,alabama,michigan,0.0,0.0
+1418,pga awards,yoga awards,0.0,0.0
+1419,eg,ye,0.0,0.0
+1420,tob,old,0.0,0.0
+1421,sb/dvbe option,services are specifically exempt by statute,0.0,0.0
+1422,gab,umc,0.0,0.0
+1423,"omaha, ne","omaha, ne 68124",1.0,0.0
+1424,immunization,cancer,0.0,0.0
+1425,south african,danish,0.0,0.0
+1426,nv,ok,0.0,0.0
+1427,côte d'ivoire,mongolia,0.0,0.0
+1428,thursday,saturday,0.0,0.0
+1429,employers agent,employer's agent,1.0,1.0
+1430,sweeper dumpsites,street cleaning-special projects,0.0,0.0
+1431,mississippi,north dakota,0.0,0.0
+1432,director,director,1.0,1.0
+1433,w30,822,0.0,0.0
+1434,personal use,clothing,0.0,0.0
+1435,caramel/black,black & caramel,1.0,1.0
+1436,country_01,country_02,0.0,0.0
+1437,montana,new hampshire,0.0,0.0
+1438,american bull dog,american bulldog,1.0,1.0
+1439,xk,id,0.0,0.0
+1440,lyon,liverpool,0.0,0.0
+1441,delaware,south dakota,0.0,0.0
+1442,electronic ensemble,bass clarinet/tenor saxophone,0.0,0.0
+1443,mwk,rwf,0.0,0.0
+1444,i02,d14,0.0,0.0
+1445,fairy,bug,0.0,0.0
+1446,australia,mauritania,0.0,0.0
+1447,"therapists, all other","therapists, all other*",1.0,1.0
+1448,tennessee,minnesota,0.0,0.0
+1449,slv,slv,1.0,1.0
+1450,gu,vt,0.0,0.0
+1451,gb,nz,0.0,0.0
+1452,il,oh,0.0,0.0
+1453,"17,25",20,0.0,0.0
+1454,jewish/kosher,american,0.0,0.0
+1455,exports_of_services,exports_of_goods_and_services,0.0,0.0
+1456,"6,30",8,0.0,0.0
+1457,830,10,0.0,0.0
+1458,premix,frparoth,0.0,0.0
+1459,king charles spaniel cross,king charles spaniel cross,1.0,1.0
+1460,y08,r1w4,0.0,0.0
+1461,slovenia,luxembourg,0.0,0.0
+1462,mumbai,kimberley,0.0,0.0
+1463,statewide contract,master service agreement,0.0,0.0
+1464,gross fixed capital formation (including acquisitions less disposals of valuables),household consumption expenditure (including non-profit institutions serving households),0.0,0.0
+1465,viet nam,nicaragua,0.0,0.0
+1466,depository_corporations_survey_monetary_survey_liabilities_included_in_the_definition_of_quasi_money,financial_corporations_survey_banking_survey_capital_and_unclassified_liabilities,0.0,0.0
+1467,napa-sonoma,finger lakes,0.0,0.0
+1468,rw,3t,0.0,0.0
+1469,runaway,embezzlement,0.0,0.0
+1470,computer hardwarecomputer softwarecomputer/it services,computer hardware computer software computer/it services,1.0,1.0
+1471,aacta international award,golden satellite award,0.0,0.0
+1472,sc,nc,0.0,0.0
+1473,mauritius,panama,0.0,0.0
+1474,south san francisco,san francisco,1.0,1.0
+1475,general government final consumption expenditure,gross capital formation,0.0,0.0
+1476,green,chanura: general,0.0,0.0
+1477,rottweiler cross,rottweiler cross,1.0,1.0
+1478,faroe islands,mongolia,0.0,0.0
+1479,yem,yem,1.0,1.0
+1480,champagne & white,white/champagne,1.0,1.0
+1481,adm,e_tl,0.0,0.0
+1482,border collie cross,border collie cross,1.0,1.0
+1483,il,illinois,1.0,1.0
+1484,host/commentator,dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer,0.0,0.0
+1485,nm,oh,0.0,0.0
+1486,germany,italy,0.0,0.0
+1487,tl,pbus,0.0,0.0
+1488,wholesale_and_retail_trade_repair_of_motor_vehicles_and_motorcycles_g,other_service_activities_s,0.0,0.0
+1489,healthcare services restaurant/food services food and beverage production,healthcare services;restaurant/food services;food and beverage production,1.0,1.0
+1490,lute,post horn,0.0,0.0
+1491,hillsdale,vernon,0.0,0.0
+1492,drink-draw-in-the-lower-east-side,nyc-investors-traders-stocktwits-meetups,0.0,0.0
+1493,pre-permit (operational) / initial inspection,calorie posting / second compliance inspection,0.0,0.0
+1494,steel,poison,0.0,0.0
+1495,virginia,pennsylvania,0.0,0.0
+1496,7,andorra,0.0,0.0
+1497,641,923,0.0,0.0
+1498,outside immigration counsel,outside immigration counsel,1.0,1.0
+1499,spirituality,spiritualism,1.0,1.0
+1500,weapons,forgery,0.0,0.0
+1501,brazil,libya,0.0,0.0
+1502,cze,sau,0.0,0.0
+1503,uga,tha,0.0,0.0
+1504,al,oh,0.0,0.0
+1505,brussels,yeongam county,0.0,0.0
+1506,b-systematic,b-trivial,0.0,0.0
+1507,master purchase/price agreement,software license program,0.0,0.0
+1508,t99,120,0.0,0.0
+1509,dutch,manna,0.0,0.0
+1510,151,w20,0.0,0.0
+1511,gu,guam,1.0,0.0
+1512,psychic,dragon,0.0,0.0
+1513,"8,7","8,1",0.0,0.0
+1514,blue/merle,blue merle,1.0,1.0
+1515,eritrea,seychelles,0.0,0.0
+1516,special project lc,cap storm,0.0,0.0
+1517,san francisco,san francisco,1.0,1.0
+1518,bookbinding,hotel,0.0,0.0
+1519,guarantees,special financing,0.0,0.0
+1520,estimate,preliminary,0.0,0.0
+1521,bolgheri superiore,recioto della valpolicella,0.0,0.0
+1522,bafta/la britannia awards,toronto film critics association awards,0.0,0.0
+1523,argentina,australia,0.0,0.0
+1524,e_multi,e_averag,0.0,0.0
+1525,saint martin,saint barts,0.0,0.0
+1526,social work,social welfare,1.0,0.0
+1527,sur,blz,0.0,0.0
+1528,bolivia,st. kitts and nevis,0.0,0.0
+1529,sri lanka,czech republic,0.0,0.0
+1530,palace of arts  (bela bartók national concert hall),palace of arts (bela bartók national concert hall),1.0,1.0
+1531,af,ke,0.0,0.0
+1532,khm,pri,0.0,0.0
+1533,k.1,b.9,0.0,0.0
+1534,admin.,administrator,1.0,0.0
+1535,brazilian grand prix,italian grand prix,0.0,1.0
+1536,all healthcare services,all;healthcare services,1.0,1.0
+1537,securities lending unrealized gains,average benefit,0.0,0.0
+1538,plus_statistical_discrepancy,sum_of_compensation_of_employees_and_property_income_from_and_to_the_rest_of_the_world_net,0.0,0.0
+1539,relocate,disposal,0.0,0.0
+1540,pearl,piedmont,0.0,0.0
+1541,administrative miscellaneous / re-inspection,pre-permit (non-operational) / re-inspection,0.0,0.0
+1542,armenia,uganda,0.0,0.0
+1543,stockholm,oporto,0.0,0.0
+1544,"sr. associate, attorney at law","senior associate, attorney at law",1.0,1.0
+1545,méxico df uberblack,medellín,0.0,0.0
+1546,brazilian,malaysian,0.0,0.0
+1547,130,4,0.0,0.0
+1548,splice_region_variant&intron_variant,stop_lost,0.0,0.0
+1549,total retirement benefits,estimated average salary,0.0,0.0
+1550,mx,ps,0.0,0.0
+1551,iii,v,0.0,0.0
+1552,managing attorney,managing attorney,1.0,1.0
+1553,mex,gnb,0.0,0.0
+1554,gross fixed capital formation (including acquisitions less disposals of valuables),changes in inventories,0.0,0.0
+1555,black/blue,blue/black,1.0,1.0
+1556,lbw,bowled,0.0,0.0
+1557,russian ruble,russian rouble,1.0,1.0
+1558,honduras,south africa,0.0,0.0
+1559,y11a,w11a,0.0,0.0
+1560,saint vincent and the grenadines,brunei,0.0,0.0
+1561,cyp,bmu;deu;che;usa,0.0,0.0
+1562,120,t99,0.0,0.0
+1563,yrvac,spr,0.0,0.0
+1564,dominican republic,israel,0.0,0.0
+1565,china,jordan,0.0,0.0
+1566,mt tabor,northwest,0.0,0.0
+1567,welsh corgi,welsh corgi,1.0,1.0
+1568,oregon,colorado,0.0,0.0
+1569,canadian,rhodesian,0.0,0.0
+1570,weekly,irregular,0.0,0.0
+1571,de,delaware,1.0,1.0
+1572,overall,race,0.0,0.0
+1573,north america,latin america and caribbean,0.0,0.0
+1574,new jersey,nj,1.0,0.0
+1575,white/tan,tan/white,1.0,1.0
+1576,03a,04c,0.0,0.0
+1577,tennessee,tn,1.0,0.0
+1578,san francisco,san francisco,1.0,1.0
+1579,phaseinperiods,expense_totbenefits,0.0,0.0
+1580,falling_water,gas_coke,0.0,0.0
+1581,plan members not covered by social security,plan members covered by social security,0.0,0.0
+1582,plus: taxes on products,"real estate, renting and business activities",0.0,0.0
+1583,"integrated household survey (ihs), 2004","expenditure survey/budget survey (es/bs), 2014",0.0,0.0
+1584,bmu;sau;usa,cym;mco,0.0,0.0
+1585,exports of goods and services,final consumption expenditure,0.0,0.0
+1586,aze,aze,1.0,1.0
+1587,construction supplies,motorcycle repair,0.0,0.0
+1588,papua new guinea,sao tome and principe,0.0,0.0
+1589,ghs,lrd,0.0,0.0
+1590,oregon,mississippi,0.0,0.0
+1591,rwa,lao,0.0,0.0
+1592,immigration consultant,immigration consultant,1.0,1.0
+1593,west highland white terrier cross,west highland white terrier cross,1.0,1.0
+1594,z14b,r4z1,0.0,0.0
+1595,35,"1,13",0.0,0.0
+1596,layer 3 down,end,0.0,0.0
+1597,fl,florida,1.0,1.0
+1598,micronesia (federated states of),fiji,0.0,0.0
+1599,denmark,poland,0.0,0.0
+1600,stolen property,liquor laws,0.0,0.0
+1601,stop_gained&inframe_insertion,splice_donor_variant&coding_sequence_variant&intron_variant,0.0,0.0
+1602,indiana,oklahoma,0.0,0.0
+1603,saint vincent and the grenadines,british virgin islands,0.0,0.0
+1604,west virginia,arkansas,0.0,0.0
+1605,540,41,0.0,0.0
+1606,less_subsidies_on_products,agriculture_hunting_and_related_service_activities,0.0,0.0
+1607,842,362,0.0,0.0
+1608,castran,castran,1.0,1.0
+1609,energy jobs,charity jobs,0.0,0.0
+1610,oregon other,napa-sonoma,0.0,0.0
+1611,north dakota,nd,1.0,0.0
+1612,"partner, garganigo, goldsmith & wess","partner, garganigo, goldsmith & weiss",1.0,1.0
+1613,phl,hti,0.0,0.0
+1614,tunisia,cote d'ivoire,0.0,0.0
+1615,dominican rep,tafuna,0.0,0.0
+1616,germany,cayman islands,0.0,0.0
+1617,"césar awards, france",new york film critics circle awards,0.0,0.0
+1618,w portland park,foster-powell,0.0,0.0
+1619,z14a,x01,0.0,0.0
+1620,362,842,0.0,0.0
+1621,6,"4,5",0.0,0.0
+1622,fiscal year ending 30 june,western calendar year,0.0,0.0
+1623,czech lion,golden aries,0.0,0.0
+1624,mth,orh,0.0,0.0
+1625,lca,hnd,0.0,0.0
+1626,still image,literature,0.0,0.0
+1627,representative with gulf coast asian resources,represenative with gulf coast asian resources,1.0,1.0
+1628,arizona,virginia,0.0,0.0
+1629,nd,ne,0.0,0.0
+1630,"charlotte, nc 28202","charlotte, nc",1.0,1.0
+1631,pennsylvania,minnesota,0.0,0.0
+1632,ren,subpar,0.0,0.0
+1633,armenia/azerbaijan/nagorno-karabakh,india/nagaland,0.0,0.0
+1634,pkb,altcom,0.0,0.0
+1635,ratio,number of months,0.0,0.0
+1636,armenia,senegal,0.0,0.0
+1637,tjk,ssd,0.0,0.0
+1638,"professional, scientific, technical, administrative and support service activities (m+n)","wholesale and retail trade, transportation and storage, accommodation and food service activities (g+h+i)",0.0,0.0
+1639,3,wl1,0.0,0.0
+1640,sbrn,lafy,0.0,0.0
+1641,manufacturing - other;engineering services,manufacturing - otherengineering services,1.0,1.0
+1642,arg,hti,0.0,0.0
+1643,hosfrd-abrnethy,gresham - north central,0.0,0.0
+1644,north dakota,nd,1.0,0.0
+1645,d,d.,1.0,0.0
+1646,biab,extract,0.0,0.0
+1647,j06,k02,0.0,0.0
+1648,ut,md,0.0,0.0
+1649,female,hispanic,0.0,0.0
+1650,recas,corinthia,0.0,0.0
+1651,gross capital formation,individual consumption expenditure,0.0,0.0
+1652,7-day,annual (madison b-cycle),0.0,0.0
+1653,901,w21,0.0,0.0
+1654,sweden,australia,0.0,0.0
+1655,attorney &general counsel,attorney & general counsel,1.0,1.0
+1656,"technology, hardware, software and supplies",oil & gas refining & marketing & transportation,0.0,0.0
+1657,marquee,cineuphoria,0.0,0.0
+1658,casey city council,port phillip city council,0.0,0.0
+1659,australian silky terrier cross,australian silky terrier cross,1.0,1.0
+1660,transfer,died,0.0,0.0
+1661,london,city of london,1.0,0.0
+1662,maremma sheepdog x,maremma sheep dog x,1.0,1.0
+1663,nginx,apache/2.2.31 (unix) mod_ssl/2.2.31 openssl/1.0.1e-fips mod_bwlimited/1.4 mod_perl/2.0.8 perl/v5.10.1,0.0,0.0
+1664,w60,690,0.0,0.0
+1665,300,982,0.0,0.0
+1666,630,203,0.0,0.0
+1667,q29frameloveexpressjs,q25langjulia,0.0,0.0
+1668,ca-dvbe ca-mb ca-sb ca-sbe cdvbe sdvosb,ca-sb ca-sbe dbe mbe mosb sb wbe wosb,0.0,0.0
+1669,kenya,nigeria,0.0,0.0
+1670,e_rvr,e_327,0.0,0.0
+1671,hnl,ssp,0.0,0.0
+1672,tanzania - mainland,san marino,0.0,0.0
+1673,lkos - waluga,far southwest,0.0,0.0
+1674,00979-7421,00911-2019,0.0,0.0
+1675,w50,931,0.0,0.0
+1676,san paolo,estadio das dunas,0.0,0.0
+1677,middle eastern,egyptian,0.0,0.0
+1678,ashcreek,reed,0.0,0.0
+1679,chehalem mountains,primitivo del salento,0.0,0.0
+1680,hayhurst,irvington,0.0,0.0
+1681,"transport, storage and communications",health and social work,0.0,0.0
+1682,ca-mb ca-sb ca-sbe sb wosb,ca-sbe mbe mosb sb wbe wosb,0.0,0.0
+1683,species,variety,0.0,0.0
+1684,computer softwarecomputer/it services,"computer software, computer/it services",1.0,1.0
+1685,iraq/kurds-kurdistan,central african republic/chad/sudan/(darfur),0.0,0.0
+1686,rwanda,kenya,0.0,0.0
+1687,mining_and_quarrying_b,fishing_and_aquaculture_03,0.0,0.0
+1688,dia11_1,dia7_0,0.0,0.0
+1689,others,mining,0.0,0.0
+1690,010c,029b,0.0,0.0
+1691,switzerland,south africa,0.0,0.0
+1692,"car, taxi and van drivers",deep-sea fishermen,0.0,0.0
+1693,"houston, tx 77055","houston, tx",1.0,1.0
+1694,southern oregon,central valley,0.0,0.0
+1695,equals_value_added_gross_in_basic_prices,fishing,0.0,0.0
+1696,greece,pakistan,0.0,0.0
+1697,cym;egy;jey,cym;kwt,0.0,0.0
+1698,israel,mozambique,0.0,0.0
+1699,withdrawn,disapproved,0.0,0.0
+1700,worked for government/government corporation,employer in own family-operated farm or business,0.0,0.0
+1701,de,delaware,1.0,1.0
+1702,us,slovakia,0.0,0.0
+1703,piedmont,woodstock,0.0,0.0
+1704,song,rubit,0.0,0.0
+1705,npaw13_1,art1_3,0.0,0.0
+1706,261,638,0.0,0.0
+1707,kyrgyzstan,mexico,0.0,0.0
+1708,airlines,integrated oil & gas,0.0,0.0
+1709,star on the walk of fame,golden schmoes,0.0,0.0
+1710,"works, infrastructure","works, maintenance and rehabilitation",0.0,0.0
+1711,reits,industrial machinery,0.0,0.0
+1712,business development services,kubo experiment - no credit history,0.0,0.0
+1713,human health and social work activities,transportation and storage,0.0,0.0
+1714,poland,andorra,0.0,0.0
+1715,italy,slovakia,0.0,0.0
+1716,dkk,nok,0.0,0.0
+1717,dancing,dance dance dance,1.0,0.0
+1718,other jobs,estate agent jobs,0.0,0.0
+1719,iceland,yemen,0.0,0.0
+1720,n,a,0.0,0.0
+1721,el salvador,turkey,0.0,0.0
+1722,tyne and wear,tyne and wear,1.0,1.0
+1723,melton city council,frankston city council,0.0,0.0
+1724,y11,r1x1,0.0,0.0
+1725,budgetary_central_government_revenue,other_financial_corporations_other_banking_nonbank_financial_institutions_liabilities_included_in_definition_of_money,0.0,0.0
+1726,mont,16th,0.0,0.0
+1727,environmental studies,management /technical advice,0.0,0.0
+1728,italy,spain,0.0,0.0
+1729,equals: gross domestic product,plus: taxes less subsidies on products,0.0,0.0
+1730,rwf,mwk,0.0,0.0
+1731,thailand,maldives,0.0,0.0
+1732,changes in inventories,plus: statistical discrepancy,0.0,0.0
+1733,india,brunei darussalam,0.0,0.0
+1734,diversified commercial services,electronic components,0.0,0.0
+1735,markham,portsmouth,0.0,0.0
+1736,sud-ouest,sud-ouest,1.0,1.0
+1737,australian terrier cross,australian terrier cross,1.0,1.0
+1738,croatia,ukraine,0.0,0.0
+1739,armory,the armory,1.0,0.0
+1740,hldfas,d122,0.0,0.0
+1741,gaithersburg,renton,0.0,0.0
+1742,south carolina,district of columbia,0.0,0.0
+1743,sex offenses,motor vehicle theft,0.0,0.0
+1744,colorado,co,1.0,1.0
+1745,mo,missouri,1.0,0.0
+1746,golden eagle,kennedy center honors,0.0,0.0
+1747,swaziland,ghana,0.0,0.0
+1748,agriculture_hunting_and_related_service_activities_01,fishing_b,0.0,0.0
+1749,deln,24th,0.0,0.0
+1750,hr manager,human resources manager,1.0,0.0
+1751,país,syrah-tempranillo,0.0,0.0
+1752,transportation_and_storage,mining_and_quarrying,0.0,0.0
+1753,tonyelumelufdn,grindstonexl,0.0,0.0
+1754,footnote_seqid,21,0.0,0.0
+1755,md,ms,0.0,0.0
+1756,start_lost&5_prime_utr_variant,splice_acceptor_variant&coding_sequence_variant&intron_variant,0.0,0.0
+1757,norway,nigeria,0.0,0.0
+1758,maine,philadelphia,0.0,0.0
+1759,apricot/cream,apricot & cream,1.0,1.0
+1760,zambia,iceland,0.0,0.0
+1761,lkos - lake grove,russell,0.0,0.0
+1762,estonia,madagascar,0.0,0.0
+1763,strathbogie ranges,eola-amity hills,0.0,0.0
+1764,belgian,thai,0.0,0.0
+1765,austria,portugal,0.0,0.0
+1766,djibouti,botswana,0.0,0.0
+1767,education services,"equipment, mining",0.0,0.0
+1768,201,352,0.0,0.0
+1769,south tabor,bridlemile,0.0,0.0
+1770,ln,wy,0.0,0.0
+1771,zwe,bfa,0.0,0.0
+1772,helsingborg,alicante,0.0,0.0
+1773,accordion,piano resonance,0.0,0.0
+1774,620,821,0.0,0.0
+1775,wi,mo,0.0,0.0
+1776,gef medium sized program,ifad funded project,0.0,0.0
+1777,48,kazakhstan,0.0,0.0
+1778,less_financial_intermediation_services_indirectly_measured_fisim,wholesale_retail_trade_repair_of_motor_vehicles_motorcycles_and_personal_and_household_goods,0.0,0.0
+1779,massachusetts,ma,1.0,1.0
+1780,hillside,russell,0.0,0.0
+1781,ca-dvbe ca-mb ca-sb ca-sbe cdvbe dbe mosb sdvosb,ca-dvbe ca-mb ca-sb ca-sbe mbe mosb sb sbasdb sdvosb,0.0,0.0
+1782,203,630,0.0,0.0
+1783,closed,approval,0.0,0.0
+1784,guinea,"congo, democratic republic of the",0.0,0.0
+1785,old3_1,orh1_2,0.0,0.0
+1786,antigua and barbuda,sierra leone,0.0,0.0
+1787,dancing,dance-dance-dance,1.0,0.0
+1788,united kingdom;united states,mexico,0.0,0.0
+1789,collins view,ashcreek,0.0,0.0
+1790,"montgomery, oh 45242","montgomery, oh",1.0,1.0
+1791,nh,mp,0.0,0.0
+1792,construction (isic f),total value added,0.0,0.0
+1793,belarus,sao tome and principe,0.0,0.0
+1794,00821-1427,00823-6324,0.0,0.0
+1795,arnold creek,richmond,0.0,0.0
+1796,iran,south africa,0.0,0.0
+1797,"computer occupations, all other*","computer occupations, all other",1.0,1.0
+1798,average benefit,securities lending unrealized gains,0.0,0.0
+1799,slovakia,zambia,0.0,0.0
+1800,tob3_0,copd1_1,0.0,0.0
+1801,rhodesian,hungarian,0.0,0.0
+1802,georgia,wisconsin,0.0,0.0
+1803,lkos - oak creek,gresham - rockwood group,0.0,0.0
+1804,352,872,0.0,0.0
+1805,"warehouse, furniture",sewage plant,0.0,0.0
+1806,ca,california,1.0,1.0
+1807,nigeria,burkina faso,0.0,0.0
+1808,public works,hazardous activities,0.0,0.0
+1809,germany,azerbaijan,0.0,0.0
+1810,virginia,wisconsin,0.0,0.0
+1811,real estate activities (l),wholesale and retail trade; repair of motor vehicles and motorcycles (g),0.0,0.0
+1812,anguilla,4,0.0,0.0
+1813,220,580,0.0,0.0
+1814,kentucky,ky,1.0,1.0
+1815,telecommunications services advertising and pr services business services - other,telecommunications servicesadvertising and pr servicesbusiness services - other,1.0,1.0
+1816,telemarketing (including do not call and spoofing),hearing aid compatibility of wireline phones,0.0,0.0
+1817,south san francisco,west chicago,0.0,0.0
+1818,cote d'ivoire,burundi,0.0,0.0
+1819,kyrgyzstan,9,0.0,0.0
+1820,col,fro,0.0,0.0
+1821,r1y4,z08,0.0,0.0
+1822,sle,sle,1.0,1.0
+1823,cycle inspection / second compliance inspection,administrative miscellaneous / reopening inspection,0.0,0.0
+1824,extsub,ceamix,0.0,0.0
+1825,830,162,0.0,0.0
+1826,lebanon,germany,0.0,0.0
+1827,aggravated assault,embezzlement,0.0,0.0
+1828,sabuj sangha,cacao field renewal,0.0,0.0
+1829,semester membership,annual membership (fort worth bike sharing),0.0,0.0
+1830,kob,sai,0.0,0.0
+1831,ic.frm.bnks.zs,ic.frm.crim.zs,0.0,0.0
+1832,"prints ""hello, world!"" once",prints all numbers up to n,0.0,0.0
+1833,forestry and logging,construction,0.0,0.0
+1834,he,pt,0.0,0.0
+1835,rfk stadium,ayresome park,0.0,0.0
+1836,global environment project,debt reduction facility,0.0,0.0
+1837,mpcno,phhd,0.0,0.0
+1838,west virginia,georgia,0.0,0.0
+1839,sen,and,0.0,0.0
+1840,nginx/1.13.0,yippee-ki-yay,0.0,0.0
+1841,monaco,central africa republic,0.0,0.0
+1842,crop_and_animal_production_hunting_and_related_service_activities,less_financial_intermediation_services_indirectly_measured_fisim,0.0,0.0
+1843,intermission,intermission-second,0.0,0.0
+1844,ert-sf,now-is-better-than-never-creativity-for-40yo-nothings,0.0,0.0
+1845,wholesale_retail_trade_repair_of_motor_vehicles_motorcycles_and_personal_and_household_goods,public_administration_and_defence_compulsory_social_security,0.0,0.0
+1846,funerals,agriculture,0.0,0.0
+1847,hardware/software services,audit services,0.0,0.0
+1848,crude rate,per capita alcohol consumption,0.0,0.0
+1849,france,central african republic,0.0,0.0
+1850,28/01/2011,04/02/2011,0.0,0.0
+1851,attorney of record,attorney of record,1.0,1.0
+1852,"national board of review, usa","directors guild of america, usa",0.0,0.0
+1853,food,wholesale,0.0,0.0
+1854,r1x1,y11,0.0,0.0
+1855,arkansas,hawaii,0.0,0.0
+1856,activesalary_avg_est,servicerettenure_avg,0.0,0.0
+1857,professional_scientific_and_technical_activities,other_service_activities,0.0,0.0
+1858,ontario canada,bermuda,0.0,0.0
+1859,jack russell terrier cross,jack russell terrier cross,1.0,1.0
+1860,malta,eritrea,0.0,0.0
+1861,152,821,0.0,0.0
+1862,south dakota,nevada,0.0,0.0
+1863,montana,university of california,0.0,0.0
+1864,florida,south carolina,0.0,0.0
+1865,"equals: value added, gross, at basic prices",administrative and support service activities,0.0,0.0
+1866,dancing,sci-fi & fantasy,0.0,0.0
+1867,"peace officer standards and training, commission on","alcohol and drug programs, department of",0.0,0.0
+1868,united arab emirates,hong kong,0.0,0.0
+1869,restaurant,furniture making,0.0,0.0
+1870,bonnezeaux,southern highlands,0.0,0.0
+1871,utah,ohio,0.0,0.0
+1872,missense_variant&splice_region_variant,splice_region_variant&5_prime_utr_variant,0.0,0.0
+1873,president,president,1.0,1.0
+1874,haiti,denmark,0.0,0.0
+1875,19/03/2010,26/02/2010,0.0,0.0
+1876,871,152,0.0,0.0
+1877,mcar,lake,0.0,0.0
+1878,approval,closed,0.0,0.0
+1879,obstructing the field,run out,0.0,0.0
+1880,snowshoe,birman,0.0,0.0
+1881,03/09/2010,24/09/2010,0.0,0.0
+1882,flatcoated retriever,flat-coated retriever,1.0,1.0
+1883,foster-powell,w portland park,0.0,0.0
+1884,brazil,saint vincent and the grenadines,0.0,0.0
+1885,25/11/2011,01/07/2011,0.0,0.0
+1886,wyoming,district of columbia,0.0,0.0
+1887,urban,track,0.0,0.0
+1888,tannat-cabernet,durif,0.0,0.0
+1889,principal,principal,1.0,1.0
+1890,motor vehicle theft,larceny,0.0,0.0
+1891,zorkas-contemporary-art-lovers,arts-deals-in-nyc,0.0,0.0
+1892,tcd,uzb,0.0,0.0
+1893,new mexico,nm,1.0,0.0
+1894,duii,weapons,0.0,0.0
+1895,lithuania,kuwait,0.0,0.0
+1896,shay,ucty,0.0,0.0
+1897,ca-mb ca-sb mbe wbe,ca-dvbe ca-mb ca-sb dvbe,0.0,0.0
+1898,washington,colorado,0.0,0.0
+1899,hosfrd-abrnethy,bridgeton,0.0,0.0
+1900,tr,sl,0.0,0.0
+1901,110,300,0.0,0.0
+1902,tokaji,tokaj,1.0,1.0
+1903,other,doctorate,0.0,0.0
+1904,nsch,"birth certificate, nvss",0.0,0.0
+1905,09/09/2011,06/08/2010,0.0,0.0
+1906,asian,native hawaiian or other pacific islander,0.0,0.0
+1907,intron_variant,frameshift_variant&stop_retained_variant,0.0,0.0
+1908,rand,rand,1.0,1.0
+1909,embezzlement,trespass,0.0,0.0
+1910,ohio,south dakota,0.0,0.0
+1911,gin,cod,0.0,0.0
+1912,ovc,ckd,0.0,0.0
+1913,metals and mineralsmanufacturing - other,metals and minerals; manufacturing - other,1.0,1.0
+1914,1999 nlg euro / euro,1999 nlg euro / euro,1.0,1.0
+1915,healthcare services staffing/employment agencies computer/it services,healthcare servicesstaffing/employment agenciescomputer/it services,1.0,1.0
+1916,moreland city council,manningham city council,0.0,0.0
+1917,algeria,china pr,0.0,0.0
+1918,owner,owner,1.0,1.0
+1919,sm,es,0.0,0.0
+1920,montana,mt,1.0,0.0
+1921,healthcare servicesstaffing/employment agenciescomputer/it services,healthcare services staffing/employment agencies computer/it services,1.0,1.0
+1922,gresham - powell valley,university park,0.0,0.0
+1923,b.5*g,d.2 - d.3,0.0,0.0
+1924,pataca,pataca,1.0,1.0
+1925,04o,02g,0.0,0.0
+1926,au,nz,0.0,0.0
+1927,washington,alabama,0.0,0.0
+1928,black/orange,orange/black,1.0,1.0
+1929,sale,102,0.0,0.0
+1930,gabon,zimbabwe,0.0,0.0
+1931,ma,massachusetts,1.0,1.0
+1932,lmc,nzl,0.0,0.0
+1933,"includes real estate activities; professional, scientific and technical activities; and administrative and support service activities.",at factor cost.,0.0,0.0
+1934,bullmastiff x,bull mastiff x,1.0,1.0
+1935,thailand,timor-leste,0.0,0.0
+1936,11,24,0.0,0.0
+1937,e_217,e_ir,0.0,0.0
+1938,mdg,mdg,1.0,1.0
+1939,st,dv,0.0,0.0
+1940,duii,vandalism,0.0,0.0
+1941,public_administration_and_defence_education_human_health_and_social_work_activities,wholesale_and_retail_trade_transportation_and_storage_accommodation_and_food_service_activities,0.0,0.0
+1942,ashcreek,downtown,0.0,0.0
+1943,"associate, gibney, anthony & flaherty llp","associate, gibney, anthony & flaherty, llp",1.0,1.0
+1944,rhode island,ri,1.0,0.0
+1945,y02,r1y2,0.0,0.0
+1946,maryland,arkansas,0.0,0.0
+1947,21,48,0.0,0.0
+1948,mexican grand prix,pacific grand prix,0.0,0.0
+1949,shareholder/attorney,shareholder / attorney,1.0,0.0
+1950,nerello mascalese,viognier-valdiguié,0.0,0.0
+1951,northern mariana islands,mp,1.0,1.0
+1952,bulgaria,republic of korea,0.0,0.0
+1953,md,ut,0.0,0.0
+1954,550,161,0.0,0.0
+1955,nzl,bmu,0.0,0.0
+1956,014,040i,0.0,0.0
+1957,hp5,hp3,0.0,0.0
+1958,preparer,preparer,1.0,1.0
+1959,sc,wi,0.0,0.0
+1960,va,virginia,1.0,0.0
+1961,590,560,0.0,0.0
+1962,vgb,tto,0.0,0.0
+1963,estonian kroon,estonian kroon,1.0,1.0
+1964,russian rouble,russian ruble,1.0,1.0
+1965,kiribati,british virgin islands,0.0,0.0
+1966,netherlands,austria,0.0,0.0
+1967,buckman-east,china/old town,0.0,0.0
+1968,"services,  others","works, installation",0.0,0.0
+1969,e,g,0.0,0.0
+1970,cream & brown,cream/brown,1.0,1.0
+1971,96931-7350,00851-2766,0.0,0.0
+1972,austria,estonia,0.0,0.0
+1973,mattress,sweeping,0.0,0.0
+1974,sustainable solar service package,organic conversion,0.0,0.0
+1975,frameshift_variant&start_lost&start_retained_variant,stop_gained,0.0,0.0
+1976,r2z2,w03,0.0,0.0
+1977,third party,employee,0.0,0.0
+1978,bosnia and herzegovina,gabon,0.0,0.0
+1979,uzbekistan,venezuela,0.0,0.0
+1980,x06,z12,0.0,0.0
+1981,irregular,weekly,0.0,0.0
+1982,california,oregon,0.0,0.0
+1983,jm,az,0.0,0.0
+1984,chicago ridge,new york,0.0,0.0
+1985,connecticut,alameda county,0.0,0.0
+1986,russian,indonesian,0.0,0.0
+1987,healy heights,far southwest,0.0,0.0
+1988,mdg,mdg,1.0,1.0
+1989,eq,gh,0.0,0.0
+1990,nld,grd,0.0,0.0
+1991,982,741,0.0,0.0
+1992,trespass,gambling,0.0,0.0
+1993,ssan,glen,0.0,0.0
+1994,trans fat / compliance inspection,cycle inspection / re-inspection,0.0,0.0
+1995,isola dei nuraghi,alto adige terlano,0.0,0.0
+1996,napa-mendocino-sonoma-marin,el dorado,0.0,0.0
+1997,ny,new york,1.0,0.0
+1998,fire,grass,0.0,0.0
+1999,flying,ice,0.0,0.0
+2000,sn.itk.vita.zs,iq.wef.cust.xq,0.0,0.0
+2001,"19,20","1,9",0.0,0.0
+2002,il,la,0.0,0.0
+2003,total value added,construction (isic f),0.0,0.0
+2004,dalmatian,dalmation,1.0,0.0
+2005,economic_affairs,public_order_and_safety,0.0,0.0
+2006,live plant and animal material and accessories and supplies,mining and well drilling machinery and accessories,0.0,0.0
+2007,calorie posting / compliance inspection,pre-permit (operational) / compliance inspection,0.0,0.0
+2008,29,"4,11,14",0.0,0.0
+2009,seychelles,cayman islands,0.0,0.0
+2010,online,mailedin,0.0,0.0
+2011,ct,ar,0.0,0.0
+2012,00912-0000,00623-0754,0.0,0.0
+2013,riley county,penobscot county,0.0,0.0
+2014,sémillon,malvoisie,0.0,0.0
+2015,dubl,bayf,0.0,0.0
+2016,case manager/paralegal,case manager/paralegal,1.0,1.0
+2017,pharaoh hound,pharoah hound,1.0,1.0
+2018,appeal,cancelled,0.0,0.0
+2019,me,maine,1.0,0.0
+2020,sabin,parkrose,0.0,0.0
+2021,in,mo,0.0,0.0
+2022,q22langprofswift,q29framelovebackbonedotjs,0.0,0.0
+2023,international online cinema awards (inoca),"golden camera, germany",0.0,0.0
+2024,310,wi,0.0,0.0
+2025,spiritual awareness,spiritual awareness and spiritual awareness events,1.0,1.0
+2026,social work professionals,"metal melters, caster and rolling mill operators",0.0,0.0
+2027,tcd,mng,0.0,0.0
+2028,virginia,oregon,0.0,0.0
+2029,961,300,0.0,0.0
+2030,lake,sfia,0.0,0.0
+2031,203,730,0.0,0.0
+2032,fashion & beauty,health & wellbeing,0.0,0.0
+2033,pennsylvania,pa,1.0,0.0
+2034,maryland,district of columbia,0.0,0.0
+2035,ki,si,0.0,0.0
+2036,pk,hy,0.0,0.0
+2037,direct_use_of_geothermal_heat,aviation_gasoline,0.0,0.0
+2038,dv,st,0.0,0.0
+2039,africa,latin america and caribbean,0.0,0.0
+2040,bahamas,switzerland,0.0,0.0
+2041,washington,louisiana,0.0,0.0
+2042,520,841,0.0,0.0
+2043,15i,10h,0.0,0.0
+2044,changes in inventories,gross fixed capital formation (including acquisitions less disposals of valuables),0.0,0.0
+2045,"income survey (is), 2014","labor force survey (lfs), 2010",0.0,0.0
+2046,trans fat / re-inspection,cycle inspection / initial inspection,0.0,0.0
+2047,ca-mb ca-sb ca-sbe wbe,ca-sb dbe sb wbe,0.0,0.0
+2048,acs 5-year estimates,statewide central cancer registries,0.0,0.0
+2049,gl3,670,0.0,0.0
+2050,16,1,0.0,0.0
+2051,pan,pan,1.0,1.0
+2052,linnton,gresham - kelly creek,0.0,0.0
+2053,mt,nv,0.0,0.0
+2054,barbera,fumé blanc,0.0,0.0
+2055,chronic obstructive pulmonary disease,chronic kidney disease,0.0,0.0
+2056,institution-based personal care workers,other health professionals (except nursing),0.0,0.0
+2057,mlbr,cols,0.0,0.0
+2058,intermission-third,intermission-second,0.0,0.0
+2059,zimbabwe,23,0.0,0.0
+2060,data for this year refers to preliminary data.,data excludes kosovo and metohia effective january 1999.,0.0,0.0
+2061,laurelhurst,madison south,0.0,0.0
+2062,larceny,sex offenses,0.0,0.0
+2063,sports & recreation,book clubs,0.0,0.0
+2064,japan,lebanon,0.0,0.0
+2065,q29framelovepyramid,q22langprofgo,0.0,0.0
+2066,"2,5","1,9",0.0,0.0
+2067,pctbnd,105,0.0,0.0
+2068,guyana,somalia,0.0,0.0
+2069,nepal,bahrain,0.0,0.0
+2070,kansas,nebraska,0.0,0.0
+2071,hi,va,0.0,0.0
+2072,esq.,esquire,1.0,0.0
+2073,case manager/paralegal,case manager/paralegal,1.0,1.0
+2074,shay,ashb,0.0,0.0
+2075,12,zanzibar,0.0,0.0
+2076,south asia,middle east & north africa,0.0,0.0
+2077,08c,03g,0.0,0.0
+2078,ensemble,english horn,0.0,0.0
+2079,oth,subcomp,0.0,0.0
+2080,antigua and barbuda,bosnia and herzegovina,0.0,0.0
+2081,00733-4134,00765-4005,0.0,0.0
+2082,consultant,consultant,1.0,1.0
+2083,korean,portuguese,0.0,0.0
+2084,other operational services,"services, operational admin.",0.0,0.0
+2085,layer 2 up,repositioning,0.0,0.0
+2086,namibia,equatorial guinea,0.0,0.0
+2087,financial_corporations_survey_banking_survey_liabilities_included_in_definition_of_money,financial_corporations_survey_banking_survey_domestic_credit,0.0,0.0
+2088,dubl,pitt,0.0,0.0
+2089,zmb,zmb,1.0,1.0
+2090,warrick county,leavenworth county,0.0,0.0
+2091,antão vaz,mansois,0.0,0.0
+2092,category 2,category 2,0.0,1.0
+2093,labrador retriever cross,labrador retriever cross,1.0,1.0
+2094,côte d'ivoire,togo,0.0,0.0
+2095,i-abbreviation,b-family,0.0,0.0
+2096,senior paralegal,senior paralegal,1.0,1.0
+2097,mexican,german,0.0,0.0
+2098,"boston, ma 94501","boston, ma",1.0,1.0
+2099,chicago ridge,new york,0.0,0.0
+2100,red & white,red/white,1.0,1.0
+2101,308,008b,0.0,0.0
+2102,tanzania,fragile and conflict affected situations,0.0,0.0
+2103,kosovo,peru,0.0,0.0
+2104,882,821,0.0,0.0
+2105,hollywood,pleasant valley,0.0,0.0
+2106,lake,lakes,1.0,1.0
+2107,silver/white,silver & white,1.0,1.0
+2108,plza,lafy,0.0,0.0
+2109,unilateral document,agreement with subsequent status,0.0,0.0
+2110,506,198,0.0,0.0
+2111,curly coat retriever,curly coated retriever,1.0,1.0
+2112,jamaica,"congo, democratic republic of",0.0,0.0
+2113,prerecorded voice,live voice,0.0,0.0
+2114,open,open,1.0,1.0
+2115,or,wa,0.0,0.0
+2116,vgb,gum,0.0,0.0
+2117,stolen property,kidnap,0.0,0.0
+2118,russia,costa rica,0.0,0.0
+2119,offices of other health practitioners,fabricated metal product manufacturing,0.0,0.0
+2120,crstn-kenilwth,st johns,0.0,0.0
+2121,role-playing-games-rpgs,roleplaying-games-rpgs,1.0,1.0
+2122,assistant - hr,assitant - hr,1.0,1.0
+2123,e_inpat,e_d319,0.0,0.0
+2124,word processor and related operators,fruit tree farmers,0.0,0.0
+2125,uruguay,ethiopia,0.0,0.0
+2126,eritrea/sudan,indonesia/aceh,0.0,0.0
+2127,sek,hkd,0.0,0.0
+2128,switzerland,bahamas,0.0,0.0
+2129,primetime emmy,winsor mccay award,0.0,0.0
+2130,2,355,0.0,0.0
+2131,yard trimming,bagged litter,0.0,0.0
+2132,devon rex,ragdoll,0.0,0.0
+2133,communication,miscellaneous_goods_and_services,0.0,0.0
+2134,pe,te,0.0,0.0
+2135,immigration counsel,immigration counsel,1.0,1.0
+2136,ca-sbe cdvbe mbe mosb sb sbasdb sdvosb wbe wosb,ca-dvbe ca-mb ca-sb ca-sbe cdvbe dbe mbe mosb sb sdvosb,0.0,1.0
+2137,immigration shareholder,immigration shareholder,1.0,1.0
+2138,french,british,0.0,0.0
+2139,switzerland,france,0.0,0.0
+2140,chocolate & white,chocolate/white,1.0,1.0
+2141,walking,laying,0.0,0.0
+2142,estonian kroon,estonian kroon,1.0,1.0
+2143,"85,124","23,24",0.0,0.0
+2144,downtown,beaverton sexton mtn,0.0,0.0
+2145,24,741,0.0,0.0
+2146,neapolitan mastiff x,neopolitan mastiff x,1.0,1.0
+2147,morocco/(western sahara),south sudan/sudan/darfur,0.0,0.0
+2148,jaipur,delhi,0.0,0.0
+2149,alaska,vermont,0.0,0.0
+2150,guam,gu,1.0,0.0
+2151,xof,uah,0.0,0.0
+2152,"fragomen, del rey, bernsen & loewy, llp","fragomen, del rey, bersen & loewy llp",1.0,1.0
+2153,mt,hi,0.0,0.0
+2154,"real estate, department of",ca commission on disability access,0.0,0.0
+2155,switzerland,argentina,0.0,0.0
+2156,agent on behalf of altra consulting services llc,agent on behalf of altra consulting services llc.,1.0,1.0
+2157,muscat blanc,ugni blanc-colombard,0.0,0.0
+2158,europe & central asia,north america,0.0,0.0
+2159,east africa,indonesia,0.0,0.0
+2160,05/10/2012,04/03/2011,0.0,0.0
+2161,cols,24th,0.0,0.0
+2162,seychelles,bolivia,0.0,0.0
+2163,gresham - north gresham,argay,0.0,0.0
+2164,n,y,0.0,0.0
+2165,sh.anm.chld.zs,sh.anm.chld.zs,1.0,1.0
+2166,estonia,st vincent,0.0,0.0
+2167,gaita [galician bagpipes],viola,0.0,0.0
+2168,local_09,local_07,0.0,0.0
+2169,00766-6004,00681-0142,0.0,0.0
+2170,montana,delaware,0.0,0.0
+2171,runaway,liquor laws,0.0,0.0
+2172,morphol. examin.; id tentative,morphol. examin.; id tentative,1.0,1.0
+2173,artisan,agriculture,0.0,0.0
+2174,dnipropetrovs'k,austin,0.0,0.0
+2175,finance,it,0.0,0.0
+2176,pv of total normal cost,employer contributions,0.0,0.0
+2177,ga,pa,0.0,0.0
+2178,ghana,democratic republic of congo,0.0,0.0
+2179,legal services,services are specifically exempt by statute,0.0,0.0
+2180,la,louisiana,1.0,0.0
+2181,corporate immigration attorney,corp. secretary,1.0,0.0
+2182,mining and quarrying,plus: statistical discrepancy,0.0,0.0
+2183,ta,lb,0.0,0.0
+2184,neopolitan mastiff x,neapolitan mastiff x,1.0,1.0
+2185,argentina,greece,0.0,0.0
+2186,denver b-cycle founder,walk up,0.0,0.0
+2187,nz,ir,0.0,0.0
+2188,00954-9903,00772-0000,0.0,0.0
+2189,ax,tt,0.0,0.0
+2190,plus_taxes_on_products,water_supply_sewerage_waste_management_and_remediation_activities,0.0,0.0
+2191,ca-dvbe ca-mb ca-sb cdvbe sdvosb,ca-sb ca-sbe mbe sb wbe,0.0,0.0
+2192,west virginia,wv,1.0,0.0
+2193,"mining, manufacturing, utilities (isic c-e)","agriculture, hunting, forestry, fishing (isic a-b)",0.0,0.0
+2194,costa rica,suriname,0.0,0.0
+2195,advanced mfg,educational services,0.0,0.0
+2196,centurion,nagpur,0.0,0.0
+2197,rape,runaway,0.0,0.0
+2198,"6,25",44,0.0,0.0
+2199,housing,social_protection,0.0,0.0
+2200,nd,north dakota,1.0,0.0
+2201,cha,wur,0.0,0.0
+2202,obrien,o'brien,1.0,0.0
+2203,"milwaukee, wi 53224","milwaukee, wi",1.0,1.0
+2204,s15,p04,0.0,0.0
+2205,520,901,0.0,0.0
+2206,dragon,fire,0.0,0.0
+2207,italy,malaysia,0.0,0.0
+2208,pl,5e,0.0,0.0
+2209,"1,9","2,5",0.0,0.0
+2210,cdc children's food environment state indicator report,prams,0.0,0.0
+2211,"attorney, kramer & alfano, p.c.","attorney, kramer & alfano, p.c.",1.0,1.0
+2212,2,0,0.0,0.0
+2213,telecommunications servicesadvertising and pr servicesbusiness services - other,telecommunications services advertising and pr services business services - other,1.0,1.0
+2214,nevada,nv,1.0,0.0
+2215,country_01,country_03,0.0,0.0
+2216,gambia,honduras,0.0,0.0
+2217,park theater,park theatre,1.0,1.0
+2218,excel sheet,arc fye (check),0.0,0.0
+2219,health & wellbeing,fashion & beauty,0.0,0.0
+2220,côte d'ivoire,bermuda,0.0,0.0
+2221,equatorial guinea,namibia,0.0,0.0
+2222,"natural resources agency, california","teacher credentialing, commission on",0.0,0.0
+2223,malvoisie,sémillon,0.0,0.0
+2224,453,400,0.0,0.0
+2225,state,national immunization survey,0.0,0.0
+2226,mng,sur,0.0,0.0
+2227,glen,phil,0.0,0.0
+2228,sumner,hillside,0.0,0.0
+2229,women-business-networking,womens-business-networking,1.0,1.0
+2230,musikverein,music hall,1.0,0.0
+2231,pi,iq,0.0,0.0
+2232,mg,bm,0.0,0.0
+2233,north carolina,nc,1.0,0.0
+2234,burkina faso,rwanda,0.0,0.0
+2235,white swiss shepard,white swiss shepherd,1.0,1.0
+2236,less_taxes_less_subsidies_on_production_and_imports_to_the_rest_of_the_world,less_current_transfers_to_the_rest_of_the_world,0.0,0.0
+2237,nigeria,india,0.0,0.0
+2238,nm,new mexico,1.0,0.0
+2239,de,delaware,1.0,1.0
+2240,china/old town,woodstock,0.0,0.0
+2241,griffon bruxellois x,griffin bruxellois x,1.0,1.0
+2242,disabled entrepreneurs,youth entrepreneurship,0.0,0.0
+2243,ohio,oh,1.0,0.0
+2244,principal engineer,level 1 developer (junior),0.0,0.0
+2245,gross_domestic_product,equals_saving_net,0.0,0.0
+2246,"silk-screen, block and textile printers",pharmaceutical and toiletry products machine operators,0.0,0.0
+2247,bdi,bdi,1.0,1.0
+2248,postharvest crop activities (except cotton ginning),other community housing services,0.0,0.0
+2249,athens,egham,0.0,0.0
+2250,less: subsidies on products,other service activities,0.0,0.0
+2251,armenia,10,0.0,0.0
+2252,ouguiyas,ouguiya,1.0,1.0
+2253,cacao field renewal,sabuj sangha,0.0,0.0
+2254,670,gl3,0.0,0.0
+2255,attorney and principal,attorney and counselor,1.0,0.0
+2256,anderson county,missoula county,0.0,0.0
+2257,sweden,england,0.0,0.0
+2258,heptu web server,mw2171.codfw.wmnet,0.0,0.0
+2259,cad,gbp,0.0,0.0
+2260,jazz quintet,electric 6-string bass guitar,0.0,0.0
+2261,"6,28",3,0.0,0.0
+2262,former sudan,antigua and barbuda,0.0,0.0
+2263,bmu;fra,bmu;jey,0.0,0.0
+2264,networking equipment,multiutilities,0.0,0.0
+2265,managing partner,managing partner,1.0,1.0
+2266,swedish,american-italian,0.0,0.0
+2267,senior attorney,sr. attorney,1.0,0.0
+2268,mozambique,azerbaijan,0.0,0.0
+2269,science-technology,science-and-technology,1.0,1.0
+2270,suborder,family,0.0,0.0
+2271,"6,137","8,14",0.0,0.0
+2272,luxembourg,portugal,0.0,0.0
+2273,malaysian,brazilian,0.0,0.0
+2274,hpc,sdn,0.0,0.0
+2275,fl,ny,0.0,0.0
+2276,872,wl1,0.0,0.0
+2277,curfew,prostitution,0.0,0.0
+2278,wyoming,new mexico,0.0,0.0
+2279,nevada,new hampshire,0.0,0.0
+2280,turkmenistan,sudan,0.0,0.0
+2281,other_service_activities_s,wholesale_and_retail_trade_repair_of_motor_vehicles_and_motorcycles_g,0.0,0.0
+2282,hobbies & crafts,fitness,0.0,0.0
+2283,black-girls-read-book-club,axis-bni,0.0,0.0
+2284,audio engineer,marionettes,0.0,0.0
+2285,mp,pw,0.0,0.0
+2286,orin,conc,0.0,0.0
+2287,"san francisco, ca","san francisco ca, ca 94107",1.0,1.0
+2288,col,col,1.0,1.0
+2289,hotdogs,hawaiian,0.0,0.0
+2290,wilkes,beaverton - west slope,0.0,0.0
+2291,bg,ni,0.0,0.0
+2292,guam,senegal,0.0,0.0
+2293,aud,nzd,0.0,0.0
+2294,arson,fraud,0.0,0.0
+2295,ct,so,0.0,0.0
+2296,colorado,oregon,0.0,0.0
+2297,sylvan-highlnds,concordia,0.0,0.0
+2298,2,saint kitts and nevis,0.0,0.0
+2299,wy,ky,0.0,0.0
+2300,domestic shorthair/manx,domestic shorthair/domestic shorthair,0.0,0.0
+2301,la,tn,0.0,0.0
+2302,"public administration and defence, education, human health and social work activities",wholesale and retail trade; repair of motor vehicles and motorcycles,0.0,0.0
+2303,trans fat / limited inspection,administrative miscellaneous / compliance inspection,0.0,0.0
+2304,zimbabwe,eritrea,0.0,0.0
+2305,nh,sd,0.0,0.0
+2306,guinea,burundi,0.0,0.0
+2307,bulgaria,algeria,0.0,0.0
+2308,mexico,c�te d'ivoire,0.0,0.0
+2309,3,23,0.0,0.0
+2310,dem rep of congo,chalan pago,0.0,0.0
+2311,nevada,new hampshire,0.0,0.0
+2312,lsl,ugx,0.0,0.0
+2313,korinthia,lakonia,0.0,0.0
+2314,560,711,0.0,0.0
+2315,ast,rph,0.0,0.0
+2316,russian hill,lakeshore,0.0,0.0
+2317,tokaj,tokaji,1.0,1.0
+2318,nj,al,0.0,0.0
+2319,1,3,0.0,0.0
+2320,nh,ri,0.0,0.0
+2321,arizona,dallas,0.0,0.0
+2322,colombia,luxembourg,0.0,0.0
+2323,exports of goods and services,general government final consumption expenditure,0.0,0.0
+2324,montpellier,nuremberg,0.0,0.0
+2325,united kingdom,sierra leone,0.0,0.0
+2326,gtm,gtm,1.0,1.0
+2327,layer 1 down,layer 3 down,0.0,1.0
+2328,"nvss, mortality",infousa; usda,0.0,0.0
+2329,corporate counsel,corporate counsel,1.0,1.0
+2330,plan covers state employees,plan covers local employees,0.0,0.0
+2331,florida,louisiana,0.0,0.0
+2332,hawaii,hi,1.0,0.0
+2333,exports_of_goods_and_services,exports_of_services,0.0,0.0
+2334,lake,wcrk,0.0,0.0
+2335,china/old town,e columbia,0.0,0.0
+2336,"10,21,61,62","32,40",0.0,0.0
+2337,budapest,geneva,0.0,0.0
+2338,lebanon,uganda,0.0,0.0
+2339,education,furnishings_household_equipment_and_routine_maintenance_of_the_house,0.0,0.0
+2340,nicaragua,dominican republic,0.0,0.0
+2341,gum,vgb,0.0,0.0
+2342,emergency,phone,0.0,0.0
+2343,rivesaltes rosé,gavi di gavi,0.0,0.0
+2344,missouri,alaska,0.0,0.0
+2345,union trans./prof. services,union trans./prof. services,1.0,1.0
+2346,b-abbreviation,i-systematic,0.0,0.0
+2347,gresham - northwest gresh,hosfrd-abrnethy,0.0,0.0
+2348,delia nivolelli,mercurey,0.0,0.0
+2349,interference,indecency,0.0,0.0
+2350,buckman-west,gresham - downtown,0.0,0.0
+2351,y11,x12,0.0,0.0
+2352,city,town,0.0,0.0
+2353,mi,md,0.0,0.0
+2354,periodical publishers,apparel knitting mills,0.0,0.0
+2355,"forestry, logging and related service activities","ngos and un peacekeeping operations.""",0.0,0.0
+2356,hayden island,hayhurst,0.0,0.0
+2357,orh,mth,0.0,0.0
+2358,sex offenses,larceny,0.0,0.0
+2359,"eden prairie, mn 55344","eden prairie, mn",1.0,1.0
+2360,indonesia/portugal/(east timor),nigeria/southern kaduna,0.0,0.0
+2361,kzc,lcp,0.0,0.0
+2362,local_09,local_12,0.0,0.0
+2363,vn,my,0.0,0.0
+2364,doctorate,other,0.0,0.0
+2365,biotechnology/pharmaceuticals;medical devices and supplies,biotechnology/pharmaceuticalsmedical devices and supplies,1.0,1.0
+2366,côte d'ivoire,argentina,0.0,0.0
+2367,tanzania - mainland,27,0.0,0.0
+2368,rías baixas,mâcon-prissé,0.0,0.0
+2369,16b,10b,0.0,0.0
+2370,senior counsel,sr. counsel,1.0,0.0
+2371,cfa franc,cfa franc,1.0,1.0
+2372,680,351,0.0,0.0
+2373,912,822,0.0,0.0
+2374,tur,mex,0.0,0.0
+2375,cf,td,0.0,0.0
+2376,cape verde,niger,0.0,0.0
+2377,en,pt,0.0,0.0
+2378,per,mas,0.0,0.0
+2379,azerbaijan,cote d'ivoire,0.0,0.0
+2380,királyleányka,kallmet,0.0,0.0
+2381,white/blue,blue/white,1.0,1.0
+2382,belize,iraq,0.0,0.0
+2383,ks,kansas,1.0,0.0
+2384,okayama,monza,0.0,0.0
+2385,mill park,argay,0.0,0.0
+2386,duii,stolen property,0.0,0.0
+2387,malawi,burkina faso,0.0,0.0
+2388,asl-sign-languages,asl,1.0,0.0
+2389,manufacturing - othermedical devices and supplies,manufacturing - other; medical devices and supplies,1.0,1.0
+2390,nad,amd,0.0,0.0
+2391,splice_donor_variant&coding_sequence_variant&intron_variant,stop_gained&inframe_insertion,0.0,0.0
+2392,hr-and-tech-sf,zorkasphotobeginners,0.0,0.0
+2393,nio,wst,0.0,0.0
+2394,cy.de,nm,0.0,0.0
+2395,or,tx,0.0,0.0
+2396,ethiopia,former netherlands antilles,0.0,0.0
+2397,pacific heights,nob hill,0.0,0.0
+2398,partner/lead engagement attorney,partner/lead engagement attorney,1.0,1.0
+2399,11,spain,0.0,0.0
+2400,austria,comoros,0.0,0.0
+2401,final_consumption_expenditure,imports_of_goods_and_services,0.0,0.0
+2402,ch,pg,0.0,0.0
+2403,hayw,frmt,0.0,0.0
+2404,geo,geo,1.0,1.0
+2405,arts & culture,food & drink,0.0,0.0
+2406,lesotho,brazil,0.0,0.0
+2407,me,nj,0.0,0.0
+2408,slovak koruna,slovak koruna,1.0,1.0
+2409,in house counsel,in house counsel for employer,1.0,0.0
+2410,tokyo international film festival,"cinema bloggers awards, portugal",0.0,0.0
+2411,nebraska,georgia,0.0,0.0
+2412,layer 3 up,layer 1 up,0.0,0.0
+2413,germany,mongolia,0.0,0.0
+2414,kansas,ks,1.0,0.0
+2415,catch record,specimen,0.0,0.0
+2416,wholesale_retail_trade_repair_of_motor_vehicles_motorcycles_and_personal_and_household_goods_hotels_and_restaurants,equals_gross_domestic_product,0.0,0.0
+2417,guatemala,aruba,0.0,0.0
+2418,nm,new mexico,1.0,0.0
+2419,rwanda,vanuatu,0.0,0.0
+2420,mwi,alb,0.0,0.0
+2421,ud,md,0.0,0.0
+2422,u-ph3,office 2/f,0.0,0.0
+2423,flusher,recycling - pilot,0.0,0.0
+2424,ak,alaska,1.0,0.0
+2425,sumner,sabin,0.0,0.0
+2426,massachusetts,texas,0.0,0.0
+2427,underserved (non-lebanese),solar electric fence,0.0,0.0
+2428,web technology,web & new technology,1.0,1.0
+2429,honduras,panama,0.0,0.0
+2430,pets & animals,religion & beliefs,0.0,0.0
+2431,cu,5x,0.0,0.0
+2432,liquor laws,runaway,0.0,0.0
+2433,uah,xof,0.0,0.0
+2434,burglary,duii,0.0,0.0
+2435,embezzlement,runaway,0.0,0.0
+2436,le castellet,new jersey,0.0,0.0
+2437,sp,301,0.0,0.0
+2438,south sudan,zambia,0.0,0.0
+2439,sd,al,0.0,0.0
+2440,ground,rock,0.0,0.0
+2441,madison south,laurelhurst,0.0,0.0
+2442,grenada,japan,0.0,0.0
+2443,28/10/2011,11/01/2013,0.0,0.0
+2444,white,native hawaiian or other pacific islander,0.0,0.0
+2445,centre-nord,centre-nord,1.0,1.0
+2446,nv,mt,0.0,0.0
+2447,viognier-valdiguié,vital,0.0,0.0
+2448,rand,rand,1.0,1.0
+2449,17,"19,20,21",0.0,0.0
+2450,me,8s,0.0,0.0
+2451,k.2,d.1,0.0,0.0
+2452,home,homes,1.0,1.0
+2453,"durham, nc 27709","durham, nc",1.0,1.0
+2454,officer_of,registered_address,0.0,0.0
+2455,greece,12,0.0,0.0
+2456,mlbr,wcrk,0.0,0.0
+2457,ca-dvbe ca-mb ca-sb ca-sbe sb sbasdb sdvosb,dbe mbe sb,0.0,0.0
+2458,lemnos,limnos,1.0,0.0
+2459,intact male cat,unknown cat,0.0,0.0
+2460,gresham - a.s.e.r.t.,homestead,0.0,0.0
+2461,dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer; dancer,host/commentator,0.0,0.0
+2462,hobsons bay city council,whitehorse city council,0.0,0.0
+2463,layer 2 down,layer 3 down,0.0,1.0
+2464,bermuda,malaysia,0.0,0.0
+2465,872,800,0.0,0.0
+2466,120,850,0.0,0.0
+2467,cols,hayw,0.0,0.0
+2468,associate,associate,1.0,1.0
+2469,q03,m02,0.0,0.0
+2470,soul food,german,0.0,0.0
+2471,44,"6,25",0.0,0.0
+2472,special counsel,special counsel,1.0,1.0
+2473,cocker spaniel cross,cocker spaniel cross,1.0,1.0
+2474,"falls church, va","falls church, va 22042",1.0,1.0
+2475,annual (boulder b-cycle),try before you buy special,0.0,0.0
+2476,520,860,0.0,0.0
+2477,houston,portland,0.0,0.0
+2478,embr,wspr,0.0,0.0
+2479,oman,panama,0.0,0.0
+2480,zimbabwe,somalia,0.0,0.0
+2481,houston film critics society awards,london critics circle film awards,0.0,0.0
+2482,south dakota,sd,1.0,0.0
+2483,sr,lr,0.0,0.0
+2484,fiber,satellite,0.0,0.0
+2485,nac,cym,0.0,0.0
+2486,008v,331,0.0,0.0
+2487,japan,germany,0.0,0.0
+2488,legal advisory services,data processing services,0.0,0.0
+2489,local_10,local_11,0.0,0.0
+2490,19,13,0.0,0.0
+2491,cully,hillsdale,0.0,0.0
+2492,park theatre,park theater,1.0,1.0
+2493,solar refrigerator,kiva city newark,0.0,0.0
+2494,accounting and auditing servicesbusiness services - otherfinancial services,accounting and auditing services business services - other financial services,1.0,1.0
+2495,gross_domestic_product_gdp,final_consumption_expenditure,0.0,0.0
+2496,pz,rw,0.0,0.0
+2497,soups & sandwiches,asian,0.0,0.0
+2498,coliseum theater,coliseum theatre,1.0,1.0
+2499,mexico,china,0.0,0.0
+2500,local_04,local_08,0.0,0.0
+2501,medium,non-emergency,0.0,0.0
+2502,ap,aa,0.0,0.0
+2503,q21corecompperfopt,q28lovehaskell,0.0,0.0
+2504,drugs,fraud,0.0,0.0
+2505,togo,brazil,0.0,0.0
+2506,bucaramanga,costa rica taxi sedán,0.0,0.0
+2507,mus,khm,0.0,0.0
+2508,"19,20",12,0.0,0.0
+2509,chile,peru,0.0,0.0
+2510,bol,bol,1.0,1.0
+2511,651,712,0.0,0.0
+2512,soroptimist-sanfrancisco,san-francisco-healthcare-3d-printing-meetup,0.0,0.0
+2513,981,204,0.0,0.0
+2514,q8joblevel,q12jobcritworklifebal,0.0,0.0
+2515,ny,new york,1.0,0.0
+2516,bmu;hkg;sgp,bmu;che;usa,0.0,0.0
+2517,vt,dc,0.0,0.0
+2518,colm,ucty,0.0,0.0
+2519,domestic mediumhair,domestic shorthair/maine coon,0.0,0.0
+2520,antigua and barbuda,kyrgyzstan,0.0,0.0
+2521,sonoma,sierra foothills,0.0,0.0
+2522,attorney & general counsel,attorney &general counsel,1.0,1.0
+2523,gresham - rockwood group,st johns,0.0,0.0
+2524,geospatial,aerospace,0.0,0.0
+2525,denmark,brazil,0.0,0.0
+2526,south dakota,sd,1.0,0.0
+2527,paraguay,el salvador,0.0,0.0
+2528,professional_scientific_technical_administrative_and_support_service_activities,administrative_and_support_service_activities,0.0,0.0
+2529,miami beach theater,miami beach auditorium,1.0,0.0
+2530,public utilities and public sector related services,national defense and public order and security and safety services,0.0,0.0
+2531,south africa,switzerland,0.0,0.0
+2532,hawaii,wisconsin,0.0,0.0
+2533,germany,swaziland,0.0,0.0
+2534,japan,kuwait,0.0,0.0
+2535,travis county,bergen county,0.0,0.0
+2536,vgb,pre,0.0,0.0
+2537,mozambique,philippines,0.0,0.0
+2538,dkk,aud,0.0,0.0
+2539,aa,ap,0.0,0.0
+2540,us,croatia,0.0,0.0
+2541,belize,cuba,0.0,0.0
+2542,tun,lva,0.0,0.0
+2543,crstn-kenilwth,ardenwald,0.0,0.0
+2544,de,se,0.0,0.0
+2545,lebanon,romania,0.0,0.0
+2546,most plan members covered by social security (each participating district decides their own ss participation).,most plan members covered by social security (each participating county or district decides their own ss participation).,0.0,0.0
+2547,zimbabwe,sudan,0.0,0.0
+2548,attorney of file,attorney of file,1.0,1.0
+2549,individual consumption expenditure of households,individual consumption expenditure of non-profit institutions serving households (npishs),0.0,1.0
+2550,oakl,mcar,0.0,0.0
+2551,malbec-cabernet sauvignon,karalahna,0.0,0.0
+2552,blz,sur,0.0,0.0
+2553,wv,pa,0.0,0.0
+2554,890,22,0.0,0.0
+2555,21,"1,14",0.0,0.0
+2556,new hampshire,vermont,0.0,0.0
+2557,monash city council,bayside city council,0.0,0.0
+2558,z11,r2y1,0.0,0.0
+2559,"integrated household survey (ihs), 2014","expenditure survey/budget survey (es/bs), 2009",0.0,0.0
+2560,northwest hts,arbor lodge,0.0,0.0
+2561,srd,cop,0.0,0.0
+2562,sahor,isr,0.0,0.0
+2563,op,sh,0.0,0.0
+2564,french bulldog x,french bull dog x,1.0,1.0
+2565,central africa,uruguay,0.0,0.0
+2566,ne,nebraska,1.0,1.0
+2567,spain,israel,0.0,0.0
+2568,beige/gold,beige & golden,1.0,0.0
+2569,cement and other mineral products machine operators,housekeepers and related workers,0.0,0.0
+2570,dog play area,ball field,0.0,0.0
+2571,durham lead,durham lead,1.0,1.0
+2572,tt,ax,0.0,0.0
+2573,ireland,cuba,0.0,0.0
+2574,oregon other,long island,0.0,0.0
+2575,bridlemile,sylvan-highlnds,0.0,0.0
+2576,pq,pk,0.0,0.0
+2577,15,"6,77",0.0,0.0
+2578,san francisco,chicago park,0.0,0.0
+2579,maine,new jersey,0.0,0.0
+2580,"milwaukee, wi","milwaukee, wi 53224",1.0,1.0
+2581,lone mountain/usf,mclaren park,0.0,0.0
+2582,eastern victoria,southern metropolitan,0.0,0.0
+2583,2,"4,5",0.0,0.0
+2584,gnb,mex,0.0,0.0
+2585,burkina faso,maldives,0.0,0.0
+2586,partner/attorney,partner / attorney,1.0,1.0
+2587,netherlands,thailand,0.0,0.0
+2588,new york,"new york,",1.0,1.0
+2589,day care home gt 12,prkng garage/private,0.0,0.0
+2590,bulgaria,sudan,0.0,0.0
+2591,county,village,0.0,0.0
+2592,00694-4196,00780-0823,0.0,0.0
+2593,mn,ia,0.0,0.0
+2594,00765-4005,00733-4134,0.0,0.0
+2595,finland,new zealand,0.0,0.0
+2596,tennessee,new york,0.0,0.0
+2597,e columbia,mt tabor,0.0,0.0
+2598,nashville-davidson,fairfax,0.0,0.0
+2599,methane_ch4_emissions_without_land_use_land_use_change_and_forestry_lulucf_in_kilotonne_co2_equivalent,greenhouse_gas_ghgs_emissions_without_land_use_land_use_change_and_forestry_lulucf_in_kilotonne_co2_equivalent,0.0,1.0
+2600,guinea-bissau,republic of congo,0.0,0.0
+2601,b.8g,p.5,0.0,0.0
+2602,requinoa,philadelphia,0.0,0.0
+2603,beaverton sexton mtn,downtown,0.0,0.0
+2604,harmonica,drum,0.0,0.0
+2605,specialty chemicals,internet software & services,0.0,0.0
+2606,slovak koruna,slovak koruna,1.0,1.0
+2607,"9,10,11","9,10",0.0,0.0
+2608,shizuoka stadium ecopa,parkstadion,0.0,0.0
+2609,equals_net_lending_net_borrowing_of_the_nation,less_acquisitions_less_disposals_of_non_produced_non_financial_assets,0.0,0.0
+2610,malaysian,brazilian,0.0,0.0
+2611,thenailab,bongohive,0.0,0.0
+2612,tres de marzo,stade olympique,0.0,0.0
+2613,moldova,rwanda,0.0,0.0
+2614,centre-est,centre-est,1.0,1.0
+2615,managing partner - new york,managing partner - new york,1.0,1.0
+2616,"wilmington, de","wilmington, de 19803",1.0,1.0
+2617,rwa,rwa,1.0,1.0
+2618,insurance; accounting and auditing services; financial services,insuranceaccounting and auditing servicesfinancial services,1.0,1.0
+2619,dj,lb,0.0,0.0
+2620,high school,associate's,0.0,0.0
+2621,pk,cm,0.0,0.0
+2622,lakes,lake,1.0,1.0
+2623,street cleaning-downtown,bulk,0.0,0.0
+2624,ncon,shay,0.0,0.0
+2625,20,footnote_seqid,0.0,0.0
+2626,motor vehicle theft,stolen property,0.0,0.0
+2627,larceny,arson,0.0,0.0
+2628,media digital creative jobs,hr jobs,0.0,0.0
+2629,beige & cream,beige/cream,1.0,1.0
+2630,ssd,emu,0.0,0.0
+2631,cocker spaniel cross,cocker spaniel cross,1.0,1.0
+2632,gabon,sweden,0.0,0.0
+2633,georgia,kyrgyzstan,0.0,0.0
+2634,estonia,belgium,0.0,0.0
+2635,syrian arab republic,greenland,0.0,0.0
+2636,south carolina,sc,1.0,0.0
+2637,dallas grand prix,korean grand prix,0.0,0.0
+2638,laurelhurst,northwest,0.0,0.0
+2639,integrated oil & gas,airlines,0.0,0.0
+2640,mexico,tajikistan,0.0,0.0
+2641,panama,state of palestine,0.0,0.0
+2642,"city of industry, ca","city of industry, ca 91744",1.0,1.0
+2643,i-no class,b-no class,0.0,0.0
+2644,hotels and lodging restaurant/food services other/not classified,hotels and lodgingrestaurant/food servicesother/not classified,1.0,1.0
+2645,alaska,minnesota,0.0,0.0
+2646,niger,botswana,0.0,0.0
+2647,16f,06b,0.0,0.0
+2648,cote d'ivoire,madagascar,0.0,0.0
+2649,domestic shorthair/abyssinian,munchkin longhair,0.0,0.0
+2650,"cincinnati, oh","cincinnati, oh 45246",1.0,1.0
+2651,sable/black,black/sable,1.0,1.0
+2652,fashion design,fashion designers,1.0,1.0
+2653,vt,hi,0.0,0.0
+2654,member,member,1.0,1.0
+2655,kentucky,tennessee,0.0,0.0
+2656,doctorate,bachelor's,0.0,0.0
+2657,layer 1 up,layer 3 up,0.0,0.0
+2658,ko,ir,0.0,0.0
+2659,"attorney, casa las americas immigration solutions,",attorney at casa las americas immigration solution,1.0,1.0
+2660,central african republic,france,0.0,0.0
+2661,npaw2_2,mth2_0,0.0,0.0
+2662,r2z4,r1x6,0.0,0.0
+2663,aerospace and defensegovernment and military,aerospace and defense; government and military,1.0,1.0
+2664,jo,ms,0.0,0.0
+2665,oboe d'amore,actor,0.0,0.0
+2666,arnold creek,woodland park,0.0,0.0
+2667,south africa,angola/cabinda,0.0,0.0
+2668,pakistani,peruvian,0.0,0.0
+2669,10,830,0.0,0.0
+2670,automobile sales,public assmbly other,0.0,0.0
+2671,spielburg,valencia,0.0,0.0
+2672,collie rough cross,collie (rough) cross,1.0,1.0
+2673,zmb,zmb,1.0,1.0
+2674,wisconsin,wi,1.0,1.0
+2675,visitacion valley,potrero hill,0.0,0.0
+2676,la pontaise,stadio olimpico,0.0,0.0
+2677,ma,sz,0.0,0.0
+2678,"child support services, department of","coastal conservancy, state",0.0,0.0
+2679,grey/brown,brown/grey,1.0,1.0
+2680,eritrea,zimbabwe,0.0,0.0
+2681,portuguese grand prix,monaco grand prix,0.0,0.0
+2682,kidnap,stolen property,0.0,0.0
+2683,z10,w09,0.0,0.0
+2684,germany,mexico,0.0,0.0
+2685,hawaii,hi,1.0,0.0
+2686,gambling,duii,0.0,0.0
+2687,silver & white,silver/white,1.0,1.0
+2688,services,transportation,0.0,0.0
+2689,visa specialist,visa specialist,1.0,1.0
+2690,expense_otherdeductions,contrib_other,0.0,0.0
+2691,300,110,0.0,0.0
+2692,manna,dutch,0.0,0.0
+2693,152,901,0.0,0.0
+2694,eastmoreland,arlington hghts,0.0,0.0
+2695,lincoln square theatre,lincoln square,1.0,0.0
+2696,bdi,mda,0.0,0.0
+2697,other,not listed/not applicable,0.0,0.0
+2698,mali,comoros,0.0,0.0
+2699,angola,"micronesia, federated states of",0.0,0.0
+2700,legal representative,legal representative,1.0,1.0
+2701,ba,ph,0.0,0.0
+2702,10,"2,6",0.0,0.0
+2703,engineering and engineering trades programs,engineering and engineering trades programs,1.0,1.0
+2704,repositioning,layer 2 down,0.0,0.0
+2705,omaha,los angeles county,0.0,0.0
+2706,russia,hungary,0.0,0.0
+2707,mean,crude prevalence,0.0,0.0
+2708,multnomah,hillside,0.0,0.0
+2709,ne,nebraska,1.0,1.0
+2710,annual plus,24-hour-online (austin b-cycle),0.0,0.0
+2711,pittsburg,denver,0.0,0.0
+2712,disorderly conduct,vandalism,0.0,0.0
+2713,equatorial guinea,mozambique,0.0,0.0
+2714,nc,north carolina,1.0,0.0
+2715,b-identifier,b-multiple,0.0,0.0
+2716,tkm,ukr,0.0,0.0
+2717,virgin islands,vi,1.0,0.0
+2718,soviet union,st vincent,0.0,0.0
+2719,colorado,south dakota,0.0,0.0
+2720,t24,no,0.0,0.0
+2721,"9,10","16,22",0.0,0.0
+2722,sunderland,genoa,0.0,0.0
+2723,gt,be,0.0,0.0
+2724,human resources,hr,1.0,0.0
+2725,united arab emirates,east asia & pacific (excluding high income),0.0,0.0
+2726,equals_gross_domestic_product,accommodation_and_food_service_activities,0.0,0.0
+2727,refers to gross domestic product.,includes private households with employed persons (t) of isic rev. 4,0.0,0.0
+2728,new zealand,finland,0.0,0.0
+2729,mw2171.codfw.wmnet,heptu web server,0.0,0.0
+2730,extinct,vulnerable,0.0,0.0
+2731,washington other,finger lakes,0.0,0.0
+2732,t28,sh,0.0,0.0
+2733,netherlands,uruguay,0.0,0.0
+2734,napa-sonoma,oregon other,0.0,0.0
+2735,fiscal year,pv of other benefits,0.0,0.0
+2736,beaumont-wilshr,mt scott-arleta,0.0,0.0
+2737,reproductive health,cardiovascular disease,0.0,0.0
+2738,burglary,trespass,0.0,0.0
+2739,myanmar,lesotho,0.0,0.0
+2740,agricultural or industrial machinery mechanics and fitters,general managers/managing proprietors in construction,0.0,0.0
+2741,1,951,0.0,0.0
+2742,hispanic,female,0.0,0.0
+2743,nob hill,pacific heights,0.0,0.0
+2744,portugal,austria,0.0,0.0
+2745,idx,mne,0.0,0.0
+2746,insuranceaccounting and auditing servicesfinancial services,insurance; accounting and auditing services; financial services,1.0,1.0
+2747,swz,hrv,0.0,0.0
+2748,iowa,north carolina,0.0,0.0
+2749,energy and utilities; engineering services,energy and utilities engineering services,1.0,1.0
+2750,gross_capital_formation,exports_of_goods_and_services,0.0,0.0
+2751,keyboard,persian kamancheh,0.0,0.0
+2752,fl,sd,0.0,0.0
+2753,vnm,tha,0.0,0.0
+2754,tn,tennessee,1.0,0.0
+2755,board of state and community corrections,governor's office,0.0,0.0
+2756,new york,district of columbia,0.0,0.0
+2757,texas,mississippi,0.0,0.0
+2758,fishing_and_aquaculture_03,mining_and_quarrying_b,0.0,0.0
+2759,nebraska,montana,0.0,0.0
+2760,pageon,pangeon,1.0,0.0
+2761,4,papua new guinea,0.0,0.0
+2762,x16b,x12b,0.0,0.0
+2763,puerto rico,pr,1.0,0.0
+2764,872,352,0.0,0.0
+2765,maldives,armenia,0.0,0.0
+2766,il,mo,0.0,0.0
+2767,social studies,"pharmaceuticals, medical products",0.0,0.0
+2768,other,emergency acquisition for the protection of the public,0.0,0.0
+2769,all other personal services,food (health) supplement stores,0.0,0.0
+2770,oklahoma,ok,1.0,1.0
+2771,oklahoma,indiana,0.0,0.0
+2772,"53,54,55","22,111",0.0,0.0
+2773,bowled,lbw,0.0,0.0
+2774,european culture,european languages & culture,1.0,0.0
+2775,fairy,dark,0.0,0.0
+2776,e_tcash2,spr,0.0,0.0
+2777,congo,barbados,0.0,0.0
+2778,"promoters of performing arts, sports, and similar events",electric lamp bulb and part manufacturing,0.0,0.0
+2779,bra,bra,1.0,1.0
+2780,prison industry authority (pia),transportation management unit (tmu),0.0,0.0
+2781,mining-plant operators,farm technicians,0.0,0.0
+2782,printing services,memberships,0.0,0.0
+2783,aerospace & defense,personal products,0.0,0.0
+2784,"alcohol and drug programs, department of","peace officer standards and training, commission on",0.0,0.0
+2785,ca,ia,0.0,0.0
+2786,field id by non-expert from video,field id by non-expert from video,1.0,1.0
+2787,executive director,executive director,1.0,1.0
+2788,pre-permit (non-operational) / compliance inspection,pre-permit (operational) / re-inspection,0.0,0.0
+2789,chn,cmr,0.0,0.0
+2790,ceb,mli,0.0,0.0
+2791,swaziland,samoa,0.0,0.0
+2792,storage shed,chemical processing,0.0,0.0
+2793,isr,sahor,0.0,0.0
+2794,de,md,0.0,0.0
+2795,domestic_liabilities,balance_of_payments_volume_of_imports,0.0,0.0
+2796,pr,puerto rico,1.0,0.0
+2797,eg,g,0.0,0.0
+2798,malaysia,zambia,0.0,0.0
+2799,dark,steel,0.0,0.0
+2800,nok,sek,0.0,0.0
+2801,iraq,belize,0.0,0.0
+2802,"white, non-hispanic","black, non-hispanic",0.0,0.0
+2803,washington,carneros-napa valley,0.0,0.0
+2804,a1050000000vt3z,a1050000004dc9c,0.0,0.0
+2805,26,"11,12",0.0,0.0
+2806,"54,55","8,27",0.0,0.0
+2807,contrib_other,expense_otherdeductions,0.0,0.0
+2808,iran (islamic republic of),kuwait,0.0,0.0
+2809,motor vehicle theft,duii,0.0,0.0
+2810,homicide,motor vehicle theft,0.0,0.0
+2811,curitiba,mexico city,0.0,0.0
+2812,solomon islands,vietnam,0.0,0.0
+2813,shay,cast,0.0,0.0
+2814,hr jobs,media digital creative jobs,0.0,0.0
+2815,lca,mmr,0.0,0.0
+2816,mth2_0,npaw2_2,0.0,0.0
+2817,510,961,0.0,0.0
+2818,cc_hub,mlabeastafrica,0.0,0.0
+2819,host,nan,0.0,0.0
+2820,poland,latin america & caribbean (excluding high income),0.0,0.0
+2821,15/10/2010,03/08/2012,0.0,0.0
+2822,iv,ii,0.0,0.0
+2823,"6,5",9,0.0,0.0
+2824,djibouti/eritrea,pakistan/taliban,0.0,0.0
+2825,st pierre & miquelon,bangladesh,0.0,0.0
+2826,distillers & vintners,agricultural products,0.0,0.0
+2827,y,a,0.0,0.0
+2828,kaye,kay,1.0,1.0
+2829,minnesota,mn,1.0,0.0
+2830,marshall islands,mh,1.0,0.0
+2831,jp,us,0.0,0.0
+2832,soft coated wheaton terrier,soft coat wheaten terrier,1.0,1.0
+2833,npishs_final_consumption_expenditure,changes_in_inventories,0.0,0.0
+2834,cym;kwt,cym;egy;jey,0.0,0.0
+2835,virginia,milwaukee county,0.0,0.0
+2836,required contribution,pv of inactive vested benefits,0.0,0.0
+2837,new zealand,kuwait,0.0,0.0
+2838,preparer,preparer,1.0,1.0
+2839,cuba,ireland,0.0,0.0
+2840,iraq/united states of america,north korea/united states of america,0.0,1.0
+2841,mt,montana,1.0,0.0
+2842,white / gold,gold/white,1.0,0.0
+2843,06/08/2010,09/09/2011,0.0,0.0
+2844,540,941,0.0,0.0
+2845,"retirement research foundation, usa","american film institute, usa",0.0,0.0
+2846,oregon,california,0.0,0.0
+2847,state,market value adjustment,0.0,0.0
+2848,paraguay,uruguay,0.0,0.0
+2849,algeria,bulgaria,0.0,0.0
+2850,si,ki,0.0,0.0
+2851,syc,lao,0.0,0.0
+2852,pageon,serra gaúcha,0.0,0.0
+2853,dc,ok,0.0,0.0
+2854,napa-monterey-mendocino,napa county,0.0,0.0
+2855,final consumption expenditure,general government final consumption expenditure,0.0,0.0
+2856,austria,germany,0.0,0.0
+2857,hayw,cols,0.0,0.0
+2858,psychic,fairy,0.0,0.0
+2859,00830-6120,00802-1760,0.0,0.0
+2860,philippines,30,0.0,0.0
+2861,central beaverton,roseway,0.0,0.0
+2862,raleigh west,woodland park,0.0,0.0
+2863,blenheim,blenheim,1.0,1.0
+2864,advertising and pr services management consulting services business services - other,advertising and pr servicesmanagement consulting servicesbusiness services - other,1.0,1.0
+2865,"7,28","2,31",0.0,0.0
+2866,sign - erect,new construction wood frame,0.0,0.0
+2867,mo,wi,0.0,0.0
+2868,trombone choir,shakuhachi,0.0,0.0
+2869,video,html,0.0,0.0
+2870,cy,cp,0.0,0.0
+2871,west midlands (region),west midlands,1.0,0.0
+2872,district of columbia,florida,0.0,0.0
+2873,massachusetts,pennsylvania,0.0,0.0
+2874,690,w60,0.0,0.0
+2875,equals_saving_net,gross_domestic_product,0.0,0.0
+2876,individual_consumption_expenditure,gross_capital_formation,0.0,0.0
+2877,dog (restricted breed),dog (declared menacing),0.0,0.0
+2878,z11b,x16,0.0,0.0
+2879,wyoming,wy,1.0,1.0
+2880,swedish grand prix,canadian grand prix,0.0,0.0
+2881,cok,hun,0.0,0.0
+2882,central valley,southern oregon,0.0,0.0
+2883,sardon de duero,cigales,0.0,0.0
+2884,florida,fl,1.0,1.0
+2885,cameroon,nigeria,0.0,0.0
+2886,ssan,pitt,0.0,0.0
+2887,elevator and moving stairway manufacturing,educational services,0.0,0.0
+2888,junk faxes,cramming (unauthorized charges on your phone bill),0.0,0.0
+2889,repositioning,prep,0.0,0.0
+2890,us ambassador residence,us ambasador residence,1.0,1.0
+2891,oklahoma,ok,1.0,1.0
+2892,niger,democratic people's republic of korea,0.0,0.0
+2893,b-trivial,i-multiple,0.0,0.0
+2894,nga;usa,imn,0.0,0.0
+2895,la,mn,0.0,0.0
+2896,"assault, simple",larceny,0.0,0.0
+2897,wi,wisconsin,1.0,1.0
+2898,funfunfun fest 3 day pass,prohibited,0.0,0.0
+2899,oh,ohio,1.0,0.0
+2900,wi,sc,0.0,0.0
+2901,co,sg,0.0,0.0
+2902,nepal,ghana,0.0,0.0
+2903,gross_fixed_capital_formation,imports_of_goods,0.0,0.0
+2904,"assault, simple",trespass,0.0,0.0
+2905,ne,hy,0.0,0.0
+2906,motor vehicle theft,liquor laws,0.0,0.0
+2907,chicago,chicago heights,0.0,0.0
+2908,zmb,sle,0.0,0.0
+2909,ir,ko,0.0,0.0
+2910,"manufacturing, mining and quarrying and other industrial activities (b+c+d+e)",construction (f),0.0,0.0
+2911,e_tca,e_d213,0.0,0.0
+2912,alaska,puerto rico,0.0,0.0
+2913,non-emergency,medium,0.0,0.0
+2914,lkos - waluga,hayden island,0.0,0.0
+2915,swaziland,qatar,0.0,0.0
+2916,vegetarian,donuts,0.0,0.0
+2917,e_single,e_202,0.0,0.0
+2918,rand,rand,1.0,1.0
+2919,bosnia & herzegovina,latvia,0.0,0.0
+2920,viognier-valdiguié,nerello mascalese,0.0,0.0
+2921,sr. staff attorney,senior partner,1.0,0.0
+2922,trans fat / initial inspection,pre-permit (operational) / second compliance inspection,0.0,0.0
+2923,mozambique,armenia/azerbaijan/russia/(nagorno-karabakh),0.0,0.0
+2924,sylvan-highlnds,mt scott-arleta,0.0,0.0
+2925,"6,4","5,7",0.0,0.0
+2926,"equipment, industrial plants","equipment, medical",0.0,0.0
+2927,palau,saint kitts and nevis,0.0,0.0
+2928,german,irish,0.0,0.0
+2929,012b,314,0.0,0.0
+2930,"directors guild of america, usa","national board of review, usa",0.0,0.0
+2931,wst,nio,0.0,0.0
+2932,mendocino/lake counties,columbia valley,0.0,0.0
+2933,wisconsin,virginia,0.0,0.0
+2934,720,642,0.0,0.0
+2935,category 2 pensioner,dog (declared dangerous),0.0,0.0
+2936,materials,telecommunications services,0.0,0.0
+2937,bn,eo,0.0,0.0
+2938,alameda,piedmont,0.0,0.0
+2939,sd,id,0.0,0.0
+2940,building caretakers,administrative secretaries and related associate professionals,0.0,0.0
+2941,rosado,paralleda,0.0,0.0
+2942,indonesia/aceh,eritrea/sudan,0.0,0.0
+2943,"5,32","5,23",0.0,0.0
+2944,saint kitts and nevis,palau,0.0,0.0
+2945,deu,grc,0.0,0.0
+2946,wy,ln,0.0,0.0
+2947,wa,tx,0.0,0.0
+2948,end,layer 1 down,0.0,0.0
+2949,thailand,montenegro,0.0,0.0
+2950,attorney for petitioner,attorney for petitioner,1.0,1.0
+2951,me,maine,1.0,0.0
+2952,oregon,illinois,0.0,0.0
+2953,"multiracial, non-hispanic",overall,0.0,0.0
+2954,cym,nac,0.0,0.0
+2955,d.5-d.7,b.1*g,0.0,0.0
+2956,nv,nevada,1.0,0.0
+2957,missouri,mo,1.0,0.0
+2958,moselle luxembourgeoise,andalucia,0.0,0.0
+2959,costume designer,viola d'amore,0.0,0.0
+2960,mmr,lca,0.0,0.0
+2961,nicaragua,bangladesh,0.0,0.0
+2962,de,ok,0.0,0.0
+2963,mo,id,0.0,0.0
+2964,ca-dvbe ca-mb ca-sb ca-sbe cdvbe dbe mbe mosb sb sdvosb,ca-sbe cdvbe mbe mosb sb sbasdb sdvosb wbe wosb,0.0,1.0
+2965,memorandum_item_fisim_if_distributed_to_uses,financial_intermediation_real_estate_renting_and_business_activities,0.0,0.0
+2966,mill park,gresham - north central,0.0,0.0
+2967,sh.anm.chld.zs,sh.anm.chld.zs,1.0,1.0
+2968,120,680,0.0,0.0
+2969,nm,me,0.0,0.0
+2970,north coast,willamette valley,0.0,0.0
+2971,splice_region_variant&coding_sequence_variant&intron_variant,splice_acceptor_variant,0.0,0.0
+2972,malawi,timor-leste,0.0,0.0
+2973,dachshund cross,dachshund cross,1.0,1.0
+2974,guatemala,madagascar,0.0,0.0
+2975,15,4,0.0,0.0
+2976,black/tan/white,black & tan & white,1.0,0.0
+2977,layer 1 up,layer 3 up,0.0,0.0
+2978,sci-fi & fantasy,dancing,0.0,0.0
+2979,a1050000002xxxt,a1050000006tnqi,0.0,0.0
+2980,cathedral park,hillsdale,0.0,0.0
+2981,bermuda;isle of man,germany;netherlands,0.0,0.0
+2982,florida,fl,1.0,1.0
+2983,mauritania,zimbabwe,0.0,0.0
+2984,carnegie chamber music hall at carnegie hall,carnegie hall,1.0,1.0
+2985,djibouti,luxembourg,0.0,0.0
+2986,post horn,visuals,0.0,0.0
+2987,sweden,finland,0.0,0.0
+2988,burkina faso,costa rica,0.0,0.0
+2989,copenhagen,vienna,0.0,0.0
+2990,buckman-east,powelhst-gilbrt,0.0,0.0
+2991,córdoba,portoviejo,0.0,0.0
+2992,plus: taxes on products,"electricity, gas, steam and air conditioning supply",0.0,0.0
+2993,orange & brown,brown/orange,1.0,1.0
+2994,satellite,fiber,0.0,0.0
+2995,new mexico,mississippi,0.0,0.0
+2996,w12b,y06,0.0,0.0
+2997,ky,wy,0.0,0.0
+2998,none,biwa,0.0,0.0
+2999,turkey,23,0.0,0.0
+3000,educational services,advanced mfg,0.0,0.0
+3001,outdoors & adventure,tech,0.0,0.0
+3002,ida & ibrd total,ghana,0.0,0.0
+3003,cuba,peru,0.0,0.0
+3004,bhutan,morocco,0.0,0.0
+3005,abu dhabi grand prix,australian grand prix,0.0,0.0
+3006,kansas,wyoming,0.0,0.0
+3007,r1w7,r1y5,0.0,0.0
+3008,iraq,tonga,0.0,0.0
+3009,"raleigh, nc","raleigh, nc 27607",1.0,1.0
+3010,ukraine,dominican republic,0.0,0.0
+3011,blenheim,blenheim,1.0,1.0
+3012,us,il,0.0,0.0
+3013,"partner, gibney, anthony & flaherty, llp","partner, gibney, anthony & flaherty llp",1.0,1.0
+3014,steel,rock,0.0,0.0
+3015,lyric theater,lyric theatre,1.0,1.0
+3016,switzerland,35,0.0,0.0
+3017,ri,rhode island,1.0,0.0
+3018,black/cream,cream/black,1.0,1.0
+3019,dt.dod.pvlx.cd,sp.dyn.amrt.fe,0.0,0.0
+3020,mktassets_net,contrib_ee_purchaseservice,0.0,0.0
+3021,mississippi,ms,1.0,0.0
+3022,b-trivial,b-systematic,0.0,0.0
+3023,ca-mb ca-sb ca-sbe dbe sb wbe wosb,ca-dvbe ca-sbe cdvbe,0.0,0.0
+3024,new construction wood frame,sign - erect,0.0,0.0
+3025,doberman x,dobermann x,1.0,1.0
+3026,texas,tx,1.0,0.0
+3027,grenada,palau,0.0,0.0
+3028,albania,philippines,0.0,0.0
+3029,esq./attorney,esq. / attorney,1.0,0.0
+3030,construction,fishing,0.0,0.0
+3031,mansois,antão vaz,0.0,0.0
+3032,estoril,reims,0.0,0.0
+3033,nagpur,centurion,0.0,0.0
+3034,ca-sb ca-sbe dbe mbe mosb sb sbasdb,ca-mb ca-sb ca-sbe mbe mosb sb wbe wosb,0.0,0.0
+3035,"construction and related workers, all other*","construction and related workers, all other",1.0,1.0
+3036,arkansas,mississippi,0.0,0.0
+3037,tierid,beneficiaries_disabilityretirees,0.0,0.0
+3038,pennsylvania,north carolina,0.0,0.0
+3039,online film & television association,awards circuit community awards,0.0,0.0
+3040,mw2239.codfw.wmnet,tsa_c,0.0,0.0
+3041,georgia,cayman islands,0.0,0.0
+3042,russell,lkos - lake grove,0.0,0.0
+3043,"cincinnati, oh 45246","cincinnati, oh",1.0,1.0
+3044,colorado,washington,0.0,0.0
+3045,990,351,0.0,0.0
+3046,gold/white,white / gold,1.0,0.0
+3047,cdc breastfeeding report card,ashw,0.0,0.0
+3048,real_estate_activities,professional_scientific_technical_administrative_and_support_service_activities,0.0,0.0
+3049,grand opera,grand opera house,1.0,0.0
+3050,equatorial guinea,cayman islands,0.0,0.0
+3051,art,dis,0.0,0.0
+3052,education,plus: statistical discrepancy,0.0,0.0
+3053,low income,albania,0.0,0.0
+3054,papua new guinea,rwanda,0.0,0.0
+3055,bolivia,bahrain,0.0,0.0
+3056,malawi,algeria,0.0,0.0
+3057,burundi,ecuador,0.0,0.0
+3058,worth county,dale county,0.0,0.0
+3059,public_administration_and_defence_education_human_health_and_social_work_activities,construction,0.0,0.0
+3060,andorra,tonga,0.0,0.0
+3061,botswana,jamaica,0.0,0.0
+3062,rhode island,washington,0.0,0.0
+3063,public_order_and_safety,economic_affairs,0.0,0.0
+3064,npishs final consumption expenditure,household final consumption expenditure,0.0,0.0
+3065,recycling - paper,garbage collections,0.0,0.0
+3066,black or african american,asian,0.0,0.0
+3067,less_financial_intermediation_services_indirectly_measured_fisim,crop_and_animal_production_hunting_and_related_service_activities,0.0,0.0
+3068,colorado,idaho,0.0,0.0
+3069,vandalism,larceny,0.0,0.0
+3070,budgetary_central_government_expense,other_depository_corporations_deposit_money_banks_liabilities_included_in_the_definition_of_quasi_money,0.0,0.0
+3071,"reinhorn law, inc.","reinhorn law, inc.",1.0,1.0
+3072,latvia,kenya,0.0,0.0
+3073,wisconsin,wi,1.0,1.0
+3074,costa rica,israel,0.0,0.0
+3075,umc,gab,0.0,0.0
+3076,cym;fin,bmu;fra;usa,0.0,0.0
+3077,avgannnmbr,lclcntrlalc,0.0,0.0
+3078,wholesale sales,prkng garage/public,0.0,0.0
+3079,greek,delicatessen,0.0,0.0
+3080,pa,md,0.0,0.0
+3081,cf,co,0.0,0.0
+3082,dam,spe,0.0,0.0
+3083,lc,cn,0.0,0.0
+3084,monroe,estill springs,0.0,0.0
+3085,khm,som,0.0,0.0
+3086,indiana,kentucky,0.0,0.0
+3087,individual_consumption_expenditure,exports_of_goods_and_services,0.0,0.0
+3088,hawaii,tennessee,0.0,0.0
+3089,less_financial_intermediation_services_indirectly_measured_fisim,post_and_telecommunications,0.0,0.0
+3090,gross_capital_formation,exports_of_goods_and_services,0.0,0.0
+3091,"services, operational admin.",other operational services,0.0,0.0
+3092,tonga,andorra,0.0,0.0
+3093,uruguayan,british,0.0,0.0
+3094,artsake,district4toastmasters,0.0,0.0
+3095,oklahoma,iowa,0.0,0.0
+3096,goods distribution,cattle,0.0,0.0
+3097,cou,alo,0.0,0.0
+3098,united kingdom,mozambique,0.0,0.0
+3099,seasonal worker,youth,0.0,0.0
+3100,cost method,net increase/(decrease) in fair value of investments,0.0,0.0
+3101,mayaguez,mayaquez,1.0,0.0
+3102,dbe mbe sb,ca-dvbe ca-mb ca-sb ca-sbe sb sbasdb sdvosb,0.0,0.0
+3103,gro,vet,0.0,0.0
+3104,eliot,centennial,0.0,0.0
+3105,"construction and related workers, all other","construction and related workers, all other*",1.0,1.0
+3106,ar,arkansas,1.0,1.0
+3107,r1z6,x12b,0.0,0.0
+3108,la,louisiana,1.0,0.0
+3109,aguna,tinian,0.0,0.0
+3110,wi,ny,0.0,0.0
+3111,monica,blauer portugieser,0.0,0.0
+3112,white & cream,white/cream,1.0,1.0
+3113,end,layer 2 down,0.0,0.0
+3114,viewbank,viewbank,1.0,1.0
+3115,iq,aq,0.0,0.0
+3116,village,county,0.0,0.0
+3117,dubl,ftvl,0.0,0.0
+3118,981,op,0.0,0.0
+3119,state of palestine,france,0.0,0.0
+3120,china/old town,pleasant valley,0.0,0.0
+3121,japanese bobtail,british shorthair,0.0,0.0
+3122,khm,mus,0.0,0.0
+3123,performing arts center (tulsa),performing arts center,1.0,1.0
+3124,german grand prix,chinese grand prix,0.0,0.0
+3125,587,565,0.0,0.0
+3126,cast,shay,0.0,0.0
+3127,less: financial intermediation services indirectly measured (fisim),public administration and defence; compulsory social security,0.0,0.0
+3128,nebraska,ne,1.0,1.0
+3129,danish krone,danish krone,1.0,1.0
+3130,wholesale and retail trade; repair of motor vehicles and motorcycles (g),real estate activities (l),0.0,0.0
+3131,es,dk,0.0,0.0
+3132,local_01,local_08,0.0,0.0
+3133,r1y6,r3z2,0.0,0.0
+3134,florida,new york,0.0,0.0
+3135,partner,partner,1.0,1.0
+3136,fairfax,milwaukee,0.0,0.0
+3137,pizza/italian,chinese,0.0,0.0
+3138,human health and social work activities (q),"public administration and defence, education, human health and social work activities (o+p+q)",0.0,0.0
+3139,slovakia,us,0.0,0.0
+3140,203,610,0.0,0.0
+3141,il,illinois,1.0,1.0
+3142,equals_individual_consumption_expenditure_of_general_government,food_and_non_alcoholic_beverages,0.0,0.0
+3143,mga,pyg,0.0,0.0
+3144,founding artisitc director,founding artistic director,1.0,1.0
+3145,ok,oklahoma,1.0,1.0
+3146,motor vehicle theft,sex offenses,0.0,0.0
+3147,"wholesale, retail trade, restaurants and hotels (isic g-h)",other activities (isic j-p),0.0,0.0
+3148,metropolitan theatre,metropolitan hall,1.0,0.0
+3149,hyper-accordion,vocal group,0.0,0.0
+3150,vi,virgin islands,1.0,0.0
+3151,cars & motorcycles,parents & family,0.0,0.0
+3152,"durham, nc","durham, nc 27709",1.0,1.0
+3153,restaurant/food services food and beverage production,restaurant/food servicesfood and beverage production,1.0,1.0
+3154,sunderland,lloyd,0.0,0.0
+3155,health care,construction,0.0,0.0
+3156,former netherlands antilles,ethiopia,0.0,0.0
+3157,sd,bh,0.0,0.0
+3158,me,gr,0.0,0.0
+3159,"korea, republic of",georgia,0.0,0.0
+3160,imn;pan,jpn,0.0,0.0
+3161,113,"77,78",0.0,0.0
+3162,colm,rock,0.0,0.0
+3163,private_households_with_employed_persons,wholesale_and_retail_trade_transportation_and_storage_accommodation_and_food_service_activities,0.0,0.0
+3164,mongolia,germany,0.0,0.0
+3165,real estate/property management;business services - other;other/not classified,real estate/property management business services - other other/not classified,1.0,1.0
+3166,manx,american wirehair,0.0,0.0
+3167,st. kitts and nevis,bosnia and herzegovina,0.0,0.0
+3168,151,510,0.0,0.0
+3169,saint lucia,singapore,0.0,0.0
+3170,montgomery county,austin,0.0,0.0
+3171,ar,ct,0.0,0.0
+3172,gross_fixed_capital_formation_including_acquisitions_less_disposals_of_valuables,final_consumption_expenditure,0.0,0.0
+3173,mauritania,australia,0.0,0.0
+3174,"core welfare indicator questionnaire survey (cwiq)/priority survey (ps), 2011","integrated household survey (ihs), 1992",0.0,0.0
+3175,680,570,0.0,0.0
+3176,oh,ohio,1.0,0.0
+3177,06a,03c,0.0,0.0
+3178,burundi,china,0.0,0.0
+3179,"public administration and defence, education, human health and social work activities","agriculture, forestry and fishing",0.0,0.0
+3180,e_214,e_101,0.0,0.0
+3181,kansas,ks,1.0,0.0
+3182,gu,jo,0.0,0.0
+3183,id,idaho,1.0,0.0
+3184,"counsel for integrated computer solutions, inc.","counsel for ics, inc.",1.0,1.0
+3185,chicago,chicago,1.0,1.0
+3186,beaverton - five oaks,w portland park,0.0,0.0
+3187,oman,benin,0.0,0.0
+3188,equipment,video description,0.0,0.0
+3189,russian,japanese,0.0,0.0
+3190,all data for gdp and its components refer to provisional data for this year.,refers to ownership of dwellings.,0.0,0.0
+3191,dominica,lesotho,0.0,0.0
+3192,louisiana,new hampshire,0.0,0.0
+3193,bangladesh,pacific island small states,0.0,0.0
+3194,pst,lby,0.0,0.0
+3195,017a,015d,0.0,0.0
+3196,tennessee,tn,1.0,0.0
+3197,layer 1 up,repositioning,0.0,0.0
+3198,minnesota,alabama,0.0,0.0
+3199,colombia,kyrgyzstan,0.0,0.0
+3200,romanian leu,romanian leu,1.0,1.0
+3201,bloemfontein,hyderabad,0.0,0.0
+3202,new mexico,west virginia,0.0,0.0
+3203,australian kelpie cross,australian kelpie cross,1.0,1.0
+3204,public utilities commission,public employment relations board,0.0,0.0
+3205,greece,10,0.0,0.0
+3206,bass clarinet/tenor saxophone,electronic ensemble,0.0,0.0
+3207,montenegro,myanmar,0.0,0.0
+3208,education,general financial inclusion,0.0,0.0
+3209,"social and personal services"".","social and personal service activities"". """,0.0,0.0
+3210,turkey,portugal,0.0,0.0
+3211,nebraska,california,0.0,0.0
+3212,repositioning,layer 2 up,0.0,0.0
+3213,ireland,chile,0.0,0.0
+3214,882,364,0.0,0.0
+3215,fishing and aquaculture,public administration and defence; compulsory social security,0.0,0.0
+3216,ma,hi,0.0,0.0
+3217,yes/no,us dollars,0.0,0.0
+3218,029b,010c,0.0,0.0
+3219,native hawaiian or other pacific islander,asian,0.0,0.0
+3220,supermarkets and other grocery (except convenience) stores,monetary authorities-central bank,0.0,0.0
+3221,bdi,pse,0.0,0.0
+3222,ceas,proc,0.0,0.0
+3223,"5,7","2,24",0.0,0.0
+3224,arson,robbery,0.0,0.0
+3225,a1050000002vvk6,a1050000000wjym,0.0,0.0
+3226,"day care, non-res",club,0.0,0.0
+3227,sì£o paulo,indianapolis,0.0,0.0
+3228,a,n,0.0,0.0
+3229,20,"17,25",0.0,0.0
+3230,ice,water,0.0,0.0
+3231,nld,eri,0.0,0.0
+3232,finnish,polish,0.0,0.0
+3233,local_10,local_11,0.0,0.0
+3234,m.j,mj,1.0,0.0
+3235,gresham - wilkes east,montavilla,0.0,0.0
+3236,q28lovecsharp,q21corecompcodereview,0.0,0.0
+3237,ghana,paraguay,0.0,0.0
+3238,sullivans gulch,beaverton - west slope,0.0,0.0
+3239,tide_wave_and_ocean_electricity,conventional_crude_oil,0.0,0.0
+3240,college auditorium,coliseum,1.0,0.0
+3241,"2,57","10,57",0.0,0.0
+3242,4,742,0.0,0.0
+3243,"santa clara, ca 95054","santa clara, ca",1.0,1.0
+3244,hkd,sek,0.0,0.0
+3245,shetland sheep dog,shetland sheepdog,1.0,1.0
+3246,ky,mi,0.0,0.0
+3247,new mexico,arizona,0.0,0.0
+3248,andorra,7,0.0,0.0
+3249,bmu;zaf,can;cym;nld,0.0,0.0
+3250,layer 3 down,layer 3 up,0.0,0.0
+3251,nigeria,cameroon,0.0,0.0
+3252,democratic republic of congo,namibia,0.0,0.0
+3253,burgundy,piekenierskloof,0.0,0.0
+3254,q28lovephp,q19taltoolreferral,0.0,0.0
+3255,hong kong,canada;united kingdom,0.0,0.0
+3256,352,201,0.0,0.0
+3257,executive director,executive director,1.0,1.0
+3258,collective_consumption_expenditure,plus_statistical_discrepancy,0.0,0.0
+3259,daly,glen,0.0,0.0
+3260,va,ne,0.0,0.0
+3261,us,id,0.0,0.0
+3262,nh,new hampshire,1.0,0.0
+3263,electrical systems and lighting and components and accessories and supplies,healthcare services,0.0,0.0
+3264,monaco,brazil,0.0,0.0
+3265,italy,33,0.0,0.0
+3266,yemen: former yemen arab republic,ireland,0.0,0.0
+3267,wv,mw,0.0,0.0
+3268,belarus,turkmenistan,0.0,0.0
+3269,retail,agriculture,0.0,0.0
+3270,ecuador,vanuatu,0.0,0.0
+3271,great hall - city college,"great hall, city college of new york",1.0,0.0
+3272,open internet/net neutrality,slamming (change of your carrier without permission),0.0,0.0
+3273,1,"19,29",0.0,0.0
+3274,informal competitive,wsca/coop,0.0,0.0
+3275,vt,vermont,1.0,0.0
+3276,tan,yellow,0.0,0.0
+3277,flying,grass,0.0,0.0
+3278,barranquilla,bogotá uberangel,0.0,0.0
+3279,income_otherinvestments,income_net,0.0,0.0
+3280,"expenditure survey/budget survey (es/bs), 2009","integrated household survey (ihs), 2014",0.0,0.0
+3281,sc,pa,0.0,0.0
+3282,921,882,0.0,0.0
+3283,e_disc,e_pinpat,0.0,0.0
+3284,california,district of columbia,0.0,0.0
+3285,"professional, scientific, technical, administrative and support service activities","agriculture, forestry and fishing",0.0,0.0
+3286,belarus,aruba,0.0,0.0
+3287,industries,"including government services and ngos.""",0.0,0.0
+3288,human health and social work activities,"manufacturing, mining and quarrying and other industrial activities",0.0,0.0
+3289,pa,ne,0.0,0.0
+3290,ukr,lbn,0.0,0.0
+3291,mlabeastafrica,cc_hub,0.0,0.0
+3292,peru,19,0.0,0.0
+3293,05f,15a,0.0,0.0
+3294,dma,ven,0.0,0.0
+3295,public_administration_and_defence_compulsory_social_security,wholesale_retail_trade_repair_of_motor_vehicles_motorcycles_and_personal_and_household_goods,0.0,0.0
+3296,ghost,normal,0.0,0.0
+3297,north carolina,kentucky,0.0,0.0
+3298,de,dc,0.0,0.0
+3299,m,m,1.0,1.0
+3300,georgia,new jersey,0.0,0.0
+3301,mlt;gbr,deu;nld,0.0,0.0
+3302,ng,mc,0.0,0.0
+3303,layer 1 up,layer 3 up,0.0,0.0
+3304,accounting and auditing services nonprofit charitable organizations,accounting and auditing servicesnonprofit charitable organizations,1.0,1.0
+3305,private_households_with_employed_persons,electricity_gas_steam_and_air_conditioning_supply,0.0,0.0
+3306,russian federation,romania,0.0,0.0
+3307,new york,maine,0.0,0.0
+3308,other_service_activities,professional_scientific_and_technical_activities,0.0,0.0
+3309,plus_compensation_of_employees_from_the_rest_of_the_world,less_compensation_of_employees_to_the_rest_of_the_world,0.0,0.0
+3310,982,871,0.0,0.0
+3311,510,w20,0.0,0.0
+3312,virginia,va,1.0,0.0
+3313,calorie posting / initial inspection,smoke-free air act / compliance inspection,0.0,0.0
+3314,911,151,0.0,0.0
+3315,palace of arts  (bela bartók national concert hall),palace of arts (bela bartók national concert hall),1.0,1.0
+3316,pse,bgd,0.0,0.0
+3317,play-off for third place,group d,0.0,0.0
+3318,burundi,bahrain,0.0,0.0
+3319,the-san-francisco-girly-book-club,entrepreneurs-nyc-startups-tech-mktg-sales-expert-advice,0.0,0.0
+3320,id,xk,0.0,0.0
+3321,mmk,mnt,0.0,0.0
+3322,"5,6","1,5",0.0,0.0
+3323,trespass,burglary,0.0,0.0
+3324,n,n,1.0,1.0
+3325,mt,md,0.0,0.0
+3326,russian federation,kazakhstan,0.0,0.0
+3327,ph,ba,0.0,0.0
+3328,ct,tn,0.0,0.0
+3329,az,ak,0.0,0.0
+3330,352,902,0.0,0.0
+3331,12th,deln,0.0,0.0
+3332,danish krone,danish krone,1.0,1.0
+3333,refinancing,home improvement,0.0,0.0
+3334,latvia,cyprus,0.0,0.0
+3335,security safety jobs,leisure tourism jobs,0.0,0.0
+3336,3,belgium,0.0,0.0
+3337,retailtelecommunications servicesadvertising and pr services,retail;telecommunications services;advertising and pr services,1.0,1.0
+3338,baku,abu dhabi,0.0,0.0
+3339,gresham - north central,russell,0.0,0.0
+3340,nicaragua,brazil,0.0,0.0
+3341,kansas,ks,1.0,0.0
+3342,il,ca,0.0,0.0
+3343,public_administration_and_defense_compulsory_social_security_l,manufacturing_d,0.0,0.0
+3344,grand rapids,christiana,0.0,0.0
+3345,1 family dwelling,radio & tv stations,0.0,0.0
+3346,paypal,others,0.0,0.0
+3347,ssan,frmt,0.0,0.0
+3348,logistics jobs,fmcg jobs,0.0,0.0
+3349,danish krone,danish krone,1.0,1.0
+3350,nh,ri,0.0,0.0
+3351,sullivans gulch,cully,0.0,0.0
+3352,general_government_final_consumption_expenditure,imports_of_goods_and_services,0.0,0.0
+3353,kansas city,gatlinburg,0.0,0.0
+3354,poodle standard cross,poodle standard cross,1.0,1.0
+3355,jamaica,turkey,0.0,0.0
+3356,agriculture_hunting_forestry_fishing,education,0.0,0.0
+3357,op,981,0.0,0.0
+3358,mâcon-cruzille,est! est!! est!!! di montefiascone,0.0,0.0
+3359,nd,north dakota,1.0,0.0
+3360,2 family dwelling,"warehouse,no frnitur",0.0,0.0
+3361,nj,new jersey,1.0,0.0
+3362,quebec,adelaide,0.0,0.0
+3363,china,burundi,0.0,0.0
+3364,dark,water,0.0,0.0
+3365,a1050000007r6of,a1050000006tkek,0.0,0.0
+3366,iraq,brazil,0.0,0.0
+3367,recycled metal,dead animal,0.0,0.0
+3368,x16a,y12a,0.0,0.0
+3369,uganda,israel,0.0,0.0
+3370,samoa,tanzania,0.0,0.0
+3371,d.2 - d.3,b.5*g,0.0,0.0
+3372,054,074,0.0,0.0
+3373,central african republic,slovakia,0.0,0.0
+3374,changes_in_inventories,npishs_final_consumption_expenditure,0.0,0.0
+3375,the auditorium,auditorium,1.0,1.0
+3376,belgium,cyprus,0.0,0.0
+3377,gasworks_gas,bitumen,0.0,0.0
+3378,29,"9,15",0.0,0.0
+3379,"10,8","6,9",0.0,0.0
+3380,ukr,tkm,0.0,0.0
+3381,ca commission on disability access,"real estate, department of",0.0,0.0
+3382,runaway,stolen property,0.0,0.0
+3383,saint barts,saint martin,0.0,0.0
+3384,560,652,0.0,0.0
+3385,denver,hawaii,0.0,0.0
