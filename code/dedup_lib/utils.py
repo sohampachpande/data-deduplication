@@ -3,7 +3,7 @@ import pandas as pd
 import nltk
 import seaborn as sn
 import matplotlib.pyplot as plt
-from sklearn.metrics import confusion_matrix
+from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, f1_score, precision_score, recall_score
 
 def editDistance(w1, w2, substitutionCost=2, insertCost=1, deleteCost=1):
     n_=len(w1)+1
@@ -50,11 +50,13 @@ accuracy, recall, F1-score and precision values
 """
 def makeCFwithStats(y_pred, y_truth):
     cf = confusion_matrix(y_truth, y_pred)
-    accuracy  = np.trace(cf) / float(np.sum(cf))
-    precision = cf[1,1] / sum(cf[:,1])
-    recall    = cf[1,1] / sum(cf[1,:])
-    f1_score  = 2*precision*recall / (precision + recall)
-    stats_text = "\n\nAccuracy={:0.3f}\nPrecision={:0.3f}\nRecall={:0.3f}\nF1 Score={:0.3f}".format(accuracy,precision,recall,f1_score)
+    # accuracy  = accuracy_score(y_truth, y_pred)
+    # precision = precision_score(y_truth, y_pred)
+    # recall    = recall_score(y_truth, y_pred)
+    # f1_score_  = f1_score(y_truth, y_pred)
+    # stats_text = "\n\nAccuracy={:0.3f}\nPrecision={:0.3f}\nRecall={:0.3f}\nF1 Score={:0.3f}".format(accuracy,precision,recall,f1_score_)
+
+    stats_text = ''
 
     df_cm = pd.DataFrame(cf, index = ["Not Duplicate", "Duplicate"],
                     columns = ["Not Duplicate", "Duplicate"])
