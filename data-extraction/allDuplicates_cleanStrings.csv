@@ -1,0 +1,1783 @@
+,index,w1,w2,count1,count2,total1,total2,isDuplicate
+0,0,Viewbank,viewbank,100.0,1.0,34857.0,34857.0,1.0
+1,1,viewbank,Viewbank,1.0,100.0,34857.0,34857.0,1.0
+2,2,Croydon,croydon,133.0,1.0,34857.0,34857.0,1.0
+3,3,croydon,Croydon,1.0,133.0,34857.0,34857.0,1.0
+4,4,Adelaide,adelaide,360.0,3.0,82545.0,82545.0,1.0
+5,5,adelaide,Adelaide,3.0,360.0,82545.0,82545.0,1.0
+6,8,SEFTON PARK,Sefton Park,114.0,10.0,82545.0,82545.0,1.0
+7,9,Sefton Park,SEFTON PARK,10.0,114.0,82545.0,82545.0,1.0
+8,10,U.S. dollar,U. S. dollar,15.0,1.0,263.0,263.0,1.0
+9,11,U. S. dollar,U.S. dollar,1.0,15.0,263.0,263.0,1.0
+10,12,AK,ALASKA,67.0,44.0,374362.0,374362.0,1.0
+11,13,ALASKA,AK,44.0,67.0,374362.0,374362.0,1.0
+12,14,AL,ALABAMA,630.0,404.0,374362.0,374362.0,1.0
+13,15,ALABAMA,AL,404.0,630.0,374362.0,374362.0,1.0
+14,16,AR,ARKANSAS,527.0,347.0,374362.0,374362.0,1.0
+15,17,ARKANSAS,AR,347.0,527.0,374362.0,374362.0,1.0
+16,18,AZ,ARIZONA,2153.0,1427.0,374362.0,374362.0,1.0
+17,19,ARIZONA,AZ,1427.0,2153.0,374362.0,374362.0,1.0
+18,20,CA,CALIFORNIA,36103.0,21534.0,374362.0,374362.0,1.0
+19,21,CALIFORNIA,CA,21534.0,36103.0,374362.0,374362.0,1.0
+20,22,CO,COLORADO,1390.0,835.0,374362.0,374362.0,1.0
+21,23,COLORADO,CO,835.0,1390.0,374362.0,374362.0,1.0
+22,24,CT,CONNECTICUT,1967.0,1422.0,374362.0,374362.0,1.0
+23,25,CONNECTICUT,CT,1422.0,1967.0,374362.0,374362.0,1.0
+24,26,DC,DISTRICT OF COLUMBIA,273.0,205.0,374362.0,374362.0,1.0
+25,27,DISTRICT OF COLUMBIA,DC,205.0,273.0,374362.0,374362.0,1.0
+26,28,DE,DELAWARE,633.0,385.0,374362.0,374362.0,1.0
+27,29,DELAWARE,DE,385.0,633.0,374362.0,374362.0,1.0
+28,30,FL,FLORIDA,4669.0,2587.0,374362.0,374362.0,1.0
+29,31,FLORIDA,FL,2587.0,4669.0,374362.0,374362.0,1.0
+30,32,GA,GEORGIA,4017.0,2375.0,374362.0,374362.0,1.0
+31,33,GEORGIA,GA,2375.0,4017.0,374362.0,374362.0,1.0
+32,34,GU,GUAM,152.0,54.0,374362.0,374362.0,1.0
+33,35,GUAM,GU,54.0,152.0,374362.0,374362.0,1.0
+34,36,HI,HAWAII,123.0,87.0,374362.0,374362.0,1.0
+35,37,HAWAII,HI,87.0,123.0,374362.0,374362.0,1.0
+36,38,IA,IOWA,692.0,484.0,374362.0,374362.0,1.0
+37,39,IOWA,IA,484.0,692.0,374362.0,374362.0,1.0
+38,40,ID,IDAHO,252.0,111.0,374362.0,374362.0,1.0
+39,41,IDAHO,ID,111.0,252.0,374362.0,374362.0,1.0
+40,42,IL,ILLINOIS,5940.0,4047.0,374362.0,374362.0,1.0
+41,43,ILLINOIS,IL,4047.0,5940.0,374362.0,374362.0,1.0
+42,44,IN,INDIANA,1275.0,666.0,374362.0,374362.0,1.0
+43,45,INDIANA,IN,666.0,1275.0,374362.0,374362.0,1.0
+44,46,KS,KANSAS,877.0,480.0,374362.0,374362.0,1.0
+45,47,KANSAS,KS,480.0,877.0,374362.0,374362.0,1.0
+46,48,KY,KENTUCKY,518.0,305.0,374362.0,374362.0,1.0
+47,49,KENTUCKY,KY,305.0,518.0,374362.0,374362.0,1.0
+48,50,LA,LOUISIANA,376.0,269.0,374362.0,374362.0,1.0
+49,51,LOUISIANA,LA,269.0,376.0,374362.0,374362.0,1.0
+50,52,MA,MASSACHUSETTS,4592.0,2801.0,374362.0,374362.0,1.0
+51,53,MASSACHUSETTS,MA,2801.0,4592.0,374362.0,374362.0,1.0
+52,54,ME,MAINE,146.0,116.0,374362.0,374362.0,1.0
+53,55,MAINE,ME,116.0,146.0,374362.0,374362.0,1.0
+54,56,MH,MARSHALL ISLANDS,2.0,1.0,374362.0,374362.0,1.0
+55,57,MARSHALL ISLANDS,MH,1.0,2.0,374362.0,374362.0,1.0
+56,58,MD,MARYLAND,2322.0,1692.0,374362.0,374362.0,1.0
+57,59,MARYLAND,MD,1692.0,2322.0,374362.0,374362.0,1.0
+58,60,MI,MICHIGAN,3449.0,1763.0,374362.0,374362.0,1.0
+59,61,MICHIGAN,MI,1763.0,3449.0,374362.0,374362.0,1.0
+60,62,MN,MINNESOTA,1803.0,1170.0,374362.0,374362.0,1.0
+61,63,MINNESOTA,MN,1170.0,1803.0,374362.0,374362.0,1.0
+62,64,MS,MISSISSIPPI,186.0,83.0,374362.0,374362.0,1.0
+63,65,MISSISSIPPI,MS,83.0,186.0,374362.0,374362.0,1.0
+64,66,MO,MISSOURI,1090.0,658.0,374362.0,374362.0,1.0
+65,67,MISSOURI,MO,658.0,1090.0,374362.0,374362.0,1.0
+66,68,MT,MONTANA,65.0,19.0,374362.0,374362.0,1.0
+67,69,MONTANA,MT,19.0,65.0,374362.0,374362.0,1.0
+68,70,MP,NORTHERN MARIANA ISLANDS,34.0,5.0,374362.0,374362.0,1.0
+69,71,NORTHERN MARIANA ISLANDS,MP,5.0,34.0,374362.0,374362.0,1.0
+70,72,NC,NORTH CAROLINA,3699.0,2176.0,374362.0,374362.0,1.0
+71,73,NORTH CAROLINA,NC,2176.0,3699.0,374362.0,374362.0,1.0
+72,74,ND,NORTH DAKOTA,142.0,92.0,374362.0,374362.0,1.0
+73,75,NORTH DAKOTA,ND,92.0,142.0,374362.0,374362.0,1.0
+74,76,NE,NEBRASKA,437.0,296.0,374362.0,374362.0,1.0
+75,77,NEBRASKA,NE,296.0,437.0,374362.0,374362.0,1.0
+76,78,NV,NEVADA,287.0,194.0,374362.0,374362.0,1.0
+77,79,NEVADA,NV,194.0,287.0,374362.0,374362.0,1.0
+78,80,NH,NEW HAMPSHIRE,519.0,324.0,374362.0,374362.0,1.0
+79,81,NEW HAMPSHIRE,NH,324.0,519.0,374362.0,374362.0,1.0
+80,82,NJ,NEW JERSEY,10501.0,6918.0,374362.0,374362.0,1.0
+81,83,NEW JERSEY,NJ,6918.0,10501.0,374362.0,374362.0,1.0
+82,84,NM,NEW MEXICO,321.0,208.0,374362.0,374362.0,1.0
+83,85,NEW MEXICO,NM,208.0,321.0,374362.0,374362.0,1.0
+84,86,NY,NEW YORK,8051.0,5171.0,374362.0,374362.0,1.0
+85,87,NEW YORK,NY,5171.0,8051.0,374362.0,374362.0,1.0
+86,88,OH,OHIO,2863.0,1776.0,374362.0,374362.0,1.0
+87,89,OHIO,OH,1776.0,2863.0,374362.0,374362.0,1.0
+88,90,OK,OKLAHOMA,463.0,233.0,374362.0,374362.0,1.0
+89,91,OKLAHOMA,OK,233.0,463.0,374362.0,374362.0,1.0
+90,92,OR,OREGON,1757.0,1382.0,374362.0,374362.0,1.0
+91,93,OREGON,OR,1382.0,1757.0,374362.0,374362.0,1.0
+92,94,PA,PENNSYLVANIA,3567.0,2352.0,374362.0,374362.0,1.0
+93,95,PENNSYLVANIA,PA,2352.0,3567.0,374362.0,374362.0,1.0
+94,96,PR,PUERTO RICO,62.0,37.0,374362.0,374362.0,1.0
+95,97,PUERTO RICO,PR,37.0,62.0,374362.0,374362.0,1.0
+96,98,RI,RHODE ISLAND,353.0,193.0,374362.0,374362.0,1.0
+97,99,RHODE ISLAND,RI,193.0,353.0,374362.0,374362.0,1.0
+98,100,SC,SOUTH CAROLINA,608.0,308.0,374362.0,374362.0,1.0
+99,101,SOUTH CAROLINA,SC,308.0,608.0,374362.0,374362.0,1.0
+100,102,SD,SOUTH DAKOTA,103.0,66.0,374362.0,374362.0,1.0
+101,103,SOUTH DAKOTA,SD,66.0,103.0,374362.0,374362.0,1.0
+102,104,TN,TENNESSEE,1006.0,598.0,374362.0,374362.0,1.0
+103,105,TENNESSEE,TN,598.0,1006.0,374362.0,374362.0,1.0
+104,106,TX,TEXAS,12075.0,7581.0,374362.0,374362.0,1.0
+105,107,TEXAS,TX,7581.0,12075.0,374362.0,374362.0,1.0
+106,108,UT,UTAH,540.0,377.0,374362.0,374362.0,1.0
+107,109,UTAH,UT,377.0,540.0,374362.0,374362.0,1.0
+108,110,VA,VIRGINIA,4508.0,2780.0,374362.0,374362.0,1.0
+109,111,VIRGINIA,VA,2780.0,4508.0,374362.0,374362.0,1.0
+110,112,VT,VERMONT,53.0,42.0,374362.0,374362.0,1.0
+111,113,VERMONT,VT,42.0,53.0,374362.0,374362.0,1.0
+112,114,VIRGIN ISLANDS,VI,21.0,17.0,374362.0,374362.0,1.0
+113,115,VI,VIRGIN ISLANDS,17.0,21.0,374362.0,374362.0,1.0
+114,116,WA,WASHINGTON,8178.0,3413.0,374362.0,374362.0,1.0
+115,117,WASHINGTON,WA,3413.0,8178.0,374362.0,374362.0,1.0
+116,118,WV,WEST VIRGINIA,115.0,78.0,374362.0,374362.0,1.0
+117,119,WEST VIRGINIA,WV,78.0,115.0,374362.0,374362.0,1.0
+118,120,WI,WISCONSIN,1437.0,871.0,374362.0,374362.0,1.0
+119,121,WISCONSIN,WI,871.0,1437.0,374362.0,374362.0,1.0
+120,122,WY,WYOMING,36.0,14.0,374362.0,374362.0,1.0
+121,123,WYOMING,WY,14.0,36.0,374362.0,374362.0,1.0
+122,124,Euro,euro,10199.0,290.0,100048.0,100048.0,1.0
+123,125,euro,Euro,290.0,10199.0,100048.0,100048.0,1.0
+124,156,Swedish Krona,Swedish krona,999.0,610.0,100048.0,100048.0,1.0
+125,157,Swedish krona,Swedish Krona,610.0,999.0,100048.0,100048.0,1.0
+126,160,CFA franc,CFA Franc,867.0,208.0,100048.0,100048.0,1.0
+127,161,CFA Franc,CFA franc,208.0,867.0,100048.0,100048.0,1.0
+128,170,Forint,forint,765.0,496.0,100048.0,100048.0,1.0
+129,171,forint,Forint,496.0,765.0,100048.0,100048.0,1.0
+130,172,Rand,rand,752.0,558.0,100048.0,100048.0,1.0
+131,173,rand,Rand,558.0,752.0,100048.0,100048.0,1.0
+132,176,1999 NLG Euro / Euro,1999 NLG euro / euro,675.0,399.0,100048.0,100048.0,1.0
+133,177,1999 NLG euro / euro,1999 NLG Euro / Euro,399.0,675.0,100048.0,100048.0,1.0
+134,182,Pataca,pataca,588.0,282.0,100048.0,100048.0,1.0
+135,183,pataca,Pataca,282.0,588.0,100048.0,100048.0,1.0
+136,200,litas,Litas,396.0,286.0,100048.0,100048.0,1.0
+137,201,Litas,litas,286.0,396.0,100048.0,100048.0,1.0
+138,208,Estonian Kroon,Estonian kroon,330.0,208.0,100048.0,100048.0,1.0
+139,209,Estonian kroon,Estonian Kroon,208.0,330.0,100048.0,100048.0,1.0
+140,224,Slovak koruna,Slovak Koruna,234.0,228.0,100048.0,100048.0,1.0
+141,225,Slovak Koruna,Slovak koruna,228.0,234.0,100048.0,100048.0,1.0
+142,234,leone,Leone,144.0,105.0,100048.0,100048.0,1.0
+143,235,Leone,leone,105.0,144.0,100048.0,100048.0,1.0
+144,240,Zambian Kwacha,Zambia kwacha,78.0,20.0,100048.0,100048.0,1.0
+145,241,Zambia kwacha,Zambian Kwacha,20.0,78.0,100048.0,100048.0,1.0
+146,242,Russian ruble,Russian rouble,54.0,21.0,100048.0,100048.0,1.0
+147,243,Russian rouble,Russian ruble,21.0,54.0,100048.0,100048.0,1.0
+148,244,Year,yr,230591.0,19733.0,374362.0,374362.0,1.0
+149,245,yr,Year,19733.0,230591.0,374362.0,374362.0,1.0
+150,246,Hour,hr,7038.0,781.0,374362.0,374362.0,1.0
+151,247,hr,Hour,781.0,7038.0,374362.0,374362.0,1.0
+152,248,Week,wk,142.0,30.0,374362.0,374362.0,1.0
+153,249,wk,Week,30.0,142.0,374362.0,374362.0,1.0
+154,250,Month,mth,81.0,21.0,374362.0,374362.0,1.0
+155,251,mth,Month,21.0,81.0,374362.0,374362.0,1.0
+156,252,Bi-Weekly,bi,20.0,9.0,374362.0,374362.0,1.0
+157,253,bi,Bi-Weekly,9.0,20.0,374362.0,374362.0,1.0
+158,254,Open,open,1459.0,9.0,1518.0,1518.0,1.0
+159,255,open,Open,9.0,1459.0,1518.0,1518.0,1.0
+160,256,Healthcare Services,•   Healthcare Services,1919.0,3.0,22000.0,22000.0,1.0
+161,257,•   Healthcare Services,Healthcare Services,3.0,1919.0,22000.0,22000.0,1.0
+162,258,Business Services - Other,Business Services - OtherOther/Not Classified,410.0,6.0,22000.0,22000.0,1.0
+163,259,Business Services - OtherOther/Not Classified,Business Services - Other,6.0,410.0,22000.0,22000.0,1.0
+164,260,Telecommunications Services Computer/IT Services,Telecommunications Services; Computer/IT Services,1.0,1.0,22000.0,22000.0,1.0
+165,261,Telecommunications Services; Computer/IT Services,Telecommunications Services Computer/IT Services,1.0,1.0,22000.0,22000.0,1.0
+166,262,"Beaverton, OR","Beaverton, OR 97006",1.0,1.0,22000.0,22000.0,1.0
+167,263,"Beaverton, OR 97006","Beaverton, OR",1.0,1.0,22000.0,22000.0,1.0
+168,264,"Round Rock, TX","Round Rock, TX 78682",1.0,1.0,22000.0,22000.0,1.0
+169,265,"Round Rock, TX 78682","Round Rock, TX",1.0,1.0,22000.0,22000.0,1.0
+170,266,Healthcare Services Restaurant/Food Services Food and Beverage Production,Healthcare Services;Restaurant/Food Services;Food and Beverage Production,54.0,1.0,22000.0,22000.0,1.0
+171,267,Healthcare Services;Restaurant/Food Services;Food and Beverage Production,Healthcare Services Restaurant/Food Services Food and Beverage Production,1.0,54.0,22000.0,22000.0,1.0
+172,268,RetailAdvertising and PR ServicesBusiness Services - Other,Retail Advertising and PR Services Business Services - Other,36.0,8.0,22000.0,22000.0,1.0
+173,269,Retail Advertising and PR Services Business Services - Other,RetailAdvertising and PR ServicesBusiness Services - Other,8.0,36.0,22000.0,22000.0,1.0
+174,270,"Basking Ridge, NJ","Basking Ridge, NJ 07920",1.0,1.0,22000.0,22000.0,1.0
+175,271,"Basking Ridge, NJ 07920","Basking Ridge, NJ",1.0,1.0,22000.0,22000.0,1.0
+176,272,RetailAdvertising and PR ServicesManagement Consulting Services,Retail Advertising and PR Services Management Consulting Services,23.0,1.0,22000.0,22000.0,1.0
+177,273,Retail Advertising and PR Services Management Consulting Services,RetailAdvertising and PR ServicesManagement Consulting Services,1.0,23.0,22000.0,22000.0,1.0
+178,274,"Computer Software, Computer/IT Services",Computer SoftwareComputer/IT Services,22.0,16.0,22000.0,22000.0,1.0
+179,275,Computer SoftwareComputer/IT Services,"Computer Software, Computer/IT Services",16.0,22.0,22000.0,22000.0,1.0
+180,276,"Milwaukee, WI","Milwaukee, WI 53224",1.0,1.0,22000.0,22000.0,1.0
+181,277,"Milwaukee, WI 53224","Milwaukee, WI",1.0,1.0,22000.0,22000.0,1.0
+182,278,Computer HardwareComputer SoftwareComputer/IT Services,Computer Hardware Computer Software Computer/IT Services,18.0,11.0,22000.0,22000.0,1.0
+183,279,Computer Hardware Computer Software Computer/IT Services,Computer HardwareComputer SoftwareComputer/IT Services,11.0,18.0,22000.0,22000.0,1.0
+184,280,Advertising and PR ServicesManagement Consulting ServicesBusiness Services - Other,Advertising and PR Services Management Consulting Services Business Services - Other,18.0,17.0,22000.0,22000.0,1.0
+185,281,Advertising and PR Services Management Consulting Services Business Services - Other,Advertising and PR ServicesManagement Consulting ServicesBusiness Services - Other,17.0,18.0,22000.0,22000.0,1.0
+186,282,Construction - Industrial Facilities and InfrastructureConstruction - Residential & Commercial/Office,Construction - Industrial Facilities and Infrastructure; Construction - Residential & Commercial/Office,17.0,1.0,22000.0,22000.0,1.0
+187,283,Construction - Industrial Facilities and Infrastructure; Construction - Residential & Commercial/Office,Construction - Industrial Facilities and InfrastructureConstruction - Residential & Commercial/Office,1.0,17.0,22000.0,22000.0,1.0
+188,284,"Columbus, OH","Columbus, OH 43215",3.0,2.0,22000.0,22000.0,1.0
+189,285,"Columbus, OH 43215","Columbus, OH",2.0,3.0,22000.0,22000.0,1.0
+190,286,"Dallas, TX","Dallas, TX 75202",16.0,2.0,22000.0,22000.0,1.0
+191,287,"Dallas, TX 75202","Dallas, TX",2.0,16.0,22000.0,22000.0,1.0
+192,288,RetailAdvertising and PR ServicesOther/Not Classified,Retail Advertising and PR Services Other/Not Classified,15.0,5.0,22000.0,22000.0,1.0
+193,289,Retail Advertising and PR Services Other/Not Classified,RetailAdvertising and PR ServicesOther/Not Classified,5.0,15.0,22000.0,22000.0,1.0
+194,290,Biotechnology/PharmaceuticalsManufacturing - OtherMedical Devices and Supplies,Biotechnology/Pharmaceuticals; Manufacturing - Other; Medical Devices and Supplies,14.0,1.0,22000.0,22000.0,1.0
+195,291,Biotechnology/Pharmaceuticals; Manufacturing - Other; Medical Devices and Supplies,Biotechnology/PharmaceuticalsManufacturing - OtherMedical Devices and Supplies,1.0,14.0,22000.0,22000.0,1.0
+196,292,"Elk Grove Village, IL","Elk Grove Village, IL 60016",1.0,1.0,22000.0,22000.0,1.0
+197,293,"Elk Grove Village, IL 60016","Elk Grove Village, IL",1.0,1.0,22000.0,22000.0,1.0
+198,294,"Sunnyvale, CA","Sunnyvale, CA 94086",1.0,1.0,22000.0,22000.0,1.0
+199,295,"Sunnyvale, CA 94086","Sunnyvale, CA",1.0,1.0,22000.0,22000.0,1.0
+200,296,Automotive and Parts MfgManufacturing - Other,Automotive and Parts Mfg; Manufacturing - Other,12.0,1.0,22000.0,22000.0,1.0
+201,297,Automotive and Parts Mfg; Manufacturing - Other,Automotive and Parts MfgManufacturing - Other,1.0,12.0,22000.0,22000.0,1.0
+202,298,Telecommunications Services Advertising and PR Services Business Services - Other,Telecommunications ServicesAdvertising and PR ServicesBusiness Services - Other,11.0,4.0,22000.0,22000.0,1.0
+203,299,Telecommunications ServicesAdvertising and PR ServicesBusiness Services - Other,Telecommunications Services Advertising and PR Services Business Services - Other,4.0,11.0,22000.0,22000.0,1.0
+204,300,Biotechnology/PharmaceuticalsHealthcare ServicesMedical Devices and Supplies,Biotechnology/Pharmaceuticals; Healthcare Services; Medical Devices and Supplies,9.0,1.0,22000.0,22000.0,1.0
+205,301,Biotechnology/Pharmaceuticals; Healthcare Services; Medical Devices and Supplies,Biotechnology/PharmaceuticalsHealthcare ServicesMedical Devices and Supplies,1.0,9.0,22000.0,22000.0,1.0
+206,302,Advertising and PR ServicesBusiness Services - OtherOther/Not Classified,Advertising and PR ServicesBusiness Services - Other,11.0,9.0,22000.0,22000.0,1.0
+207,303,Advertising and PR ServicesBusiness Services - Other,Advertising and PR ServicesBusiness Services - OtherOther/Not Classified,9.0,11.0,22000.0,22000.0,1.0
+208,304,InsuranceFinancial Services,Insurance; Financial Services,8.0,2.0,22000.0,22000.0,1.0
+209,305,Insurance; Financial Services,InsuranceFinancial Services,2.0,8.0,22000.0,22000.0,1.0
+210,306,"Houston, TX","Houston, TX 77055",7.0,2.0,22000.0,22000.0,1.0
+211,307,"Houston, TX 77055","Houston, TX",2.0,7.0,22000.0,22000.0,1.0
+212,308,"Cincinnati, OH","Cincinnati, OH 45246",7.0,1.0,22000.0,22000.0,1.0
+213,309,"Cincinnati, OH 45246","Cincinnati, OH",1.0,7.0,22000.0,22000.0,1.0
+214,310,"Falls Church, VA","Falls Church, VA 22042",1.0,1.0,22000.0,22000.0,1.0
+215,311,"Falls Church, VA 22042","Falls Church, VA",1.0,1.0,22000.0,22000.0,1.0
+216,312,"Redmond, WA","Redmond, WA 98052",6.0,1.0,22000.0,22000.0,1.0
+217,313,"Redmond, WA 98052","Redmond, WA",1.0,6.0,22000.0,22000.0,1.0
+218,314,RetailManagement Consulting ServicesBusiness Services - Other,Retail Management Consulting Services Business Services - Other,6.0,1.0,22000.0,22000.0,1.0
+219,315,Retail Management Consulting Services Business Services - Other,RetailManagement Consulting ServicesBusiness Services - Other,1.0,6.0,22000.0,22000.0,1.0
+220,316,Restaurant/Food ServicesFood and Beverage Production,Restaurant/Food Services Food and Beverage Production,5.0,3.0,22000.0,22000.0,1.0
+221,317,Restaurant/Food Services Food and Beverage Production,Restaurant/Food ServicesFood and Beverage Production,3.0,5.0,22000.0,22000.0,1.0
+222,318,RetailAdvertising and PR Services,Retail; Advertising and PR Services,5.0,1.0,22000.0,22000.0,1.0
+223,319,Retail; Advertising and PR Services,RetailAdvertising and PR Services,1.0,5.0,22000.0,22000.0,1.0
+224,320,Healthcare ServicesNonprofit Charitable OrganizationsOther/Not Classified,Healthcare Services; Nonprofit Charitable Organizations; Other/Not Classified,5.0,1.0,22000.0,22000.0,1.0
+225,321,Healthcare Services; Nonprofit Charitable Organizations; Other/Not Classified,Healthcare ServicesNonprofit Charitable OrganizationsOther/Not Classified,1.0,5.0,22000.0,22000.0,1.0
+226,322,Retail; Advertising and PR Services; Restaurant/Food Services,RetailAdvertising and PR ServicesRestaurant/Food Services,5.0,3.0,22000.0,22000.0,1.0
+227,323,RetailAdvertising and PR ServicesRestaurant/Food Services,Retail; Advertising and PR Services; Restaurant/Food Services,3.0,5.0,22000.0,22000.0,1.0
+228,324,RetailRental ServicesRestaurant/Food Services,Retail; Rental Services; Restaurant/Food Services,4.0,1.0,22000.0,22000.0,1.0
+229,325,Retail; Rental Services; Restaurant/Food Services,RetailRental ServicesRestaurant/Food Services,1.0,4.0,22000.0,22000.0,1.0
+230,326,InsuranceHealthcare Services,Insurance Healthcare Services,4.0,1.0,22000.0,22000.0,1.0
+231,327,Insurance Healthcare Services,InsuranceHealthcare Services,1.0,4.0,22000.0,22000.0,1.0
+232,328,AllAdvertising and PR ServicesBusiness Services - Other,All;Advertising and PR Services;Business Services - Other,4.0,1.0,22000.0,22000.0,1.0
+233,329,All;Advertising and PR Services;Business Services - Other,AllAdvertising and PR ServicesBusiness Services - Other,1.0,4.0,22000.0,22000.0,1.0
+234,330,"Atlanta, GA","Atlanta, GA 30301",4.0,1.0,22000.0,22000.0,1.0
+235,331,"Atlanta, GA 30301","Atlanta, GA",1.0,4.0,22000.0,22000.0,1.0
+236,332,Advertising and PR Services Sports and Physical Recreation Business Services - Other,Advertising and PR ServicesSports and Physical RecreationBusiness Services - Other,1.0,1.0,22000.0,22000.0,1.0
+237,333,Advertising and PR ServicesSports and Physical RecreationBusiness Services - Other,Advertising and PR Services Sports and Physical Recreation Business Services - Other,1.0,1.0,22000.0,22000.0,1.0
+238,334,Advertising and PR ServicesManagement Consulting ServicesOther/Not Classified,Advertising and PR Services Management Consulting Services Other/Not Classified,4.0,2.0,22000.0,22000.0,1.0
+239,335,Advertising and PR Services Management Consulting Services Other/Not Classified,Advertising and PR ServicesManagement Consulting ServicesOther/Not Classified,2.0,4.0,22000.0,22000.0,1.0
+240,336,Aerospace and DefenseGovernment and Military,Aerospace and Defense; Government and Military,3.0,1.0,22000.0,22000.0,1.0
+241,337,Aerospace and Defense; Government and Military,Aerospace and DefenseGovernment and Military,1.0,3.0,22000.0,22000.0,1.0
+242,338,"Minnetonka, MN","Minnetonka, MN 55343",1.0,1.0,22000.0,22000.0,1.0
+243,339,"Minnetonka, MN 55343","Minnetonka, MN",1.0,1.0,22000.0,22000.0,1.0
+244,340,Automotive and Parts Mfg;Automotive Sales and Repair Services,Automotive and Parts Mfg Automotive Sales and Repair Services,3.0,1.0,22000.0,22000.0,1.0
+245,341,Automotive and Parts Mfg Automotive Sales and Repair Services,Automotive and Parts Mfg;Automotive Sales and Repair Services,1.0,3.0,22000.0,22000.0,1.0
+246,342,Restaurant/Food ServicesFood and Beverage ProductionOther/Not Classified,Restaurant/Food Services;Food and Beverage Production;Other/Not Classified,3.0,2.0,22000.0,22000.0,1.0
+247,343,Restaurant/Food Services;Food and Beverage Production;Other/Not Classified,Restaurant/Food ServicesFood and Beverage ProductionOther/Not Classified,2.0,3.0,22000.0,22000.0,1.0
+248,344,Biotechnology/PharmaceuticalsMedical Devices and Supplies,Biotechnology/Pharmaceuticals;Medical Devices and Supplies,3.0,1.0,22000.0,22000.0,1.0
+249,345,Biotechnology/Pharmaceuticals;Medical Devices and Supplies,Biotechnology/PharmaceuticalsMedical Devices and Supplies,1.0,3.0,22000.0,22000.0,1.0
+250,346,Manufacturing - OtherMedical Devices and Supplies,Manufacturing - Other; Medical Devices and Supplies,3.0,1.0,22000.0,22000.0,1.0
+251,347,Manufacturing - Other; Medical Devices and Supplies,Manufacturing - OtherMedical Devices and Supplies,1.0,3.0,22000.0,22000.0,1.0
+252,348,"Eden Prairie, MN","Eden Prairie, MN 55344",2.0,1.0,22000.0,22000.0,1.0
+253,349,"Eden Prairie, MN 55344","Eden Prairie, MN",1.0,2.0,22000.0,22000.0,1.0
+254,350,Retail;Advertising and PR Services;Sports and Physical Recreation,Retail Advertising and PR Services Sports and Physical Recreation,2.0,1.0,22000.0,22000.0,1.0
+255,351,Retail Advertising and PR Services Sports and Physical Recreation,Retail;Advertising and PR Services;Sports and Physical Recreation,1.0,2.0,22000.0,22000.0,1.0
+256,352,"New York, NY","New York, NY 10012",2.0,1.0,22000.0,22000.0,1.0
+257,353,"New York, NY 10012","New York, NY",1.0,2.0,22000.0,22000.0,1.0
+258,354,"Santa Clara, CA","Santa Clara, CA 95054",2.0,1.0,22000.0,22000.0,1.0
+259,355,"Santa Clara, CA 95054","Santa Clara, CA",1.0,2.0,22000.0,22000.0,1.0
+260,356,"Milpitas, CA 95035","Milpitas, CA 95134",2.0,1.0,22000.0,22000.0,1.0
+261,357,"Milpitas, CA 95134","Milpitas, CA 95035",1.0,2.0,22000.0,22000.0,1.0
+262,358,Healthcare ServicesStaffing/Employment AgenciesComputer/IT Services,Healthcare Services Staffing/Employment Agencies Computer/IT Services,2.0,1.0,22000.0,22000.0,1.0
+263,359,Healthcare Services Staffing/Employment Agencies Computer/IT Services,Healthcare ServicesStaffing/Employment AgenciesComputer/IT Services,1.0,2.0,22000.0,22000.0,1.0
+264,360,Energy and Utilities; Engineering Services,Energy and Utilities Engineering Services,2.0,1.0,22000.0,22000.0,1.0
+265,361,Energy and Utilities Engineering Services,Energy and Utilities; Engineering Services,1.0,2.0,22000.0,22000.0,1.0
+266,362,"Omaha, NE","Omaha, NE 68124",2.0,1.0,22000.0,22000.0,1.0
+267,363,"Omaha, NE 68124","Omaha, NE",1.0,2.0,22000.0,22000.0,1.0
+268,364,RetailTelecommunications ServicesAdvertising and PR Services,Retail;Telecommunications Services;Advertising and PR Services,2.0,1.0,22000.0,22000.0,1.0
+269,365,Retail;Telecommunications Services;Advertising and PR Services,RetailTelecommunications ServicesAdvertising and PR Services,1.0,2.0,22000.0,22000.0,1.0
+270,366,Accounting and Auditing ServicesBusiness Services - OtherFinancial Services,Accounting and Auditing Services Business Services - Other Financial Services,2.0,1.0,22000.0,22000.0,1.0
+271,367,Accounting and Auditing Services Business Services - Other Financial Services,Accounting and Auditing ServicesBusiness Services - OtherFinancial Services,1.0,2.0,22000.0,22000.0,1.0
+272,368,"Austin, TX","Austin, TX 78701",2.0,1.0,22000.0,22000.0,1.0
+273,369,"Austin, TX 78701","Austin, TX",1.0,2.0,22000.0,22000.0,1.0
+274,370,"Northbrook, IL 60062","Northbrook, IL",3.0,2.0,22000.0,22000.0,1.0
+275,371,"Northbrook, IL","Northbrook, IL 60062",2.0,3.0,22000.0,22000.0,1.0
+276,372,InsuranceAccounting and Auditing ServicesFinancial Services,Insurance; Accounting and Auditing Services; Financial Services,2.0,1.0,22000.0,22000.0,1.0
+277,373,Insurance; Accounting and Auditing Services; Financial Services,InsuranceAccounting and Auditing ServicesFinancial Services,1.0,2.0,22000.0,22000.0,1.0
+278,374,Metals and MineralsManufacturing - Other,Metals and Minerals; Manufacturing - Other,2.0,1.0,22000.0,22000.0,1.0
+279,375,Metals and Minerals; Manufacturing - Other,Metals and MineralsManufacturing - Other,1.0,2.0,22000.0,22000.0,1.0
+280,376,Manufacturing - Other;Food and Beverage Production,Manufacturing - OtherFood and Beverage Production,2.0,1.0,22000.0,22000.0,1.0
+281,377,Manufacturing - OtherFood and Beverage Production,Manufacturing - Other;Food and Beverage Production,1.0,2.0,22000.0,22000.0,1.0
+282,378,Automotive and Parts Mfg Manufacturing - Other Automotive Sales and Repair Services,Automotive and Parts MfgManufacturing - OtherAutomotive Sales and Repair Services,2.0,1.0,22000.0,22000.0,1.0
+283,379,Automotive and Parts MfgManufacturing - OtherAutomotive Sales and Repair Services,Automotive and Parts Mfg Manufacturing - Other Automotive Sales and Repair Services,1.0,2.0,22000.0,22000.0,1.0
+284,380,Manufacturing - Other;Engineering Services,Manufacturing - OtherEngineering Services,2.0,1.0,22000.0,22000.0,1.0
+285,381,Manufacturing - OtherEngineering Services,Manufacturing - Other;Engineering Services,1.0,2.0,22000.0,22000.0,1.0
+286,382,"San Antonio, TX 78205","San Antonio, TX",3.0,2.0,22000.0,22000.0,1.0
+287,383,"San Antonio, TX","San Antonio, TX 78205",2.0,3.0,22000.0,22000.0,1.0
+288,384,Computer/IT Services Other/Not Classified,Computer/IT ServicesOther/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+289,385,Computer/IT ServicesOther/Not Classified,Computer/IT Services Other/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+290,386,"Foster City, CA 94404","Foster City, CA",3.0,1.0,22000.0,22000.0,1.0
+291,387,"Foster City, CA","Foster City, CA 94404",1.0,3.0,22000.0,22000.0,1.0
+292,388,"Chicago, IL","Chicago, IL 60606",9.0,2.0,22000.0,22000.0,1.0
+293,389,"Chicago, IL 60606","Chicago, IL",2.0,9.0,22000.0,22000.0,1.0
+294,390,Real Estate/Property Management Business Services - Other Other/Not Classified,Real Estate/Property Management;Business Services - Other;Other/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+295,391,Real Estate/Property Management;Business Services - Other;Other/Not Classified,Real Estate/Property Management Business Services - Other Other/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+296,392,Biotechnology/PharmaceuticalsManufacturing - Other,Biotechnology/PharmaceuticalsManufacturing - OtherOther/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+297,393,Biotechnology/PharmaceuticalsManufacturing - OtherOther/Not Classified,Biotechnology/PharmaceuticalsManufacturing - Other,1.0,1.0,22000.0,22000.0,1.0
+298,394,All Healthcare Services,All;Healthcare Services,1.0,1.0,22000.0,22000.0,1.0
+299,395,All;Healthcare Services,All Healthcare Services,1.0,1.0,22000.0,22000.0,1.0
+300,396,Retail Telecommunications Services Business Services - Other,RetailTelecommunications ServicesBusiness Services - Other,1.0,1.0,22000.0,22000.0,1.0
+301,397,RetailTelecommunications ServicesBusiness Services - Other,Retail Telecommunications Services Business Services - Other,1.0,1.0,22000.0,22000.0,1.0
+302,398,"Wilmington, DE","Wilmington, DE 19803",1.0,1.0,22000.0,22000.0,1.0
+303,399,"Wilmington, DE 19803","Wilmington, DE",1.0,1.0,22000.0,22000.0,1.0
+304,400,"Roseville, CA","Roseville, CA 95747",1.0,1.0,22000.0,22000.0,1.0
+305,401,"Roseville, CA 95747","Roseville, CA",1.0,1.0,22000.0,22000.0,1.0
+306,402,"Warren, IL 60064","Warren, IL",3.0,1.0,22000.0,22000.0,1.0
+307,403,"Warren, IL","Warren, IL 60064",1.0,3.0,22000.0,22000.0,1.0
+308,404,"Raleigh, NC 27607","Raleigh, NC",2.0,1.0,22000.0,22000.0,1.0
+309,405,"Raleigh, NC","Raleigh, NC 27607",1.0,2.0,22000.0,22000.0,1.0
+310,406,"Durham, NC","Durham, NC 27709",1.0,1.0,22000.0,22000.0,1.0
+311,407,"Durham, NC 27709","Durham, NC",1.0,1.0,22000.0,22000.0,1.0
+312,408,Accounting and Auditing Services Nonprofit Charitable Organizations,Accounting and Auditing ServicesNonprofit Charitable Organizations,1.0,1.0,22000.0,22000.0,1.0
+313,409,Accounting and Auditing ServicesNonprofit Charitable Organizations,Accounting and Auditing Services Nonprofit Charitable Organizations,1.0,1.0,22000.0,22000.0,1.0
+314,410,"City Of Industry, CA 91744","City Of Industry, CA",2.0,1.0,22000.0,22000.0,1.0
+315,411,"City Of Industry, CA","City Of Industry, CA 91744",1.0,2.0,22000.0,22000.0,1.0
+316,412,"Charlotte, NC","Charlotte, NC 28202",1.0,1.0,22000.0,22000.0,1.0
+317,413,"Charlotte, NC 28202","Charlotte, NC",1.0,1.0,22000.0,22000.0,1.0
+318,414,Hotels and Lodging Restaurant/Food Services Other/Not Classified,Hotels and LodgingRestaurant/Food ServicesOther/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+319,415,Hotels and LodgingRestaurant/Food ServicesOther/Not Classified,Hotels and Lodging Restaurant/Food Services Other/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+320,416,"San Francisco, CA","San Francisco Ca, CA 94107",3.0,1.0,22000.0,22000.0,1.0
+321,417,"San Francisco Ca, CA 94107","San Francisco, CA",1.0,3.0,22000.0,22000.0,1.0
+322,418,"Montgomery, OH","Montgomery, OH 45242",1.0,1.0,22000.0,22000.0,1.0
+323,419,"Montgomery, OH 45242","Montgomery, OH",1.0,1.0,22000.0,22000.0,1.0
+324,420,"Boston, MA","Boston, MA 94501",1.0,1.0,22000.0,22000.0,1.0
+325,421,"Boston, MA 94501","Boston, MA",1.0,1.0,22000.0,22000.0,1.0
+326,422,Restaurant/Food Services Other/Not Classified,Restaurant/Food ServicesOther/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+327,423,Restaurant/Food ServicesOther/Not Classified,Restaurant/Food Services Other/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+328,424,"Richardson, TX","Richardson, TX 75082",1.0,1.0,22000.0,22000.0,1.0
+329,425,"Richardson, TX 75082","Richardson, TX",1.0,1.0,22000.0,22000.0,1.0
+330,426,Management Consulting Services Business Services - Other Other/Not Classified,Management Consulting ServicesBusiness Services - OtherOther/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+331,427,Management Consulting ServicesBusiness Services - OtherOther/Not Classified,Management Consulting Services Business Services - Other Other/Not Classified,1.0,1.0,22000.0,22000.0,1.0
+332,428,hockingstuart,hockingstuart/hockingstuart,2623.0,7.0,34857.0,34857.0,1.0
+333,429,hockingstuart/hockingstuart,hockingstuart,7.0,2623.0,34857.0,34857.0,1.0
+334,430,Collins,Collings,124.0,10.0,34857.0,34857.0,1.0
+335,431,Collings,Collins,10.0,124.0,34857.0,34857.0,1.0
+336,432,Home,Homes,3.0,3.0,34857.0,34857.0,1.0
+337,433,Homes,Home,3.0,3.0,34857.0,34857.0,1.0
+338,434,MJ,M.J,8.0,3.0,34857.0,34857.0,1.0
+339,435,M.J,MJ,3.0,8.0,34857.0,34857.0,1.0
+340,436,Fletchers,Fletchers/Fletchers,861.0,3.0,34857.0,34857.0,1.0
+341,437,Fletchers/Fletchers,Fletchers,3.0,861.0,34857.0,34857.0,1.0
+342,438,VICPROP,VICProp,6.0,4.0,34857.0,34857.0,1.0
+343,439,VICProp,VICPROP,4.0,6.0,34857.0,34857.0,1.0
+344,440,Brad,Bradly,701.0,1.0,34857.0,34857.0,1.0
+345,441,Bradly,Brad,1.0,701.0,34857.0,34857.0,1.0
+346,442,Castran,CASTRAN,31.0,1.0,34857.0,34857.0,1.0
+347,443,CASTRAN,Castran,1.0,31.0,34857.0,34857.0,1.0
+348,444,RE,Re,15.0,13.0,34857.0,34857.0,1.0
+349,445,Re,RE,13.0,15.0,34857.0,34857.0,1.0
+350,446,Kay,Kaye,360.0,3.0,34857.0,34857.0,1.0
+351,447,Kaye,Kay,3.0,360.0,34857.0,34857.0,1.0
+352,448,Property,Propertyau,8.0,1.0,34857.0,34857.0,1.0
+353,449,Propertyau,Property,1.0,8.0,34857.0,34857.0,1.0
+354,450,Walshe,Walsh,62.0,5.0,34857.0,34857.0,1.0
+355,451,Walsh,Walshe,5.0,62.0,34857.0,34857.0,1.0
+356,452,PRDNationwide,PRD,24.0,2.0,34857.0,34857.0,1.0
+357,453,PRD,PRDNationwide,2.0,24.0,34857.0,34857.0,1.0
+358,454,O'Brien,Obrien,225.0,20.0,34857.0,34857.0,1.0
+359,455,Obrien,O'Brien,20.0,225.0,34857.0,34857.0,1.0
+360,456,Williams,William,203.0,27.0,34857.0,34857.0,1.0
+361,457,William,Williams,27.0,203.0,34857.0,34857.0,1.0
+362,458,New York,New York City,55325.0,688.0,107093.0,107093.0,1.0
+363,459,New York City,New York,688.0,55325.0,107093.0,107093.0,1.0
+364,460,San Francisco,South San Francisco,24367.0,112.0,107093.0,107093.0,1.0
+365,461,South San Francisco,San Francisco,112.0,24367.0,107093.0,107093.0,1.0
+366,462,Chicago,chicago,25761.0,131.0,107093.0,107093.0,1.0
+367,463,chicago,Chicago,131.0,25761.0,107093.0,107093.0,1.0
+368,470,Russian rouble,Russian ruble,159.0,817.0,227092.0,227092.0,1.0
+369,471,Russian ruble,Russian rouble,817.0,159.0,227092.0,227092.0,1.0
+370,474,Leone,leone,465.0,189.0,227092.0,227092.0,1.0
+371,475,leone,Leone,189.0,465.0,227092.0,227092.0,1.0
+372,482,Danish krone,Danish Krone,3382.0,249.0,227092.0,227092.0,1.0
+373,483,Danish Krone,Danish krone,249.0,3382.0,227092.0,227092.0,1.0
+374,488,CFA franc,CFA Franc,2984.0,1202.0,227092.0,227092.0,1.0
+375,489,CFA Franc,CFA franc,1202.0,2984.0,227092.0,227092.0,1.0
+376,490,Rand,rand,2943.0,784.0,227092.0,227092.0,1.0
+377,491,rand,Rand,784.0,2943.0,227092.0,227092.0,1.0
+378,498,Forint,forint,2466.0,372.0,227092.0,227092.0,1.0
+379,499,forint,Forint,372.0,2466.0,227092.0,227092.0,1.0
+380,500,Slovak Koruna,Slovak koruna,750.0,717.0,227092.0,227092.0,1.0
+381,501,Slovak koruna,Slovak Koruna,717.0,750.0,227092.0,227092.0,1.0
+382,510,1999 NLG Euro / Euro,1999 NLG euro / euro,2063.0,1580.0,227092.0,227092.0,1.0
+383,511,1999 NLG euro / euro,1999 NLG Euro / Euro,1580.0,2063.0,227092.0,227092.0,1.0
+384,520,Romanian Leu,Romanian leu,510.0,429.0,227092.0,227092.0,1.0
+385,521,Romanian leu,Romanian Leu,429.0,510.0,227092.0,227092.0,1.0
+386,522,Zloty,zloty,1283.0,514.0,227092.0,227092.0,1.0
+387,523,zloty,Zloty,514.0,1283.0,227092.0,227092.0,1.0
+388,532,litas,Litas,1104.0,792.0,227092.0,227092.0,1.0
+389,533,Litas,litas,792.0,1104.0,227092.0,227092.0,1.0
+390,540,Estonian Kroon,Estonian kroon,939.0,534.0,227092.0,227092.0,1.0
+391,541,Estonian kroon,Estonian Kroon,534.0,939.0,227092.0,227092.0,1.0
+392,542,Pataca,pataca,758.0,391.0,227092.0,227092.0,1.0
+393,543,pataca,Pataca,391.0,758.0,227092.0,227092.0,1.0
+394,560,ngultrum,Ngultum,237.0,159.0,227092.0,227092.0,1.0
+395,561,Ngultum,ngultrum,159.0,237.0,227092.0,227092.0,1.0
+396,564,Euro,euro,27780.0,977.0,227092.0,227092.0,1.0
+397,565,euro,Euro,977.0,27780.0,227092.0,227092.0,1.0
+398,568,Tunisian dinar,Tunisian Dinar,921.0,851.0,227092.0,227092.0,1.0
+399,569,Tunisian Dinar,Tunisian dinar,851.0,921.0,227092.0,227092.0,1.0
+400,574,ALASKA,AK,9.0,5.0,374362.0,374362.0,1.0
+401,575,AK,ALASKA,5.0,9.0,374362.0,374362.0,1.0
+402,576,AL,ALABAMA,185.0,107.0,374362.0,374362.0,1.0
+403,577,ALABAMA,AL,107.0,185.0,374362.0,374362.0,1.0
+404,578,AR,ARKANSAS,100.0,66.0,374362.0,374362.0,1.0
+405,579,ARKANSAS,AR,66.0,100.0,374362.0,374362.0,1.0
+406,580,AZ,ARIZONA,3172.0,2427.0,374362.0,374362.0,1.0
+407,581,ARIZONA,AZ,2427.0,3172.0,374362.0,374362.0,1.0
+408,582,CA,CALIFORNIA,35299.0,19895.0,374362.0,374362.0,1.0
+409,583,CALIFORNIA,CA,19895.0,35299.0,374362.0,374362.0,1.0
+410,584,CO,COLORADO,1236.0,774.0,374362.0,374362.0,1.0
+411,585,COLORADO,CO,774.0,1236.0,374362.0,374362.0,1.0
+412,586,CT,CONNECTICUT,1058.0,559.0,374362.0,374362.0,1.0
+413,587,CONNECTICUT,CT,559.0,1058.0,374362.0,374362.0,1.0
+414,588,DC,DISTRICT OF COLUMBIA,2403.0,1597.0,374362.0,374362.0,1.0
+415,589,DISTRICT OF COLUMBIA,DC,1597.0,2403.0,374362.0,374362.0,1.0
+416,590,DELAWARE,DE,28.0,5.0,374362.0,374362.0,1.0
+417,591,DE,DELAWARE,5.0,28.0,374362.0,374362.0,1.0
+418,592,FL,FLORIDA,3701.0,1769.0,374362.0,374362.0,1.0
+419,593,FLORIDA,FL,1769.0,3701.0,374362.0,374362.0,1.0
+420,594,GA,GEORGIA,8811.0,3703.0,374362.0,374362.0,1.0
+421,595,GEORGIA,GA,3703.0,8811.0,374362.0,374362.0,1.0
+422,596,GU,GUAM,145.0,57.0,374362.0,374362.0,1.0
+423,597,GUAM,GU,57.0,145.0,374362.0,374362.0,1.0
+424,598,HI,HAWAII,55.0,34.0,374362.0,374362.0,1.0
+425,599,HAWAII,HI,34.0,55.0,374362.0,374362.0,1.0
+426,600,IA,IOWA,104.0,69.0,374362.0,374362.0,1.0
+427,601,IOWA,IA,69.0,104.0,374362.0,374362.0,1.0
+428,602,ID,IDAHO,8.0,6.0,374362.0,374362.0,1.0
+429,603,IDAHO,ID,6.0,8.0,374362.0,374362.0,1.0
+430,604,IL,ILLINOIS,6813.0,3707.0,374362.0,374362.0,1.0
+431,605,ILLINOIS,IL,3707.0,6813.0,374362.0,374362.0,1.0
+432,606,IN,INDIANA,185.0,128.0,374362.0,374362.0,1.0
+433,607,INDIANA,IN,128.0,185.0,374362.0,374362.0,1.0
+434,608,KS,KANSAS,153.0,106.0,374362.0,374362.0,1.0
+435,609,KANSAS,KS,106.0,153.0,374362.0,374362.0,1.0
+436,610,KY,KENTUCKY,155.0,72.0,374362.0,374362.0,1.0
+437,611,KENTUCKY,KY,72.0,155.0,374362.0,374362.0,1.0
+438,612,LA,LOUISIANA,367.0,205.0,374362.0,374362.0,1.0
+439,613,LOUISIANA,LA,205.0,367.0,374362.0,374362.0,1.0
+440,614,MA,MASSACHUSETTS,8105.0,4048.0,374362.0,374362.0,1.0
+441,615,MASSACHUSETTS,MA,4048.0,8105.0,374362.0,374362.0,1.0
+442,616,ME,MAINE,125.0,71.0,374362.0,374362.0,1.0
+443,617,MAINE,ME,71.0,125.0,374362.0,374362.0,1.0
+444,618,MD,MARYLAND,3021.0,1842.0,374362.0,374362.0,1.0
+445,619,MARYLAND,MD,1842.0,3021.0,374362.0,374362.0,1.0
+446,620,MI,MICHIGAN,6511.0,3405.0,374362.0,374362.0,1.0
+447,621,MICHIGAN,MI,3405.0,6511.0,374362.0,374362.0,1.0
+448,622,MN,MINNESOTA,1150.0,633.0,374362.0,374362.0,1.0
+449,623,MINNESOTA,MN,633.0,1150.0,374362.0,374362.0,1.0
+450,624,MS,MISSISSIPPI,50.0,27.0,374362.0,374362.0,1.0
+451,625,MISSISSIPPI,MS,27.0,50.0,374362.0,374362.0,1.0
+452,626,MO,MISSOURI,639.0,414.0,374362.0,374362.0,1.0
+453,627,MISSOURI,MO,414.0,639.0,374362.0,374362.0,1.0
+454,628,MT,MONTANA,14.0,4.0,374362.0,374362.0,1.0
+455,629,MONTANA,MT,4.0,14.0,374362.0,374362.0,1.0
+456,630,NC,NORTH CAROLINA,2295.0,1283.0,374362.0,374362.0,1.0
+457,631,NORTH CAROLINA,NC,1283.0,2295.0,374362.0,374362.0,1.0
+458,632,ND,NORTH DAKOTA,7.0,6.0,374362.0,374362.0,1.0
+459,633,NORTH DAKOTA,ND,6.0,7.0,374362.0,374362.0,1.0
+460,634,NE,NEBRASKA,443.0,245.0,374362.0,374362.0,1.0
+461,635,NEBRASKA,NE,245.0,443.0,374362.0,374362.0,1.0
+462,636,NV,NEVADA,26.0,15.0,374362.0,374362.0,1.0
+463,637,NEVADA,NV,15.0,26.0,374362.0,374362.0,1.0
+464,638,NH,NEW HAMPSHIRE,96.0,74.0,374362.0,374362.0,1.0
+465,639,NEW HAMPSHIRE,NH,74.0,96.0,374362.0,374362.0,1.0
+466,640,NJ,NEW JERSEY,5121.0,2772.0,374362.0,374362.0,1.0
+467,641,NEW JERSEY,NJ,2772.0,5121.0,374362.0,374362.0,1.0
+468,642,NM,NEW MEXICO,91.0,44.0,374362.0,374362.0,1.0
+469,643,NEW MEXICO,NM,44.0,91.0,374362.0,374362.0,1.0
+470,644,NY,NEW YORK,16443.0,9455.0,374362.0,374362.0,1.0
+471,645,NEW YORK,NY,9455.0,16443.0,374362.0,374362.0,1.0
+472,646,OH,OHIO,2208.0,1335.0,374362.0,374362.0,1.0
+473,647,OHIO,OH,1335.0,2208.0,374362.0,374362.0,1.0
+474,648,OK,OKLAHOMA,192.0,105.0,374362.0,374362.0,1.0
+475,649,OKLAHOMA,OK,105.0,192.0,374362.0,374362.0,1.0
+476,650,OR,OREGON,334.0,225.0,374362.0,374362.0,1.0
+477,651,OREGON,OR,225.0,334.0,374362.0,374362.0,1.0
+478,652,PA,PENNSYLVANIA,3471.0,2001.0,374362.0,374362.0,1.0
+479,653,PENNSYLVANIA,PA,2001.0,3471.0,374362.0,374362.0,1.0
+480,654,PR,PUERTO RICO,48.0,27.0,374362.0,374362.0,1.0
+481,655,PUERTO RICO,PR,27.0,48.0,374362.0,374362.0,1.0
+482,656,RI,RHODE ISLAND,57.0,43.0,374362.0,374362.0,1.0
+483,657,RHODE ISLAND,RI,43.0,57.0,374362.0,374362.0,1.0
+484,658,SC,SOUTH CAROLINA,346.0,148.0,374362.0,374362.0,1.0
+485,659,SOUTH CAROLINA,SC,148.0,346.0,374362.0,374362.0,1.0
+486,660,SD,SOUTH DAKOTA,6.0,5.0,374362.0,374362.0,1.0
+487,661,SOUTH DAKOTA,SD,5.0,6.0,374362.0,374362.0,1.0
+488,662,TN,TENNESSEE,404.0,251.0,374362.0,374362.0,1.0
+489,663,TENNESSEE,TN,251.0,404.0,374362.0,374362.0,1.0
+490,664,TX,TEXAS,10782.0,6682.0,374362.0,374362.0,1.0
+491,665,TEXAS,TX,6682.0,10782.0,374362.0,374362.0,1.0
+492,666,UT,UTAH,298.0,143.0,374362.0,374362.0,1.0
+493,667,UTAH,UT,143.0,298.0,374362.0,374362.0,1.0
+494,668,VA,VIRGINIA,5284.0,2734.0,374362.0,374362.0,1.0
+495,669,VIRGINIA,VA,2734.0,5284.0,374362.0,374362.0,1.0
+496,670,VT,VERMONT,142.0,89.0,374362.0,374362.0,1.0
+497,671,VERMONT,VT,89.0,142.0,374362.0,374362.0,1.0
+498,672,WA,WASHINGTON,1942.0,517.0,374362.0,374362.0,1.0
+499,673,WASHINGTON,WA,517.0,1942.0,374362.0,374362.0,1.0
+500,674,WEST VIRGINIA,WV,2.0,1.0,374362.0,374362.0,1.0
+501,675,WV,WEST VIRGINIA,1.0,2.0,374362.0,374362.0,1.0
+502,676,WI,WISCONSIN,393.0,260.0,374362.0,374362.0,1.0
+503,677,WISCONSIN,WI,260.0,393.0,374362.0,374362.0,1.0
+504,690,Black/Tan,Black & Tan,2186.0,937.0,82545.0,82545.0,1.0
+505,691,Black & Tan,Black/Tan,937.0,2186.0,82545.0,82545.0,1.0
+506,698,BLACK/ORANGE,Orange/Black,1.0,1.0,82545.0,82545.0,1.0
+507,699,Orange/Black,BLACK/ORANGE,1.0,1.0,82545.0,82545.0,1.0
+508,702,Brown/Silver,Brown & Silver,3.0,1.0,82545.0,82545.0,1.0
+509,703,Brown & Silver,Brown/Silver,1.0,3.0,82545.0,82545.0,1.0
+510,704,Tan/White,White/Tan,1183.0,926.0,82545.0,82545.0,1.0
+511,705,White/Tan,Tan/White,926.0,1183.0,82545.0,82545.0,1.0
+512,712,Blue & Brown,Blue/Brown,5.0,2.0,82545.0,82545.0,1.0
+513,713,Blue/Brown,Blue & Brown,2.0,5.0,82545.0,82545.0,1.0
+514,714,Apricot,APRICOT,325.0,314.0,82545.0,82545.0,1.0
+515,715,APRICOT,Apricot,314.0,325.0,82545.0,82545.0,1.0
+516,718,White/Brown,Brown/White,633.0,621.0,82545.0,82545.0,1.0
+517,719,Brown/White,White/Brown,621.0,633.0,82545.0,82545.0,1.0
+518,728,BLENHEIM,Blenheim,174.0,154.0,82545.0,82545.0,1.0
+519,729,Blenheim,BLENHEIM,154.0,174.0,82545.0,82545.0,1.0
+520,740,Black/Brindle,Brindle/Black,93.0,24.0,82545.0,82545.0,1.0
+521,741,Brindle/Black,Black/Brindle,24.0,93.0,82545.0,82545.0,1.0
+522,752,Brown/Black,Brown & Black,133.0,78.0,82545.0,82545.0,1.0
+523,753,Brown & Black,Brown/Black,78.0,133.0,82545.0,82545.0,1.0
+524,758,Grey /White,Grey/White,189.0,145.0,82545.0,82545.0,1.0
+525,759,Grey/White,Grey /White,145.0,189.0,82545.0,82545.0,1.0
+526,760,Blonde/White,White/Blonde,6.0,1.0,82545.0,82545.0,1.0
+527,761,White/Blonde,Blonde/White,1.0,6.0,82545.0,82545.0,1.0
+528,762,White/Apricot,White & Apricot,148.0,56.0,82545.0,82545.0,1.0
+529,763,White & Apricot,White/Apricot,56.0,148.0,82545.0,82545.0,1.0
+530,768,Gold/White,White / Gold,87.0,50.0,82545.0,82545.0,1.0
+531,769,White / Gold,Gold/White,50.0,87.0,82545.0,82545.0,1.0
+532,770,BLONDE,Blonde,93.0,50.0,82545.0,82545.0,1.0
+533,771,Blonde,BLONDE,50.0,93.0,82545.0,82545.0,1.0
+534,774,White/Cream,White & Cream,82.0,49.0,82545.0,82545.0,1.0
+535,775,White & Cream,White/Cream,49.0,82.0,82545.0,82545.0,1.0
+536,782,Black & Tan & White,Black/Tan/White,134.0,53.0,82545.0,82545.0,1.0
+537,783,Black/Tan/White,Black & Tan & White,53.0,134.0,82545.0,82545.0,1.0
+538,790,Brown/Tan,Tan & Brown,100.0,56.0,82545.0,82545.0,1.0
+539,791,Tan & Brown,Brown/Tan,56.0,100.0,82545.0,82545.0,1.0
+540,798,Black/Silver,Black & Silver,57.0,30.0,82545.0,82545.0,1.0
+541,799,Black & Silver,Black/Silver,30.0,57.0,82545.0,82545.0,1.0
+542,802,Blue/Grey,Blue & Grey,37.0,28.0,82545.0,82545.0,1.0
+543,803,Blue & Grey,Blue/Grey,28.0,37.0,82545.0,82545.0,1.0
+544,816,Black & Brown & White,White & Brown & Black,54.0,25.0,82545.0,82545.0,1.0
+545,817,White & Brown & Black,Black & Brown & White,25.0,54.0,82545.0,82545.0,1.0
+546,818,BLUE/BLACK,Black/Blue,38.0,25.0,82545.0,82545.0,1.0
+547,819,Black/Blue,BLUE/BLACK,25.0,38.0,82545.0,82545.0,1.0
+548,820,Fawn/White,White/Fawn,74.0,60.0,82545.0,82545.0,1.0
+549,821,White/Fawn,Fawn/White,60.0,74.0,82545.0,82545.0,1.0
+550,824,Tan & Sable,Sable/Tan,23.0,9.0,82545.0,82545.0,1.0
+551,825,Sable/Tan,Tan & Sable,9.0,23.0,82545.0,82545.0,1.0
+552,826,BLACK/CREAM,Cream/Black,23.0,21.0,82545.0,82545.0,1.0
+553,827,Cream/Black,BLACK/CREAM,21.0,23.0,82545.0,82545.0,1.0
+554,828,Red/White,Red & White,329.0,136.0,82545.0,82545.0,1.0
+555,829,Red & White,Red/White,136.0,329.0,82545.0,82545.0,1.0
+556,834,Liver/White,White/Liver,98.0,19.0,82545.0,82545.0,1.0
+557,835,White/Liver,Liver/White,19.0,98.0,82545.0,82545.0,1.0
+558,836,White/Caramel,Caramel/White,49.0,21.0,82545.0,82545.0,1.0
+559,837,Caramel/White,White/Caramel,21.0,49.0,82545.0,82545.0,1.0
+560,842,Honey/White,White/Honey,38.0,18.0,82545.0,82545.0,1.0
+561,843,White/Honey,Honey/White,18.0,38.0,82545.0,82545.0,1.0
+562,848,Blue/Tan,Blue & Tan,51.0,17.0,82545.0,82545.0,1.0
+563,849,Blue & Tan,Blue/Tan,17.0,51.0,82545.0,82545.0,1.0
+564,852,White/Beige,Beige/White,33.0,17.0,82545.0,82545.0,1.0
+565,853,Beige/White,White/Beige,17.0,33.0,82545.0,82545.0,1.0
+566,854,Apricot & Cream,APRICOT/CREAM,15.0,13.0,82545.0,82545.0,1.0
+567,855,APRICOT/CREAM,Apricot & Cream,13.0,15.0,82545.0,82545.0,1.0
+568,858,Red/Black,Black/Red,22.0,15.0,82545.0,82545.0,1.0
+569,859,Black/Red,Red/Black,15.0,22.0,82545.0,82545.0,1.0
+570,864,White/Ginger,Ginger/White,13.0,10.0,82545.0,82545.0,1.0
+571,865,Ginger/White,White/Ginger,10.0,13.0,82545.0,82545.0,1.0
+572,874,Sable/White,Sable & White,82.0,56.0,82545.0,82545.0,1.0
+573,875,Sable & White,Sable/White,56.0,82.0,82545.0,82545.0,1.0
+574,880,Sable/Brown,Sable Brown,9.0,1.0,82545.0,82545.0,1.0
+575,881,Sable Brown,Sable/Brown,1.0,9.0,82545.0,82545.0,1.0
+576,884,White/Sandy,Sandy & White,8.0,7.0,82545.0,82545.0,1.0
+577,885,Sandy & White,White/Sandy,7.0,8.0,82545.0,82545.0,1.0
+578,890,Blue/Merle,Blue Merle,70.0,35.0,82545.0,82545.0,1.0
+579,891,Blue Merle,Blue/Merle,35.0,70.0,82545.0,82545.0,1.0
+580,892,Gold/Brown,Gold & Brown,22.0,19.0,82545.0,82545.0,1.0
+581,893,Gold & Brown,Gold/Brown,19.0,22.0,82545.0,82545.0,1.0
+582,894,Grey/Brown,Brown/Grey,9.0,8.0,82545.0,82545.0,1.0
+583,895,Brown/Grey,Grey/Brown,8.0,9.0,82545.0,82545.0,1.0
+584,900,Brindle & Tan,Brindle/Tan,7.0,7.0,82545.0,82545.0,1.0
+585,901,Brindle/Tan,Brindle & Tan,7.0,7.0,82545.0,82545.0,1.0
+586,902,Blue/White,White/Blue,86.0,26.0,82545.0,82545.0,1.0
+587,903,White/Blue,Blue/White,26.0,86.0,82545.0,82545.0,1.0
+588,904,Chocolate/White,Chocolate & White,60.0,12.0,82545.0,82545.0,1.0
+589,905,Chocolate & White,Chocolate/White,12.0,60.0,82545.0,82545.0,1.0
+590,906,Black & Caramel,Caramel/Black,7.0,3.0,82545.0,82545.0,1.0
+591,907,Caramel/Black,Black & Caramel,3.0,7.0,82545.0,82545.0,1.0
+592,912,Cream/Brown,Cream & Brown,17.0,14.0,82545.0,82545.0,1.0
+593,913,Cream & Brown,Cream/Brown,14.0,17.0,82545.0,82545.0,1.0
+594,918,Tan/Silver,Silver/Tan,6.0,5.0,82545.0,82545.0,1.0
+595,919,Silver/Tan,Tan/Silver,5.0,6.0,82545.0,82545.0,1.0
+596,922,White/Champagne,Champagne & White,6.0,3.0,82545.0,82545.0,1.0
+597,923,Champagne & White,White/Champagne,3.0,6.0,82545.0,82545.0,1.0
+598,924,Orange/White,Orange & White,14.0,8.0,82545.0,82545.0,1.0
+599,925,Orange & White,Orange/White,8.0,14.0,82545.0,82545.0,1.0
+600,926,Yellow & White,White/Yellow,7.0,5.0,82545.0,82545.0,1.0
+601,927,White/Yellow,Yellow & White,5.0,7.0,82545.0,82545.0,1.0
+602,932,Sable/Black,Black/Sable,6.0,5.0,82545.0,82545.0,1.0
+603,933,Black/Sable,Sable/Black,5.0,6.0,82545.0,82545.0,1.0
+604,934,Red/Brown,Red & Brown,62.0,34.0,82545.0,82545.0,1.0
+605,935,Red & Brown,Red/Brown,34.0,62.0,82545.0,82545.0,1.0
+606,944,Beige/Black,Beige & Black,8.0,4.0,82545.0,82545.0,1.0
+607,945,Beige & Black,Beige/Black,4.0,8.0,82545.0,82545.0,1.0
+608,948,White & Brown & Grey,Grey & Brown & White,3.0,1.0,82545.0,82545.0,1.0
+609,949,Grey & Brown & White,White & Brown & Grey,1.0,3.0,82545.0,82545.0,1.0
+610,950,Blue & Silver,BLUE AND SILVER,3.0,2.0,82545.0,82545.0,1.0
+611,951,BLUE AND SILVER,Blue & Silver,2.0,3.0,82545.0,82545.0,1.0
+612,952,Fawn/Brown,Fawn & Brown,7.0,6.0,82545.0,82545.0,1.0
+613,953,Fawn & Brown,Fawn/Brown,6.0,7.0,82545.0,82545.0,1.0
+614,954,BLACK/GINGER,Ginger/Black,3.0,1.0,82545.0,82545.0,1.0
+615,955,Ginger/Black,BLACK/GINGER,1.0,3.0,82545.0,82545.0,1.0
+616,956,Silver/White,Silver & White,7.0,3.0,82545.0,82545.0,1.0
+617,957,Silver & White,Silver/White,3.0,7.0,82545.0,82545.0,1.0
+618,968,Apricot Fawn,Apricot & Fawn,4.0,2.0,82545.0,82545.0,1.0
+619,969,Apricot & Fawn,Apricot Fawn,2.0,4.0,82545.0,82545.0,1.0
+620,970,Sandy Brown,Sandy/Brown,2.0,2.0,82545.0,82545.0,1.0
+621,971,Sandy/Brown,Sandy Brown,2.0,2.0,82545.0,82545.0,1.0
+622,976,Biscuit & White,Biscuit/White,2.0,1.0,82545.0,82545.0,1.0
+623,977,Biscuit/White,Biscuit & White,1.0,2.0,82545.0,82545.0,1.0
+624,980,Beige/Gold,Beige & Golden,3.0,1.0,82545.0,82545.0,1.0
+625,981,Beige & Golden,Beige/Gold,1.0,3.0,82545.0,82545.0,1.0
+626,982,Beige/Cream,Beige & Cream,3.0,1.0,82545.0,82545.0,1.0
+627,983,Beige & Cream,Beige/Cream,1.0,3.0,82545.0,82545.0,1.0
+628,984,Orange & Brown,Brown/Orange,3.0,1.0,82545.0,82545.0,1.0
+629,985,Brown/Orange,Orange & Brown,1.0,3.0,82545.0,82545.0,1.0
+630,986,China,CN,51.0,1.0,25090.0,25090.0,1.0
+631,987,CN,China,1.0,51.0,25090.0,25090.0,1.0
+632,988,China,CN,1.0,1.0,152.0,152.0,1.0
+633,989,CN,China,1.0,1.0,152.0,152.0,1.0
+634,990,Statistical discrepancy,Statistical Discrepancy,312.0,148.0,227092.0,227092.0,1.0
+635,991,Statistical Discrepancy,Statistical discrepancy,148.0,312.0,227092.0,227092.0,1.0
+636,992,St Paul,St. Paul,1.0,1.0,558.0,558.0,1.0
+637,993,St. Paul,St Paul,1.0,1.0,558.0,558.0,1.0
+638,2702,-,--,4.0,1.0,374362.0,374362.0,1.0
+639,2703,--,-,1.0,4.0,374362.0,374362.0,1.0
+640,2704,City Hall,City Auditorium,25.0,17.0,21607.0,21607.0,1.0
+641,2705,City Auditorium,City Hall,17.0,25.0,21607.0,21607.0,1.0
+642,2706,Winter Garden,Winter Garden Atrium (at the WFC),1.0,1.0,21607.0,21607.0,1.0
+643,2707,Winter Garden Atrium (at the WFC),Winter Garden,1.0,1.0,21607.0,21607.0,1.0
+644,2708,Kurhaus,Kurhaus-Saal,1.0,1.0,21607.0,21607.0,1.0
+645,2709,Kurhaus-Saal,Kurhaus,1.0,1.0,21607.0,21607.0,1.0
+646,2710,Grand Opera House,Grand Opera,4.0,1.0,21607.0,21607.0,1.0
+647,2711,Grand Opera,Grand Opera House,1.0,4.0,21607.0,21607.0,1.0
+648,2712,College Auditorium,Coliseum,4.0,3.0,21607.0,21607.0,1.0
+649,2713,Coliseum,College Auditorium,3.0,4.0,21607.0,21607.0,1.0
+650,2714,The Armory,Armory,6.0,2.0,21607.0,21607.0,1.0
+651,2715,Armory,The Armory,2.0,6.0,21607.0,21607.0,1.0
+652,2716,"Great Hall, City College of New York",Great Hall - City College,59.0,31.0,21607.0,21607.0,1.0
+653,2717,Great Hall - City College,"Great Hall, City College of New York",31.0,59.0,21607.0,21607.0,1.0
+654,2718,Colonial Theatre,Colonial Theater,3.0,1.0,21607.0,21607.0,1.0
+655,2719,Colonial Theater,Colonial Theatre,1.0,3.0,21607.0,21607.0,1.0
+656,2720,Community Theater,Community Auditorium (Emens College),2.0,1.0,21607.0,21607.0,1.0
+657,2721,Community Auditorium (Emens College),Community Theater,1.0,2.0,21607.0,21607.0,1.0
+658,2722,Lincoln Square,Lincoln Square Theatre,1.0,1.0,21607.0,21607.0,1.0
+659,2723,Lincoln Square Theatre,Lincoln Square,1.0,1.0,21607.0,21607.0,1.0
+660,2724,Auditorio y Palacio de Congresos,Auditorio Palacio de Congresos Principe Felipe,2.0,1.0,21607.0,21607.0,1.0
+661,2725,Auditorio Palacio de Congresos Principe Felipe,Auditorio y Palacio de Congresos,1.0,2.0,21607.0,21607.0,1.0
+662,2726,Convention Hall,Convention Hall Ballroom,9.0,1.0,21607.0,21607.0,1.0
+663,2727,Convention Hall Ballroom,Convention Hall,1.0,9.0,21607.0,21607.0,1.0
+664,2728,Auditorium,The Auditorium,10.0,2.0,21607.0,21607.0,1.0
+665,2729,The Auditorium,Auditorium,2.0,10.0,21607.0,21607.0,1.0
+666,2730,Auditorium Theatre,Auditorium Hall,3.0,1.0,21607.0,21607.0,1.0
+667,2731,Auditorium Hall,Auditorium Theatre,1.0,3.0,21607.0,21607.0,1.0
+668,2732,Auditorium Parco della Musica,Auditorium Parco della Musica - Santa Cecilia Hall,3.0,1.0,21607.0,21607.0,1.0
+669,2733,Auditorium Parco della Musica - Santa Cecilia Hall,Auditorium Parco della Musica,1.0,3.0,21607.0,21607.0,1.0
+670,2734,Lyric Theatre,Lyric Theater,61.0,1.0,21607.0,21607.0,1.0
+671,2735,Lyric Theater,Lyric Theatre,1.0,61.0,21607.0,21607.0,1.0
+672,2736,Orpheus Hall,Orpheum Theatre,3.0,2.0,21607.0,21607.0,1.0
+673,2737,Orpheum Theatre,Orpheus Hall,2.0,3.0,21607.0,21607.0,1.0
+674,2738,Court Square Theater,Court Theatre,3.0,2.0,21607.0,21607.0,1.0
+675,2739,Court Theatre,Court Square Theater,2.0,3.0,21607.0,21607.0,1.0
+676,2740,Shanghai Symphony Hall,Shanghai Symphony Hall--Chamber Hall,12.0,2.0,21607.0,21607.0,1.0
+677,2741,Shanghai Symphony Hall--Chamber Hall,Shanghai Symphony Hall,2.0,12.0,21607.0,21607.0,1.0
+678,2742,Majestic Theater,Majestic Theatre,4.0,3.0,21607.0,21607.0,1.0
+679,2743,Majestic Theatre,Majestic Theater,3.0,4.0,21607.0,21607.0,1.0
+680,2744,Palace of Arts  (Bela Bartók National Concert Hall),Palace of Arts (Bela Bartók National Concert Hall),2.0,1.0,21607.0,21607.0,1.0
+681,2745,Palace of Arts (Bela Bartók National Concert Hall),Palace of Arts  (Bela Bartók National Concert Hall),1.0,2.0,21607.0,21607.0,1.0
+682,2746,Shimin Kaikan (Nagoya),Shimin Kaikan,4.0,2.0,21607.0,21607.0,1.0
+683,2747,Shimin Kaikan,Shimin Kaikan (Nagoya),2.0,4.0,21607.0,21607.0,1.0
+684,2748,Town Hall,Tonhalle,57.0,12.0,21607.0,21607.0,1.0
+685,2749,Tonhalle,Town Hall,12.0,57.0,21607.0,21607.0,1.0
+686,2750,Beethovenhalle,Beethoven-Saal,7.0,1.0,21607.0,21607.0,1.0
+687,2751,Beethoven-Saal,Beethovenhalle,1.0,7.0,21607.0,21607.0,1.0
+688,2752,Shubert-Majestic Theatre,Shubert Theater,5.0,1.0,21607.0,21607.0,1.0
+689,2753,Shubert Theater,Shubert-Majestic Theatre,1.0,5.0,21607.0,21607.0,1.0
+690,2754,Memorial Hall,Memorial Auditorium,18.0,7.0,21607.0,21607.0,1.0
+691,2755,Memorial Auditorium,Memorial Hall,7.0,18.0,21607.0,21607.0,1.0
+692,2756,University Armory,University Armory Hall,1.0,1.0,21607.0,21607.0,1.0
+693,2757,University Armory Hall,University Armory,1.0,1.0,21607.0,21607.0,1.0
+694,2758,Park Theatre,Park Theater,4.0,1.0,21607.0,21607.0,1.0
+695,2759,Park Theater,Park Theatre,1.0,4.0,21607.0,21607.0,1.0
+696,2760,Bolshoi Hall,Bolshoi Theatre,13.0,4.0,21607.0,21607.0,1.0
+697,2761,Bolshoi Theatre,Bolshoi Hall,4.0,13.0,21607.0,21607.0,1.0
+698,2762,Metropolitan Theatre,Metropolitan Hall,3.0,1.0,21607.0,21607.0,1.0
+699,2763,Metropolitan Hall,Metropolitan Theatre,1.0,3.0,21607.0,21607.0,1.0
+700,2764,Metropolitan Opera House (39th street),Metropolitan Opera House (at Lincoln Center),233.0,1.0,21607.0,21607.0,1.0
+701,2765,Metropolitan Opera House (at Lincoln Center),Metropolitan Opera House (39th street),1.0,233.0,21607.0,21607.0,1.0
+702,2766,Performing Arts Center,Performing Arts Center (Tulsa),6.0,1.0,21607.0,21607.0,1.0
+703,2767,Performing Arts Center (Tulsa),Performing Arts Center,1.0,6.0,21607.0,21607.0,1.0
+704,2768,Festival Hall,Festival Theater,22.0,1.0,21607.0,21607.0,1.0
+705,2769,Festival Theater,Festival Hall,1.0,22.0,21607.0,21607.0,1.0
+706,2770,Miami Beach Auditorium,Miami Beach Theater,3.0,1.0,21607.0,21607.0,1.0
+707,2771,Miami Beach Theater,Miami Beach Auditorium,1.0,3.0,21607.0,21607.0,1.0
+708,2772,US Ambassador Residence,US Ambasador Residence,4.0,1.0,21607.0,21607.0,1.0
+709,2773,US Ambasador Residence,US Ambassador Residence,1.0,4.0,21607.0,21607.0,1.0
+710,2774,Philharmonic Hall,Philharmonie,1801.0,17.0,21607.0,21607.0,1.0
+711,2775,Philharmonie,Philharmonic Hall,17.0,1801.0,21607.0,21607.0,1.0
+712,2776,Stadthalle,Stadsteater,8.0,2.0,21607.0,21607.0,1.0
+713,2777,Stadsteater,Stadthalle,2.0,8.0,21607.0,21607.0,1.0
+714,2778,"Miller Theatre, Columbia University",Miller Auditorium,2.0,1.0,21607.0,21607.0,1.0
+715,2779,Miller Auditorium,"Miller Theatre, Columbia University",1.0,2.0,21607.0,21607.0,1.0
+716,2780,Eisenhower Park,Eisenhower Hall,13.0,1.0,21607.0,21607.0,1.0
+717,2781,Eisenhower Hall,Eisenhower Park,1.0,13.0,21607.0,21607.0,1.0
+718,2782,Poli Theater,Poli's Theatre,1.0,1.0,21607.0,21607.0,1.0
+719,2783,Poli's Theatre,Poli Theater,1.0,1.0,21607.0,21607.0,1.0
+720,2784,Municipal Auditorium,Municipal Theatre,30.0,2.0,21607.0,21607.0,1.0
+721,2785,Municipal Theatre,Municipal Auditorium,2.0,30.0,21607.0,21607.0,1.0
+722,2786,Carnegie Hall,Carnegie Chamber Music Hall at Carnegie Hall,6029.0,1.0,21607.0,21607.0,1.0
+723,2787,Carnegie Chamber Music Hall at Carnegie Hall,Carnegie Hall,1.0,6029.0,21607.0,21607.0,1.0
+724,2788,Queen Elisabeth Hall,Queen Elizabeth Theatre,1.0,1.0,21607.0,21607.0,1.0
+725,2789,Queen Elizabeth Theatre,Queen Elisabeth Hall,1.0,1.0,21607.0,21607.0,1.0
+726,2790,Music Hall,Musikverein,8.0,4.0,21607.0,21607.0,1.0
+727,2791,Musikverein,Music Hall,4.0,8.0,21607.0,21607.0,1.0
+728,2792,Engineering and Engineering Trades Programs,Engineering and Engineering trades Programs,777.0,522.0,41544.0,41544.0,1.0
+729,2793,Engineering and Engineering trades Programs,Engineering and Engineering Trades Programs,522.0,777.0,41544.0,41544.0,1.0
+730,2794,Violence against civilians,Violence Against Civilians,45021.0,21.0,165808.0,165808.0,1.0
+731,2795,Violence Against Civilians,Violence against civilians,21.0,45021.0,165808.0,165808.0,1.0
+732,2796,Battle-No change of territory,Battle-no change of territory,44005.0,16.0,165808.0,165808.0,1.0
+733,2797,Battle-no change of territory,Battle-No change of territory,16.0,44005.0,165808.0,165808.0,1.0
+734,2798,Strategic development,Strategic Development,10923.0,7.0,165808.0,165808.0,1.0
+735,2799,Strategic Development,Strategic development,7.0,10923.0,165808.0,165808.0,1.0
+736,2800,Remote violence,Remote Violence,10456.0,30.0,165808.0,165808.0,1.0
+737,2801,Remote Violence,Remote violence,30.0,10456.0,165808.0,165808.0,1.0
+738,2802,Euro,euro,121517.0,2818.0,320551.0,320551.0,1.0
+739,2803,euro,Euro,2818.0,121517.0,320551.0,320551.0,1.0
+740,2812,Tanzanian Shilling,Tanzania shilling,1128.0,630.0,320551.0,320551.0,1.0
+741,2813,Tanzania shilling,Tanzanian Shilling,630.0,1128.0,320551.0,320551.0,1.0
+742,2816,SP.DYN.LE00.in,SP.DYN.LE00.IN,96.0,19.0,463231.0,463231.0,1.0
+743,2817,SP.DYN.LE00.IN,SP.DYN.LE00.in,19.0,96.0,463231.0,463231.0,1.0
+744,2818,SH.ANM.CHLD.ZS,sh.ANM.CHLD.ZS,4070.0,1.0,463231.0,463231.0,1.0
+745,2819,sh.ANM.CHLD.ZS,SH.ANM.CHLD.ZS,1.0,4070.0,463231.0,463231.0,1.0
+746,2820,SH.STA.BFED.ZS,sh.STA.BFED.ZS,432.0,1.0,463231.0,463231.0,1.0
+747,2821,sh.STA.BFED.ZS,SH.STA.BFED.ZS,1.0,432.0,463231.0,463231.0,1.0
+748,2822,SP.DYN.CONU.ZS,sp.DYN.CONU.ZS,1265.0,3.0,463231.0,463231.0,1.0
+749,2823,sp.DYN.CONU.ZS,SP.DYN.CONU.ZS,3.0,1265.0,463231.0,463231.0,1.0
+750,2824,SH.MED.PHYS.ZS,sh.MED.PHYS.ZS,194.0,1.0,463231.0,463231.0,1.0
+751,2825,sh.MED.PHYS.ZS,SH.MED.PHYS.ZS,1.0,194.0,463231.0,463231.0,1.0
+752,2826,SP.REG.BRTH.ZS,sp.REG.BRTH.ZS,420.0,1.0,463231.0,463231.0,1.0
+753,2827,sp.REG.BRTH.ZS,SP.REG.BRTH.ZS,1.0,420.0,463231.0,463231.0,1.0
+754,2828,asl,asl-sign-languages,9.0,1.0,31212.0,31212.0,1.0
+755,2829,asl-sign-languages,asl,1.0,9.0,31212.0,31212.0,1.0
+756,2830,movies-in-movie-theaters,movies-in-movie-theatres,33.0,1.0,31212.0,31212.0,1.0
+757,2831,movies-in-movie-theatres,movies-in-movie-theaters,1.0,33.0,31212.0,31212.0,1.0
+758,2832,art,arts,329.0,63.0,31212.0,31212.0,1.0
+759,2833,arts,art,63.0,329.0,31212.0,31212.0,1.0
+760,2834,science-technology,science-and-technology,2.0,1.0,31212.0,31212.0,1.0
+761,2835,science-and-technology,science-technology,1.0,2.0,31212.0,31212.0,1.0
+762,2836,games,gaming,168.0,125.0,31212.0,31212.0,1.0
+763,2837,gaming,games,125.0,168.0,31212.0,31212.0,1.0
+764,2838,writing,write,311.0,2.0,31212.0,31212.0,1.0
+765,2839,write,writing,2.0,311.0,31212.0,31212.0,1.0
+766,2840,dancing,dance-dance-dance,477.0,4.0,31212.0,31212.0,1.0
+767,2841,dance-dance-dance,dancing,4.0,477.0,31212.0,31212.0,1.0
+768,2842,parents-of-teens,parents-of-teenagers,3.0,1.0,31212.0,31212.0,1.0
+769,2843,parents-of-teenagers,parents-of-teens,1.0,3.0,31212.0,31212.0,1.0
+770,2844,belly-dance,bellydance-dance-belly-dancing,8.0,1.0,31212.0,31212.0,1.0
+771,2845,bellydance-dance-belly-dancing,belly-dance,1.0,8.0,31212.0,31212.0,1.0
+772,2846,language,languages,413.0,10.0,31212.0,31212.0,1.0
+773,2847,languages,language,10.0,413.0,31212.0,31212.0,1.0
+774,2848,spirituality,spiritualism,916.0,62.0,31212.0,31212.0,1.0
+775,2849,spiritualism,spirituality,62.0,916.0,31212.0,31212.0,1.0
+776,2850,vietnamese-language-culture,vietnamese-language-cultural,5.0,1.0,31212.0,31212.0,1.0
+777,2851,vietnamese-language-cultural,vietnamese-language-culture,1.0,5.0,31212.0,31212.0,1.0
+778,2852,roleplaying-games-rpgs,role-playing-games-rpgs,47.0,18.0,31212.0,31212.0,1.0
+779,2853,role-playing-games-rpgs,roleplaying-games-rpgs,18.0,47.0,31212.0,31212.0,1.0
+780,2854,womens-business-networking,women-business-networking,215.0,23.0,31212.0,31212.0,1.0
+781,2855,women-business-networking,womens-business-networking,23.0,215.0,31212.0,31212.0,1.0
+782,2856,Euro,euro,12319.0,394.0,68023.0,68023.0,1.0
+783,2857,euro,Euro,394.0,12319.0,68023.0,68023.0,1.0
+784,2868,"Construction and Related Workers, All Other","Construction and Related Workers, All Other*",14.0,1.0,374362.0,374362.0,1.0
+785,2869,"Construction and Related Workers, All Other*","Construction and Related Workers, All Other",1.0,14.0,374362.0,374362.0,1.0
+786,2870,"Teachers and Instructors, All Other","Teachers and Instructors, All Other*",28.0,4.0,374362.0,374362.0,1.0
+787,2871,"Teachers and Instructors, All Other*","Teachers and Instructors, All Other",4.0,28.0,374362.0,374362.0,1.0
+788,2872,"Installation, Maintenance, and Repair Workers, All Other","Installation, Maintenance, and Repair Workers, All Other*",4.0,1.0,374362.0,374362.0,1.0
+789,2873,"Installation, Maintenance, and Repair Workers, All Other*","Installation, Maintenance, and Repair Workers, All Other",1.0,4.0,374362.0,374362.0,1.0
+790,2874,"Health Technologists and Technicians, All Other","Health Technologists and Technicians, All Other*",10.0,8.0,374362.0,374362.0,1.0
+791,2875,"Health Technologists and Technicians, All Other*","Health Technologists and Technicians, All Other",8.0,10.0,374362.0,374362.0,1.0
+792,2876,"Office and Administrative Support Workers, All Other","Office and Administrative Support Workers, All Other*",4.0,4.0,374362.0,374362.0,1.0
+793,2877,"Office and Administrative Support Workers, All Other*","Office and Administrative Support Workers, All Other",4.0,4.0,374362.0,374362.0,1.0
+794,2878,"Sales and Related Workers, All Other","Sales and Related Workers, All Other*",2.0,2.0,374362.0,374362.0,1.0
+795,2879,"Sales and Related Workers, All Other*","Sales and Related Workers, All Other",2.0,2.0,374362.0,374362.0,1.0
+796,2880,"Community and Social Service Specialists, All Other","Community and Social Service Specialists, All Other*",4.0,1.0,374362.0,374362.0,1.0
+797,2881,"Community and Social Service Specialists, All Other*","Community and Social Service Specialists, All Other",1.0,4.0,374362.0,374362.0,1.0
+798,2882,"Healthcare Practitioners and Technical Workers, All Other*","Healthcare Practitioners and Technical Workers, All Other",4.0,1.0,374362.0,374362.0,1.0
+799,2883,"Healthcare Practitioners and Technical Workers, All Other","Healthcare Practitioners and Technical Workers, All Other*",1.0,4.0,374362.0,374362.0,1.0
+800,2884,"Vocational Education Teachers, Postsecondary",Vocational Education Teachers Postsecondary,31.0,5.0,374362.0,374362.0,1.0
+801,2885,Vocational Education Teachers Postsecondary,"Vocational Education Teachers, Postsecondary",5.0,31.0,374362.0,374362.0,1.0
+802,2886,"Business Operations Specialists, All Other*","Business Operations Specialists, All Other",37.0,14.0,374362.0,374362.0,1.0
+803,2887,"Business Operations Specialists, All Other","Business Operations Specialists, All Other*",14.0,37.0,374362.0,374362.0,1.0
+804,2888,"Therapists, All Other*","Therapists, All Other",3.0,2.0,374362.0,374362.0,1.0
+805,2889,"Therapists, All Other","Therapists, All Other*",2.0,3.0,374362.0,374362.0,1.0
+806,2890,"Computer Occupations, All Other","Computer Occupations, All Other*",1554.0,66.0,374362.0,374362.0,1.0
+807,2891,"Computer Occupations, All Other*","Computer Occupations, All Other",66.0,1554.0,374362.0,374362.0,1.0
+808,2892,"Human Resources, Training, and Labor Relations Specialists, All Other*","Human Resources, Training, and Labor Relations Specialists, All Other",105.0,5.0,374362.0,374362.0,1.0
+809,2893,"Human Resources, Training, and Labor Relations Specialists, All Other","Human Resources, Training, and Labor Relations Specialists, All Other*",5.0,105.0,374362.0,374362.0,1.0
+810,2894,Y,y,16358.0,2260.0,158026.0,158026.0,1.0
+811,2895,y,Y,2260.0,16358.0,158026.0,158026.0,1.0
+812,2896,N,n,6295.0,877.0,158026.0,158026.0,1.0
+813,2897,n,N,877.0,6295.0,158026.0,158026.0,1.0
+814,2898,Lake,Lakes,1.0,1.0,2772.0,2772.0,1.0
+815,2899,Lakes,Lake,1.0,1.0,2772.0,2772.0,1.0
+816,2900,Centre-ouest,Centre-Ouest,1.0,1.0,2772.0,2772.0,1.0
+817,2901,Centre-Ouest,Centre-ouest,1.0,1.0,2772.0,2772.0,1.0
+818,2902,Centre-Nord,Centre-nord,1.0,1.0,2772.0,2772.0,1.0
+819,2903,Centre-nord,Centre-Nord,1.0,1.0,2772.0,2772.0,1.0
+820,2904,Sud-ouest,Sud-Ouest,2.0,1.0,2772.0,2772.0,1.0
+821,2905,Sud-Ouest,Sud-ouest,1.0,2.0,2772.0,2772.0,1.0
+822,2906,Centre-Est,Centre-est,2.0,1.0,2772.0,2772.0,1.0
+823,2907,Centre-est,Centre-Est,1.0,2.0,2772.0,2772.0,1.0
+824,2908,North,North West,4.0,1.0,2772.0,2772.0,1.0
+825,2909,North West,North,1.0,4.0,2772.0,2772.0,1.0
+826,2910,Year,yr,344323.0,19757.0,374362.0,374362.0,1.0
+827,2911,yr,Year,19757.0,344323.0,374362.0,374362.0,1.0
+828,2912,Hour,hr,7619.0,726.0,374362.0,374362.0,1.0
+829,2913,hr,Hour,726.0,7619.0,374362.0,374362.0,1.0
+830,2914,Week,wk,186.0,21.0,374362.0,374362.0,1.0
+831,2915,wk,Week,21.0,186.0,374362.0,374362.0,1.0
+832,2916,Month,mth,123.0,7.0,374362.0,374362.0,1.0
+833,2917,mth,Month,7.0,123.0,374362.0,374362.0,1.0
+834,2918,Bi-Weekly,bi,23.0,5.0,374362.0,374362.0,1.0
+835,2919,bi,Bi-Weekly,5.0,23.0,374362.0,374362.0,1.0
+836,2946,Euro,euro,11818.0,432.0,61626.0,61626.0,1.0
+837,2947,euro,Euro,432.0,11818.0,61626.0,61626.0,1.0
+838,2954,Tanzania shilling,Tanzanian Shilling,806.0,384.0,61626.0,61626.0,1.0
+839,2955,Tanzanian Shilling,Tanzania shilling,384.0,806.0,61626.0,61626.0,1.0
+840,2960,Lemnos,Limnos,1.0,1.0,150930.0,150930.0,1.0
+841,2961,Limnos,Lemnos,1.0,1.0,150930.0,150930.0,1.0
+842,2962,Pangeon,Pageon,25.0,4.0,150930.0,150930.0,1.0
+843,2963,Pageon,Pangeon,4.0,25.0,150930.0,150930.0,1.0
+844,2964,Südsteiermark,Südoststeiermark,64.0,57.0,150930.0,150930.0,1.0
+845,2965,Südoststeiermark,Südsteiermark,57.0,64.0,150930.0,150930.0,1.0
+846,2966,Alentejo,Alenteo,148.0,2.0,150930.0,150930.0,1.0
+847,2967,Alenteo,Alentejo,2.0,148.0,150930.0,150930.0,1.0
+848,2968,Marlborough,Martinborough,1655.0,261.0,150930.0,150930.0,1.0
+849,2969,Martinborough,Marlborough,261.0,1655.0,150930.0,150930.0,1.0
+850,2970,Waipara,Waipara Valley,103.0,26.0,150930.0,150930.0,1.0
+851,2971,Waipara Valley,Waipara,26.0,103.0,150930.0,150930.0,1.0
+852,2972,Tokaji,Tokaj,71.0,29.0,150930.0,150930.0,1.0
+853,2973,Tokaj,Tokaji,29.0,71.0,150930.0,150930.0,1.0
+854,2974,Ribatejo,Ribatejano,64.0,29.0,150930.0,150930.0,1.0
+855,2975,Ribatejano,Ribatejo,29.0,64.0,150930.0,150930.0,1.0
+856,2976,Central Otago,Central Otago-Marlborough,355.0,1.0,150930.0,150930.0,1.0
+857,2977,Central Otago-Marlborough,Central Otago,1.0,355.0,150930.0,150930.0,1.0
+858,2978,Transmontano,Transmontanas,3.0,2.0,150930.0,150930.0,1.0
+859,2979,Transmontanas,Transmontano,2.0,3.0,150930.0,150930.0,1.0
+860,2980,Halkidiki,Chalkidiki,20.0,3.0,150930.0,150930.0,1.0
+861,2981,Chalkidiki,Halkidiki,3.0,20.0,150930.0,150930.0,1.0
+862,2982,CALIFORNIA,CA,47699.0,39621.0,374362.0,374362.0,1.0
+863,2983,CA,CALIFORNIA,39621.0,47699.0,374362.0,374362.0,1.0
+864,2984,TEXAS,TX,24872.0,21231.0,374362.0,374362.0,1.0
+865,2985,TX,TEXAS,21231.0,24872.0,374362.0,374362.0,1.0
+866,2986,NEW JERSEY,NJ,16726.0,13702.0,374362.0,374362.0,1.0
+867,2987,NJ,NEW JERSEY,13702.0,16726.0,374362.0,374362.0,1.0
+868,2988,NEW YORK,NY,16089.0,13263.0,374362.0,374362.0,1.0
+869,2989,NY,NEW YORK,13263.0,16089.0,374362.0,374362.0,1.0
+870,2990,WASHINGTON,WA,8853.0,8318.0,374362.0,374362.0,1.0
+871,2991,WA,WASHINGTON,8318.0,8853.0,374362.0,374362.0,1.0
+872,2992,ILLINOIS,IL,8824.0,6720.0,374362.0,374362.0,1.0
+873,2993,IL,ILLINOIS,6720.0,8824.0,374362.0,374362.0,1.0
+874,2994,MASSACHUSETTS,MA,7070.0,5759.0,374362.0,374362.0,1.0
+875,2995,MA,MASSACHUSETTS,5759.0,7070.0,374362.0,374362.0,1.0
+876,2996,VIRGINIA,VA,6831.0,5794.0,374362.0,374362.0,1.0
+877,2997,VA,VIRGINIA,5794.0,6831.0,374362.0,374362.0,1.0
+878,2998,MICHIGAN,MI,6549.0,5229.0,374362.0,374362.0,1.0
+879,2999,MI,MICHIGAN,5229.0,6549.0,374362.0,374362.0,1.0
+880,3000,FLORIDA,FL,6358.0,5751.0,374362.0,374362.0,1.0
+881,3001,FL,FLORIDA,5751.0,6358.0,374362.0,374362.0,1.0
+882,3002,GA,GEORGIA,5974.0,5943.0,374362.0,374362.0,1.0
+883,3003,GEORGIA,GA,5943.0,5974.0,374362.0,374362.0,1.0
+884,3004,PENNSYLVANIA,PA,5270.0,3947.0,374362.0,374362.0,1.0
+885,3005,PA,PENNSYLVANIA,3947.0,5270.0,374362.0,374362.0,1.0
+886,3006,NC,NORTH CAROLINA,4378.0,3974.0,374362.0,374362.0,1.0
+887,3007,NORTH CAROLINA,NC,3974.0,4378.0,374362.0,374362.0,1.0
+888,3008,OHIO,OH,3831.0,2957.0,374362.0,374362.0,1.0
+889,3009,OH,OHIO,2957.0,3831.0,374362.0,374362.0,1.0
+890,3010,MARYLAND,MD,3391.0,2508.0,374362.0,374362.0,1.0
+891,3011,MD,MARYLAND,2508.0,3391.0,374362.0,374362.0,1.0
+892,3012,OREGON,OR,2723.0,1630.0,374362.0,374362.0,1.0
+893,3013,OR,OREGON,1630.0,2723.0,374362.0,374362.0,1.0
+894,3014,ARIZONA,AZ,2454.0,1881.0,374362.0,374362.0,1.0
+895,3015,AZ,ARIZONA,1881.0,2454.0,374362.0,374362.0,1.0
+896,3016,CONNECTICUT,CT,1977.0,1612.0,374362.0,374362.0,1.0
+897,3017,CT,CONNECTICUT,1612.0,1977.0,374362.0,374362.0,1.0
+898,3018,WI,WISCONSIN,1812.0,1590.0,374362.0,374362.0,1.0
+899,3019,WISCONSIN,WI,1590.0,1812.0,374362.0,374362.0,1.0
+900,3020,MINNESOTA,MN,1656.0,1405.0,374362.0,374362.0,1.0
+901,3021,MN,MINNESOTA,1405.0,1656.0,374362.0,374362.0,1.0
+902,3022,COLORADO,CO,1647.0,1381.0,374362.0,374362.0,1.0
+903,3023,CO,COLORADO,1381.0,1647.0,374362.0,374362.0,1.0
+904,3024,MISSOURI,MO,1488.0,1481.0,374362.0,374362.0,1.0
+905,3025,MO,MISSOURI,1481.0,1488.0,374362.0,374362.0,1.0
+906,3026,SC,SOUTH CAROLINA,1452.0,1397.0,374362.0,374362.0,1.0
+907,3027,SOUTH CAROLINA,SC,1397.0,1452.0,374362.0,374362.0,1.0
+908,3028,INDIANA,IN,1439.0,1368.0,374362.0,374362.0,1.0
+909,3029,IN,INDIANA,1368.0,1439.0,374362.0,374362.0,1.0
+910,3030,ALABAMA,AL,1432.0,845.0,374362.0,374362.0,1.0
+911,3031,AL,ALABAMA,845.0,1432.0,374362.0,374362.0,1.0
+912,3032,DISTRICT OF COLUMBIA,DC,1098.0,745.0,374362.0,374362.0,1.0
+913,3033,DC,DISTRICT OF COLUMBIA,745.0,1098.0,374362.0,374362.0,1.0
+914,3034,TENNESSEE,TN,1046.0,1039.0,374362.0,374362.0,1.0
+915,3035,TN,TENNESSEE,1039.0,1046.0,374362.0,374362.0,1.0
+916,3036,IOWA,IA,917.0,705.0,374362.0,374362.0,1.0
+917,3037,IA,IOWA,705.0,917.0,374362.0,374362.0,1.0
+918,3038,KENTUCKY,KY,916.0,709.0,374362.0,374362.0,1.0
+919,3039,KY,KENTUCKY,709.0,916.0,374362.0,374362.0,1.0
+920,3040,KANSAS,KS,913.0,571.0,374362.0,374362.0,1.0
+921,3041,KS,KANSAS,571.0,913.0,374362.0,374362.0,1.0
+922,3042,DE,DELAWARE,868.0,831.0,374362.0,374362.0,1.0
+923,3043,DELAWARE,DE,831.0,868.0,374362.0,374362.0,1.0
+924,3044,UTAH,UT,760.0,597.0,374362.0,374362.0,1.0
+925,3045,UT,UTAH,597.0,760.0,374362.0,374362.0,1.0
+926,3046,AR,ARKANSAS,759.0,533.0,374362.0,374362.0,1.0
+927,3047,ARKANSAS,AR,533.0,759.0,374362.0,374362.0,1.0
+928,3048,LOUISIANA,LA,721.0,574.0,374362.0,374362.0,1.0
+929,3049,LA,LOUISIANA,574.0,721.0,374362.0,374362.0,1.0
+930,3050,NEBRASKA,NE,656.0,580.0,374362.0,374362.0,1.0
+931,3051,NE,NEBRASKA,580.0,656.0,374362.0,374362.0,1.0
+932,3052,NEW HAMPSHIRE,NH,514.0,373.0,374362.0,374362.0,1.0
+933,3053,NH,NEW HAMPSHIRE,373.0,514.0,374362.0,374362.0,1.0
+934,3054,OKLAHOMA,OK,502.0,491.0,374362.0,374362.0,1.0
+935,3055,OK,OKLAHOMA,491.0,502.0,374362.0,374362.0,1.0
+936,3056,MISSISSIPPI,MS,488.0,223.0,374362.0,374362.0,1.0
+937,3057,MS,MISSISSIPPI,223.0,488.0,374362.0,374362.0,1.0
+938,3058,NEW MEXICO,NM,451.0,366.0,374362.0,374362.0,1.0
+939,3059,NM,NEW MEXICO,366.0,451.0,374362.0,374362.0,1.0
+940,3060,NEVADA,NV,425.0,327.0,374362.0,374362.0,1.0
+941,3061,NV,NEVADA,327.0,425.0,374362.0,374362.0,1.0
+942,3062,RHODE ISLAND,RI,329.0,280.0,374362.0,374362.0,1.0
+943,3063,RI,RHODE ISLAND,280.0,329.0,374362.0,374362.0,1.0
+944,3064,VERMONT,VT,270.0,163.0,374362.0,374362.0,1.0
+945,3065,VT,VERMONT,163.0,270.0,374362.0,374362.0,1.0
+946,3066,IDAHO,ID,264.0,260.0,374362.0,374362.0,1.0
+947,3067,ID,IDAHO,260.0,264.0,374362.0,374362.0,1.0
+948,3068,NORTH DAKOTA,ND,248.0,186.0,374362.0,374362.0,1.0
+949,3069,ND,NORTH DAKOTA,186.0,248.0,374362.0,374362.0,1.0
+950,3070,MAINE,ME,247.0,148.0,374362.0,374362.0,1.0
+951,3071,ME,MAINE,148.0,247.0,374362.0,374362.0,1.0
+952,3072,GU,GUAM,229.0,138.0,374362.0,374362.0,1.0
+953,3073,GUAM,GU,138.0,229.0,374362.0,374362.0,1.0
+954,3074,WEST VIRGINIA,WV,211.0,146.0,374362.0,374362.0,1.0
+955,3075,WV,WEST VIRGINIA,146.0,211.0,374362.0,374362.0,1.0
+956,3076,HAWAII,HI,177.0,139.0,374362.0,374362.0,1.0
+957,3077,HI,HAWAII,139.0,177.0,374362.0,374362.0,1.0
+958,3078,SOUTH DAKOTA,SD,150.0,111.0,374362.0,374362.0,1.0
+959,3079,SD,SOUTH DAKOTA,111.0,150.0,374362.0,374362.0,1.0
+960,3080,PR,PUERTO RICO,110.0,103.0,374362.0,374362.0,1.0
+961,3081,PUERTO RICO,PR,103.0,110.0,374362.0,374362.0,1.0
+962,3082,MT,MONTANA,86.0,73.0,374362.0,374362.0,1.0
+963,3083,MONTANA,MT,73.0,86.0,374362.0,374362.0,1.0
+964,3084,WYOMING,WY,71.0,47.0,374362.0,374362.0,1.0
+965,3085,WY,WYOMING,47.0,71.0,374362.0,374362.0,1.0
+966,3086,ALASKA,AK,64.0,58.0,374362.0,374362.0,1.0
+967,3087,AK,ALASKA,58.0,64.0,374362.0,374362.0,1.0
+968,3088,VIRGIN ISLANDS,VI,53.0,18.0,374362.0,374362.0,1.0
+969,3089,VI,VIRGIN ISLANDS,18.0,53.0,374362.0,374362.0,1.0
+970,3090,MP,NORTHERN MARIANA ISLANDS,49.0,23.0,374362.0,374362.0,1.0
+971,3091,NORTHERN MARIANA ISLANDS,MP,23.0,49.0,374362.0,374362.0,1.0
+972,3092,MARSHALL ISLANDS,MH,6.0,1.0,374362.0,374362.0,1.0
+973,3093,MH,MARSHALL ISLANDS,1.0,6.0,374362.0,374362.0,1.0
+974,3104,Durham Lead,DURHAM LEAD,217.0,4.0,158026.0,158026.0,1.0
+975,3105,DURHAM LEAD,Durham Lead,4.0,217.0,158026.0,158026.0,1.0
+976,3120,SMYTHES CREEK,Smythes Creek,318.0,164.0,158026.0,158026.0,1.0
+977,3121,Smythes Creek,SMYTHES CREEK,164.0,318.0,158026.0,158026.0,1.0
+978,3128,F,f,8270.0,1578.0,158026.0,158026.0,1.0
+979,3129,f,F,1578.0,8270.0,158026.0,158026.0,1.0
+980,3130,M,m,7766.0,1516.0,158026.0,158026.0,1.0
+981,3131,m,M,1516.0,7766.0,158026.0,158026.0,1.0
+982,3132,U,u,37.0,13.0,158026.0,158026.0,1.0
+983,3133,u,U,13.0,37.0,158026.0,158026.0,1.0
+984,3134,West Midlands,West Midlands (Region),1934.0,441.0,50000.0,50000.0,1.0
+985,3135,West Midlands (Region),West Midlands,441.0,1934.0,50000.0,50000.0,1.0
+986,3136,Isle of Wight,Isle Of Wight,5.0,2.0,50000.0,50000.0,1.0
+987,3137,Isle Of Wight,Isle of Wight,2.0,5.0,50000.0,50000.0,1.0
+988,3138,Inverness-Shire,Inverness-shire,58.0,22.0,50000.0,50000.0,1.0
+989,3139,Inverness-shire,Inverness-Shire,22.0,58.0,50000.0,50000.0,1.0
+990,3140,Tyne And Wear,Tyne and Wear,386.0,147.0,50000.0,50000.0,1.0
+991,3141,Tyne and Wear,Tyne And Wear,147.0,386.0,50000.0,50000.0,1.0
+992,3142,London,City of London,5900.0,42.0,50000.0,50000.0,1.0
+993,3143,City of London,London,42.0,5900.0,50000.0,50000.0,1.0
+994,3144,Aberdeenshire,Aberdeen,187.0,3.0,50000.0,50000.0,1.0
+995,3145,Aberdeen,Aberdeenshire,3.0,187.0,50000.0,50000.0,1.0
+996,3146,Ross-shire,Ross-Shire,26.0,9.0,50000.0,50000.0,1.0
+997,3147,Ross-Shire,Ross-shire,9.0,26.0,50000.0,50000.0,1.0
+998,3164,American  Pit Bull Terrier,American Pit Bull Terrier,5.0,2.0,82545.0,82545.0,1.0
+999,3165,American Pit Bull Terrier,American  Pit Bull Terrier,2.0,5.0,82545.0,82545.0,1.0
+1000,3166,American Bulldog,American Bull Dog,50.0,35.0,82545.0,82545.0,1.0
+1001,3167,American Bull Dog,American Bulldog,35.0,50.0,82545.0,82545.0,1.0
+1002,3170,Anatolian Shepherd Dog,Anatolian Shephard Dog,2.0,1.0,82545.0,82545.0,1.0
+1003,3171,Anatolian Shephard Dog,Anatolian Shepherd Dog,1.0,2.0,82545.0,82545.0,1.0
+1004,3172,Anotolian Shepherd,Anatolian Shepherd,2.0,1.0,82545.0,82545.0,1.0
+1005,3173,Anatolian Shepherd,Anotolian Shepherd,1.0,2.0,82545.0,82545.0,1.0
+1006,3180,Australian Kelpie Cross,AUSTRALIAN KELPIE CROSS,90.0,11.0,82545.0,82545.0,1.0
+1007,3181,AUSTRALIAN KELPIE CROSS,Australian Kelpie Cross,11.0,90.0,82545.0,82545.0,1.0
+1008,3190,Australian Silky Terrier Cross,AUSTRALIAN SILKY TERRIER CROSS,8.0,3.0,82545.0,82545.0,1.0
+1009,3191,AUSTRALIAN SILKY TERRIER CROSS,Australian Silky Terrier Cross,3.0,8.0,82545.0,82545.0,1.0
+1010,3198,Australian Terrier Cross,AUSTRALIAN TERRIER CROSS,25.0,1.0,82545.0,82545.0,1.0
+1011,3199,AUSTRALIAN TERRIER CROSS,Australian Terrier Cross,1.0,25.0,82545.0,82545.0,1.0
+1012,3212,Beagle Cross,BEAGLE CROSS,26.0,5.0,82545.0,82545.0,1.0
+1013,3213,BEAGLE CROSS,Beagle Cross,5.0,26.0,82545.0,82545.0,1.0
+1014,3234,Bichon Frise Cross,BICHON FRISE CROSS,16.0,2.0,82545.0,82545.0,1.0
+1015,3235,BICHON FRISE CROSS,Bichon Frise Cross,2.0,16.0,82545.0,82545.0,1.0
+1016,3242,Border Collie Cross,BORDER COLLIE CROSS,53.0,7.0,82545.0,82545.0,1.0
+1017,3243,BORDER COLLIE CROSS,Border Collie Cross,7.0,53.0,82545.0,82545.0,1.0
+1018,3258,Bouvier des Flanders,Bouvier Des Flandres,2.0,2.0,82545.0,82545.0,1.0
+1019,3259,Bouvier Des Flandres,Bouvier des Flanders,2.0,2.0,82545.0,82545.0,1.0
+1020,3262,Boxer Cross,BOXER CROSS,4.0,2.0,82545.0,82545.0,1.0
+1021,3263,BOXER CROSS,Boxer Cross,2.0,4.0,82545.0,82545.0,1.0
+1022,3278,Bullmastiff X,Bull Mastiff X,92.0,52.0,82545.0,82545.0,1.0
+1023,3279,Bull Mastiff X,Bullmastiff X,52.0,92.0,82545.0,82545.0,1.0
+1024,3284,Bull Terrier Cross,BULL TERRIER CROSS,4.0,1.0,82545.0,82545.0,1.0
+1025,3285,BULL TERRIER CROSS,Bull Terrier Cross,1.0,4.0,82545.0,82545.0,1.0
+1026,3300,Cavalier King Charles Spaniel Cross,CAVALIER KING CHARLES SPANIEL CROSS,165.0,21.0,82545.0,82545.0,1.0
+1027,3301,CAVALIER KING CHARLES SPANIEL CROSS,Cavalier King Charles Spaniel Cross,21.0,165.0,82545.0,82545.0,1.0
+1028,3310,Chihuahua - Long Haired,Chihuahua Long Haired,12.0,7.0,82545.0,82545.0,1.0
+1029,3311,Chihuahua Long Haired,Chihuahua - Long Haired,7.0,12.0,82545.0,82545.0,1.0
+1030,3312,Chihuahua Cross,CHIHUAHUA CROSS,42.0,5.0,82545.0,82545.0,1.0
+1031,3313,CHIHUAHUA CROSS,Chihuahua Cross,5.0,42.0,82545.0,82545.0,1.0
+1032,3330,Cocker Spaniel Cross,COCKER SPANIEL CROSS,127.0,13.0,82545.0,82545.0,1.0
+1033,3331,COCKER SPANIEL CROSS,Cocker Spaniel Cross,13.0,127.0,82545.0,82545.0,1.0
+1034,3334,Collie,Coolie,16.0,15.0,82545.0,82545.0,1.0
+1035,3335,Coolie,Collie,15.0,16.0,82545.0,82545.0,1.0
+1036,3340,Collie Rough Cross,COLLIE (ROUGH) CROSS,4.0,1.0,82545.0,82545.0,1.0
+1037,3341,COLLIE (ROUGH) CROSS,Collie Rough Cross,1.0,4.0,82545.0,82545.0,1.0
+1038,3344,Collie X,Coolie X,24.0,12.0,82545.0,82545.0,1.0
+1039,3345,Coolie X,Collie X,12.0,24.0,82545.0,82545.0,1.0
+1040,3348,Cross Breed (Unknown),CROSS BREED UNKNOWN,2.0,2.0,82545.0,82545.0,1.0
+1041,3349,CROSS BREED UNKNOWN,Cross Breed (Unknown),2.0,2.0,82545.0,82545.0,1.0
+1042,3350,Curly Coated Retriever,Curly Coat Retriever,26.0,13.0,82545.0,82545.0,1.0
+1043,3351,Curly Coat Retriever,Curly Coated Retriever,13.0,26.0,82545.0,82545.0,1.0
+1044,3356,Dachshund (Miniature),Dachshund - Miniature,53.0,45.0,82545.0,82545.0,1.0
+1045,3357,Dachshund - Miniature,Dachshund (Miniature),45.0,53.0,82545.0,82545.0,1.0
+1046,3358,Dachshund Cross,DACHSHUND CROSS,3.0,1.0,82545.0,82545.0,1.0
+1047,3359,DACHSHUND CROSS,Dachshund Cross,1.0,3.0,82545.0,82545.0,1.0
+1048,3362,Dalmatian,Dalmation,128.0,116.0,82545.0,82545.0,1.0
+1049,3363,Dalmation,Dalmatian,116.0,128.0,82545.0,82545.0,1.0
+1050,3364,Dalmation X,Dalmatian X,27.0,26.0,82545.0,82545.0,1.0
+1051,3365,Dalmatian X,Dalmation X,26.0,27.0,82545.0,82545.0,1.0
+1052,3372,Dobermann,Doberman,103.0,73.0,82545.0,82545.0,1.0
+1053,3373,Doberman,Dobermann,73.0,103.0,82545.0,82545.0,1.0
+1054,3374,Dobermann X,Doberman X,35.0,20.0,82545.0,82545.0,1.0
+1055,3375,Doberman X,Dobermann X,20.0,35.0,82545.0,82545.0,1.0
+1056,3376,Dogue De Bordeaux,Dogue de Bordeaux,32.0,13.0,82545.0,82545.0,1.0
+1057,3377,Dogue de Bordeaux,Dogue De Bordeaux,13.0,32.0,82545.0,82545.0,1.0
+1058,3378,Dogue De Bordeaux X,Dogue de Bordeaux X,11.0,4.0,82545.0,82545.0,1.0
+1059,3379,Dogue de Bordeaux X,Dogue De Bordeaux X,4.0,11.0,82545.0,82545.0,1.0
+1060,3402,Flatcoated Retriever,Flat-coated Retriever,9.0,7.0,82545.0,82545.0,1.0
+1061,3403,Flat-coated Retriever,Flatcoated Retriever,7.0,9.0,82545.0,82545.0,1.0
+1062,3408,Fox Terrier (Smooth) X,Fox Terrier (Smooth)  X,254.0,174.0,82545.0,82545.0,1.0
+1063,3409,Fox Terrier (Smooth)  X,Fox Terrier (Smooth) X,174.0,254.0,82545.0,82545.0,1.0
+1064,3410,Fox Terrier Wire,Fox Terrier (Wire),22.0,12.0,82545.0,82545.0,1.0
+1065,3411,Fox Terrier (Wire),Fox Terrier Wire,12.0,22.0,82545.0,82545.0,1.0
+1066,3416,French Bulldog,French Bull Dog,51.0,32.0,82545.0,82545.0,1.0
+1067,3417,French Bull Dog,French Bulldog,32.0,51.0,82545.0,82545.0,1.0
+1068,3418,French Bull Dog X,French Bulldog X,5.0,4.0,82545.0,82545.0,1.0
+1069,3419,French Bulldog X,French Bull Dog X,4.0,5.0,82545.0,82545.0,1.0
+1070,3420,German Coolie,German Cooly,11.0,9.0,82545.0,82545.0,1.0
+1071,3421,German Cooly,German Coolie,9.0,11.0,82545.0,82545.0,1.0
+1072,3428,German Shepherd Dog Cross,GERMAN SHEPHERD DOG CROSS,16.0,3.0,82545.0,82545.0,1.0
+1073,3429,GERMAN SHEPHERD DOG CROSS,German Shepherd Dog Cross,3.0,16.0,82545.0,82545.0,1.0
+1074,3442,Golden Retriever Cross,GOLDEN RETRIEVER CROSS,64.0,1.0,82545.0,82545.0,1.0
+1075,3443,GOLDEN RETRIEVER CROSS,Golden Retriever Cross,1.0,64.0,82545.0,82545.0,1.0
+1076,3456,Griffin Bruxellois,Griffon Bruxellois,15.0,4.0,82545.0,82545.0,1.0
+1077,3457,Griffon Bruxellois,Griffin Bruxellois,4.0,15.0,82545.0,82545.0,1.0
+1078,3458,Griffon Bruxellois X,Griffin Bruxellois X,4.0,3.0,82545.0,82545.0,1.0
+1079,3459,Griffin Bruxellois X,Griffon Bruxellois X,3.0,4.0,82545.0,82545.0,1.0
+1080,3492,Jack Russell Terrier Cross,JACK RUSSELL TERRIER CROSS,91.0,10.0,82545.0,82545.0,1.0
+1081,3493,JACK RUSSELL TERRIER CROSS,Jack Russell Terrier Cross,10.0,91.0,82545.0,82545.0,1.0
+1082,3494,Jack Russell Terrier X,Jack Russell TerrierX,902.0,763.0,82545.0,82545.0,1.0
+1083,3495,Jack Russell TerrierX,Jack Russell Terrier X,763.0,902.0,82545.0,82545.0,1.0
+1084,3512,King Charles Spaniel Cross,KING CHARLES SPANIEL CROSS,6.0,1.0,82545.0,82545.0,1.0
+1085,3513,KING CHARLES SPANIEL CROSS,King Charles Spaniel Cross,1.0,6.0,82545.0,82545.0,1.0
+1086,3522,Labrador Retriever Cross,LABRADOR RETRIEVER CROSS,167.0,13.0,82545.0,82545.0,1.0
+1087,3523,LABRADOR RETRIEVER CROSS,Labrador Retriever Cross,13.0,167.0,82545.0,82545.0,1.0
+1088,3534,Lhasa Apso Cross,LHASA APSO CROSS,14.0,3.0,82545.0,82545.0,1.0
+1089,3535,LHASA APSO CROSS,Lhasa Apso Cross,3.0,14.0,82545.0,82545.0,1.0
+1090,3538,Lowchen,LOWCHEN,2.0,1.0,82545.0,82545.0,1.0
+1091,3539,LOWCHEN,Lowchen,1.0,2.0,82545.0,82545.0,1.0
+1092,3546,Maltese Cross,MALTESE CROSS,561.0,98.0,82545.0,82545.0,1.0
+1093,3547,MALTESE CROSS,Maltese Cross,98.0,561.0,82545.0,82545.0,1.0
+1094,3552,Maremma Sheep Dog,Maremma Sheepdog,60.0,52.0,82545.0,82545.0,1.0
+1095,3553,Maremma Sheepdog,Maremma Sheep Dog,52.0,60.0,82545.0,82545.0,1.0
+1096,3554,Maremma Sheep Dog X,Maremma Sheepdog X,18.0,8.0,82545.0,82545.0,1.0
+1097,3555,Maremma Sheepdog X,Maremma Sheep Dog X,8.0,18.0,82545.0,82545.0,1.0
+1098,3566,Musterlander,Munsterlander,8.0,6.0,82545.0,82545.0,1.0
+1099,3567,Munsterlander,Musterlander,6.0,8.0,82545.0,82545.0,1.0
+1100,3568,Neapolitan Mastiff,Neopolitan Mastiff,6.0,3.0,82545.0,82545.0,1.0
+1101,3569,Neopolitan Mastiff,Neapolitan Mastiff,3.0,6.0,82545.0,82545.0,1.0
+1102,3570,Neapolitan Mastiff X,Neopolitan Mastiff X,5.0,2.0,82545.0,82545.0,1.0
+1103,3571,Neopolitan Mastiff X,Neapolitan Mastiff X,2.0,5.0,82545.0,82545.0,1.0
+1104,3580,Norwegian Elk Hound,Norwegian Elkhound,6.0,6.0,82545.0,82545.0,1.0
+1105,3581,Norwegian Elkhound,Norwegian Elk Hound,6.0,6.0,82545.0,82545.0,1.0
+1106,3584,Old English Sheepdog,Old English Sheep Dog,18.0,10.0,82545.0,82545.0,1.0
+1107,3585,Old English Sheep Dog,Old English Sheepdog,10.0,18.0,82545.0,82545.0,1.0
+1108,3588,PAPILLON  CROSS,Papillon Cross,4.0,2.0,82545.0,82545.0,1.0
+1109,3589,Papillon Cross,PAPILLON  CROSS,2.0,4.0,82545.0,82545.0,1.0
+1110,3598,Petit basset Griffon Vendeen,Petit Basset Griffon Vendeen,3.0,2.0,82545.0,82545.0,1.0
+1111,3599,Petit Basset Griffon Vendeen,Petit basset Griffon Vendeen,2.0,3.0,82545.0,82545.0,1.0
+1112,3600,Pharaoh Hound,Pharoah Hound,1.0,1.0,82545.0,82545.0,1.0
+1113,3601,Pharoah Hound,Pharaoh Hound,1.0,1.0,82545.0,82545.0,1.0
+1114,3610,Pomeranian Cross,POMERANIAN CROSS,24.0,6.0,82545.0,82545.0,1.0
+1115,3611,POMERANIAN CROSS,Pomeranian Cross,6.0,24.0,82545.0,82545.0,1.0
+1116,3616,Poodle (Miniature),Poodle Miniature,121.0,71.0,82545.0,82545.0,1.0
+1117,3617,Poodle Miniature,Poodle (Miniature),71.0,121.0,82545.0,82545.0,1.0
+1118,3618,Poodle (Standard),Poodle Standard,162.0,48.0,82545.0,82545.0,1.0
+1119,3619,Poodle Standard,Poodle (Standard),48.0,162.0,82545.0,82545.0,1.0
+1120,3620,Poodle (Toy),Poodle - Toy,205.0,120.0,82545.0,82545.0,1.0
+1121,3621,Poodle - Toy,Poodle (Toy),120.0,205.0,82545.0,82545.0,1.0
+1122,3624,Poodle (Standard) X,Poodle Standard X,451.0,1.0,82545.0,82545.0,1.0
+1123,3625,Poodle Standard X,Poodle (Standard) X,1.0,451.0,82545.0,82545.0,1.0
+1124,3628,Poodle Standard Cross,POODLE STANDARD CROSS,34.0,7.0,82545.0,82545.0,1.0
+1125,3629,POODLE STANDARD CROSS,Poodle Standard Cross,7.0,34.0,82545.0,82545.0,1.0
+1126,3630,Poodle Toy Cross,POODLE TOY CROSS,21.0,4.0,82545.0,82545.0,1.0
+1127,3631,POODLE TOY CROSS,Poodle Toy Cross,4.0,21.0,82545.0,82545.0,1.0
+1128,3632,Portuguese Water Dog,Portugese Water Dog,5.0,4.0,82545.0,82545.0,1.0
+1129,3633,Portugese Water Dog,Portuguese Water Dog,4.0,5.0,82545.0,82545.0,1.0
+1130,3636,Pug Cross,PUG CROSS,23.0,7.0,82545.0,82545.0,1.0
+1131,3637,PUG CROSS,Pug Cross,7.0,23.0,82545.0,82545.0,1.0
+1132,3652,Rhodesian Ridgeback Cross,RHODESIAN RIDGEBACK CROSS,13.0,5.0,82545.0,82545.0,1.0
+1133,3653,RHODESIAN RIDGEBACK CROSS,Rhodesian Ridgeback Cross,5.0,13.0,82545.0,82545.0,1.0
+1134,3658,Rottweiler Cross,ROTTWEILER CROSS,13.0,1.0,82545.0,82545.0,1.0
+1135,3659,ROTTWEILER CROSS,Rottweiler Cross,1.0,13.0,82545.0,82545.0,1.0
+1136,3668,Samoyed Cross,SAMOYED CROSS,4.0,2.0,82545.0,82545.0,1.0
+1137,3669,SAMOYED CROSS,Samoyed Cross,2.0,4.0,82545.0,82545.0,1.0
+1138,3678,Schnauzer - Miniature,Schnauzer (Miniature),85.0,66.0,82545.0,82545.0,1.0
+1139,3679,Schnauzer (Miniature),Schnauzer - Miniature,66.0,85.0,82545.0,82545.0,1.0
+1140,3680,Schnauzer (Giant),SCHNAUZER GIANT,3.0,1.0,82545.0,82545.0,1.0
+1141,3681,SCHNAUZER GIANT,Schnauzer (Giant),1.0,3.0,82545.0,82545.0,1.0
+1142,3682,Schnauzer Cross,SCHNAUZER CROSS,23.0,8.0,82545.0,82545.0,1.0
+1143,3683,SCHNAUZER CROSS,Schnauzer Cross,8.0,23.0,82545.0,82545.0,1.0
+1144,3698,Shetland Sheep Dog,Shetland Sheepdog,91.0,49.0,82545.0,82545.0,1.0
+1145,3699,Shetland Sheepdog,Shetland Sheep Dog,49.0,91.0,82545.0,82545.0,1.0
+1146,3700,Shetland Sheep Dog X,Shetland Sheepdog X,10.0,4.0,82545.0,82545.0,1.0
+1147,3701,Shetland Sheepdog X,Shetland Sheep Dog X,4.0,10.0,82545.0,82545.0,1.0
+1148,3708,Shih-Tzu Cross,SHIH TZU CROSS,54.0,12.0,82545.0,82545.0,1.0
+1149,3709,SHIH TZU CROSS,Shih-Tzu Cross,12.0,54.0,82545.0,82545.0,1.0
+1150,3716,Skye Terrier,SKYE TERRIER,8.0,1.0,82545.0,82545.0,1.0
+1151,3717,SKYE TERRIER,Skye Terrier,1.0,8.0,82545.0,82545.0,1.0
+1152,3720,Soft Coat Wheaten Terrier,SOFT COATED WHEATON TERRIER,11.0,7.0,82545.0,82545.0,1.0
+1153,3721,SOFT COATED WHEATON TERRIER,Soft Coat Wheaten Terrier,7.0,11.0,82545.0,82545.0,1.0
+1154,3730,St. Bernard,St Bernard,12.0,9.0,82545.0,82545.0,1.0
+1155,3731,St Bernard,St. Bernard,9.0,12.0,82545.0,82545.0,1.0
+1156,3732,St Bernard X,St. Bernard X,3.0,1.0,82545.0,82545.0,1.0
+1157,3733,St. Bernard X,St Bernard X,1.0,3.0,82545.0,82545.0,1.0
+1158,3736,Staffordshire Bull Terrier Cross,STAFFORDSHIRE BULL TERRIER CROSS,42.0,7.0,82545.0,82545.0,1.0
+1159,3737,STAFFORDSHIRE BULL TERRIER CROSS,Staffordshire Bull Terrier Cross,7.0,42.0,82545.0,82545.0,1.0
+1160,3742,Staghound,Stag Hound,5.0,4.0,82545.0,82545.0,1.0
+1161,3743,Stag Hound,Staghound,4.0,5.0,82545.0,82545.0,1.0
+1162,3772,Weimeraner,WEIMERANER,35.0,4.0,82545.0,82545.0,1.0
+1163,3773,WEIMERANER,Weimeraner,4.0,35.0,82545.0,82545.0,1.0
+1164,3774,WELSH CORGI,Welsh Corgi,2.0,2.0,82545.0,82545.0,1.0
+1165,3775,Welsh Corgi,WELSH CORGI,2.0,2.0,82545.0,82545.0,1.0
+1166,3776,Welsh Corgi  X (Cardigan),Welsh Corgi (Cardigan) X,9.0,8.0,82545.0,82545.0,1.0
+1167,3777,Welsh Corgi (Cardigan) X,Welsh Corgi  X (Cardigan),8.0,9.0,82545.0,82545.0,1.0
+1168,3778,Welsh Corgi (Cardigan),Welsh Corgi Cardigan,9.0,5.0,82545.0,82545.0,1.0
+1169,3779,Welsh Corgi Cardigan,Welsh Corgi (Cardigan),5.0,9.0,82545.0,82545.0,1.0
+1170,3790,West Highland White Terrier Cross,WEST HIGHLAND WHITE TERRIER CROSS,24.0,4.0,82545.0,82545.0,1.0
+1171,3791,WEST HIGHLAND WHITE TERRIER CROSS,West Highland White Terrier Cross,4.0,24.0,82545.0,82545.0,1.0
+1172,3798,White Swiss Shepherd,White Swiss Shepard,6.0,1.0,82545.0,82545.0,1.0
+1173,3799,White Swiss Shepard,White Swiss Shepherd,1.0,6.0,82545.0,82545.0,1.0
+1174,3800,Wirehaired Terrier,Wire Hair Terrier,4.0,3.0,82545.0,82545.0,1.0
+1175,3801,Wire Hair Terrier,Wirehaired Terrier,3.0,4.0,82545.0,82545.0,1.0
+1176,3806,YORKSHIRE TERRIER CROSS,Yorkshire Terrier Cross,1.0,1.0,82545.0,82545.0,1.0
+1177,3807,Yorkshire Terrier Cross,YORKSHIRE TERRIER CROSS,1.0,1.0,82545.0,82545.0,1.0
+1178,3810,AZE,aze,4495.0,14.0,463231.0,463231.0,1.0
+1179,3811,aze,AZE,14.0,4495.0,463231.0,463231.0,1.0
+1180,3812,BDI,bdi,1620.0,5.0,463231.0,463231.0,1.0
+1181,3813,bdi,BDI,5.0,1620.0,463231.0,463231.0,1.0
+1182,3814,BFA,bfa,1586.0,14.0,463231.0,463231.0,1.0
+1183,3815,bfa,BFA,14.0,1586.0,463231.0,463231.0,1.0
+1184,3816,TZA,tza,4024.0,14.0,463231.0,463231.0,1.0
+1185,3817,tza,TZA,14.0,4024.0,463231.0,463231.0,1.0
+1186,3818,GEO,geo,3939.0,5.0,463231.0,463231.0,1.0
+1187,3819,geo,GEO,5.0,3939.0,463231.0,463231.0,1.0
+1188,3820,USA,usa,3506.0,1.0,463231.0,463231.0,1.0
+1189,3821,usa,USA,1.0,3506.0,463231.0,463231.0,1.0
+1190,3822,YEM,yem,1464.0,5.0,463231.0,463231.0,1.0
+1191,3823,yem,YEM,5.0,1464.0,463231.0,463231.0,1.0
+1192,3824,SLE,sle,1436.0,14.0,463231.0,463231.0,1.0
+1193,3825,sle,SLE,14.0,1436.0,463231.0,463231.0,1.0
+1194,3826,BRA,bra,3073.0,14.0,463231.0,463231.0,1.0
+1195,3827,bra,BRA,14.0,3073.0,463231.0,463231.0,1.0
+1196,3828,GBR,gbr,3045.0,1.0,463231.0,463231.0,1.0
+1197,3829,gbr,GBR,1.0,3045.0,463231.0,463231.0,1.0
+1198,3830,MEX,mex,2993.0,14.0,463231.0,463231.0,1.0
+1199,3831,mex,MEX,14.0,2993.0,463231.0,463231.0,1.0
+1200,3832,COL,col,2878.0,14.0,463231.0,463231.0,1.0
+1201,3833,col,COL,14.0,2878.0,463231.0,463231.0,1.0
+1202,3834,TUR,tur,2846.0,14.0,463231.0,463231.0,1.0
+1203,3835,tur,TUR,14.0,2846.0,463231.0,463231.0,1.0
+1204,3836,PAN,pan,2783.0,14.0,463231.0,463231.0,1.0
+1205,3837,pan,PAN,14.0,2783.0,463231.0,463231.0,1.0
+1206,3838,VEN,ven,2754.0,14.0,463231.0,463231.0,1.0
+1207,3839,ven,VEN,14.0,2754.0,463231.0,463231.0,1.0
+1208,3840,ECU,ecu,2723.0,14.0,463231.0,463231.0,1.0
+1209,3841,ecu,ECU,14.0,2723.0,463231.0,463231.0,1.0
+1210,3842,SLV,slv,2719.0,14.0,463231.0,463231.0,1.0
+1211,3843,slv,SLV,14.0,2719.0,463231.0,463231.0,1.0
+1212,3844,GNB,gnb,999.0,5.0,463231.0,463231.0,1.0
+1213,3845,gnb,GNB,5.0,999.0,463231.0,463231.0,1.0
+1214,3846,BOL,bol,2671.0,14.0,463231.0,463231.0,1.0
+1215,3847,bol,BOL,14.0,2671.0,463231.0,463231.0,1.0
+1216,3848,HND,hnd,2539.0,14.0,463231.0,463231.0,1.0
+1217,3849,hnd,HND,14.0,2539.0,463231.0,463231.0,1.0
+1218,3850,JAM,jam,2390.0,5.0,463231.0,463231.0,1.0
+1219,3851,jam,JAM,5.0,2390.0,463231.0,463231.0,1.0
+1220,3852,PRK,prk,672.0,1.0,463231.0,463231.0,1.0
+1221,3853,prk,PRK,1.0,672.0,463231.0,463231.0,1.0
+1222,3854,GHA,gha,2059.0,5.0,463231.0,463231.0,1.0
+1223,3855,gha,GHA,5.0,2059.0,463231.0,463231.0,1.0
+1224,3856,GTM,gtm,2058.0,14.0,463231.0,463231.0,1.0
+1225,3857,gtm,GTM,14.0,2058.0,463231.0,463231.0,1.0
+1226,3858,MNG,mng,1980.0,14.0,463231.0,463231.0,1.0
+1227,3859,mng,MNG,14.0,1980.0,463231.0,463231.0,1.0
+1228,3860,ZMB,zmb,1856.0,14.0,463231.0,463231.0,1.0
+1229,3861,zmb,ZMB,14.0,1856.0,463231.0,463231.0,1.0
+1230,3862,IRN,irn,1812.0,1.0,463231.0,463231.0,1.0
+1231,3863,irn,IRN,1.0,1812.0,463231.0,463231.0,1.0
+1232,3864,CMR,cmr,1778.0,14.0,463231.0,463231.0,1.0
+1233,3865,cmr,CMR,14.0,1778.0,463231.0,463231.0,1.0
+1234,3866,RWA,rwa,1753.0,14.0,463231.0,463231.0,1.0
+1235,3867,rwa,RWA,14.0,1753.0,463231.0,463231.0,1.0
+1236,3868,MDG,mdg,1750.0,14.0,463231.0,463231.0,1.0
+1237,3869,mdg,MDG,14.0,1750.0,463231.0,463231.0,1.0
+1238,3870,Attorney at Law,ATTORNEY AT LAW,26670.0,4256.0,374362.0,374362.0,1.0
+1239,3871,ATTORNEY AT LAW,Attorney at Law,4256.0,26670.0,374362.0,374362.0,1.0
+1240,3872,SECRETARY,Secretary,10.0,3.0,374362.0,374362.0,1.0
+1241,3873,Secretary,SECRETARY,3.0,10.0,374362.0,374362.0,1.0
+1242,3874,SECRETARY/TREASURER,Secretary/Treasurer,1.0,1.0,374362.0,374362.0,1.0
+1243,3875,Secretary/Treasurer,SECRETARY/TREASURER,1.0,1.0,374362.0,374362.0,1.0
+1244,3876,Senior Associate,SENIOR ASSOCIATE,541.0,53.0,374362.0,374362.0,1.0
+1245,3877,SENIOR ASSOCIATE,Senior Associate,53.0,541.0,374362.0,374362.0,1.0
+1246,3878,ADMINISTRATOR,ADMIN.,2.0,1.0,374362.0,374362.0,1.0
+1247,3879,ADMIN.,ADMINISTRATOR,1.0,2.0,374362.0,374362.0,1.0
+1248,3880,Senior Associate Attorney,Sr. Associate Attorney,912.0,38.0,374362.0,374362.0,1.0
+1249,3881,Sr. Associate Attorney,Senior Associate Attorney,38.0,912.0,374362.0,374362.0,1.0
+1250,3882,"Sr. Associate, Attorney at Law","Senior Associate, Attorney at Law",43.0,28.0,374362.0,374362.0,1.0
+1251,3883,"Senior Associate, Attorney at Law","Sr. Associate, Attorney at Law",28.0,43.0,374362.0,374362.0,1.0
+1252,3884,AGENT,agent,1323.0,1069.0,374362.0,374362.0,1.0
+1253,3885,agent,AGENT,1069.0,1323.0,374362.0,374362.0,1.0
+1254,3886,"Senior Counsel, Gibney, Anthony & Flaherty LLP","Sr. Counsel, Gibney, Anthony & Flaherty LLP",59.0,5.0,374362.0,374362.0,1.0
+1255,3887,"Sr. Counsel, Gibney, Anthony & Flaherty LLP","Senior Counsel, Gibney, Anthony & Flaherty LLP",5.0,59.0,374362.0,374362.0,1.0
+1256,3888,AGENT ON BEHALF OF ALTRA CONSULTING SERVICES LLC,AGENT ON BEHALF OF ALTRA CONSULTING SERVICES LLC.,6.0,1.0,374362.0,374362.0,1.0
+1257,3889,AGENT ON BEHALF OF ALTRA CONSULTING SERVICES LLC.,AGENT ON BEHALF OF ALTRA CONSULTING SERVICES LLC,1.0,6.0,374362.0,374362.0,1.0
+1258,3890,Sr. Counsel,Senior Counsel,321.0,157.0,374362.0,374362.0,1.0
+1259,3891,Senior Counsel,Sr. Counsel,157.0,321.0,374362.0,374362.0,1.0
+1260,3892,AGENT/ATTORNEY,ATTORNEY / AGENT,2.0,1.0,374362.0,374362.0,1.0
+1261,3893,ATTORNEY / AGENT,AGENT/ATTORNEY,1.0,2.0,374362.0,374362.0,1.0
+1262,3894,Senior Legal Asst,Sr. Legal Asst,3.0,3.0,374362.0,374362.0,1.0
+1263,3895,Sr. Legal Asst,Senior Legal Asst,3.0,3.0,374362.0,374362.0,1.0
+1264,3896,Attorney for Employer,ATTORNEY FOR EMPLOYER,62.0,21.0,374362.0,374362.0,1.0
+1265,3897,ATTORNEY FOR EMPLOYER,Attorney for Employer,21.0,62.0,374362.0,374362.0,1.0
+1266,3898,Senior Paralegal,SENIOR PARALEGAL,216.0,1.0,374362.0,374362.0,1.0
+1267,3899,SENIOR PARALEGAL,Senior Paralegal,1.0,216.0,374362.0,374362.0,1.0
+1268,3900,Senior Partner,Sr. Staff Attorney,29.0,5.0,374362.0,374362.0,1.0
+1269,3901,Sr. Staff Attorney,Senior Partner,5.0,29.0,374362.0,374362.0,1.0
+1270,3902,Senior Supervising Attorney,Sr. Supervising Attorney,107.0,2.0,374362.0,374362.0,1.0
+1271,3903,Sr. Supervising Attorney,Senior Supervising Attorney,2.0,107.0,374362.0,374362.0,1.0
+1272,3904,Associate Attorney,ASSOCIATE ATTORNEY,10327.0,408.0,374362.0,374362.0,1.0
+1273,3905,ASSOCIATE ATTORNEY,Associate Attorney,408.0,10327.0,374362.0,374362.0,1.0
+1274,3906,Assistant,Assisstant,18.0,1.0,374362.0,374362.0,1.0
+1275,3907,Assisstant,Assistant,1.0,18.0,374362.0,374362.0,1.0
+1276,3908,Assistant - HR,Assitant - HR,105.0,3.0,374362.0,374362.0,1.0
+1277,3909,Assitant - HR,Assistant - HR,3.0,105.0,374362.0,374362.0,1.0
+1278,3910,Associate,ASSOCIATE,4075.0,82.0,374362.0,374362.0,1.0
+1279,3911,ASSOCIATE,Associate,82.0,4075.0,374362.0,374362.0,1.0
+1280,3912,"Associate - Fragomen, Del Rey, Bernsen & Loewy LLP","Associate -Fragomen, Del Rey, Bernsen & Loewy, LLP",52.0,13.0,374362.0,374362.0,1.0
+1281,3913,"Associate -Fragomen, Del Rey, Bernsen & Loewy, LLP","Associate - Fragomen, Del Rey, Bernsen & Loewy LLP",13.0,52.0,374362.0,374362.0,1.0
+1282,3914,"Assistant General Counsel, The Ohio State Univ.","Assistant General Counsel, The Ohio State Universi",22.0,3.0,374362.0,374362.0,1.0
+1283,3915,"Assistant General Counsel, The Ohio State Universi","Assistant General Counsel, The Ohio State Univ.",3.0,22.0,374362.0,374362.0,1.0
+1284,3916,Associate Council,Associate Counsel,1.0,1.0,374362.0,374362.0,1.0
+1285,3917,Associate Counsel,Associate Council,1.0,1.0,374362.0,374362.0,1.0
+1286,3918,Shareholder,SHAREHOLDER,954.0,18.0,374362.0,374362.0,1.0
+1287,3919,SHAREHOLDER,Shareholder,18.0,954.0,374362.0,374362.0,1.0
+1288,3920,"Shareholder, Managing Attorney",Shareholder - Managing Attorney,35.0,1.0,374362.0,374362.0,1.0
+1289,3921,Shareholder - Managing Attorney,"Shareholder, Managing Attorney",1.0,35.0,374362.0,374362.0,1.0
+1290,3922,SHAREHOLDER / ATTORNEY,Shareholder/Attorney,9.0,3.0,374362.0,374362.0,1.0
+1291,3923,Shareholder/Attorney,SHAREHOLDER / ATTORNEY,3.0,9.0,374362.0,374362.0,1.0
+1292,3924,"Associate, Attorney at Law","ASSOCIATE, ATTORNEY AT LAW",76.0,2.0,374362.0,374362.0,1.0
+1293,3925,"ASSOCIATE, ATTORNEY AT LAW","Associate, Attorney at Law",2.0,76.0,374362.0,374362.0,1.0
+1294,3926,"Associate, Gibney, Anthony & Flaherty, LLP","Associate, Gibney, Anthony & Flaherty LLP",3.0,2.0,374362.0,374362.0,1.0
+1295,3927,"Associate, Gibney, Anthony & Flaherty LLP","Associate, Gibney, Anthony & Flaherty, LLP",2.0,3.0,374362.0,374362.0,1.0
+1296,3928,Attorney,ATTORNEY,103473.0,15691.0,374362.0,374362.0,1.0
+1297,3929,ATTORNEY,Attorney,15691.0,103473.0,374362.0,374362.0,1.0
+1298,3930,Attorney for Petitioner,Attorney for petitioner,50.0,39.0,374362.0,374362.0,1.0
+1299,3931,Attorney for petitioner,Attorney for Petitioner,39.0,50.0,374362.0,374362.0,1.0
+1300,3932,Special Counsel,SPECIAL COUNSEL,8.0,1.0,374362.0,374362.0,1.0
+1301,3933,SPECIAL COUNSEL,Special Counsel,1.0,8.0,374362.0,374362.0,1.0
+1302,3934,Special Counsel to Ohio Att'y Gen. Mike DeWine,Special Counsel to Ohio Att'y Gen Mike DeWine,14.0,5.0,374362.0,374362.0,1.0
+1303,3935,Special Counsel to Ohio Att'y Gen Mike DeWine,Special Counsel to Ohio Att'y Gen. Mike DeWine,5.0,14.0,374362.0,374362.0,1.0
+1304,3936,Attorney of Record,ATTORNEY OF RECORD,758.0,129.0,374362.0,374362.0,1.0
+1305,3937,ATTORNEY OF RECORD,Attorney of Record,129.0,758.0,374362.0,374362.0,1.0
+1306,3938,Attorney / Partner,Attorney Partner,38.0,25.0,374362.0,374362.0,1.0
+1307,3939,Attorney Partner,Attorney / Partner,25.0,38.0,374362.0,374362.0,1.0
+1308,3940,Attorney Representative,Attorney/Representative,108.0,58.0,374362.0,374362.0,1.0
+1309,3941,Attorney/Representative,Attorney Representative,58.0,108.0,374362.0,374362.0,1.0
+1310,3942,Attorney & Counselor at Law,Attorney and Counselor at Law,30.0,26.0,374362.0,374362.0,1.0
+1311,3943,Attorney and Counselor at Law,Attorney & Counselor at Law,26.0,30.0,374362.0,374362.0,1.0
+1312,3944,ATTORNEY & GENERAL COUNSEL,ATTORNEY &GENERAL COUNSEL,313.0,21.0,374362.0,374362.0,1.0
+1313,3945,ATTORNEY &GENERAL COUNSEL,ATTORNEY & GENERAL COUNSEL,21.0,313.0,374362.0,374362.0,1.0
+1314,3946,Senior Attorney,Sr. Attorney,357.0,57.0,374362.0,374362.0,1.0
+1315,3947,Sr. Attorney,Senior Attorney,57.0,357.0,374362.0,374362.0,1.0
+1316,3948,Attorney and Counselor,Attorney and Principal,2.0,1.0,374362.0,374362.0,1.0
+1317,3949,Attorney and Principal,Attorney and Counselor,1.0,2.0,374362.0,374362.0,1.0
+1318,3950,"ATTORNEY, CASA LAS AMERICAS IMMIGRATION SOLUTIONS,",ATTORNEY AT CASA LAS AMERICAS IMMIGRATION SOLUTION,2.0,1.0,374362.0,374362.0,1.0
+1319,3951,ATTORNEY AT CASA LAS AMERICAS IMMIGRATION SOLUTION,"ATTORNEY, CASA LAS AMERICAS IMMIGRATION SOLUTIONS,",1.0,2.0,374362.0,374362.0,1.0
+1320,3952,Supervising Attorney,SUPERVISING ATTORNEY,362.0,7.0,374362.0,374362.0,1.0
+1321,3953,SUPERVISING ATTORNEY,Supervising Attorney,7.0,362.0,374362.0,374362.0,1.0
+1322,3954,Attorney at Law/Partner,"Attorney at Law, Partner",11.0,1.0,374362.0,374362.0,1.0
+1323,3955,"Attorney at Law, Partner",Attorney at Law/Partner,1.0,11.0,374362.0,374362.0,1.0
+1324,3956,ATTORNEY FOR GHAFARI ASSOCIATES LLC,ATTORNEY TO GHAFARI ASSOCIATES,1.0,1.0,374362.0,374362.0,1.0
+1325,3957,ATTORNEY TO GHAFARI ASSOCIATES,ATTORNEY FOR GHAFARI ASSOCIATES LLC,1.0,1.0,374362.0,374362.0,1.0
+1326,3958,Trupti N. Patel & Associates,TRUPTI N. PATEL & ASSOCIATES,1.0,1.0,374362.0,374362.0,1.0
+1327,3959,TRUPTI N. PATEL & ASSOCIATES,Trupti N. Patel & Associates,1.0,1.0,374362.0,374362.0,1.0
+1328,3960,Attorney for M. Reza Mizani MD PA,"ATTORNEY FOR M. REZA MIZANI, M.D., P.A.",1.0,1.0,374362.0,374362.0,1.0
+1329,3961,"ATTORNEY FOR M. REZA MIZANI, M.D., P.A.",Attorney for M. Reza Mizani MD PA,1.0,1.0,374362.0,374362.0,1.0
+1330,3962,Union Trans./Prof. Services,UNION TRANS./PROF. SERVICES,1.0,1.0,374362.0,374362.0,1.0
+1331,3963,UNION TRANS./PROF. SERVICES,Union Trans./Prof. Services,1.0,1.0,374362.0,374362.0,1.0
+1332,3964,ATTORNEY FOR MSX AMERICAS INC,ATTORNEY FOR MSX AMERICAS INC.,21.0,4.0,374362.0,374362.0,1.0
+1333,3965,ATTORNEY FOR MSX AMERICAS INC.,ATTORNEY FOR MSX AMERICAS INC,4.0,21.0,374362.0,374362.0,1.0
+1334,3966,"Attorney, Mountain States Employers Council",Attorney Mountain States Employers Council,5.0,3.0,374362.0,374362.0,1.0
+1335,3967,Attorney Mountain States Employers Council,"Attorney, Mountain States Employers Council",3.0,5.0,374362.0,374362.0,1.0
+1336,3968,Attorney of file,ATTORNEY OF FILE,13.0,10.0,374362.0,374362.0,1.0
+1337,3969,ATTORNEY OF FILE,Attorney of file,10.0,13.0,374362.0,374362.0,1.0
+1338,3970,USILAW Inc.,"USILAW, INC",1.0,1.0,374362.0,374362.0,1.0
+1339,3971,"USILAW, INC",USILAW Inc.,1.0,1.0,374362.0,374362.0,1.0
+1340,3972,"Attorney, Berry Appleman & Leiden, LLP","Attorney, Berry Appleman & Leiden LLP",75.0,37.0,374362.0,374362.0,1.0
+1341,3973,"Attorney, Berry Appleman & Leiden LLP","Attorney, Berry Appleman & Leiden, LLP",37.0,75.0,374362.0,374362.0,1.0
+1342,3974,Vice President,VICE-PRESIDENT,22.0,17.0,374362.0,374362.0,1.0
+1343,3975,VICE-PRESIDENT,Vice President,17.0,22.0,374362.0,374362.0,1.0
+1344,3976,"Attorney, Kramer & Alfano, P.C.","ATTORNEY, KRAMER & ALFANO, P.C.",76.0,1.0,374362.0,374362.0,1.0
+1345,3977,"ATTORNEY, KRAMER & ALFANO, P.C.","Attorney, Kramer & Alfano, P.C.",1.0,76.0,374362.0,374362.0,1.0
+1346,3978,"Attorney, Law Office of Serafina Sands","Attorney, Law Offce of Serafina Sands",11.0,1.0,374362.0,374362.0,1.0
+1347,3979,"Attorney, Law Offce of Serafina Sands","Attorney, Law Office of Serafina Sands",1.0,11.0,374362.0,374362.0,1.0
+1348,3980,VISA SPECIALIST,Visa Specialist,5.0,4.0,374362.0,374362.0,1.0
+1349,3981,Visa Specialist,VISA SPECIALIST,4.0,5.0,374362.0,374362.0,1.0
+1350,3982,"Attorney, Tocci & Lee, LLC","ATTORNEY, TOCCI & LEE, LLC",34.0,1.0,374362.0,374362.0,1.0
+1351,3983,"ATTORNEY, TOCCI & LEE, LLC","Attorney, Tocci & Lee, LLC",1.0,34.0,374362.0,374362.0,1.0
+1352,3984,VP OF OPERATIONS,VP OPERATIONS,1.0,1.0,374362.0,374362.0,1.0
+1353,3985,VP OPERATIONS,VP OF OPERATIONS,1.0,1.0,374362.0,374362.0,1.0
+1354,3986,Case Manager/Paralegal,CASE MANAGER/PARALEGAL,46.0,4.0,374362.0,374362.0,1.0
+1355,3987,CASE MANAGER/PARALEGAL,Case Manager/Paralegal,4.0,46.0,374362.0,374362.0,1.0
+1356,3988,Case Manager,CASE MANAGER,2.0,1.0,374362.0,374362.0,1.0
+1357,3989,CASE MANAGER,Case Manager,1.0,2.0,374362.0,374362.0,1.0
+1358,3990,Chairman/ Attorney,Chairman (attorney),2.0,1.0,374362.0,374362.0,1.0
+1359,3991,Chairman (attorney),Chairman/ Attorney,1.0,2.0,374362.0,374362.0,1.0
+1360,3992,The Chugh Firm,"The Chugh Firm, APC",2.0,2.0,374362.0,374362.0,1.0
+1361,3993,"The Chugh Firm, APC",The Chugh Firm,2.0,2.0,374362.0,374362.0,1.0
+1362,3994,Consultant,CONSULTANT,6.0,5.0,374362.0,374362.0,1.0
+1363,3995,CONSULTANT,Consultant,5.0,6.0,374362.0,374362.0,1.0
+1364,3996,COO/Attorney at Law,COO/ Attorney at Law,3.0,1.0,374362.0,374362.0,1.0
+1365,3997,COO/ Attorney at Law,COO/Attorney at Law,1.0,3.0,374362.0,374362.0,1.0
+1366,3998,Corporate Attorney,CORPORATE ATTORNEY,139.0,77.0,374362.0,374362.0,1.0
+1367,3999,CORPORATE ATTORNEY,Corporate Attorney,77.0,139.0,374362.0,374362.0,1.0
+1368,4000,Corporate Counsel,CORPORATE COUNSEL,3.0,2.0,374362.0,374362.0,1.0
+1369,4001,CORPORATE COUNSEL,Corporate Counsel,2.0,3.0,374362.0,374362.0,1.0
+1370,4002,Corporate Immigration Attorney,CORP. SECRETARY,4.0,1.0,374362.0,374362.0,1.0
+1371,4003,CORP. SECRETARY,Corporate Immigration Attorney,1.0,4.0,374362.0,374362.0,1.0
+1372,4004,Corp. Secretary / Officer,Corporate Secretary / Officer,1.0,1.0,374362.0,374362.0,1.0
+1373,4005,Corporate Secretary / Officer,Corp. Secretary / Officer,1.0,1.0,374362.0,374362.0,1.0
+1374,4006,Counsel,COUNSEL,292.0,26.0,374362.0,374362.0,1.0
+1375,4007,COUNSEL,Counsel,26.0,292.0,374362.0,374362.0,1.0
+1376,4008,"Counsel for ICS, Inc.","Counsel for Integrated Computer Solutions, Inc.",1.0,1.0,374362.0,374362.0,1.0
+1377,4009,"Counsel for Integrated Computer Solutions, Inc.","Counsel for ICS, Inc.",1.0,1.0,374362.0,374362.0,1.0
+1378,4010,Cowan Miller & Lederman,Cowan Miller and Lederman,5.0,1.0,374362.0,374362.0,1.0
+1379,4011,Cowan Miller and Lederman,Cowan Miller & Lederman,1.0,5.0,374362.0,374362.0,1.0
+1380,4012,D,D.,1.0,1.0,374362.0,374362.0,1.0
+1381,4013,D.,D,1.0,1.0,374362.0,374362.0,1.0
+1382,4014,Director,DIRECTOR,56.0,30.0,374362.0,374362.0,1.0
+1383,4015,DIRECTOR,Director,30.0,56.0,374362.0,374362.0,1.0
+1384,4016,DIRECTOR OF HUMAN RESOURCES,DIRECTOR HUMAN RESOURCES,14.0,2.0,374362.0,374362.0,1.0
+1385,4017,DIRECTOR HUMAN RESOURCES,DIRECTOR OF HUMAN RESOURCES,2.0,14.0,374362.0,374362.0,1.0
+1386,4018,Director of Immigration Resources,DIRECTOR OF IMMIGRATION RESOURCES,2.0,1.0,374362.0,374362.0,1.0
+1387,4019,DIRECTOR OF IMMIGRATION RESOURCES,Director of Immigration Resources,1.0,2.0,374362.0,374362.0,1.0
+1388,4020,"Director, ISSS","Director, Intl Student and Scholar Services",10.0,1.0,374362.0,374362.0,1.0
+1389,4021,"Director, Intl Student and Scholar Services","Director, ISSS",1.0,10.0,374362.0,374362.0,1.0
+1390,4022,EMPLOYER'S AGENT,EMPLOYERS AGENT,41.0,1.0,374362.0,374362.0,1.0
+1391,4023,EMPLOYERS AGENT,EMPLOYER'S AGENT,1.0,41.0,374362.0,374362.0,1.0
+1392,4024,Esquire,Esq.,404.0,276.0,374362.0,374362.0,1.0
+1393,4025,Esq.,Esquire,276.0,404.0,374362.0,374362.0,1.0
+1394,4026,ESQ./ATTORNEY,ESQ. / ATTORNEY,50.0,12.0,374362.0,374362.0,1.0
+1395,4027,ESQ. / ATTORNEY,ESQ./ATTORNEY,12.0,50.0,374362.0,374362.0,1.0
+1396,4028,"Esq., Attorney-At-Law","Esq., Attorney at Law",3.0,2.0,374362.0,374362.0,1.0
+1397,4029,"Esq., Attorney at Law","Esq., Attorney-At-Law",2.0,3.0,374362.0,374362.0,1.0
+1398,4030,Executive Director,EXECUTIVE DIRECTOR,26.0,5.0,374362.0,374362.0,1.0
+1399,4031,EXECUTIVE DIRECTOR,Executive Director,5.0,26.0,374362.0,374362.0,1.0
+1400,4032,Executive Director (Agent),Executive Director- Agent,1.0,1.0,374362.0,374362.0,1.0
+1401,4033,Executive Director- Agent,Executive Director (Agent),1.0,1.0,374362.0,374362.0,1.0
+1402,4034,FOUNDING ARTISITC DIRECTOR,FOUNDING ARTISTIC DIRECTOR,1.0,1.0,374362.0,374362.0,1.0
+1403,4035,FOUNDING ARTISTIC DIRECTOR,FOUNDING ARTISITC DIRECTOR,1.0,1.0,374362.0,374362.0,1.0
+1404,4036,"Fragomen, Del Rey, Bernsen & Loewy, LLP","Fragomen, Del Rey, Bersen & Loewy LLP",6.0,1.0,374362.0,374362.0,1.0
+1405,4037,"Fragomen, Del Rey, Bersen & Loewy LLP","Fragomen, Del Rey, Bernsen & Loewy, LLP",1.0,6.0,374362.0,374362.0,1.0
+1406,4038,G-28 Atty,G-28 Attorney,3.0,2.0,374362.0,374362.0,1.0
+1407,4039,G-28 Attorney,G-28 Atty,2.0,3.0,374362.0,374362.0,1.0
+1408,4040,GENERAL MANAGER,GM,1.0,1.0,374362.0,374362.0,1.0
+1409,4041,GM,GENERAL MANAGER,1.0,1.0,374362.0,374362.0,1.0
+1410,4042,HR,Human Resources,2.0,2.0,374362.0,374362.0,1.0
+1411,4043,Human Resources,HR,2.0,2.0,374362.0,374362.0,1.0
+1412,4044,HR GENERALIST,HR Generalist,1.0,1.0,374362.0,374362.0,1.0
+1413,4045,HR Generalist,HR GENERALIST,1.0,1.0,374362.0,374362.0,1.0
+1414,4046,Human Resources Manager,HR MANAGER,3.0,2.0,374362.0,374362.0,1.0
+1415,4047,HR MANAGER,Human Resources Manager,2.0,3.0,374362.0,374362.0,1.0
+1416,4048,Human Resources Assistant,Human Resource Assistant,510.0,3.0,374362.0,374362.0,1.0
+1417,4049,Human Resource Assistant,Human Resources Assistant,3.0,510.0,374362.0,374362.0,1.0
+1418,4050,Immigration Counsel,IMMIGRATION COUNSEL,1423.0,17.0,374362.0,374362.0,1.0
+1419,4051,IMMIGRATION COUNSEL,Immigration Counsel,17.0,1423.0,374362.0,374362.0,1.0
+1420,4052,Immigration Attorney,IMMIGRATION ATTORNEY,615.0,54.0,374362.0,374362.0,1.0
+1421,4053,IMMIGRATION ATTORNEY,Immigration Attorney,54.0,615.0,374362.0,374362.0,1.0
+1422,4054,Immigration Associate,IMMIGRATION ASSOCIATE,90.0,1.0,374362.0,374362.0,1.0
+1423,4055,IMMIGRATION ASSOCIATE,Immigration Associate,1.0,90.0,374362.0,374362.0,1.0
+1424,4056,Immigration Consultant,IMMIGRATION CONSULTANT,9.0,5.0,374362.0,374362.0,1.0
+1425,4057,IMMIGRATION CONSULTANT,Immigration Consultant,5.0,9.0,374362.0,374362.0,1.0
+1426,4058,Immigration Lawyer,immigration lawyer,103.0,7.0,374362.0,374362.0,1.0
+1427,4059,immigration lawyer,Immigration Lawyer,7.0,103.0,374362.0,374362.0,1.0
+1428,4060,Immigration Paralegal,IMMIGRATION PARALEGAL,2.0,1.0,374362.0,374362.0,1.0
+1429,4061,IMMIGRATION PARALEGAL,Immigration Paralegal,1.0,2.0,374362.0,374362.0,1.0
+1430,4062,IMMIGRATION SERVICES COORDINATOR,Immigration Services Coordinator,2.0,1.0,374362.0,374362.0,1.0
+1431,4063,Immigration Services Coordinator,IMMIGRATION SERVICES COORDINATOR,1.0,2.0,374362.0,374362.0,1.0
+1432,4064,Immigration Shareholder,IMMIGRATION SHAREHOLDER,3.0,1.0,374362.0,374362.0,1.0
+1433,4065,IMMIGRATION SHAREHOLDER,Immigration Shareholder,1.0,3.0,374362.0,374362.0,1.0
+1434,4066,Immigration Specialist,IMMIGRATION SPECIALIST,88.0,9.0,374362.0,374362.0,1.0
+1435,4067,IMMIGRATION SPECIALIST,Immigration Specialist,9.0,88.0,374362.0,374362.0,1.0
+1436,4068,IN HOUSE COUNSEL,In house counsel for employer,10.0,1.0,374362.0,374362.0,1.0
+1437,4069,In house counsel for employer,IN HOUSE COUNSEL,1.0,10.0,374362.0,374362.0,1.0
+1438,4070,Law Clerk,Law Crerk,6.0,1.0,374362.0,374362.0,1.0
+1439,4071,Law Crerk,Law Clerk,1.0,6.0,374362.0,374362.0,1.0
+1440,4072,Law Office of A. Banerjee,Law office of A. Banerjee,3.0,1.0,374362.0,374362.0,1.0
+1441,4073,Law office of A. Banerjee,Law Office of A. Banerjee,1.0,3.0,374362.0,374362.0,1.0
+1442,4074,Law Offices of Edward R White,Law Offices of Edward R White PC,1.0,1.0,374362.0,374362.0,1.0
+1443,4075,Law Offices of Edward R White PC,Law Offices of Edward R White,1.0,1.0,374362.0,374362.0,1.0
+1444,4076,"Law Offices of Prashanthi Reddy, PLLC","Law Offices Of Prashanthi Reddy, PLLC",2.0,1.0,374362.0,374362.0,1.0
+1445,4077,"Law Offices Of Prashanthi Reddy, PLLC","Law Offices of Prashanthi Reddy, PLLC",1.0,2.0,374362.0,374362.0,1.0
+1446,4078,Lawyer,LAWYER,1433.0,190.0,374362.0,374362.0,1.0
+1447,4079,LAWYER,Lawyer,190.0,1433.0,374362.0,374362.0,1.0
+1448,4080,Lead Attorney,LEAD ATTORNEY,58.0,2.0,374362.0,374362.0,1.0
+1449,4081,LEAD ATTORNEY,Lead Attorney,2.0,58.0,374362.0,374362.0,1.0
+1450,4082,Legal Assistant,LEGAL ASSISTANT,127.0,17.0,374362.0,374362.0,1.0
+1451,4083,LEGAL ASSISTANT,Legal Assistant,17.0,127.0,374362.0,374362.0,1.0
+1452,4084,Legal Counsel,LEGAL COUNSEL,21.0,5.0,374362.0,374362.0,1.0
+1453,4085,LEGAL COUNSEL,Legal Counsel,5.0,21.0,374362.0,374362.0,1.0
+1454,4086,LEGAL REPRESENTATIVE,Legal Representative,5.0,4.0,374362.0,374362.0,1.0
+1455,4087,Legal Representative,LEGAL REPRESENTATIVE,4.0,5.0,374362.0,374362.0,1.0
+1456,4088,"LLM, LLMC, PARALEGAL","LLM, LLMC, Paralegal",5.0,2.0,374362.0,374362.0,1.0
+1457,4089,"LLM, LLMC, Paralegal","LLM, LLMC, PARALEGAL",2.0,5.0,374362.0,374362.0,1.0
+1458,4090,Management Counsel,MANAGEMENT COUNSEL,6.0,2.0,374362.0,374362.0,1.0
+1459,4091,MANAGEMENT COUNSEL,Management Counsel,2.0,6.0,374362.0,374362.0,1.0
+1460,4092,MANAGER,Manager,9.0,4.0,374362.0,374362.0,1.0
+1461,4093,Manager,MANAGER,4.0,9.0,374362.0,374362.0,1.0
+1462,4094,Managing Attorney,MANAGING ATTORNEY,241.0,22.0,374362.0,374362.0,1.0
+1463,4095,MANAGING ATTORNEY,Managing Attorney,22.0,241.0,374362.0,374362.0,1.0
+1464,4096,MANAGING PARALEGAL,Managing Paralegal,9.0,8.0,374362.0,374362.0,1.0
+1465,4097,Managing Paralegal,MANAGING PARALEGAL,8.0,9.0,374362.0,374362.0,1.0
+1466,4098,Managing Partner,MANAGING PARTNER,295.0,12.0,374362.0,374362.0,1.0
+1467,4099,MANAGING PARTNER,Managing Partner,12.0,295.0,374362.0,374362.0,1.0
+1468,4100,Managing Partner - New York,MANAGING PARTNER - NEW YORK,63.0,5.0,374362.0,374362.0,1.0
+1469,4101,MANAGING PARTNER - NEW YORK,Managing Partner - New York,5.0,63.0,374362.0,374362.0,1.0
+1470,4102,Member,MEMBER,200.0,1.0,374362.0,374362.0,1.0
+1471,4103,MEMBER,Member,1.0,200.0,374362.0,374362.0,1.0
+1472,4104,Mitchell Silberberg & Knupp LLP,"Mitchell, Silberberg & Knupp LLP",1.0,1.0,374362.0,374362.0,1.0
+1473,4105,"Mitchell, Silberberg & Knupp LLP",Mitchell Silberberg & Knupp LLP,1.0,1.0,374362.0,374362.0,1.0
+1474,4106,Mr.,MR.,16.0,3.0,374362.0,374362.0,1.0
+1475,4107,MR.,Mr.,3.0,16.0,374362.0,374362.0,1.0
+1476,4108,MRS,Mrs.,1.0,1.0,374362.0,374362.0,1.0
+1477,4109,Mrs.,MRS,1.0,1.0,374362.0,374362.0,1.0
+1478,4110,Ms.,Ms,6.0,1.0,374362.0,374362.0,1.0
+1479,4111,Ms,Ms.,1.0,6.0,374362.0,374362.0,1.0
+1480,4112,Neil A. Weinrib & Associates  PARALEGAL,"Neil A, Weinrib & Associates PARALEGAL",2.0,1.0,374362.0,374362.0,1.0
+1481,4113,"Neil A, Weinrib & Associates PARALEGAL",Neil A. Weinrib & Associates  PARALEGAL,1.0,2.0,374362.0,374362.0,1.0
+1482,4114,Of Counsel,of Counsel,888.0,8.0,374362.0,374362.0,1.0
+1483,4115,of Counsel,Of Counsel,8.0,888.0,374362.0,374362.0,1.0
+1484,4116,"Of-Counsel, Odin Feldman & Pittleman PC","Of-Counsel, Odin Feldman & Pittleman, PC",2.0,1.0,374362.0,374362.0,1.0
+1485,4117,"Of-Counsel, Odin Feldman & Pittleman, PC","Of-Counsel, Odin Feldman & Pittleman PC",1.0,2.0,374362.0,374362.0,1.0
+1486,4118,OFFICE MANAGER,Office Manager,11.0,1.0,374362.0,374362.0,1.0
+1487,4119,Office Manager,OFFICE MANAGER,1.0,11.0,374362.0,374362.0,1.0
+1488,4120,Outside Immigration Counsel,Outside immigration counsel,48.0,1.0,374362.0,374362.0,1.0
+1489,4121,Outside immigration counsel,Outside Immigration Counsel,1.0,48.0,374362.0,374362.0,1.0
+1490,4122,OWNER,owner,20.0,2.0,374362.0,374362.0,1.0
+1491,4123,owner,OWNER,2.0,20.0,374362.0,374362.0,1.0
+1492,4124,OWNER / PARTNER,OWNER/PARTNER,3.0,2.0,374362.0,374362.0,1.0
+1493,4125,OWNER/PARTNER,OWNER / PARTNER,2.0,3.0,374362.0,374362.0,1.0
+1494,4126,Paralegal,PARALEGAL,165.0,42.0,374362.0,374362.0,1.0
+1495,4127,PARALEGAL,Paralegal,42.0,165.0,374362.0,374362.0,1.0
+1496,4128,"PARALEGAL, LLM, LLMC","Paralegal, LLM, LLMC",2.0,1.0,374362.0,374362.0,1.0
+1497,4129,"Paralegal, LLM, LLMC","PARALEGAL, LLM, LLMC",1.0,2.0,374362.0,374362.0,1.0
+1498,4130,Partner,PARTNER,13240.0,674.0,374362.0,374362.0,1.0
+1499,4131,PARTNER,Partner,674.0,13240.0,374362.0,374362.0,1.0
+1500,4132,Partner / Associate,Partner/ Associate,123.0,33.0,374362.0,374362.0,1.0
+1501,4133,Partner/ Associate,Partner / Associate,33.0,123.0,374362.0,374362.0,1.0
+1502,4134,"Partner - Fragomen, Del Rey, Bernsen & Loewy, LLP","Partner - Fragomen, Del Rey, Bernsen & Loewy LLP",39.0,26.0,374362.0,374362.0,1.0
+1503,4135,"Partner - Fragomen, Del Rey, Bernsen & Loewy LLP","Partner - Fragomen, Del Rey, Bernsen & Loewy, LLP",26.0,39.0,374362.0,374362.0,1.0
+1504,4136,Partner/Attorney,Partner / Attorney,32.0,4.0,374362.0,374362.0,1.0
+1505,4137,Partner / Attorney,Partner/Attorney,4.0,32.0,374362.0,374362.0,1.0
+1506,4138,Partner / *Associate Attorney,Partner / Associate Attorney,11.0,7.0,374362.0,374362.0,1.0
+1507,4139,Partner / Associate Attorney,Partner / *Associate Attorney,7.0,11.0,374362.0,374362.0,1.0
+1508,4140,"Partner, Attorney at Law",Partner/Attorney at Law,201.0,61.0,374362.0,374362.0,1.0
+1509,4141,Partner/Attorney at Law,"Partner, Attorney at Law",61.0,201.0,374362.0,374362.0,1.0
+1510,4142,Partner of the Firm,"Partner, Baird Holm LLP",6.0,1.0,374362.0,374362.0,1.0
+1511,4143,"Partner, Baird Holm LLP",Partner of the Firm,1.0,6.0,374362.0,374362.0,1.0
+1512,4144,"Partner, Garganigo, Goldsmith & Weiss","Partner, Garganigo, Goldsmith & Wess",25.0,1.0,374362.0,374362.0,1.0
+1513,4145,"Partner, Garganigo, Goldsmith & Wess","Partner, Garganigo, Goldsmith & Weiss",1.0,25.0,374362.0,374362.0,1.0
+1514,4146,"Partner, Gibney, Anthony & Flaherty, LLP","Partner, Gibney, Anthony & Flaherty LLP",58.0,6.0,374362.0,374362.0,1.0
+1515,4147,"Partner, Gibney, Anthony & Flaherty LLP","Partner, Gibney, Anthony & Flaherty, LLP",6.0,58.0,374362.0,374362.0,1.0
+1516,4148,Partner/Lead Engagement Attorney,PARTNER/LEAD ENGAGEMENT ATTORNEY,59.0,9.0,374362.0,374362.0,1.0
+1517,4149,PARTNER/LEAD ENGAGEMENT ATTORNEY,Partner/Lead Engagement Attorney,9.0,59.0,374362.0,374362.0,1.0
+1518,4150,"Partner, Pryor Cashman LLP","Pasricha & Patel, LLC",3.0,1.0,374362.0,374362.0,1.0
+1519,4151,"Pasricha & Patel, LLC","Partner, Pryor Cashman LLP",1.0,3.0,374362.0,374362.0,1.0
+1520,4152,Partner/Attorney of Record,PASTOR,1.0,1.0,374362.0,374362.0,1.0
+1521,4153,PASTOR,Partner/Attorney of Record,1.0,1.0,374362.0,374362.0,1.0
+1522,4154,PDTE,PDTE.,12.0,1.0,374362.0,374362.0,1.0
+1523,4155,PDTE.,PDTE,1.0,12.0,374362.0,374362.0,1.0
+1524,4156,PDTE / ALCC.,PDTE / ALLC,1.0,1.0,374362.0,374362.0,1.0
+1525,4157,PDTE / ALLC,PDTE / ALCC.,1.0,1.0,374362.0,374362.0,1.0
+1526,4158,PREPARER,Preparer,12.0,4.0,374362.0,374362.0,1.0
+1527,4159,Preparer,PREPARER,4.0,12.0,374362.0,374362.0,1.0
+1528,4160,President,PRESIDENT,293.0,235.0,374362.0,374362.0,1.0
+1529,4161,PRESIDENT,President,235.0,293.0,374362.0,374362.0,1.0
+1530,4162,PRESIDENT/ ALCC,PRESIDENT/ALCC,14.0,4.0,374362.0,374362.0,1.0
+1531,4163,PRESIDENT/ALCC,PRESIDENT/ ALCC,4.0,14.0,374362.0,374362.0,1.0
+1532,4164,"PRESIDENT/ ALCCC,INC.","PRESIDENT/ALCCC,INC.",4.0,3.0,374362.0,374362.0,1.0
+1533,4165,"PRESIDENT/ALCCC,INC.","PRESIDENT/ ALCCC,INC.",3.0,4.0,374362.0,374362.0,1.0
+1534,4166,Principal,PRINCIPAL,389.0,2.0,374362.0,374362.0,1.0
+1535,4167,PRINCIPAL,Principal,2.0,389.0,374362.0,374362.0,1.0
+1536,4168,Principal and Managing Attorney,Principal & Managing Attorney,21.0,9.0,374362.0,374362.0,1.0
+1537,4169,Principal & Managing Attorney,Principal and Managing Attorney,9.0,21.0,374362.0,374362.0,1.0
+1538,4170,Principal Attorney,PRINCIPAL ATTORNEY,596.0,18.0,374362.0,374362.0,1.0
+1539,4171,PRINCIPAL ATTORNEY,Principal Attorney,18.0,596.0,374362.0,374362.0,1.0
+1540,4172,"REINHORN LAW, INC.","Reinhorn Law, Inc.",1.0,1.0,374362.0,374362.0,1.0
+1541,4173,"Reinhorn Law, Inc.","REINHORN LAW, INC.",1.0,1.0,374362.0,374362.0,1.0
+1542,4174,Representative,representative,1514.0,13.0,374362.0,374362.0,1.0
+1543,4175,representative,Representative,13.0,1514.0,374362.0,374362.0,1.0
+1544,4176,REPRESENTATIVE WITH GULF COAST ASIAN RESOURCES,REPRESENATIVE WITH GULF COAST ASIAN RESOURCES,3.0,2.0,374362.0,374362.0,1.0
+1545,4177,REPRESENATIVE WITH GULF COAST ASIAN RESOURCES,REPRESENTATIVE WITH GULF COAST ASIAN RESOURCES,2.0,3.0,374362.0,374362.0,1.0
+1546,4178,MDG,mdg,23.0,1.0,6285.0,6285.0,1.0
+1547,4179,mdg,MDG,1.0,23.0,6285.0,6285.0,1.0
+1548,4182,Euro,euro,5363.0,151.0,48269.0,48269.0,1.0
+1549,4183,euro,Euro,151.0,5363.0,48269.0,48269.0,1.0
+1550,4202,Danish krone,Danish Krone,509.0,318.0,48269.0,48269.0,1.0
+1551,4203,Danish Krone,Danish krone,318.0,509.0,48269.0,48269.0,1.0
+1552,4208,Swedish Krona,Swedish krona,475.0,412.0,48269.0,48269.0,1.0
+1553,4209,Swedish krona,Swedish Krona,412.0,475.0,48269.0,48269.0,1.0
+1554,4214,Ouguiya,Ouguiyas,44.0,30.0,48269.0,48269.0,1.0
+1555,4215,Ouguiyas,Ouguiya,30.0,44.0,48269.0,48269.0,1.0
+1556,4228,Forint,forint,334.0,44.0,48269.0,48269.0,1.0
+1557,4229,forint,Forint,44.0,334.0,48269.0,48269.0,1.0
+1558,4230,Pakistan Rupee,pakistan rupee,333.0,286.0,48269.0,48269.0,1.0
+1559,4231,pakistan rupee,Pakistan Rupee,286.0,333.0,48269.0,48269.0,1.0
+1560,4244,Pataca,pataca,284.0,157.0,48269.0,48269.0,1.0
+1561,4245,pataca,Pataca,157.0,284.0,48269.0,48269.0,1.0
+1562,4248,Tanzania shilling,Tanzanian Shilling,275.0,129.0,48269.0,48269.0,1.0
+1563,4249,Tanzanian Shilling,Tanzania shilling,129.0,275.0,48269.0,48269.0,1.0
+1564,4260,Slovak koruna,Slovak Koruna,25.0,22.0,48269.0,48269.0,1.0
+1565,4261,Slovak Koruna,Slovak koruna,22.0,25.0,48269.0,48269.0,1.0
+1566,4274,1999 NLG Euro / Euro,1999 NLG euro / euro,225.0,126.0,48269.0,48269.0,1.0
+1567,4275,1999 NLG euro / euro,1999 NLG Euro / Euro,126.0,225.0,48269.0,48269.0,1.0
+1568,4288,Estonian Kroon,Estonian kroon,165.0,63.0,48269.0,48269.0,1.0
+1569,4289,Estonian kroon,Estonian Kroon,63.0,165.0,48269.0,48269.0,1.0
+1570,4296,litas,Litas,143.0,88.0,48269.0,48269.0,1.0
+1571,4297,Litas,litas,88.0,143.0,48269.0,48269.0,1.0
+1572,4300,New Zealand dollar,New Zealand Dollars,131.0,129.0,48269.0,48269.0,1.0
+1573,4301,New Zealand Dollars,New Zealand dollar,129.0,131.0,48269.0,48269.0,1.0
+1574,4304,Lilangeni,lilangeni,88.0,9.0,48269.0,48269.0,1.0
+1575,4305,lilangeni,Lilangeni,9.0,88.0,48269.0,48269.0,1.0
+1576,4308,Zambian Kwacha,Zambia kwacha,65.0,36.0,48269.0,48269.0,1.0
+1577,4309,Zambia kwacha,Zambian Kwacha,36.0,65.0,48269.0,48269.0,1.0
+1578,4310,Russian ruble,Russian rouble,53.0,12.0,48269.0,48269.0,1.0
+1579,4311,Russian rouble,Russian ruble,12.0,53.0,48269.0,48269.0,1.0
+1580,4318,Coliseum Theater,Coliseum Theatre,6.0,6.0,806179.0,806179.0,1.0
+1581,4319,Coliseum Theatre,Coliseum Theater,6.0,6.0,806179.0,806179.0,1.0
+1582,4320,"Great Hall, City College of New York",Great Hall - City College,607.0,221.0,806179.0,806179.0,1.0
+1583,4321,Great Hall - City College,"Great Hall, City College of New York",221.0,607.0,806179.0,806179.0,1.0
+1584,4322,Colonial Theatre,Colonial Theater,16.0,6.0,806179.0,806179.0,1.0
+1585,4323,Colonial Theater,Colonial Theatre,6.0,16.0,806179.0,806179.0,1.0
+1586,4324,Poli Theater,Poli's Theatre,12.0,6.0,806179.0,806179.0,1.0
+1587,4325,Poli's Theatre,Poli Theater,6.0,12.0,806179.0,806179.0,1.0
+1588,4326,Lyric Theatre,Lyric Theater,935.0,6.0,806179.0,806179.0,1.0
+1589,4327,Lyric Theater,Lyric Theatre,6.0,935.0,806179.0,806179.0,1.0
+1590,4328,US Ambassador Residence,US Ambasador Residence,42.0,12.0,806179.0,806179.0,1.0
+1591,4329,US Ambasador Residence,US Ambassador Residence,12.0,42.0,806179.0,806179.0,1.0
+1592,4330,Festival Theater,Festival Theatre,8.0,4.0,806179.0,806179.0,1.0
+1593,4331,Festival Theatre,Festival Theater,4.0,8.0,806179.0,806179.0,1.0
+1594,4332,Majestic Theatre,Majestic Theater,58.0,40.0,806179.0,806179.0,1.0
+1595,4333,Majestic Theater,Majestic Theatre,40.0,58.0,806179.0,806179.0,1.0
+1596,4334,Palace of Arts  (Bela Bartók National Concert Hall),Palace of Arts (Bela Bartók National Concert Hall),28.0,10.0,806179.0,806179.0,1.0
+1597,4335,Palace of Arts (Bela Bartók National Concert Hall),Palace of Arts  (Bela Bartók National Concert Hall),10.0,28.0,806179.0,806179.0,1.0
+1598,4362,Tree,tree,188239.0,1.0,188462.0,188462.0,1.0
+1599,4363,tree,Tree,1.0,188239.0,188462.0,188462.0,1.0
+1600,4364,Chicago,"Chicago, IL",2305.0,1.0,5807.0,5807.0,1.0
+1601,4365,"Chicago, IL",Chicago,1.0,2305.0,5807.0,5807.0,1.0
+1602,4366,New York,"New York,",1773.0,5.0,5807.0,5807.0,1.0
+1603,4367,"New York,",New York,5.0,1773.0,5807.0,5807.0,1.0
+1604,4368,San Francisco,san francisco,1619.0,50.0,5807.0,5807.0,1.0
+1605,4369,san francisco,San Francisco,50.0,1619.0,5807.0,5807.0,1.0
+1606,4370,Y,y,7825.0,2704.0,158026.0,158026.0,1.0
+1607,4371,y,Y,2704.0,7825.0,158026.0,158026.0,1.0
+1608,4372,N,n,2684.0,433.0,158026.0,158026.0,1.0
+1609,4373,n,N,433.0,2684.0,158026.0,158026.0,1.0
+1610,4374,Social Media for Social Change,Social Media for Social Good,7.0,3.0,31212.0,31212.0,1.0
+1611,4375,Social Media for Social Good,Social Media for Social Change,3.0,7.0,31212.0,31212.0,1.0
+1612,4376,Web Technology,Web & New Technology,852.0,7.0,31212.0,31212.0,1.0
+1613,4377,Web & New Technology,Web Technology,7.0,852.0,31212.0,31212.0,1.0
+1614,4378,Wellness,Well Being,790.0,6.0,31212.0,31212.0,1.0
+1615,4379,Well Being,Wellness,6.0,790.0,31212.0,31212.0,1.0
+1616,4380,Social Work,Social Welfare,6.0,2.0,31212.0,31212.0,1.0
+1617,4381,Social Welfare,Social Work,2.0,6.0,31212.0,31212.0,1.0
+1618,4382,Crafts,Craft Classes,92.0,1.0,31212.0,31212.0,1.0
+1619,4383,Craft Classes,Crafts,1.0,92.0,31212.0,31212.0,1.0
+1620,4384,American Sign Language,American Sign Language Classes,9.0,3.0,31212.0,31212.0,1.0
+1621,4385,American Sign Language Classes,American Sign Language,3.0,9.0,31212.0,31212.0,1.0
+1622,4386,Creative Writing,Creativity Acting Writing Directing,156.0,3.0,31212.0,31212.0,1.0
+1623,4387,Creativity Acting Writing Directing,Creative Writing,3.0,156.0,31212.0,31212.0,1.0
+1624,4388,Cultural Activities,Cultural Outings,67.0,1.0,31212.0,31212.0,1.0
+1625,4389,Cultural Outings,Cultural Activities,1.0,67.0,31212.0,31212.0,1.0
+1626,4390,Art,Art Classes,329.0,5.0,31212.0,31212.0,1.0
+1627,4391,Art Classes,Art,5.0,329.0,31212.0,31212.0,1.0
+1628,4392,French Language,French Language Lovers; French Language;,97.0,20.0,31212.0,31212.0,1.0
+1629,4393,French Language Lovers; French Language;,French Language,20.0,97.0,31212.0,31212.0,1.0
+1630,4394,Spiritual Awareness,spiritual awareness and spiritual awareness events,1.0,1.0,31212.0,31212.0,1.0
+1631,4395,spiritual awareness and spiritual awareness events,Spiritual Awareness,1.0,1.0,31212.0,31212.0,1.0
+1632,4396,Dancing,Dance Dance Dance,477.0,4.0,31212.0,31212.0,1.0
+1633,4397,Dance Dance Dance,Dancing,4.0,477.0,31212.0,31212.0,1.0
+1634,4398,Games,Gaming,168.0,125.0,31212.0,31212.0,1.0
+1635,4399,Gaming,Games,125.0,168.0,31212.0,31212.0,1.0
+1636,4400,Writing,write,311.0,2.0,31212.0,31212.0,1.0
+1637,4401,write,Writing,2.0,311.0,31212.0,31212.0,1.0
+1638,4402,Spirituality,Spiritualism,916.0,62.0,31212.0,31212.0,1.0
+1639,4403,Spiritualism,Spirituality,62.0,916.0,31212.0,31212.0,1.0
+1640,4404,Science & Technology,Science and Technology,2.0,1.0,31212.0,31212.0,1.0
+1641,4405,Science and Technology,Science & Technology,1.0,2.0,31212.0,31212.0,1.0
+1642,4406,Belly Dance,Belly Dance Lessons,8.0,2.0,31212.0,31212.0,1.0
+1643,4407,Belly Dance Lessons,Belly Dance,2.0,8.0,31212.0,31212.0,1.0
+1644,4408,Emerging Fashion,Emerging Fashion Designers,1.0,1.0,31212.0,31212.0,1.0
+1645,4409,Emerging Fashion Designers,Emerging Fashion,1.0,1.0,31212.0,31212.0,1.0
+1646,4410,Erotic Literature,erotic writing,1.0,1.0,31212.0,31212.0,1.0
+1647,4411,erotic writing,Erotic Literature,1.0,1.0,31212.0,31212.0,1.0
+1648,4412,European Culture,European Languages & Culture,19.0,2.0,31212.0,31212.0,1.0
+1649,4413,European Languages & Culture,European Culture,2.0,19.0,31212.0,31212.0,1.0
+1650,4414,Trader Education,Trading Education,3.0,1.0,31212.0,31212.0,1.0
+1651,4415,Trading Education,Trader Education,1.0,3.0,31212.0,31212.0,1.0
+1652,4416,Fashion Design,Fashion Designers,85.0,5.0,31212.0,31212.0,1.0
+1653,4417,Fashion Designers,Fashion Design,5.0,85.0,31212.0,31212.0,1.0
+1654,4418,morphol. examin.; ID tentative,morphol. Examin.; ID tentative,5.0,1.0,513373.0,513373.0,1.0
+1655,4419,morphol. Examin.; ID tentative,morphol. examin.; ID tentative,1.0,5.0,513373.0,513373.0,1.0
+1656,4420,morphological ID by Res. Associate,morphological ID b. Res. Associate,104.0,1.0,513373.0,513373.0,1.0
+1657,4421,morphological ID b. Res. Associate,morphological ID by Res. Associate,1.0,104.0,513373.0,513373.0,1.0
+1658,4422,Field ID by non-expert from video,field ID by non-expert from video,22651.0,4701.0,513373.0,513373.0,1.0
+1659,4423,field ID by non-expert from video,Field ID by non-expert from video,4701.0,22651.0,513373.0,513373.0,1.0
+1660,4424,Level Dollar Closed,Level DollarClosed,286.0,1.0,2720.0,2720.0,1.0
+1661,4425,Level DollarClosed,Level Dollar Closed,1.0,286.0,2720.0,2720.0,1.0
+1662,4426,SAN JUAN,SAN JUANS,395.0,1.0,1351.0,1351.0,1.0
+1663,4427,SAN JUANS,SAN JUAN,1.0,395.0,1351.0,1351.0,1.0
+1664,4428,HATO REY,HATO RETY,2.0,1.0,1351.0,1351.0,1.0
+1665,4429,HATO RETY,HATO REY,1.0,2.0,1351.0,1351.0,1.0
+1666,4430,MAYAGUEZ,MAYAQUEZ,56.0,1.0,1351.0,1351.0,1.0
+1667,4431,MAYAQUEZ,MAYAGUEZ,1.0,56.0,1351.0,1351.0,1.0
+1668,4432,TRUJILLO ALTO,TRUJILLO ALTL,8.0,1.0,1351.0,1351.0,1.0
+1669,4433,TRUJILLO ALTL,TRUJILLO ALTO,1.0,8.0,1351.0,1351.0,1.0
+1670,4434,ALASKA,AK,56.0,53.0,374362.0,374362.0,1.0
+1671,4435,AK,ALASKA,53.0,56.0,374362.0,374362.0,1.0
+1672,4436,ALABAMA,AL,1407.0,823.0,374362.0,374362.0,1.0
+1673,4437,AL,ALABAMA,823.0,1407.0,374362.0,374362.0,1.0
+1674,4438,AR,ARKANSAS,936.0,761.0,374362.0,374362.0,1.0
+1675,4439,ARKANSAS,AR,761.0,936.0,374362.0,374362.0,1.0
+1676,4440,ARIZONA,AZ,1801.0,1400.0,374362.0,374362.0,1.0
+1677,4441,AZ,ARIZONA,1400.0,1801.0,374362.0,374362.0,1.0
+1678,4442,BRITISH COLUMBIA,BC,3.0,1.0,374362.0,374362.0,1.0
+1679,4443,BC,BRITISH COLUMBIA,1.0,3.0,374362.0,374362.0,1.0
+1680,4444,CALIFORNIA,CA,51127.0,42366.0,374362.0,374362.0,1.0
+1681,4445,CA,CALIFORNIA,42366.0,51127.0,374362.0,374362.0,1.0
+1682,4446,COLORADO,CO,1495.0,1227.0,374362.0,374362.0,1.0
+1683,4447,CO,COLORADO,1227.0,1495.0,374362.0,374362.0,1.0
+1684,4448,CONNECTICUT,CT,2034.0,1663.0,374362.0,374362.0,1.0
+1685,4449,CT,CONNECTICUT,1663.0,2034.0,374362.0,374362.0,1.0
+1686,4450,DISTRICT OF COLUMBIA,DC,980.0,667.0,374362.0,374362.0,1.0
+1687,4451,DC,DISTRICT OF COLUMBIA,667.0,980.0,374362.0,374362.0,1.0
+1688,4452,DELAWARE,DE,699.0,682.0,374362.0,374362.0,1.0
+1689,4453,DE,DELAWARE,682.0,699.0,374362.0,374362.0,1.0
+1690,4454,FLORIDA,FL,5938.0,5561.0,374362.0,374362.0,1.0
+1691,4455,FL,FLORIDA,5561.0,5938.0,374362.0,374362.0,1.0
+1692,4456,GA,GEORGIA,5848.0,5520.0,374362.0,374362.0,1.0
+1693,4457,GEORGIA,GA,5520.0,5848.0,374362.0,374362.0,1.0
+1694,4458,GU,GUAM,223.0,138.0,374362.0,374362.0,1.0
+1695,4459,GUAM,GU,138.0,223.0,374362.0,374362.0,1.0
+1696,4460,HAWAII,HI,158.0,113.0,374362.0,374362.0,1.0
+1697,4461,HI,HAWAII,113.0,158.0,374362.0,374362.0,1.0
+1698,4462,IOWA,IA,830.0,661.0,374362.0,374362.0,1.0
+1699,4463,IA,IOWA,661.0,830.0,374362.0,374362.0,1.0
+1700,4464,IDAHO,ID,336.0,312.0,374362.0,374362.0,1.0
+1701,4465,ID,IDAHO,312.0,336.0,374362.0,374362.0,1.0
+1702,4466,ILLINOIS,IL,8992.0,7331.0,374362.0,374362.0,1.0
+1703,4467,IL,ILLINOIS,7331.0,8992.0,374362.0,374362.0,1.0
+1704,4468,INDIANA,IN,1461.0,1417.0,374362.0,374362.0,1.0
+1705,4469,IN,INDIANA,1417.0,1461.0,374362.0,374362.0,1.0
+1706,4470,KANSAS,KS,912.0,579.0,374362.0,374362.0,1.0
+1707,4471,KS,KANSAS,579.0,912.0,374362.0,374362.0,1.0
+1708,4472,KENTUCKY,KY,937.0,739.0,374362.0,374362.0,1.0
+1709,4473,KY,KENTUCKY,739.0,937.0,374362.0,374362.0,1.0
+1710,4474,LOUISIANA,LA,700.0,526.0,374362.0,374362.0,1.0
+1711,4475,LA,LOUISIANA,526.0,700.0,374362.0,374362.0,1.0
+1712,4476,MASSACHUSETTS,MA,7240.0,6021.0,374362.0,374362.0,1.0
+1713,4477,MA,MASSACHUSETTS,6021.0,7240.0,374362.0,374362.0,1.0
+1714,4478,MAINE,ME,239.0,162.0,374362.0,374362.0,1.0
+1715,4479,ME,MAINE,162.0,239.0,374362.0,374362.0,1.0
+1716,4480,MARYLAND,MD,3275.0,2458.0,374362.0,374362.0,1.0
+1717,4481,MD,MARYLAND,2458.0,3275.0,374362.0,374362.0,1.0
+1718,4482,MICHIGAN,MI,6669.0,5332.0,374362.0,374362.0,1.0
+1719,4483,MI,MICHIGAN,5332.0,6669.0,374362.0,374362.0,1.0
+1720,4484,MINNESOTA,MN,1554.0,1325.0,374362.0,374362.0,1.0
+1721,4485,MN,MINNESOTA,1325.0,1554.0,374362.0,374362.0,1.0
+1722,4486,MISSISSIPPI,MS,459.0,163.0,374362.0,374362.0,1.0
+1723,4487,MS,MISSISSIPPI,163.0,459.0,374362.0,374362.0,1.0
+1724,4488,MISSOURI,MO,1746.0,1617.0,374362.0,374362.0,1.0
+1725,4489,MO,MISSOURI,1617.0,1746.0,374362.0,374362.0,1.0
+1726,4490,MT,MONTANA,78.0,63.0,374362.0,374362.0,1.0
+1727,4491,MONTANA,MT,63.0,78.0,374362.0,374362.0,1.0
+1728,4492,MP,NORTHERN MARIANA ISLANDS,51.0,22.0,374362.0,374362.0,1.0
+1729,4493,NORTHERN MARIANA ISLANDS,MP,22.0,51.0,374362.0,374362.0,1.0
+1730,4494,NC,NORTH CAROLINA,4223.0,4081.0,374362.0,374362.0,1.0
+1731,4495,NORTH CAROLINA,NC,4081.0,4223.0,374362.0,374362.0,1.0
+1732,4496,NORTH DAKOTA,ND,243.0,172.0,374362.0,374362.0,1.0
+1733,4497,ND,NORTH DAKOTA,172.0,243.0,374362.0,374362.0,1.0
+1734,4498,NEBRASKA,NE,672.0,587.0,374362.0,374362.0,1.0
+1735,4499,NE,NEBRASKA,587.0,672.0,374362.0,374362.0,1.0
+1736,4500,NEVADA,NV,404.0,319.0,374362.0,374362.0,1.0
+1737,4501,NV,NEVADA,319.0,404.0,374362.0,374362.0,1.0
+1738,4502,NEW HAMPSHIRE,NH,386.0,267.0,374362.0,374362.0,1.0
+1739,4503,NH,NEW HAMPSHIRE,267.0,386.0,374362.0,374362.0,1.0
+1740,4504,NEW JERSEY,NJ,16271.0,13864.0,374362.0,374362.0,1.0
+1741,4505,NJ,NEW JERSEY,13864.0,16271.0,374362.0,374362.0,1.0
+1742,4506,NEW MEXICO,NM,409.0,319.0,374362.0,374362.0,1.0
+1743,4507,NM,NEW MEXICO,319.0,409.0,374362.0,374362.0,1.0
+1744,4508,NEW YORK,NY,15489.0,12586.0,374362.0,374362.0,1.0
+1745,4509,NY,NEW YORK,12586.0,15489.0,374362.0,374362.0,1.0
+1746,4510,OHIO,OH,3518.0,2663.0,374362.0,374362.0,1.0
+1747,4511,OH,OHIO,2663.0,3518.0,374362.0,374362.0,1.0
+1748,4512,OKLAHOMA,OK,438.0,409.0,374362.0,374362.0,1.0
+1749,4513,OK,OKLAHOMA,409.0,438.0,374362.0,374362.0,1.0
+1750,4514,OREGON,OR,620.0,520.0,374362.0,374362.0,1.0
+1751,4515,OR,OREGON,520.0,620.0,374362.0,374362.0,1.0
+1752,4516,PENNSYLVANIA,PA,6530.0,5375.0,374362.0,374362.0,1.0
+1753,4517,PA,PENNSYLVANIA,5375.0,6530.0,374362.0,374362.0,1.0
+1754,4518,PR,PUERTO RICO,96.0,96.0,374362.0,374362.0,1.0
+1755,4519,PUERTO RICO,PR,96.0,96.0,374362.0,374362.0,1.0
+1756,4520,RI,RHODE ISLAND,431.0,394.0,374362.0,374362.0,1.0
+1757,4521,RHODE ISLAND,RI,394.0,431.0,374362.0,374362.0,1.0
+1758,4522,SOUTH CAROLINA,SC,1379.0,1133.0,374362.0,374362.0,1.0
+1759,4523,SC,SOUTH CAROLINA,1133.0,1379.0,374362.0,374362.0,1.0
+1760,4524,SOUTH DAKOTA,SD,180.0,143.0,374362.0,374362.0,1.0
+1761,4525,SD,SOUTH DAKOTA,143.0,180.0,374362.0,374362.0,1.0
+1762,4526,TENNESSEE,TN,1141.0,1069.0,374362.0,374362.0,1.0
+1763,4527,TN,TENNESSEE,1069.0,1141.0,374362.0,374362.0,1.0
+1764,4528,TEXAS,TX,25082.0,20099.0,374362.0,374362.0,1.0
+1765,4529,TX,TEXAS,20099.0,25082.0,374362.0,374362.0,1.0
+1766,4530,UTAH,UT,664.0,472.0,374362.0,374362.0,1.0
+1767,4531,UT,UTAH,472.0,664.0,374362.0,374362.0,1.0
+1768,4532,VIRGINIA,VA,6613.0,5437.0,374362.0,374362.0,1.0
+1769,4533,VA,VIRGINIA,5437.0,6613.0,374362.0,374362.0,1.0
+1770,4534,VERMONT,VT,298.0,178.0,374362.0,374362.0,1.0
+1771,4535,VT,VERMONT,178.0,298.0,374362.0,374362.0,1.0
+1772,4536,VIRGIN ISLANDS,VI,49.0,18.0,374362.0,374362.0,1.0
+1773,4537,VI,VIRGIN ISLANDS,18.0,49.0,374362.0,374362.0,1.0
+1774,4538,WASHINGTON,WA,8820.0,8293.0,374362.0,374362.0,1.0
+1775,4539,WA,WASHINGTON,8293.0,8820.0,374362.0,374362.0,1.0
+1776,4540,WEST VIRGINIA,WV,188.0,128.0,374362.0,374362.0,1.0
+1777,4541,WV,WEST VIRGINIA,128.0,188.0,374362.0,374362.0,1.0
+1778,4542,WI,WISCONSIN,1826.0,1724.0,374362.0,374362.0,1.0
+1779,4543,WISCONSIN,WI,1724.0,1826.0,374362.0,374362.0,1.0
+1780,4544,WYOMING,WY,65.0,51.0,374362.0,374362.0,1.0
+1781,4545,WY,WYOMING,51.0,65.0,374362.0,374362.0,1.0

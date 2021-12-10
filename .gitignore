@@ -4,3 +4,4 @@
 *.txt
 .ipynb_checkpoints
 __pycache__
+code-old
