@@ -15,13 +15,6 @@ The code folder contains Jupyter Notebooks to Train and Test various approaches 
 Install the requirements according to the requirements.txt file
 
 
-### Todo
-
-- [x] Tests on n-gram and Distance Features
-- [x] Cross Validation
-- [ ] Function to call the pretrained classifier to clean up Pandas DataFrame
-
-
 ### Relevent Papers
 
 [1] An Empirical Study on the (Non-)Importance of Cleaning Categorical Duplicates before ML \
