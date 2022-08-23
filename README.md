@@ -14,6 +14,29 @@ The code folder contains Jupyter Notebooks to Train and Test various approaches 
 
 Install the requirements according to the requirements.txt file
 
+### Results
+Performance of Random Forest Model trained on Distance features between any given pair of words. Here the pair of words can either be duplicates or non duplicates.
+![image](https://user-images.githubusercontent.com/38189229/186078420-deae1549-f9a0-42fc-8d8a-71d10bbaba44.png)
+
+### Usage
+
+```python
+# Generate Distance Features for Dataset
+from dedup_lib.generateFeatureFunc import generateDistanceMetricData
+DATA_PATH = <Path_To_Your_Dataset>
+distFeatureDF = generateDistanceMetricData(DATA_PATH)
+
+# Train Model
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(df.drop(['isDuplicate'], axis=1), df['isDuplicate'], test_size=0.3)
+
+from sklearn.ensemble import RandomForestClassifier
+model = RandomForestClassifier(n_estimators=50, 
+                               bootstrap = True,
+                               max_features = 'sqrt')
+model.fit(X_train, y_train)
+```
+
 
 ### Relevent Papers
 
